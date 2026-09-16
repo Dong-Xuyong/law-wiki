@@ -1,0 +1,3720 @@
+---
+id: "law_f006f02dbfab63e9"
+folder: "CIAB/Legislacao"
+filename: "Anexo-7-Lei-n.o-5-2004-de-10-de-fevereiro.cleaned.pdf"
+year: "2018"
+website: "CIAB"
+topic: "Legislacao"
+tokens: 101278
+tokens_sm: 1124
+is_empty: "False"
+content_hash: "23da21951a0cff3ebed7833d22b11034147223d3bf979666405f59e19636dc72"
+csv_row: 1292
+imported: "2026-09-11"
+---
+
+# Anexo-7-Lei-n.o-5-2004-de-10-de-fevereiro.cleaned
+
+## Full text
+
+Legislação Consolidada
+Diploma
+Lei das Comunicações Electrónicas
+Lei das Comunicações Electrónicas
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da
+República, o seguinte:
+Título I
+Parte geral
+Artigo 1.º
+Objecto
+A presente lei estabelece o regime jurídico aplicável às redes e serviços de comunicações electrónicas e aos recursos e
+serviços conexos e define as competências da autoridade reguladora nacional neste domínio, no âmbito do processo de
+transposição das Directivas n.os 2002/19/CE, 2002/20/CE e 2002/21/CE, todas do Parlamento Europeu e do Conselho, de
+7 de Março, alteradas pela Directiva n.º 2009/140/CE, do Parlamento Europeu e do Conselho, de 25 de Novembro, e das
+E
+Directivas n.os 2002/22/CE, do Parlamento Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º
+2009/136/CE, do Parlamento Europeu e do Conselho, de 25 de Novembro, e 2002/77/CE, da Comissão Europeia, de 16 de
+Setembro.
+R
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+D
+Artigo 2.º
+Âmbito
+1 - Excluem-se do âmbito de aplicação da presente lei:
+a) Os serviços da sociedade da informação, definidos no Decreto-Lei n.º 58/2000, de 18 de Abril, que não consistam total
+ou principalmente no envio de sinais através de redes de comunicações electrónicas;
+b) Os serviços que prestem ou exerçam controlo editorial sobre conteúdos transmitidos através de redes e serviços de
+comunicações electrónicas, incluindo os serviços de programas televisivos e de rádio e os serviços de audiotexto e de valor
+acrescentado baseados no envio de mensagem;
+c) As redes privativas do Ministério da Defesa Nacional ou sob sua responsabilidade e das forças e serviços de segurança
+e de emergência, as quais se regem por legislação específica;
+d) A rede informática do Governo, gerida pelo Centro de Gestão da Rede Informática do Governo (CEGER), bem como as
+redes criadas para prosseguir os fins previstos no n.º 1 do artigo 1.º do Decreto-Lei n.º 163/2007, de 3 de Maio.
+2 - O disposto na presente lei não prejudica:
+a) O regime de livre circulação, colocação no mercado e colocação em serviço no território nacional dos equipamentos de
+rádio e equipamentos terminais de telecomunicações, bem como o regime da respectiva avaliação de conformidade e
+marcação, aprovado pelo Decreto-Lei n.º 192/2000, de 18 de Agosto;
+b) O regime aplicável à construção de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, à
+instalação de redes de comunicações electrónicas e à construção de infra-estruturas de telecomunicações em loteamentos,
+urbanizações e conjuntos de edifícios e edifícios, previsto no Decreto-Lei n.º 123/2009, de 21 de Maio, alterado pelo
+Decreto-Lei n.º 258/2009, de 25 de Setembro;
+c) O regime aplicável às redes e estações de radiocomunicações, previsto no Decreto-Lei n.º 151-A/2000, de 20 de Julho,
+alterado pelos Decretos-Leis n.os 167/2006, de 16 de Agosto, e 264/2009, de 28 de Setembro;
+d) O regime aplicável à utilização do Serviço Rádio Pessoal - Banda do Cidadão (SRP-CB), previsto no Decreto-Lei n.º
+47/2000, de 24 de Março;
+e) O regime jurídico aplicável aos radioamadores, previsto no Decreto-Lei n.º 53/2009, de 2 de Março;
+f) O regime jurídico aplicável aos serviços públicos essenciais, previsto na Lei n.º 23/96, de 26 de Julho, alterado pelas Leis
+Versão à data de 18-04-2018 Pág. 1 de 75Legislação Consolidada
+n.os 12/2008, de 26 de Fevereiro, 24/2008, de 2 de Junho, 6/2011, de 10 de Março, e 44/2011, de 22 de Junho;
+g) O regime jurídico aplicável à prestação de serviços de promoção, informação e apoio aos consumidores e utentes,
+através de centros telefónicos de relacionamento (call centers), previsto no Decreto-Lei n.º 134/2009, de 2 de Junho,
+alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de Junho;
+h) O regime jurídico aplicável à cobrança de quantias pela prestação do serviço de desbloqueamento de equipamentos,
+previsto no Decreto-Lei n.º 56/2010, de 1 de Junho.
+3 - Em caso de conflito entre normas da presente lei e as normas estabelecidas na restante legislação sectorial aplicável,
+prevalecem as normas da presente lei, salvo quando de outra disposição resulte um regime mais exigente para as
+empresas que oferecem redes e serviços de comunicações electrónicas, caso em que será este o aplicável.
+4 - O disposto na presente lei não prejudica as medidas adoptadas a nível comunitário ou nacional, com vista a prosseguir
+objectivos de interesse geral, em especial relacionados com a regulamentação de conteúdos e a política áudio-visual.
+5 - O disposto na presente lei não prejudica as medidas adoptadas a nível comunitário ou nacional, com vista a prosseguir
+objectivos de segurança e ordem pública, nomeadamente no sector ferroviário e rodoviário.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 2.º-A
+E
+Segurança e emergência
+1 - Compete ao Estado assegurar, nos termos da lei, a adequada coordenação das redes e serviços de comunicações
+R
+electrónicas em situações de emergência, crise ou guerra.
+2 - Incumbe à ARN:
+a) Exercer as competências que lhe vierem a ser cometidas quanto às infra-estruturas críticas europeias no âmbito das
+D
+comunicações electrónicas, nomeadamente nos termos do quadro legal de transposição da Directiva n.º 2008/114/CE, do
+Conselho, de 8 de Dezembro, relativa à identificação e designação das infra-estruturas críticas europeias e à avaliação da
+necessidade de melhorar a sua protecção;
+b) Exercer as competências que lhe vierem a ser cometidas quanto às infra-estruturas críticas nacionais no âmbito das
+comunicações electrónicas, quer no que se refere às empresas que oferecem redes e serviços de comunicações
+electrónicas quer aos proprietários ou detentores das referidas infra-estruturas;
+c) Analisar e caracterizar, contando com a colaboração das empresas que oferecem redes e serviços de comunicações
+electrónicas e dos serviços e organismos competentes da administração directa e indirecta do Estado e das Regiões
+Autónomas, e propor, quando adequado:
+i) As medidas necessárias para a salvaguarda de reserva de capacidade, por parte das empresas que oferecem redes e
+serviços de comunicações electrónicas, para comunicações de emergência de interesse público;
+ii) As medidas necessárias em matéria de congestionamento de redes em situações de emergência, incluindo os
+procedimentos a cumprir pelas empresas que oferecem redes e serviços de comunicações electrónicas;
+d) Desenvolver, nos termos da lei e em articulação com as demais entidades competentes, o planeamento, instalação e
+operacionalização do sistema de resposta a incidentes de segurança da informação, no âmbito das comunicações
+electrónicas;
+e) Identificar e caracterizar, nos termos da lei e em articulação com as entidades competentes, os recursos de
+comunicações electrónicas com utilidade para a protecção civil.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 3.º
+Definições
+Para os efeitos do disposto na presente lei, entende-se por:
+a) 'Acesso' a disponibilização de recursos e ou serviços a outra empresa, segundo condições definidas, em regime de
+exclusividade ou não exclusividade, para efeitos de prestação de serviços de comunicações electrónicas, mesmo quando
+estes forem utilizados para a prestação dos serviços previstos nas alíneas a) e b) do n.º 1 do artigo anterior, abrangendo,
+Versão à data de 18-04-2018 Pág. 2 de 75Legislação Consolidada
+nomeadamente, o acesso a elementos da rede e recursos conexos, podendo incluir a ligação de equipamento, através de
+meios fixos ou não fixos (incluindo, em especial, o acesso ao lacete local e a recursos e serviços necessários para prestar
+serviços pelo lacete local); o acesso a infra-estruturas físicas, incluindo edifícios, condutas e postes; o acesso a sistemas
+de software pertinentes, incluindo sistemas de apoio operacional; o acesso a sistemas de informação ou bases de dados
+para pré-encomenda, aprovisionamento, encomenda, pedidos de manutenção e reparação, e facturação; o acesso à
+conversão numérica ou a sistemas que ofereçam uma funcionalidade equivalente; o acesso a redes fixas e móveis, em
+especial para fins de itinerância (roaming); o acesso a sistemas de acesso condicional para serviços de programas
+televisivos e de rádio digitais; o acesso aos serviços de rede virtual;
+b) «Acesso desagregado ao lacete local» o acesso totalmente desagregado ao lacete local e o acesso partilhado ao lacete
+local; este acesso não implica a mudança de propriedade do lacete local;
+c) 'Acesso partilhado ao lacete local' o acesso ao lacete local ou ao sublacete local do operador com poder de mercado
+significativo, que permite a utilização, pelo beneficiário, de uma parte específica da capacidade total da infra-estrutura da
+rede de acesso local, como, por exemplo, parte do espectro de frequências ou equivalente;
+d) 'Acesso totalmente desagregado ao lacete local' o acesso ao lacete local ou ao sublacete local do operador com poder
+de mercado significativo, que permite a utilização de toda a capacidade da infra-estrutura da rede de acesso local;
+e) «Assinante» a pessoa singular ou colectiva que é parte num contrato com um prestador de serviços de comunicações
+electrónicas acessíveis ao público para o fornecimento desses serviços;
+f) 'Atribuição de espectro' a designação de uma dada faixa de Efrequências para ser utilizada por um ou mais tipos de
+serviços de radiocomunicações, se necessário, em condições especificadas;
+g) 'Autoridade reguladora nacional (ARN)' a autoridade que desempenha as funções de regulação, supervisão, fiscalização
+R
+e sancionamento no âmbito das redes e serviços de comunicações electrónicas, bem como dos recursos e serviços
+conexos, a qual é o ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), cujos Estatutos são anexos ao Decreto-
+Lei n.º 309/2001, de 7 de Dezembro;
+D
+h) 'Autorização geral' o quadro regulamentar estabelecido pela presente lei e pelos regulamentos da autoridade reguladora
+nacional que garante os direitos relacionados com a oferta de serviços ou redes de comunicações electrónicas e que fixa
+obrigações sectoriais específicas que podem ser aplicadas a todos os tipos ou a tipos específicos de serviços e redes de
+comunicações electrónicas, em conformidade com a presente lei;
+i) 'Chamada' a ligação estabelecida através de um serviço de comunicações electrónicas acessível ao público que permite
+uma comunicação bidireccional;
+j) «Consumidor» a pessoa singular que utiliza ou solicita um serviço de comunicações electrónicas acessível ao público
+para fins não profissionais;
+l) «Equipamento avançado de televisão digital» os conversores para conexão a aparelhos de televisão ou aparelhos
+integrados de televisão digital capazes de receber serviços de televisão digital interactiva;
+m) 'Fidelização' o período durante o qual o consumidor se compromete a não cancelar um contrato ou a alterar as
+condições acordadas;
+n) 'Interferência prejudicial' qualquer interferência que comprometa o funcionamento de um serviço de radionavegação ou
+qualquer outro serviço de segurança ou que de outra forma prejudique seriamente, obstrua ou interrompa repetidamente
+um serviço de radiocomunicações que opere de acordo com as normas internacionais, comunitárias ou nacionais
+aplicáveis;
+o) «Interligação» a ligação física e lógica de redes de comunicações públicas utilizadas por uma mesma empresa ou por
+empresas diferentes, de modo a permitir a utilizadores de uma empresa comunicarem com utilizadores desta ou de outras
+empresas ou acederem a serviços oferecidos por outra empresa. Os serviços podem ser oferecidos pelas partes
+envolvidas ou por terceiros que tenham acesso à rede. A interligação é um tipo específico de acesso implementado entre
+operadores de redes públicas;
+p) 'Interface de programas de aplicação (IPA)' o software de interface entre aplicações, disponibilizado por operadores de
+rádio, televisão ou de distribuição ou fornecedores de serviços, e os recursos no equipamento avançado de televisão digital
+para serviços de rádio e televisão digitais;
+q) 'Lacete local' o circuito físico que liga o ponto terminal da rede nas instalações do utilizador final a um repartidor ou ao
+recurso equivalente na rede fixa de comunicações electrónicas públicas;
+r) 'Mercados transnacionais' os mercados referidos no n.º 5 do artigo 59.º que abrangem a União Europeia ou uma parte
+substancial desta, localizados em mais de um Estado membro;
+s) 'Número' o recurso do Plano Nacional de Numeração ou o recurso de um plano internacional de numeração, em que a
+Versão à data de 18-04-2018 Pág. 3 de 75Legislação Consolidada
+ARN tem competências nomeadamente de notificação, que serve para identificar assinantes, serviços ou aplicações,
+empresas que oferecem redes ou serviços, redes ou elementos de rede;
+t) «Número geográfico» número do plano nacional de numeração que contém alguns dígitos com significado geográfico,
+cuja função é encaminhar as chamadas para o local físico do ponto de terminação de rede (PTR);
+u) 'Número não geográfico' o número do Plano Nacional de Numeração que não seja um número geográfico, incluindo,
+nomeadamente, os números móveis, de chamadas gratuitas para o chamador e de tarifa majorada;
+v) «Oferta de rede de comunicações electrónicas» o estabelecimento, operação, controlo ou disponibilização da referida
+rede;
+x) «Operador» uma empresa que oferece ou está autorizada a oferecer uma rede de comunicações pública ou um recurso
+conexo;
+z) 'Organismo de Reguladores Europeus das Comunicações Electrónicas (ORECE)' o organismo criado pelo Regulamento
+(CE) n.º 1211/2009, do Parlamento Europeu e do Conselho, de 25 de Novembro;
+aa) 'Posto público' o equipamento terminal em local fixo acessível ao público em geral, cuja utilização pode ser paga com
+moedas e ou cartões de crédito/débito e ou cartões de pré-pagamento, incluindo cartões a utilizar com códigos de
+marcação;
+bb) 'Ponto de terminação de rede (PTR)' o ponto físico em que é fornecido ao assinante acesso à rede de comunicações
+públicas; no caso das redes que envolvem comutação ou encaminhamento, o PTR é identificado através de um endereço
+de rede específico, que pode estar associado ao número ou nome de um assinante;
+cc) 'Recursos conexos' os serviços associados, as infra-estruturEas físicas e outros recursos ou elementos associados a
+uma rede de comunicações electrónicas e ou a um serviço de comunicações electrónicas que permitem e ou servem de
+suporte à oferta de serviços através dessa rede e ou serviço, ou têm potencial para fazê-lo, e incluem nomeadamente
+R
+edifícios ou entradas de edifícios, cablagem de edifícios, antenas, torres e outras estruturas de apoio, condutas, tubagens,
+postes, câmaras de visita e armários;
+dd) 'Rede de comunicações electrónicas' os sistemas de transmissão e, se for o caso, os equipamentos de comutação ou
+D
+encaminhamento e os demais recursos, nomeadamente elementos de rede que não se encontrem activos, que permitem o
+envio de sinais por cabo, meios radioeléctricos, meios ópticos, ou por outros meios electromagnéticos, incluindo as redes
+de satélites, as redes terrestres fixas (com comutação de circuitos ou de pacotes, incluindo a Internet) e móveis, os
+sistemas de cabos de electricidade, na medida em que sejam utilizados para a transmissão de sinais, as redes de
+radiodifusão sonora e televisiva e as redes de televisão por cabo, independentemente do tipo de informação transmitida;
+ee) 'Rede de comunicações públicas' a rede de comunicações electrónicas utilizada total ou principalmente para o
+fornecimento de serviços de comunicações electrónicas acessíveis ao público;
+ff) 'Serviço de comunicações electrónicas' o serviço oferecido em geral mediante remuneração, que consiste total ou
+principalmente no envio de sinais através de redes de comunicações electrónicas, incluindo os serviços de
+telecomunicações e os serviços de transmissão em redes utilizadas para a radiodifusão, sem prejuízo da exclusão referida
+nas alíneas a) e b) do n.º 1 do artigo 2.º;
+gg) 'Serviços conexos' os serviços associados a uma rede de comunicações electrónicas e ou a um serviço de
+comunicações electrónicas que permitem e ou servem de suporte à oferta de serviços através dessa rede e ou serviço, ou
+têm potencial para fazê-lo, e incluem nomeadamente os sistemas de conversão de números ou os sistemas que oferecem
+uma funcionalidade equivalente, os sistemas de acesso condicional e os guias electrónicos de programas, bem como
+outros serviços como o serviço de identidade, localização e presença;
+hh) 'Serviço de televisão de ecrã largo' um serviço de programas televisivo constituído, na totalidade ou em parte, por
+programas produzidos e editados para serem apresentados em todo um ecrã de formato largo, sendo o formato 16:9 o
+formato de referência para estes serviços;
+ii) 'Serviço telefónico acessível ao público' o serviço ao dispor do público que permite fazer e receber, directa ou
+indirectamente, chamadas nacionais ou nacionais e internacionais através de um número ou de números incluídos num
+plano nacional ou internacional de numeração;
+jj) «Serviço universal» o conjunto mínimo de serviços, definido na presente lei, de qualidade especificada, disponível para
+todos os utilizadores, independentemente da sua localização geográfica e, em função das condições nacionais, a um preço
+acessível;
+ll) 'Sistema de acesso condicional' qualquer medida e ou disposição técnica, por meio da qual o acesso, de forma
+inteligível, a um serviço de programas televisivos ou de rádio protegido fica condicionado a uma assinatura ou a qualquer
+outra forma de autorização prévia individual;
+mm) 'Sublacete local' um lacete local parcial que liga o ponto terminal da rede nas instalações do utilizador final a um ponto
+Versão à data de 18-04-2018 Pág. 4 de 75Legislação Consolidada
+de concentração ou a um repartidor intermédio especificado na rede fixa de comunicações electrónicas públicas;
+nn) «Utilizador» a pessoa singular ou colectiva que utiliza ou solicita um serviço de comunicações electrónicas acessível ao
+público;
+oo) «Utilizador final» o utilizador que não oferece redes de comunicações públicas, ou serviços de comunicações
+electrónicas acessíveis ao público.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Rectificado pelo/a Declaração de Rectificação n.º 32-A/2004 - Diário da República n.º 85/2004, 1º Suplemento, Série I-A de 2004-04-10
+Título II
+Autoridade reguladora nacional e princípios de regulação
+Capítulo I
+Disposições gerais e princípios de regulação
+Artigo 4.Eº
+Autoridade reguladora nacional
+1 - Compete à ARN desempenhar as funções de regRulação, supervisão, fiscalização e sancionamento previstas na
+presente lei, nos termos das suas atribuições.
+2 - É garantida pela presente lei e pelos Estatutos da ARN:
+a) A independência como entidade orgânica, financeira e funcionalmente separada do Governo, dotada dos recursos
+D
+financeiros e humanos necessários e adequados ao desempenho das suas funções, incluindo a participação activa no
+ORECE;
+b) A independência como entidade orgânica, financeira e funcionalmente separada das empresas que oferecem redes e
+serviços de comunicações electrónicas e equipamento;
+c) A separação efectiva entre as funções de regulação e as competências ligadas à propriedade ou à direcção das
+empresas do sector sobre as quais o Estado detenha a propriedade ou o controlo.
+3 - A ARN deve exercer as suas competências de forma imparcial, transparente e tempestiva.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 5.º
+Objectivos de regulação
+1 - Constituem objectivos de regulação das comunicações electrónicas a prosseguir pela ARN:
+a) Promover a concorrência na oferta de redes e serviços de comunicações electrónicas, de recursos e serviços conexos;
+b) Contribuir para o desenvolvimento do mercado interno da União Europeia;
+c) Defender os interesses dos cidadãos, nos termos da presente lei.
+2 - Para efeitos do disposto na alínea a) do número anterior, incumbe à ARN, nomeadamente:
+a) Assegurar que os utilizadores, incluindo os utilizadores com deficiência, os utilizadores idosos e os utilizadores com
+necessidades sociais especiais, obtenham o máximo benefício em termos de escolha, preço e qualidade;
+b) Assegurar a inexistência de distorções ou entraves à concorrência no sector das comunicações electrónicas, incluindo
+no âmbito das redes e serviços de comunicações electrónicas utilizados para a prestação dos serviços referidos nas
+alíneas a) e b) do n.º 1 do artigo 2.º;
+c) (Revogada).
+d) Incentivar uma utilização efectiva e assegurar uma gestão eficiente das frequências e dos recursos de numeração.
+Versão à data de 18-04-2018 Pág. 5 de 75Legislação Consolidada
+3 - Para efeitos do disposto na alínea b) do n.º 1, incumbe à ARN, nomeadamente:
+a) Eliminar os obstáculos existentes à oferta de redes de comunicações electrónicas, de recursos e serviços conexos e de
+serviços de comunicações electrónicas a nível europeu;
+b) Encorajar a criação e o desenvolvimento de redes transeuropeias, a interoperabilidade dos serviços pan-europeus e a
+conectividade de extremo a extremo;
+c) (Revogada.)
+d) Cooperar, de modo transparente, com a Comissão Europeia, com o ORECE e com as outras autoridades reguladoras
+das comunicações dos outros Estados membros da União Europeia com o objectivo de garantir o desenvolvimento de uma
+prática reguladora e uma aplicação coerente do quadro regulamentar comum para as redes e serviços de comunicações
+electrónicas.
+4 - Para efeitos do disposto na alínea c) do n.º 1, incumbe à ARN, nomeadamente:
+a) Assegurar que todos os cidadãos tenham acesso ao serviço universal definido na presente lei;
+b) Assegurar um elevado nível de protecção dos consumidores no seu relacionamento com as empresas que oferecem
+redes e serviços de comunicações electrónicas, através, designadamente, do estabelecimento de procedimentos de
+resolução de conflitos simples e pouco dispendiosos, executados por organismo independente das partes em conflito;
+c) Contribuir para garantir um elevado nível de proEtecção dos dados pessoais e da privacidade;
+d) Promover a prestação de informações claras, exigindo, especialmente, transparência nas tarifas e nas condições de
+R
+utilização dos serviços de comunicações electrónicas acessíveis ao público;
+e) Responder às necessidades de grupos sociais específicos, nomeadamente os utilizadores com deficiência, os
+utilizadores idosos e os utilizadores com necessidades sociais especiais;
+D
+f) Assegurar que seja mantida a integridade e a segurança das redes de comunicações públicas.
+g) Fomentar a capacidade dos utilizadores finais de acederem e divulgarem informação e de utilizarem as aplicações e os
+serviços à sua escolha.
+5 - Para concretização dos objectivos referidos no n.º 1, em todas as decisões e medidas adoptadas, a ARN deve aplicar
+princípios de regulação objectivos, transparentes, não discriminatórios e proporcionais, incumbindo-lhe nomeadamente:
+a) Promover a previsibilidade da regulação, garantindo uma abordagem regulatória coerente e com períodos de revisão
+apropriados;
+b) Assegurar que, em circunstâncias análogas, não haja discriminação no tratamento das empresas que oferecem redes e
+serviços de comunicações electrónicas;
+c) Salvaguardar a concorrência em benefício dos consumidores e promover, sempre que apropriado, a concorrência
+baseada nas infra-estruturas;
+d) Promover o investimento eficiente e a inovação em infra-estruturas novas e melhoradas, designadamente garantindo
+que qualquer obrigação de acesso tenha em devida conta o risco de investimento incorrido pelas empresas e permitindo
+que acordos de cooperação entre estas e os requerentes de acesso diversifiquem o risco de investimento, assegurando,
+em simultâneo, que a concorrência no mercado e o princípio da não discriminação são salvaguardados;
+e) Considerar devidamente a variedade de condições existentes, no que se refere à concorrência e aos consumidores, nas
+diferentes áreas geográficas nacionais;
+f) Impor obrigações de regulação ex ante apenas quando não exista uma concorrência efectiva e sustentável e atenuá-las
+ou suprimi-las logo que essa condição se verifique.
+6 - Compete à ARN adoptar todas as medidas razoáveis e proporcionadas necessárias para garantir que qualquer empresa
+possa fornecer os serviços de comunicações electrónicas ou estabelecer, alargar ou oferecer redes de comunicações
+electrónicas.
+7 - As decisões e medidas adoptadas pela ARN devem ser sempre fundamentadas à luz do disposto nos números
+anteriores.
+8 - Salvo disposição em contrário decorrente do regime previsto nos artigos 15.º e 16.º-A, deve ser tida em conta a
+conveniência de elaborar legislação e regulamentação tecnologicamente neutras, competindo à ARN no âmbito das suas
+atribuições de regulação, consagradas nesta lei, nomeadamente das destinadas a assegurar uma concorrência efectiva,
+proceder do mesmo modo.
+9 - A ARN pode contribuir, no âmbito das suas atribuições, para assegurar a implementação de políticas destinadas a
+Versão à data de 18-04-2018 Pág. 6 de 75Legislação Consolidada
+promover a diversidade cultural e linguística e o pluralismo, nomeadamente dos meios de comunicação social.
+10 - Todas as entidades e autoridades públicas devem, na prossecução das respectivas atribuições, concorrer igualmente
+para a realização dos objectivos de regulação das comunicações electrónicas.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 6.º
+Consolidação do mercado interno
+1 - A ARN, no exercício das suas competências, deve contribuir para o desenvolvimento do mercado interno, cooperando
+com as outras autoridades reguladoras nacionais, com a Comissão Europeia e com o ORECE de forma transparente, por
+forma a assegurar a aplicação coerente do quadro regulamentar aplicável às comunicações electrónicas.
+2 - A ARN deve, em particular:
+a) Apoiar os objectivos do ORECE de promoção de maior coordenação e coerência regulatórias, devendo, nas suas
+decisões de definição e análise de mercados relevantes, ter em conta os pareceres, as orientações e as posições comuns
+emitidas por este organismo;
+b) Cooperar com a Comissão Europeia e com o ORECE para identificar os tipos de instrumentos e obrigações
+regulamentares mais adequados para resolver determinados tipos de situações existentes no mercado.
+E
+3 - Para efeitos do disposto nos números anteriores, devem, nomeadamente, ser seguidos, nos casos previstos na
+presente lei, os procedimentos previstos nos artigos 57.º e 57.º-A.
+4 - A ARN deve, no desempenho das suas funções, ter em conta as recomendações da Comissão Europeia sobre a
+R
+aplicação harmonizada do quadro regulamentar aplicável às comunicações electrónicas, tendo em vista a prossecução dos
+objectivos de regulação previstos no artigo 5.º, devendo informar de forma fundamentada a Comissão Europeia caso
+decida não seguir uma recomendação.
+D
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 7.º
+Cooperação
+1 - A ARN e as autoridades e serviços competentes, nomeadamente na área da defesa dos consumidores, devem cooperar
+entre si, sempre que necessário, em matérias de interesse comum.
+2 - Em matérias relacionadas com a aplicação do regime jurídico da concorrência no sector das comunicações electrónicas,
+devem a ARN e a Autoridade da Concorrência cooperar entre si.
+3 - Nos casos referidos nos artigos 34.º e 61.º, deve a ARN solicitar parecer prévio à Autoridade da Concorrência.
+4 - Quando, no âmbito da cooperação prevista nos números anteriores, a ARN e as outras entidades competentes,
+nomeadamente em matéria de concorrência, troquem informações, devem assegurar o mesmo nível de confidencialidade a
+que cada uma está obrigada, podendo a ARN e a Autoridade da Concorrência utilizar as referidas informações no exercício
+das suas competências.
+5 - A ARN pode promover a cooperação entre as empresas que oferecem redes ou serviços de comunicações eletrónicas e
+outras entidades públicas envolvidas na promoção da transmissão de conteúdos lícitos através das redes e serviços de
+comunicações eletrónicas, visando, designadamente, a divulgação de informação de interesse público a prestar nos termos
+previstos nos n.os 4, 6 e 7 do artigo 47.º-A.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 8.º
+Procedimento geral de consulta
+1 - Sempre que, no exercício das competências previstas na presente lei, a ARN pretenda adoptar medidas com impacte
+Versão à data de 18-04-2018 Pág. 7 de 75Legislação Consolidada
+significativo no mercado em causa, incluindo as restrições estabelecidas ao abrigo do artigo 16.º-A, deve publicitar o
+respectivo projecto, dando aos interessados a possibilidade de se pronunciarem em prazo fixado para o efeito, o qual não
+pode ser inferior a 20 dias.
+2 - Para efeitos do disposto no número anterior, a ARN deve publicitar os procedimentos de consulta adoptados.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 9.º
+Medidas urgentes
+1 - Sem prejuízo do disposto na lei geral, a ARN pode, em circunstâncias excepcionais, adoptar medidas imediatas,
+proporcionadas e provisórias sem recurso aos procedimentos previstos nos artigos 8.º e 57.º, conforme os casos, quando
+considerar necessária uma actuação urgente para salvaguarda da concorrência ou defesa dos interesses dos utilizadores.
+2 - Nas situações referidas no número anterior, a ARN deve informar, com a maior brevidade possível, a Comissão
+Europeia, as outras autoridades reguladoras nacionais e o ORECE das medidas adoptadas e respectiva fundamentação.
+3 - Quando a ARN decidir transformar a medida provisória em definitiva ou prorrogar o seu prazo de aplicação, é aplicável
+o procedimento previsto no artigo 57.º
+E
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+R
+Artigo 10.º
+Resolução administrativa de litígios
+D
+1 - Compete à ARN, a pedido de qualquer das partes, resolver, através de decisão vinculativa, quaisquer litígios
+relacionados com as obrigações decorrentes da presente lei, entre empresas a elas sujeitas, no território nacional, ou entre
+estas e outras empresas que beneficiam de obrigações de acesso no território nacional, sem prejuízo da possibilidade de
+recurso aos tribunais.
+2 - A intervenção da ARN deve ser solicitada no prazo máximo de um ano a contar da data do início do litígio.
+3 - A decisão da ARN, salvo em circunstâncias excepcionais, deve ser proferida num prazo não superior a quatro meses a
+contar da data da formulação do pedido e notificada às partes interessadas com a respectiva fundamentação, devendo ser
+publicada desde que salvaguardado o sigilo comercial.
+4 - Na resolução de litígios a que se refere o presente artigo, a ARN deve decidir de acordo com o disposto na presente lei
+e tendo em vista a prossecução dos objectivos de regulação estabelecidos no artigo 5.º
+5 - No decurso da resolução de um litígio devem todas as empresas que oferecem redes e serviços de comunicações
+electrónicas cooperar plenamente com a ARN, designadamente no cumprimento do que neste âmbito lhes seja solicitado.
+6 - Das decisões da ARN proferidas ao abrigo do presente artigo cabe recurso nos termos do n.º 2 do artigo 13.º
+7 - Às decisões adoptadas ao abrigo do presente artigo não é aplicável o procedimento previsto no artigo 8.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 11.º
+Recusa do pedido de resolução de litígios
+1 - A ARN apenas pode recusar um pedido de resolução de litígio formulado nos termos do artigo anterior nos seguintes
+casos:
+a) Quando não esteja em causa o cumprimento de obrigações decorrentes da presente lei;
+b) Quando tenha decorrido o prazo previsto no n.º 2 do artigo anterior;
+c) Quando a ARN entender que existem outros meios, incluindo a mediação, mais adequados para a resolução do litígio
+Versão à data de 18-04-2018 Pág. 8 de 75Legislação Consolidada
+em tempo útil, em conformidade com o disposto no artigo 5.º
+2 - A ARN deve notificar as partes, com a maior brevidade possível, da recusa do pedido e, no caso previsto na alínea c) do
+número anterior, de qual o meio mais adequado para a resolução do litígio.
+3 - Se, no caso previsto na alínea c) do n.º 1, decorridos quatro meses sobre a notificação das partes, o litígio não estiver
+resolvido e não houver sido intentada uma acção em tribunal com esse objectivo, pode a ARN, a pedido de qualquer das
+partes, dar início ao processo previsto no artigo anterior, extinguindo-se o processo de resolução de litígios anteriormente
+iniciado.
+4 - Das decisões da ARN proferidas ao abrigo do presente artigo cabe recurso nos termos do n.º 2 do artigo 13.º
+Artigo 12.º
+Resolução de litígios transfronteiriços
+1 - Em caso de litígio surgido no âmbito das obrigações decorrentes do quadro regulamentar relativo às comunicações
+electrónicas, entre empresas a elas sujeitas, estabelecidas em Estados membros diferentes e da competência de
+autoridades reguladoras de mais de um Estado membro, qualquer das partes pode submeter o litígio às autoridades
+reguladoras em causa, sem prejuízo da possibilidade de recurso aos tribunais.
+2 - No caso a que se refere o número anterior, as autoridades reguladoras nacionais envolvidas devem coordenar a sua
+intervenção a fim de resolver o litígio de acordo com o disposto no artigo 5.º, conformando as decisões proferidas com o
+quadro regulamentar relativo às comunicações electrónicas. E
+3 - Qualquer das autoridades reguladoras nacionais competentes pode, no sentido de obter uma resolução do litígio
+coerente, solicitar ao ORECE a emissão de um parecer sobre as medidas que devem ser tomadas para a resolução do
+litígio, em conformidade com o quadro regulamentar reRlativo às comunicações electrónicas.
+4 - No caso previsto no número anterior, qualquer autoridade reguladora nacional com competência em qualquer aspecto
+do litígio deve aguardar o parecer do ORECE antes de adoptar medidas para a resolução do litígio, sem prejuízo da
+possibilidade de adoptar medidas urgentes, Dquando necessárias.
+5 - Na resolução do litígio, as autoridades reguladoras nacionais competentes devem ter na melhor conta o parecer emitido
+pelo ORECE.
+6 - As autoridades reguladoras nacionais podem decidir em conjunto recusar o pedido de resolução de litígio, nos termos
+da alínea c) do n.º 1 e dos n.os 2 e 3 do artigo anterior, aplicáveis com as necessárias adaptações.
+7 - Às decisões adoptadas ao abrigo do presente artigo não é aplicável o procedimento previsto no artigo 8.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 13.º
+Controlo jurisdicional
+1 - As decisões, despachos ou outras medidas, adoptadas pela ARN no âmbito de processos de contra-ordenação
+decorrentes da aplicação do regime jurídico das comunicações electrónicas, são impugnáveis junto do tribunal da
+concorrência, regulação e supervisão.
+2 - Os restantes actos praticados pela ARN são impugnáveis junto dos tribunais administrativos, nos termos da legislação
+aplicável.
+3 - A impugnação das decisões proferidas pela ARN que, no âmbito de processos de contra-ordenação, determinem a
+aplicação de coimas ou de sanções acessórias têm efeito suspensivo.
+4 - A impugnação das demais decisões, despachos ou outras medidas, incluindo as decisões de aplicação de sanções
+pecuniárias compulsórias, adoptados no âmbito de processos de contra-ordenação instaurados pela ARN, têm efeito
+meramente devolutivo.
+5 - Aos processos de contra-ordenação instaurados no âmbito da presente lei aplica-se o disposto nos números seguintes
+e, subsidiariamente, o regime geral das contra-ordenações.
+6 - Interposto o recurso de uma decisão proferida pela ARN, esta remete os autos ao Ministério Público no prazo de 20 dias
+úteis, podendo juntar alegações.
+7 - Sem prejuízo do disposto no artigo 70.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção resultante do
+Decreto-Lei n.º 244/95, de 14 de Setembro, a ARN pode, ainda, juntar outros elementos ou informações que considere
+relevantes para a decisão da causa, bem como oferecer meios de prova.
+Versão à data de 18-04-2018 Pág. 9 de 75Legislação Consolidada
+8 - A ARN, o Ministério Público e os arguidos podem opor-se a que o tribunal decida por despacho, sem audiência de
+julgamento.
+9 - Em sede de recurso de decisão proferida em processo de contra-ordenação, a desistência da acusação pelo Ministério
+Público depende da concordância da ARN.
+10 - Se houver lugar a audiência de julgamento, o tribunal decide com base na prova realizada na audiência, bem como na
+prova produzida na fase administrativa do processo de contra-ordenação.
+11 - A ARN tem legitimidade para recorrer autonomamente das decisões proferidas no processo de impugnação que
+admitam recurso.
+12 - As decisões do tribunal da concorrência, regulação e supervisão que admitam recurso, nos termos previstos no regime
+geral das contra-ordenações, são impugnáveis junto do tribunal da Relação territorialmente competente para a área da
+sede do tribunal da concorrência, regulação e supervisão.
+13 - O tribunal da Relação, no âmbito da competência prevista no número anterior, decide em última instância, não
+cabendo recurso ordinário dos seus acórdãos.
+14 - A ARN deve manter informação actualizada sobre os recursos das decisões previstas no n.º 2, nomeadamente sobre o
+número de pedidos de recurso, o seu objecto e a duração dos respectivos processos, bem como sobre o número de
+decisões que imponham medidas cautelares, devendo, mediante pedido devidamente fundamentado, disponibilizar estes
+dados à Comissão Europeia e ao ORECE.
+Alterações E
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 12.º do/a Lei n.º 46/2011 - Diário da República n.º 120/2011, Série I de 2011-06-24, em vigor a partir de 2011-06-29
+Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25, em vigor a partir de 2009-09-26
+R
+Capítulo II
+Frequências, números e mercados
+D
+Artigo 14.º
+Domínio público radioeléctrico
+O espaço pelo qual podem propagar-se as ondas radioeléctricas constitui domínio público do Estado.
+Artigo 15.º
+Frequências
+1 - Compete à ARN assegurar a gestão eficiente do espectro, entendido como o conjunto de frequências associadas às
+ondas radioeléctricas, tendo em conta o importante valor social, cultural e económico destas frequências.
+2 - Compete à ARN, no âmbito da gestão do espectro, planificar as frequências em conformidade com os seguintes
+critérios:
+a) Disponibilidade do espectro radioeléctrico;
+b) Garantia de condições de concorrência efectiva nos mercados relevantes;
+c) Utilização efectiva e eficiente das frequências.
+d) Ponderação dos interesses dos utilizadores de espectro.
+3 - A ARN deve cooperar com a Comissão e com as entidades competentes pela gestão de espectro dos outros Estados
+membros no planeamento estratégico, na coordenação da política de espectro e na harmonização da utilização de
+frequências na União Europeia, designadamente no âmbito dos programas plurianuais relativos à política do espectro
+aprovados pelo Parlamento Europeu e pelo Conselho, tendo em conta, nomeadamente, os aspectos económicos, de
+segurança, de saúde, de interesse público, de liberdade de expressão, culturais, científicos, sociais e técnicos das políticas
+da União Europeia, bem como os diversos interesses dos utilizadores de espectro.
+4 - A ARN deve promover a harmonização da utilização de frequências na União Europeia de um modo coerente com a
+necessidade de garantir a sua utilização efectiva e eficiente e prosseguir o objectivo de obtenção de benefícios para os
+consumidores, tais como economias de escala e a interoperabilidade de serviços, nos termos do disposto no número
+anterior, bem como na Decisão n.º 676/2002/CE, do Parlamento Europeu e do Conselho, de 7 de Março, relativa a um
+quadro regulamentar para a política do espectro de radiofrequências na Comunidade Europeia (decisão espectro de
+Versão à data de 18-04-2018 Pág. 10 de 75Legislação Consolidada
+radiofrequências).
+5 - Compete à ARN proceder à atribuição de espectro e à consignação de frequências, as quais obedecem a critérios
+objectivos, transparentes, não discriminatórios e de proporcionalidade.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 16.º
+Quadro nacional de atribuição de frequências
+1 - Compete à ARN publicitar e manter actualizado o Quadro Nacional de Atribuição de Frequências (QNAF), o qual deve
+incluir:
+a) A tabela de atribuição de frequências, correspondendo às subdivisões do espectro radioeléctrico, discriminando para
+cada faixa de frequências os serviços de radiocomunicações de acordo com as atribuições do Regulamento das
+Radiocomunicações da UIT aplicáveis a Portugal;
+b) As faixas de frequências e o espectro atribuído às empresas que oferecem redes de comunicações públicas ou serviços
+de comunicações electrónicas acessíveis ao público, incluindo a data de revisão da atribuição;
+c) As faixas de frequência reservadas e a disponibilizar no âmbito das redes e serviços de comunicações electrónicas,
+acessíveis e não acessíveis ao público, especificando, em cada faixa, os casos em que são exigíveis direitos de utilização,
+E
+bem como o respectivo processo de atribuição;
+d) Os direitos de utilização de frequências insusceptíveis de transmissão e locação, bem como as faixas para as quais não
+são admissíveis a transmissão e a locação, nos termos do artigo 34.º
+R
+2 - As frequências cuja gestão esteja, em cada momento, delegada às Forças Armadas e às forças e serviços de
+segurança são excluídas da publicitação a que se refere o número anterior.
+3 - O QNAF pode assumir a forma de um portal online.
+D
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 16.º-A
+Neutralidade tecnológica e de serviços na gestão do espectro
+1 - Compete à ARN, no âmbito das suas competências de gestão do espectro e sem prejuízo das restrições estabelecidas
+no presente artigo, garantir os seguintes princípios:
+a) Neutralidade tecnológica, nos termos do qual todos os tipos de tecnologia usados para os serviços de comunicações
+electrónicas podem ser utilizados nas faixas de frequência declaradas disponíveis para os serviços de comunicações
+electrónicas e como tal publicitadas no QNAF;
+b) Neutralidade de serviços, nos termos do qual nas faixas de frequências declaradas disponíveis para os serviços de
+comunicações electrónicas e como tal publicitadas no QNAF podem ser prestados todos os tipos de serviços de
+comunicações electrónicas.
+2 - A ARN pode estabelecer restrições proporcionais, não discriminatórias e justificadas quanto à tecnologia utilizada para
+os serviços de comunicações electrónicas sempre que tal seja necessário para:
+a) Evitar interferências prejudiciais;
+b) Proteger a população da exposição a campos electromagnéticos;
+c) Garantir a qualidade técnica do serviço;
+d) Garantir a maximização da partilha das frequências;
+e) Salvaguardar a utilização eficiente do espectro;
+f) Assegurar o cumprimento de um objectivo específico de interesse geral definido nos termos da lei.
+3 - A ARN pode estabelecer restrições proporcionais e não discriminatórias quanto aos tipos de serviços de comunicações
+electrónicas a oferecer, nomeadamente, tendo em vista, sempre que necessário, o cumprimento de requisitos previstos nos
+regulamentos das radiocomunicações da União Internacional das Telecomunicações (UIT).
+4 - No âmbito das restrições à neutralidade de serviços, a ARN pode adoptar medidas que imponham:
+a) Que um serviço de comunicações electrónicas seja oferecido numa faixa de frequências específica, disponível para
+serviços de comunicações electrónicas, desde que justificado com a necessidade de assegurar o cumprimento de um
+Versão à data de 18-04-2018 Pág. 11 de 75Legislação Consolidada
+objectivo específico de interesse geral definido nos termos do n.º 5;
+b) A oferta de um determinado serviço de comunicações electrónicas numa faixa de frequências específica com exclusão
+de qualquer outro serviço, desde que justificada com a necessidade de proteger serviços de segurança da vida humana ou,
+excepcionalmente, para satisfazer outros objectivos de interesse geral previstos na lei.
+5 - Consideram-se 'objectivos específicos de interesse geral', para os efeitos das alíneas f) do n.º 2 e a) do n.º 4,
+nomeadamente, a segurança da vida humana, a promoção da coesão social, regional ou territorial, a prevenção de
+utilizações ineficientes das frequências, bem como a promoção da diversidade cultural e linguística e do pluralismo dos
+meios de comunicação, designadamente através do fornecimento de serviços de programas televisivos ou de rádio.
+6 - As restrições previstas nos n.os 2 a 4 devem ser publicitadas no âmbito do QNAF, devendo a ARN proceder a uma
+reavaliação, pelo menos anual, da necessidade da sua manutenção.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 17.º
+Numeração
+1 - É garantida a disponibilidade de recursos de numeração adequados para todas as redes e serviços de comunicações
+electrónicas acessíveis ao público.
+E
+2 - Compete à ARN:
+a) Definir as linhas orientadoras e os princípios gerais do Plano Nacional de Numeração;
+R
+b) Gerir o Plano Nacional de Numeração segundo os princípios da transparência, eficácia, igualdade e não discriminação,
+incluindo a definição das condições de atribuição e de utilização dos recursos nacionais de numeração;
+c) Atribuir os recursos de numeração através de procedimentos objectivos, transparentes e não discriminatórios;
+D
+d) Publicar as linhas orientadoras e os princípios gerais, bem como os principais elementos do Plano Nacional de
+Numeração, subsequentes aditamentos ou alterações e os processos de atribuição e recuperação, sob reserva unicamente
+de limitações impostas por motivos de segurança nacional;
+e) Assegurar que uma empresa à qual tenha sido concedido o direito de utilização de uma série de números não discrimine
+outros prestadores de serviços de comunicações electrónicas no que respeita às sequências de números utilizadas para
+dar acesso aos seus serviços;
+f) Apoiar a harmonização de números específicos ou séries de números específicas na União Europeia quando tal promova
+o funcionamento do mercado interno e o desenvolvimento de serviços pan-europeus, bem como coordenar a sua posição
+com as outras entidades competentes da União no âmbito de organizações e instâncias internacionais em que sejam
+tomadas decisões sobre questões de numeração, sempre que tal seja adequado para garantir a interoperabilidade global
+dos serviços.
+3 - Pode ser prevista a atribuição de recursos dos números anteriores; a serviços de comunicações electrónicas não
+acessíveis ao público, se tal se vier a mostrar necessário e sem prejuízo da garantia da disponibilidade de recursos de
+numeração para os serviços acessíveis ao público nos termos dos números anteriores;
+4 - As entidades a quem compete a atribuição de nomes e endereços de redes e serviços de comunicações electrónicas
+devem coordenar as suas posições com as outras entidades competentes da União Europeia nas organizações e
+instâncias internacionais em que sejam tomadas decisões nessa matéria, sempre que tal seja adequado para garantir a
+interoperabilidade global dos serviços.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Rectificado pelo/a Declaração de Rectificação n.º 32-A/2004 - Diário da República n.º 85/2004, 1º Suplemento, Série I-A de 2004-04-10
+Artigo 18.º
+Mercados
+Compete à ARN, nos termos previstos na presente lei, definir e analisar os mercados relevantes, declarar as empresas
+Versão à data de 18-04-2018 Pág. 12 de 75Legislação Consolidada
+com poder de mercado significativo e determinar as medidas adequadas às empresas que oferecem redes e serviços de
+comunicações electrónicas.
+Título III
+Oferta de redes e serviços de comunicações electrónicas
+Capítulo I
+Disposições gerais
+Artigo 19.º
+Oferta de redes e serviços
+1 - É garantida a liberdade de oferta de redes e serviços de comunicações electrónicas.
+2 - Sem prejuízo do disposto no número seguinte, a oferta de redes e serviços de comunicações electrónicas, acessíveis
+ou não ao público, está apenas sujeita ao regime de autorização geral, não podendo estar dependente de qualquer decisão
+ou acto prévios da ARN.
+E
+3 - A utilização de números e frequências está sujeita ao regime de autorização geral nos termos do número anterior e
+depende, adicionalmente, da atribuição pela ARN de direitos de utilização, em todos os casos para os números e a título
+excepcional para as frequências.
+R
+4 - A utilização de frequências para serviços de comunicações electrónicas, esteja ou não dependente da atribuição de
+direitos de utilização, está sujeita às condições de utilização do espectro previstas no Decreto-Lei n.º 151-A/2000, de 20 de
+Julho, alterado pelos Decretos-Leis n.os 167/2006, de 16 de Agosto, e 264/2009, de 28 de Setembro.
+D
+5 - (Revogado).
+6 - (Revogado).
+7 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 109.º do/a Decreto-Lei n.º 123/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+Artigo 20.º
+Alteração dos direitos e obrigações
+1 - As condições, os direitos e os procedimentos aplicáveis ao exercício da actividade, incluindo aos direitos de utilização e
+aos direitos de instalar recursos, podem ser alterados em casos objectivamente justificados e de acordo com o princípio da
+proporcionalidade, mediante lei, regulamento ou acto administrativo conforme os casos.
+2 - As alterações aos direitos de utilização de frequências previstas no número anterior devem ter em conta as condições
+específicas aplicáveis aos direitos transmissíveis, nos termos do artigo 34.º
+3 - As alterações a adoptar ao abrigo do presente artigo estão sujeitas ao procedimento geral de consulta a que se refere o
+artigo 8.º, sendo concedido aos interessados, nomeadamente aos utilizadores e consumidores, um prazo suficiente para se
+pronunciarem sobre as alterações propostas, o qual, salvo em circunstâncias excepcionais devidamente justificadas, não
+deve ser inferior a 20 dias.
+4 - Excepcionam-se do número anterior os casos de alterações pouco significativas, em que a natureza substancial das
+autorizações gerais e dos direitos de utilização não seja modificada, nomeadamente não criando vantagens comparativas,
+e que tenham sido acordadas com o titular da autorização geral ou dos direitos de utilização.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Capítulo II
+Regime de autorização geral
+Versão à data de 18-04-2018 Pág. 13 de 75Legislação Consolidada
+Artigo 21.º
+Procedimentos
+1 - As empresas que pretendam oferecer redes e serviços de comunicações electrónicas estão obrigadas a enviar
+previamente à ARN uma descrição sucinta da rede ou serviço cuja oferta pretendem iniciar e a comunicar a data prevista
+para o início da actividade, transmitindo ainda os elementos que permitam a sua identificação completa nos termos a definir
+pela ARN.
+2 - Sem prejuízo de outros elementos exigidos pela ARN nos termos da parte final do número anterior, as empresas devem
+obrigatoriamente comunicar o respectivo endereço, bem como, no prazo de 30 dias, quaisquer alterações do mesmo
+endereço, o qual se destina a ser usado nas notificações e outras comunicações a efectuar pela ARN.
+3 - As empresas a que se refere o n.º 1 devem obter prova da comunicação realizada, mediante qualquer aviso de
+recepção legalmente reconhecido, nomeadamente postal ou electrónico.
+4 - Após a comunicação, as empresas podem iniciar de imediato a sua actividade, com as limitações decorrentes da
+atribuição de direitos de utilização de frequências e números.
+5 - Compete à ARN, no prazo de cinco dias a contar da recepção da comunicação, emitir declaração que confirme a sua
+entrega e que descreva em detalhe os direitos em matéria de acesso e interligação e de instalação de recursos previstos
+na presente lei, tendo em vista a sua apresentação de modo a facilitar o exercício destes direitos.
+6 - O disposto nos números anteriores é aplicável sempre que Ehaja alterações dos elementos previamente fornecidos.
+7 - As empresas que cessem a oferta de redes e ou serviços de comunicações electrónicas devem comunicar esse facto à
+R
+ARN com uma antecedência mínima de 15 dias.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da ReDpública n.º 176/2011, Série I de 2011-09-13
+Artigo 21.º-A
+Registo das empresas
+1 - Compete à ARN manter um registo das empresas que oferecem redes e serviços de comunicações electrónicas, do
+qual devem constar, nomeadamente, a sua identificação completa, o endereço e as actividades desenvolvidas.
+2 - A inscrição das empresas no registo é cancelada pela ARN sempre que:
+a) As empresas comuniquem a cessação da sua actividade, nos termos do n.º 7 do artigo anterior;
+b) Se verifique a impossibilidade de notificação das empresas por prazo superior a 90 dias, sem prejuízo da liquidação e
+cobrança imediata das taxas que forem devidas e da aplicação das sanções a que houver lugar.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 22.º
+Direitos das empresas que oferecem redes ou serviços acessíveis ao público
+Constituem direitos das empresas que oferecem redes de comunicações públicas ou serviços de comunicações
+electrónicas acessíveis ao público:
+a) Negociar a interligação e obter o acesso ou a interligação de outras empresas que oferecem redes de comunicações
+públicas e serviços de comunicações electrónicas acessíveis ao público nas condições e nos termos previstos na presente
+lei;
+b) Poder ser designadas para oferecer alguma das prestações de serviço universal e ou para cobrir diferentes zonas do
+território nacional, em conformidade com o disposto na presente lei.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 23.º
+Direitos das empresas que oferecem redes ou serviços não acessíveis ao público
+Versão à data de 18-04-2018 Pág. 14 de 75Legislação Consolidada
+Não podem ser impostas restrições que impeçam empresas ou operadores de negociar entre si acordos sobre
+modalidades técnicas e comerciais de acesso e interligação relativas a redes e serviços não acessíveis ao público.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 24.º
+Direitos de passagem
+1 - Às empresas que oferecem redes de comunicações públicas e serviços de comunicações electrónicas acessíveis ao
+público é garantido:
+a) O direito de requerer, nos termos da lei geral, a expropriação e a constituição de servidões administrativas
+indispensáveis à instalação, protecção e conservação dos respectivos sistemas, equipamentos e demais recursos;
+b) O direito de utilização do domínio público, em condições de igualdade, para a implantação, a passagem ou o
+atravessamento necessários à instalação de sistemas, equipamentos e demais recursos.
+2 - Às empresas que oferecem redes e serviços de comunicações electrónicas não acessíveis ao público é garantido o
+direito de requerer a utilização do domínio público para instalação de sistemas, equipamentos e demais recursos.
+3 - Todas as autoridades com jurisdição sobre o domínio público devem elaborar e publicitar procedimentos para a
+E
+atribuição dos direitos referidos nos números anteriores, os quais devem ser eficientes, simples, transparentes e
+adequadamente publicitados, não discriminatórios e céleres, não podendo entre a data da apresentação do pedido e a sua
+decisão decorrer mais de seis meses, excepto se em causa estiver um processo de expropriação.
+R
+4 - As condições aplicáveis ao exercício dos direitos referidos nos n.os 1 e 2 obedecem aos princípios da transparência e
+da não discriminação.
+5 - Deve ser garantida uma separação estrutural efectiva entre as competências de atribuição ou definição das condições
+D
+para o exercício dos direitos previstos no presente artigo e as competências ligadas à propriedade ou ao controlo das
+empresas do sector sobre as quais as autoridades públicas, incluindo as locais, detenham a propriedade ou o controlo.
+6 - O direito concedido para a utilização do domínio público nos termos deste artigo não pode ser extinto antes de expirado
+o prazo para o qual foi atribuído, excepto em casos justificados e sem prejuízo das regras aplicáveis em matéria de
+indemnização.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Rectificado pelo/a Declaração de Rectificação n.º 32-A/2004 - Diário da República n.º 85/2004, 1º Suplemento, Série I-A de 2004-04-10
+Artigo 25.º
+Partilha de locais e recursos
+1 - Nos casos a que se refere o n.º 1 do artigo anterior, devem as empresas promover entre si a celebração de acordos
+com vista à partilha dos locais e dos recursos instalados ou a instalar, os quais devem ser comunicados à ARN.
+2 - Sem prejuízo das competências das autarquias locais, a ARN, após período de consulta às partes interessadas nos
+termos do artigo 8.º, pode, por razões relacionadas com a protecção do ambiente, saúde ou segurança públicas, ou para
+satisfazer objectivos do ordenamento do território e defesa da paisagem urbana e rural, determinar a partilha de recursos
+ou propriedades, incluindo edifícios, entradas de edifícios, postes, antenas, torres, estruturas de apoio, condutas, tubagens,
+câmaras de visita, armários ou outras instalações existentes no local, independentemente de os seus titulares serem
+empresas que oferecem redes ou serviços de comunicações electrónicas, assegurando-se que, em qualquer caso, as
+medidas determinadas são objectivas, transparentes, não discriminatórias e compatíveis com o princípio da
+proporcionalidade.
+3 - As determinações emitidas ao abrigo do número anterior podem incluir normas de repartição de custos.
+4 - Nos casos de partilha, a ARN pode adoptar medidas condicionantes do funcionamento dos recursos a instalar,
+designadamente uma limitação dos níveis máximos de potência de emissão.
+Alterações
+Versão à data de 18-04-2018 Pág. 15 de 75Legislação Consolidada
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 25.º-A
+Instalação de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas
+Estão sujeitas ao regime da construção de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas e à
+construção de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios e edifícios,
+aprovado pelo Decreto-Lei n.º 123/2009, de 21 de Maio, alterado pelo Decreto-Lei n.º 258/2009, de 25 de Setembro:
+a) A coordenação das obras destinadas à construção ou ampliação de infra-estruturas aptas ao alojamento de redes de
+comunicações electrónicas;
+b) A partilha de infra-estruturas de telecomunicações em edifícios, urbanizações ou conjuntos de edifícios;
+c) A prestação de informações sobre infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, bem
+como a elaboração dos cadastros das referidas infra-estruturas, incluindo o Sistema de Informação Centralizado (SIC).
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 26.º
+Acesso às condutas
+E
+1 - A concessionária do serviço público de telecomunicações deve disponibilizar, por acordo, às empresas que oferecem
+redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao público o acesso a condutas,
+R
+postes, outras instalações e locais de que seja proprietária ou cuja gestão lhe incumba para instalação e manutenção dos
+seus sistemas, equipamentos e demais recursos.
+2 - A concessionária do serviço público de telecomunicações pode solicitar uma remuneração às empresas que oferecem
+D
+redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao público pela utilização de
+condutas, postes, outras instalações e locais de que seja proprietária ou cuja gestão lhe incumba para instalação e
+manutenção dos seus sistemas, equipamentos e demais recursos.
+3 - Na falta de acordo, pode qualquer das partes solicitar a intervenção da ARN, à qual compete determinar, mediante
+decisão fundamentada, as condições do acesso, designadamente o preço, o qual deve ser orientado para os custos.
+4 - Para efeitos do n.º 1, a concessionária deve disponibilizar uma oferta de acesso às condutas, postes, outras instalações
+e locais, da qual devem constar as condições de acesso e utilização, nos termos a definir pela ARN.
+5 - (Revogado).
+6 - (Revogado).
+7 - (Revogado).
+Alterações
+Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31, em vigor a partir de 2017-08-01
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 109.º do/a Decreto-Lei n.º 123/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+Artigo 27.º
+Condições gerais
+1 - Sem prejuízo de outras condições previstas na lei geral, as empresas que oferecem redes e serviços de comunicações
+electrónicas apenas podem estar sujeitas na sua actividade às seguintes condições:
+a) Interoperabilidade dos serviços e interligação das redes;
+b) Obrigações de acesso que não incluam as condições específicas previstas no artigo 28.º, podendo incluir, entre outras,
+regras relativas às restrições da oferta;
+c) Obrigações de transparência dos operadores de redes de comunicações públicas que oferecem serviços de
+comunicações electrónicas acessíveis ao público a fim de garantir a conectividade de extremo-a-extremo, em conformidade
+com os objectivos e os princípios estabelecidos no artigo 5.º, a divulgação de todas as condições que limitam o acesso e
+ou a utilização de serviços e aplicações quando essas condições são autorizadas nos termos da lei e, quando necessário e
+proporcional, o acesso por parte da ARN à informação necessária para comprovar a exactidão dessa divulgação;
+d) Manutenção da integridade das redes públicas, nomeadamente mediante condições que impeçam a interferência
+Versão à data de 18-04-2018 Pág. 16 de 75Legislação Consolidada
+electromagnética entre redes e ou serviços de comunicações electrónicas, nos termos do Decreto-Lei n.º 325/2007, de 28
+de Setembro, alterado pelo Decreto-Lei n.º 20/2009, de 19 de Janeiro;
+e) Condições de utilização para as comunicações das autoridades públicas com o público em geral para avisos de
+ameaças iminentes e atenuar as consequências de grandes catástrofes, bem como condições de utilização durante
+grandes catástrofes ou emergências nacionais, para garantir as comunicações entre os serviços de emergência e as
+autoridades;
+f) Segurança das redes públicas contra o acesso não autorizado nos termos da legislação aplicável à protecção de dados
+pessoais e da privacidade no domínio das comunicações electrónicas;
+g) Requisitos de protecção do ambiente ou de ordenamento urbano e territorial, assim como requisitos e condições
+associados à concessão de acesso a terrenos públicos ou privados e condições associadas à partilha de locais e recursos,
+incluindo, sempre que apropriado, todas as garantias financeiras e técnicas necessárias para assegurar a correcta
+execução dos trabalhos de infra-estrutura;
+h) Protecção dos dados pessoais e da privacidade no domínio específico das comunicações electrónicas, em conformidade
+com a legislação aplicável à protecção de dados pessoais e da privacidade;
+i) Condições de utilização das frequências, nos termos do Decreto-Lei n.º 151-A/2000, de 20 de Julho, alterado pelos
+Decretos-Leis n.os 167/2006, de 16 de Agosto, e 264/2009, de 28 de Setembro, sempre que essa utilização não esteja
+sujeita a atribuição de direitos de utilização, nos termos publicitados no QNAF;
+j) Acesso dos utilizadores finais aos números do Plano Nacional de Numeração, aos números do espaço europeu de
+numeração telefónica, aos números verdes internacionais universEais e, quando for técnica e economicamente viável, aos
+planos de numeração de outros Estados membros, e respectivas condições, em conformidade com a presente lei;
+l) Regras de protecção dos consumidores, específicas do sector das comunicações electrónicas, incluindo condições em
+R
+conformidade com a presente lei, designadamente condições relativas à acessibilidade para os utilizadores deficientes, de
+acordo com o artigo 91.º;
+m) Medidas relativas à limitação da exposição da população aos campos electromagnéticos criados pelas redes de
+D
+comunicações electrónicas, de acordo com a legislação aplicável;
+n) Medidas destinadas a garantir a conformidade com as normas e ou especificações constantes do artigo 29.º;
+o) Instalação, a expensas próprias, e disponibilização de sistemas de intercepção legal às autoridades nacionais
+competentes bem como fornecimento dos meios de desencriptação ou decifração sempre que ofereçam essas facilidades,
+em conformidade com a legislação aplicável à protecção de dados pessoais e da privacidade no domínio das
+comunicações electrónicas;
+p) Obrigação de transporte, em conformidade com o artigo 43.º;
+q) Restrições respeitantes à transmissão de conteúdos ilegais, em conformidade com o Decreto-Lei n.º 7/2004, de 7 de
+Janeiro, alterado pelo Decreto-Lei n.º 62/2009, de 10 de Março, e à transmissão de conteúdos lesivos, em conformidade
+com a Lei n.º 27/2007, de 30 de Julho, alterada pela Lei n.º 8/2011, de 11 de Abril;
+r) Contribuições financeiras para o financiamento do serviço universal, em conformidade com os artigos 95.º a 97.º;
+s) Taxas, em conformidade com o artigo 105.º;
+t) Informações a fornecer nos termos do procedimento de comunicação previsto no artigo 21.º e para os fins previstos no
+artigo 109.º
+2 - Compete à ARN especificar, de entre as referidas no número anterior, as condições aplicáveis às redes e serviços de
+comunicações electrónicas, podendo para o efeito identificar categorias.
+3 - As condições a definir pela ARN nos termos do número anterior devem ser objectivamente justificadas em relação à
+rede ou serviço em causa, nomeadamente quanto à sua acessibilidade ao público, não discriminatórias, proporcionadas e
+transparentes.
+4 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 28.º
+Condições específicas
+A definição de condições nos termos do artigo anterior não prejudica a imposição às empresas que oferecem redes e
+Versão à data de 18-04-2018 Pág. 17 de 75Legislação Consolidada
+serviços de comunicações electrónicas de obrigações específicas nas situações e de acordo com as regras previstas na
+presente lei:
+a) Em matéria de acesso e interligação, nos termos do n.º 1 do artigo 63.º e dos artigos 66.º, 73.º, 77.º e 78.º;
+b) Em matéria de controlos nos mercados retalhistas, nos termos do artigo 85.º;
+c) Em matéria de serviço universal, aos respectivos prestadores;
+d) (Revogada).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 29.º
+Normalização
+1 - Sem prejuízo das normas definidas como obrigatórias ao nível da União Europeia, a ARN, na medida do estritamente
+necessário para assegurar a interoperabilidade dos serviços e aumentar a liberdade de escolha dos utilizadores, deve, a
+fim de encorajar a oferta harmonizada de redes e serviços de comunicações electrónicas e recursos e serviços conexos,
+incentivar a utilização de normas técnicas não imperativas e especificações, tendo por base a lista elaborada pela
+Comissão Europeia e publicada no Jornal Oficial da União Europeia, nos termos da Directiva n.º 2002/21/CE, do
+E
+Parlamento Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º 2009/140/CE, do Parlamento Europeu e do
+Conselho, de 25 de Novembro.
+2 - Compete à ARN promover a publicitação no seu sítio na Internet da referência à publicação no Jornal Oficial da União
+R
+Europeia das listas de normas e especificações relativas à oferta harmonizada de redes e serviços de comunicações
+electrónicas e recursos e serviços conexos e referidas na parte final do número anterior.
+3 - Enquanto não for publicada a lista a que se refere o n.º 1, a ARN deve incentivar a aplicação de normas e
+D
+especificações adoptadas pelas organizações europeias de normalização.
+4 - Na falta das normas referidas no número anterior, a ARN deve incentivar a aplicação de normas ou recomendações
+internacionais aprovadas pela UIT, pela Conferência Europeia das Administrações dos Correios e Telecomunicações
+(CEPT), pela Organização Internacional de Normalização (ISO) ou pela Comissão Electrotécnica Internacional (CEI).
+5 - Sem prejuízo das normas e especificações referidas nos números anteriores, podem ser emitidas especificações
+técnicas a nível nacional.
+6 - As autoridades nacionais competentes devem incentivar as organizações europeias de normalização a utilizar normas
+internacionais, quando existam, ou a utilizar os seus elementos pertinentes como base para as normas que elaborarem,
+excepto quando forem ineficazes.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Capítulo III
+Direitos de utilização
+Artigo 30.º
+Atribuição de direitos de utilização de frequências
+1 - A utilização de frequências está dependente da atribuição de direitos de utilização apenas quando tal seja necessário
+para:
+a) Evitar interferências prejudiciais;
+b) Assegurar a qualidade técnica do serviço;
+c) Salvaguardar a utilização eficiente do espectro;
+d) Realizar outros objectivos de interesse geral definidos na lei.
+2 - Os direitos de utilização de frequências podem ser atribuídos quer às empresas que oferecem redes ou serviços de
+comunicações electrónicas quer às empresas que utilizam essas redes ou serviços, nos termos da legislação aplicável.
+3 - Sem prejuízo dos critérios e procedimentos específicos para a atribuição de direitos de utilização de frequências aos
+Versão à data de 18-04-2018 Pág. 18 de 75Legislação Consolidada
+operadores de televisão e de distribuição e aos operadores de rádio, para alcançar objectivos de interesse geral, os direitos
+de utilização devem ser atribuídos através de procedimentos abertos, objectivos, transparentes, proporcionais, não
+discriminatórios e de acordo com o disposto no artigo 16.º-A.
+4 - Nos casos em que se demonstre que a atribuição de direitos de utilização de frequências aos operadores de televisão e
+de distribuição e aos operadores de rádio é necessária para realizar um objectivo de interesse geral definido na lei, pode
+ser estabelecida, pela ARN, uma excepção ao requisito do estabelecimento de procedimentos abertos.
+5 - A atribuição de direitos de utilização de frequências pode decorrer no regime de acessibilidade plena ou estar sujeita a
+procedimentos de selecção por concorrência ou comparação, nomeadamente leilão ou concurso.
+6 - A atribuição de direitos de utilização de frequências está dependente de pedido, nos seguintes termos:
+a) Nos casos de acessibilidade plena, o pedido deve ser apresentado à ARN instruído com os elementos necessários para
+provar a capacidade do requerente para cumprir as condições associadas ao direito de utilização, estabelecidas no artigo
+32.º, nos termos a definir pela ARN;
+b) Nos casos de procedimento de selecção concorrencial ou por comparação nos termos previstos no artigo seguinte, o
+pedido deve ser apresentado em conformidade com os requisitos fixados nos regulamentos de atribuição de direitos de
+utilização respectivos.
+7 - Compete ao membro do Governo responsável pela área das comunicações aprovar os regulamentos de atribuição de
+direitos de utilização de frequências sempre que envolvam procedimentos de selecção concorrencial ou por comparação e
+se refiram a frequências acessíveis, pela primeira vez, no âmbito das comunicações electrónicas ou, não o sendo, se
+destinem a ser utilizadas para novos serviços. E
+8 - Compete à ARN aprovar os regulamentos de atribuição de direitos de utilização de frequências nos casos não
+abrangidos pelo número anterior.
+R
+9 - A decisão sobre a atribuição de direitos de utilização de frequências deve ser proferida, comunicada e tornada pública
+nos seguintes prazos:
+a) Nos casos de acessibilidade plena, no prazo máximo de 30 dias, sem prejuízo dos acordos internacionais aplicáveis à
+D
+utilização de frequências ou de posições orbitais;
+b) Nos casos de procedimentos de selecção concorrencial ou por comparação, no prazo que for necessário para garantir
+que os procedimentos sejam justos, razoáveis, abertos e transparentes para todas as partes interessadas, até ao máximo
+de oito meses, sem prejuízo dos acordos internacionais aplicáveis à utilização de frequências e à coordenação de redes de
+satélites.
+10 - Quando a utilização de frequências tenha sido harmonizada na União Europeia e, nesse contexto, tenham sido
+acordadas as condições e procedimentos de acesso e seleccionadas as empresas às quais são atribuídas as frequências,
+em conformidade com acordos internacionais e regras comunitárias, a ARN deve atribuir os direitos de utilização dessas
+frequências de acordo com tais disposições e, sem prejuízo do cumprimento de todas as condições impostas a nível
+nacional associadas à sua utilização, não podem ser impostas quaisquer outras condições, critérios adicionais ou
+procedimentos que restrinjam, alterem ou atrasem a correcta implementação da atribuição dessas frequências no âmbito
+de um procedimento de selecção comum.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 31.º
+Limitação do número de direitos de utilização de frequências
+1 - A limitação do número de direitos de utilização a atribuir apenas é admissível quando tal seja necessário para garantir a
+utilização eficiente das frequências.
+2 - Quando a ARN pretender limitar o número de direitos de utilização a atribuir deve, nomeadamente, considerar a
+necessidade de maximizar os benefícios para os utilizadores e facilitar o desenvolvimento da concorrência.
+3 - Nos casos previstos no número anterior, sem prejuízo de outras medidas que considere adequadas, deve a ARN:
+a) Promover o procedimento geral de consulta previsto no artigo 8.º, ouvindo nomeadamente os utilizadores e
+consumidores; b) Publicar uma decisão, devidamente fundamentada, de limitar o número de direitos
+de utilização a atribuir, definindo simultaneamente o procedimento de atribuição, o qual pode ser de acessibilidade plena ou
+de selecção por concorrência ou comparação, nomeadamente leilão ou concurso;
+c) Dar início ao procedimento para apresentação de candidaturas a direitos de utilização nos termos definidos.
+Versão à data de 18-04-2018 Pág. 19 de 75Legislação Consolidada
+4 - Quando o número de direitos de utilização de frequências for limitado, os procedimentos e critérios de selecção devem
+ser objectivos, transparentes, não discriminatórios e proporcionais, devendo ter em conta os objectivos constantes do artigo
+5.º, bem como o regime estabelecido no artigo 16.º-A.
+5 - A ARN, periodicamente ou na sequência de um pedido razoável das entidades interessadas, deve rever a limitação do
+número de direitos de utilização nos termos dos artigos 16.º e 16.º-A e, sempre que concluir que podem ser atribuídos
+novos direitos de utilização, deve publicitar essa decisão e dar início ao procedimento para atribuição desses direitos nos
+termos do n.º 3.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 32.º
+Condições associadas aos direitos de utilização de frequências
+1 - Sem prejuízo de outras condições que resultem da lei geral e das constantes do n.º 1 do artigo 27.º, os direitos de
+utilização de frequências apenas podem estar sujeitos às seguintes condições:
+a) Obrigação de fornecer um serviço ou de utilizar um tipo de tecnologia incluindo, se for caso disso, exigências de
+cobertura e qualidade;
+E
+b) Utilização efectiva e eficiente das frequências, em conformidade com o artigo 15.º, incluindo, quando adequado,
+nomeadamente para evitar situações de açambarcamento de frequências, a fixação de prazos de exploração efectiva dos
+direitos de utilização pelo respectivo titular;
+R
+c) Condições técnicas e operacionais necessárias à não produção de interferências prejudiciais e à limitação da exposição
+da população aos campos electromagnéticos se essas condições forem diferentes das referidas na alínea m) do n.º 1 do
+artigo 27.º;
+D
+d) Duração máxima, em conformidade com o artigo seguinte, sob reserva de quaisquer alterações introduzidas no QNAF;
+e) Transmissibilidade dos direitos, por iniciativa do respectivo titular, e condições dessa transmissibilidade, em
+conformidade com o artigo 34.º;
+f) Taxas, em conformidade com o artigo 105.º;
+g) Eventuais compromissos que a empresa que obtém os direitos de utilização tenha assumido no decurso de um
+procedimento de selecção por concorrência ou por comparação das ofertas;
+h) Obrigações decorrentes dos acordos internacionais aplicáveis em matéria de utilização de frequências.
+i) Obrigações específicas para utilização experimental de frequências.
+2 - As condições dos direitos de utilização de frequências devem cumprir o disposto no artigo 16.º-A e o regime previsto
+nos n.os 2 e 3 do artigo 27.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 33.º
+Prazo e renovação dos direitos de utilização de frequências
+1 - Os direitos de utilização de frequências são atribuídos por um prazo de 15 anos, podendo, em situações devidamente
+fundamentadas, consoante o serviço em causa e tendo em conta o objectivo pretendido bem como a necessidade de
+permitir um período adequado para a amortização do investimento, ser atribuídos pela ARN por um prazo diferente, com
+um mínimo de 10 anos e um máximo de 20.
+2 - Os direitos de utilização são renováveis, pelos prazos previstos no número anterior e atentos os critérios da sua fixação,
+mediante pedido do respectivo titular apresentado à ARN com uma antecedência mínima de um ano sobre o termo do
+respectivo prazo de vigência.
+3 - No caso referido no número anterior, a ARN deve responder ao titular no prazo máximo de seis meses, promovendo
+para o efeito o procedimento geral de consulta previsto no artigo 8.º, e pode:
+a) Opor-se à renovação do direito de utilização através de decisão devidamente fundamentada;
+b) Deferir o pedido de renovação nas mesmas condições especificadas na atribuição inicial do direito de utilização,
+incluindo o prazo de validade do direito;
+Versão à data de 18-04-2018 Pág. 20 de 75Legislação Consolidada
+c) Deferir o pedido de renovação com imposição de condições distintas das especificadas nesse direito.
+4 - O silêncio da ARN, após o decurso do prazo previsto no número anterior, vale como deferimento tácito.
+5 - Os direitos de utilização de frequências não podem ser restringidos ou revogados antes de expirado o respectivo prazo
+de validade, salvo em casos devidamente justificados e, se aplicável, em conformidade com as condições fixadas no artigo
+anterior e sem prejuízo do regime do Decreto-Lei n.º 151-A/2000, de 20 de Julho, alterado pelos Decretos-Leis n.os
+167/2006, de 18 de Agosto, e 264/2009, de 28 de Setembro.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 34.º
+Transmissão e locação dos direitos de utilização de frequências
+1 - É admissível a transmissão ou a locação dos direitos de utilização de frequências entre empresas, de acordo com as
+condições associadas a esses direitos de utilização e com os procedimentos estabelecidos no presente artigo, sempre que
+a transmissão ou locação desses direitos não seja expressamente interdita pela ARN e publicitada no QNAF.
+2 - A interdição a que se refere o número anterior pode ser estabelecida para todo o prazo de vigência do direito de
+utilização ou por um período inferior.
+3 - A ARN não pode inibir a transmissão e a locação dos direitos de utilização atribuídos nas faixas para as quais a
+E
+transmissão e locação estejam previstas em medidas de execução aprovadas para o efeito pela Comissão Europeia, nos
+termos da Directiva n.º 2002/21/CE, do Parlamento Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º
+2009/140/CE, do Parlamento Europeu e do Conselho, de 25 de Novembro.
+R
+4 - Os titulares dos direitos de utilização de frequências devem comunicar à ARN a intenção de transmitir ou locar esses
+direitos e as condições em que o pretendem fazer.
+5 - Nos casos de transmissão ou locação de direitos de utilização de frequências a que se refere o número anterior,
+D
+incumbe à ARN garantir que:
+a) A intenção de transmitir ou locar direitos de utilização bem como a concretização da transmissão ou locação são
+tornadas públicas;
+b) A transmissão ou a locação não provoca distorções de concorrência, designadamente pela acumulação de direitos de
+utilização;
+c) As frequências sejam utilizadas de forma efectiva e eficiente;
+d) A utilização a que estão destinadas as frequências é respeitada sempre que a mesma tenha sido harmonizada mediante
+a aplicação da Decisão n.º 676/2002/CE, do Parlamento Europeu e do Conselho, de 7 de Março (decisão espectro de
+radiofrequências), ou outras medidas comunitárias;
+e) As restrições previstas na lei em matéria de televisão e rádio sejam salvaguardadas.
+6 - Nos casos de transmissão ou locação de direitos de utilização, compete à ARN pronunciar-se no prazo máximo de 45
+dias sobre o conteúdo da comunicação prevista no n.º 4, podendo fundamentadamente opor-se à transmissão ou locação
+de direitos de utilização projectada, bem como impor condições necessárias ao cumprimento do disposto no número
+anterior.
+7 - Nos casos referidos no número anterior, a ARN deve solicitar previamente parecer à Autoridade da Concorrência, o qual
+deve ser emitido no prazo de 10 dias contado da respectiva solicitação, podendo ser prorrogado em casos cuja
+complexidade o justifique.
+8 - O silêncio da ARN, após o decurso do prazo estabelecido no n.º 6, vale como não oposição à transmissão ou locação
+dos direitos de utilização, não dispensando, contudo, a obrigação de comunicação da transmissão ou locação concretizada.
+9 - A transmissão e a locação de direitos de utilização não suspendem nem interrompem o prazo pelo qual foram atribuídos
+os direitos de utilização, sem prejuízo da sua renovação nos termos do artigo anterior.
+10 - As condições associadas aos direitos de utilização de frequências mantêm-se aplicáveis após a transmissão ou a
+locação dos referidos direitos, salvo decisão em contrário da ARN.
+11 - A ARN pode, após o procedimento geral de consulta previsto no artigo 8.º, determinar regras aplicáveis à transmissão
+e à locação de direitos de utilização de frequências.
+12 - Sempre que um direito de utilização de frequências não seja transmissível ou passível de locação nos termos do
+presente artigo, compete à ARN assegurar que os fundamentos que determinaram a exigibilidade da atribuição do direito
+de utilização, bem como a insusceptibilidade de transmissão ou locação, se mantêm justificáveis ao longo de todo o
+Versão à data de 18-04-2018 Pág. 21 de 75Legislação Consolidada
+período de vigência do mesmo.
+13 - Para efeitos do disposto no número anterior, nos casos em que os fundamentos para a exigibilidade de atribuição do
+direito de utilização de frequências ou para a insusceptibilidade de transmissão ou locação deixem de se justificar, a ARN
+deve, designadamente mediante pedido fundamentado do titular do direito, adoptar as medidas necessárias à revogação
+do direito de utilização, ficando a utilização de frequências sujeita ao regime de autorização geral, ou à alteração do
+referido direito de utilização, eliminando a impossibilidade de transmissão ou locação.
+14 - Nos casos previstos no número anterior, a ARN deve seguir o procedimento previsto no artigo 20.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 35.º
+Acumulação de direitos de utilização de frequências
+1 - Compete à ARN assegurar que a flexibilidade no uso das frequências decorrente, nomeadamente, da eliminação de
+restrições às neutralidades tecnológica e de serviços, bem como a acumulação de direitos de utilização de frequências,
+resultante de transmissões ou locações, não provoca distorções de concorrência.
+2 - Para efeitos do número anterior, a ARN pode adoptar medidas adequadas, nomeadamente:
+a) Impor condições associadas aos direitos de utilização de frequências, nos termos do artigo 32.º, incluindo fixação de
+E
+prazos para a exploração efectiva dos direitos de utilização por parte do respectivo titular;
+b) Determinar ao respectivo titular, e num caso concreto, a transmissão ou locação de direitos de utilização de frequências;
+c) Limitar a quantidade de espectro a atribuir a um mesmo titular em procedimentos de atribuição de direitos de utilização
+R
+de frequências.
+3 - As medidas impostas ao abrigo do número anterior devem ser aplicadas de forma proporcional, não discriminatória e
+transparente.
+D
+4 - Sem prejuízo de outros mecanismos sancionatórios aplicáveis, o incumprimento das medidas previstas no presente
+artigo pode determinar a revogação, parcial ou total, pela ARN dos respectivos direitos de utilização de frequências,
+seguindo, para o efeito, o procedimento previsto no artigo 110.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 36.º
+Atribuição de direitos de utilização de números
+1 - A utilização de números está dependente da atribuição de direitos de utilização.
+2 - Os direitos de utilização de números podem ser atribuídos quer às empresas que oferecem redes ou serviços de
+comunicações electrónicas quer às empresas que utilizam essas redes ou serviços, nos termos da legislação aplicável.
+3 - Os direitos de utilização de números devem ser atribuídos através de procedimentos abertos, objectivos, transparentes,
+não discriminatórios e proporcionais.
+4 - Sem prejuízo do disposto no número anterior, pode a ARN decidir, após o procedimento geral de consulta nos termos
+do artigo 8.º, que os direitos de utilização de números de valor económico excepcional sejam atribuídos através de
+procedimentos de selecção concorrenciais ou por comparação, nomeadamente concurso ou leilão, devendo identificá-los
+nos termos da alínea d) do n.º 2 do artigo 17.º
+5 - A decisão sobre a atribuição de direitos de utilização de números deve ser proferida, comunicada e tornada pública nos
+seguintes prazos máximos:
+a) 15 dias, no caso de números atribuídos para fins específicos no âmbito do Plano Nacional de Numeração;
+b) 30 dias, nos casos em que a atribuição de direitos de utilização esteja sujeita a procedimentos de selecção
+concorrenciais ou por comparação.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 37.º
+Condições associadas aos direitos de utilização de números
+Versão à data de 18-04-2018 Pág. 22 de 75Legislação Consolidada
+1 - Sem prejuízo de outras condições que resultem da lei geral e das constantes do n.º 1 do artigo 27.º, os direitos de
+utilização de números apenas podem estar sujeitos às seguintes condições:
+a) Designação do serviço para o qual o número deve ser utilizado e eventuais requisitos ligados à oferta desse serviço,
+incluindo princípios de fixação de preços e preços máximos que podem aplicar-se na série específica de números tendo em
+vista garantir a protecção dos consumidores;
+b) Utilização efectiva e eficiente dos números, em conformidade com a alínea b) do n.º 2 do artigo 17.º;
+c) Exigências relativas à portabilidade dos números, em conformidade com o artigo 54.º;
+d) Obrigações em matéria de serviços de listas para efeitos dos artigos 50.º e 89.º;
+e) Transmissibilidade dos direitos, por iniciativa do respectivo titular, e condições dessa transmissibilidade, com base no
+artigo 38.º;
+f) Taxas, em conformidade com o artigo 105.º;
+g) Eventuais compromissos que a empresa que obtém os direitos de utilização tenha assumido no decurso de um
+procedimento de selecção por concorrência ou por comparação das ofertas;
+h) Obrigações decorrentes dos acordos internacionais aplicáveis em matéria de utilização de números.
+2 - É aplicável aos direitos de utilização de números o disposto nos n.os 2 e 3 do artigo 27.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+E
+Artigo 38.º
+Transmissibilidade dos direitos de utilização de números
+R
+Os direitos de utilização de números são transmissíveis nos termos e condições a definir pela ARN, os quais devem prever
+mecanismos destinados a salvaguardar, nomeadamente, a utilização efectiva e eficiente dos números e os direitos dos
+utilizadores.
+D
+Capítulo IV
+Regras de exploração aplicáveis às empresas que oferecem redes de comunicações públicas e serviços acessíveis ao
+público
+Alterações
+Alterado pelo/a Artigo 4.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 39.º
+Defesa dos utilizadores e assinantes
+1 - Constituem direitos dos utilizadores, nos termos da presente lei:
+a) Aceder, em termos de igualdade, às redes e serviços oferecidos;
+b) Dispor, em tempo útil e previamente à celebração de qualquer contrato, de informação escrita sobre as condições de
+acesso e utilização do serviço nos termos do artigo 47.º;
+c) Serem informados, com uma antecedência mínima de 15 dias, da cessação da oferta.
+2 - Constituem direitos dos utilizadores finais, nos termos da presente lei:
+a) Dispor de informação sobre a qualidade de serviço, conforme previsto no artigo 40.º;
+b) Dispor de informação sobre os indicativos telefónicos de acesso europeu, nos termos do artigo 44.º;
+c) Recorrer aos procedimentos de tratamento de reclamações, em conformidade com o artigo 48.º-A;
+d) Aceder aos serviços de informações de listas, nos termos do n.º 2 do artigo 50.º;
+e) Aceder aos serviços de emergência, nos termos do artigo 51.º;
+f) Dispor, sempre que técnica e economicamente viável, dos recursos adicionais previstos no n.º 1 do artigo 53.º;
+g) Recorrer aos mecanismos de resolução extrajudicial de conflitos.
+3 - Constituem direitos dos assinantes, nos termos da presente lei:
+a) Serem informados por escrito da suspensão da prestação do serviço e da resolução do contrato em caso de não
+pagamento de faturas, nos termos previstos nos artigos 52.º e 52.º-A;
+Versão à data de 18-04-2018 Pág. 23 de 75Legislação Consolidada
+b) Aceder aos serviços contratados de forma contínua, sem interrupções ou suspensões indevidas;
+c) Obter facturação detalhada, quando solicitada;
+d) Dispor do barramento selectivo de comunicações bem como ao acesso aos serviços de audiotexto, nos termos do artigo
+45.º;
+e) Receber, tempestivamente, todas as informações relacionadas com a base de assinantes que não tenham satisfeito as
+suas obrigações de pagamento, de acordo com o previsto no artigo 46.º;
+f) Ser informado nos termos previstos no artigo 47.º-A;
+g) Celebrar contratos com a especificação exigida no artigo 48.º;
+h) Figurar nas listas e serviços de informações de listas, como previsto no n.º 1 do artigo 50.º;
+i) Serem informados, nos termos previstos nos artigos 52.º e 52.º-A, da suspensão e extinção do serviço nas situações não
+abrangidas na alínea a);
+j) Dispor da portabilidade dos números, nos termos do artigo 54.º
+4 - A informação a que se refere a alínea c) do n.º 1 deve igualmente ser comunicada à ARN dentro do mesmo prazo.
+5 - Para efeitos do disposto na alínea c) do n.º 3, e sem prejuízo do disposto na legislação relativa ao tratamento de dados
+pessoais e à protecção da privacidade no sector das comunicações electrónicas, a ARN pode definir o nível mínimo de
+detalhe e informação que, sem quaisquer encargos, as empresas devem assegurar aos assinantes que solicitem
+facturação detalhada.
+6 - Compete à ARN determinar às empresas que oferecem redes de comunicações públicas ou serviços de comunicações
+electrónicas acessíveis ao público a observância de requisitos e Eexigências necessárias a assegurar que os utilizadores
+finais com deficiência obtenham acesso a serviços de comunicações electrónicas de nível equivalente ao disponibilizado à
+maioria dos utilizadores finais e beneficiem da escolha de empresas e serviços a que têm acesso a maioria dos
+R
+utilizadores, bem como, quando adequado e na medida em que seja proporcional, a disponibilização à generalidade dos
+utilizadores dos serviços e recursos adicionais previstos nas alíneas c), d), f) e g) do n.º 1 do artigo 94.º
+D
+Alterações
+Alterado pelo/a Artigo 4.º do/a Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 40.º
+Qualidade de serviço
+1 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público estão obrigadas a publicar e a disponibilizar aos utilizadores finais informações comparáveis, claras, completas e
+actualizadas sobre a qualidade de todos os serviços que disponibilizam, bem como das ofertas destinadas a assegurar aos
+utilizadores finais com deficiência um acesso equivalente ao dos demais utilizadores finais.
+2 - Para efeitos do número anterior, a ARN, após realização do procedimento geral de consulta referido no artigo 8.º, pode
+definir, entre outros, os parâmetros de qualidade dos serviços a medir e o seu conteúdo, o formato e o modo de publicação
+das informações, podendo ainda definir eventuais mecanismos de certificação da qualidade destinados a garantir que os
+utilizadores finais, incluindo os utilizadores finais com deficiência, tenham acesso a informações claras, completas, fiáveis e
+comparáveis.
+3 - Para efeitos do disposto no número anterior, a ARN, quando considere adequado, pode seguir o anexo ao presente
+diploma.
+4 - Sempre que seja justificado para evitar a degradação dos serviços ou o bloqueio ou abrandamento do tráfego nas
+redes, a ARN pode fixar às empresas que oferecem redes de comunicações públicas requisitos mínimos de qualidade de
+serviço.
+5 - A fixação dos requisitos previstos no número anterior é precedida de comunicação à Comissão Europeia e ao ORECE,
+com a qual, para além do projecto de medida a adoptar, a ARN deve apresentar um resumo dos motivos que a
+fundamentam.
+6 - Na fixação dos requisitos de qualidade, a ARN deve ter em conta as observações e recomendações apresentadas pela
+Comissão Europeia para garantir que as medidas previstas não afectam negativamente o bom funcionamento do mercado
+interno.
+7 - As empresas devem disponibilizar regularmente à ARN informações actualizadas sobre a qualidade de serviço que
+praticam, em conformidade com o artigo 108.º
+Versão à data de 18-04-2018 Pág. 24 de 75Legislação Consolidada
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 41.º
+Separação contabilística
+1 - As empresas que ofereçam redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público e usufruam de direitos especiais ou exclusivos para o fornecimento de serviços noutros sectores, no mesmo ou
+noutro Estado membro, devem dispor de um sistema de contabilidade separada para as actividades de oferta de redes ou
+serviços de comunicações electrónicas, o qual deve ser submetido a uma auditoria independente, a realizar por entidade a
+designar pela ARN ou por esta aceite, ou criar entidades juridicamente distintas para as correspondentes actividades.
+2 - As empresas cujo volume de negócios anual seja inferior a 50 milhões de euros podem ser dispensadas pela ARN das
+obrigações previstas no número anterior.
+3 - As empresas que ofereçam redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público que, nos termos da legislação específica que lhes é aplicável, não estejam sujeitas a controlo contabilístico devem
+elaborar e submeter anualmente os respectivos relatórios financeiros a uma auditoria independente e publicá-los.
+Alterações
+E
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 42.º
+R
+Separação estrutural e outras medidas
+1 - As empresas que ofereçam redes de comunicações públicas devem explorar a sua rede de televisão por cabo através
+de entidades juridicamente distintas sempre qDue:
+a) Sejam controladas por um Estado membro ou beneficiem de direitos especiais;
+b) Tenham uma posição dominante numa parte substancial do mercado a nível da oferta de redes de comunicações
+electrónicas públicas e da prestação de serviços telefónicos acessíveis ao público;
+c) Explorem uma rede de televisão por cabo criada ao abrigo de direitos especiais ou exclusivos na mesma área
+geográfica.
+2 - Para efeitos do disposto na alínea b) do número anterior, são considerados serviços telefónicos acessíveis ao público os
+serviços oferecidos comercialmente para o transporte directo da voz em tempo real por intermédio da rede ou redes
+comutadas públicas, por forma que qualquer utilizador possa servir-se de equipamento ligado a um ponto de terminação da
+rede num local fixo para comunicar com outro utilizador de equipamento ligado a outro ponto de terminação.
+3 - As empresas públicas que tenham estabelecido as suas redes ao abrigo de direitos especiais ou exclusivos, que sejam
+verticalmente integradas e que detenham posição dominante ficam sujeitas às medidas da ARN adequadas para garantir o
+princípio da não discriminação.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Rectificado pelo/a Declaração de Rectificação n.º 32-A/2004 - Diário da República n.º 85/2004, 1º Suplemento, Série I-A de 2004-04-10
+Artigo 43.º
+Obrigações de transporte
+1 - Compete à ARN impor às empresas que oferecem redes de comunicações electrónicas utilizadas para a distribuição de
+emissões de rádio e televisão ao público obrigações de transporte de canais e serviços de rádio e televisão, especificados
+nos termos da lei pelas autoridades competentes, quando um número significativo de utilizadores finais dessas redes as
+utilize como meio principal de recepção de emissões de rádio e televisão.
+2 - As obrigações previstas no número anterior apenas podem ser impostas quando tal seja necessário para a realização
+de objectivos de interesse geral claramente definidos e devem ser razoáveis, proporcionadas, transparentes e sujeitas a
+uma revisão periódica.
+3 - A ARN pode determinar uma remuneração adequada como contrapartida das obrigações de transporte impostas, a qual
+Versão à data de 18-04-2018 Pág. 25 de 75Legislação Consolidada
+deve ser aplicada de modo proporcionado e transparente, competindo-lhe ainda garantir que, em circunstâncias análogas,
+não haja discriminação no tratamento das empresas que oferecem redes de comunicações electrónicas.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 44.º
+Indicativos telefónicos de acesso europeu
+1 - As empresas que oferecem serviços de comunicações electrónicas e chamadas internacionais devem utilizar o prefixo
+'00' como indicativo uniformizado de acesso internacional.
+2 - Compete à ARN garantir que todas as empresas que ofereçam serviços telefónicos acessíveis ao público e chamadas
+internacionais tratem todas as chamadas originadas no ou destinadas ao espaço europeu de numeração telefónica (EENT),
+aplicando-lhes preços similares aos aplicáveis às chamadas com origem e destino noutros Estados membros.
+3 - Sempre que seja técnica e economicamente viável, e sem prejuízo do disposto no número seguinte, as empresas que
+detenham números do Plano Nacional de Numeração no território nacional devem:
+a) Garantir o acesso a todos os números fornecidos na União Europeia, independentemente da tecnologia e dos
+dispositivos utilizados pelo prestador, nomeadamente os incluídos nos planos nacionais de numeração dos Estados
+membros, os do EENT e os números universais de chamada livre internacional (UIFN);
+E
+b) Garantir o acesso e a utilização de serviços através de números não geográficos por parte dos utilizadores finais no
+interior da União Europeia.
+4 - O disposto no número anterior não é aplicável quando o destinatário, por motivos comerciais, limite o acesso de
+R
+chamadas provenientes de áreas geográficas específicas.
+5 - Os preços aplicáveis às chamadas para números não geográficos podem ser diferenciados consoante tenham origem
+no território nacional ou no seu exterior.
+D
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 44.º-A
+Números harmonizados destinados a serviços de valor social
+1 - Compete à ARN garantir que a gama de numeração '116' do PNN seja reservada para a prestação de serviços
+harmonizados de valor social, nos termos da Decisão n.º 2007/116/CE, da Comissão Europeia, de 15 de Fevereiro,
+designadamente uma linha de comunicação de casos de crianças desaparecidas acessível através do número '116000'.
+2 - Compete à ARN determinar medidas que assegurem que os utilizadores finais com deficiência, incluindo os nacionais
+de outros Estados membros quando se encontrem em território nacional, possam aceder ao máximo aos serviços
+prestados através das gamas de numeração '116' de forma equivalente aos demais utilizadores finais, baseando-se, para o
+efeito, nas normas e especificações aplicáveis nos termos do disposto no artigo 29.º
+3 - Constitui direito dos utilizadores finais, incluindo os cidadãos de outros Estados membros quando se encontrem em
+território nacional, obter informações adequadas acerca da existência e utilização dos serviços prestados pela gama de
+numeração '116'.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 45.º
+Barramento selectivo de comunicações
+1 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público que sirvam de suporte à prestação de serviços de audiotexto devem garantir, como regra, que o acesso a estes
+serviços se encontre barrado sem quaisquer encargos, só podendo aquele ser activado, genérica ou selectivamente, após
+pedido escrito efectuado pelos respectivos assinantes.
+2 - (Revogado.)
+3 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao
+Versão à data de 18-04-2018 Pág. 26 de 75Legislação Consolidada
+público que sirvam de suporte à prestação de serviços de valor acrescentado baseados no envio de mensagem, incluindo
+SMS (short message service) ou MMS (multimedia messaging service), devem garantir que se encontre barrado, sem
+quaisquer encargos, o acesso a:
+a) Serviços que impliquem o envio de mais de uma mensagem ou o envio de mensagens de forma periódica ou
+continuada; ou
+b) Serviços que tenham conteúdo erótico ou sexual.
+4 - O acesso aos serviços referidos no número anterior só pode ser ativado, genérica ou seletivamente, após pedido escrito
+efetuado pelos respetivos assinantes ou através de outro suporte durável à sua disposição.
+5 - A pedido dos respetivos assinantes, as empresas que oferecem redes de comunicações públicas ou serviços de
+comunicações eletrónicas acessíveis ao público que sirvam de suporte à prestação de serviços de valor acrescentado
+baseados no envio de mensagem devem, sem quaisquer encargos, barrar as comunicações, para tais serviços,
+independentemente da existência de contrato com o prestador desses serviços ou da sua eventual resolução.
+6 - Para efeitos do número anterior, o barramento deve ser efetuado até 24 horas após a solicitação do assinante, por
+escrito ou através de outro suporte durável à sua disposição e facilmente utilizável, não lhe podendo ser imputados
+quaisquer custos associados à prestação dos serviços cujo barramento foi solicitado, após esse prazo.
+7 - A ARN pode fixar os elementos necessários exigíveis para fazer prova da legitimidade para requerer o barramento ou
+desbloqueio dos serviços previstos nos números anteriores.
+8 - Sempre que considere adequado, a ARN pode determinar às empresas que oferecem redes de comunicações públicas
+ou serviços de comunicações electrónicas acessíveis ao público Eque, a pedido dos respectivos assinantes, assegurem o
+barramento selectivo e gratuito de comunicações, de saída ou de entrada, de aplicações análogas às referidas no n.º 3 ou
+para outros tipos definidos de números.
+R
+9 - Sempre que lhes seja determinado pelas autoridades competentes, com fundamento na existência de fraude ou
+utilização abusiva, as empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas
+acessíveis ao público devem bloquear, caso a caso, o acesso a determinados números ou serviços e reter as receitas
+D
+provenientes da interligação com os mesmos.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 42/2013 - Diário da República n.º 126/2013, Série I de 2013-07-03
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 46.º
+Mecanismos de prevenção de contratação
+1 - As empresas que oferecem redes e serviços de comunicações electrónicas ficam habilitadas por esta lei, directamente
+ou por intermédio das suas associações representativas, a criar e a gerir mecanismos que permitam identificar os
+assinantes que não tenham satisfeito as suas obrigações de pagamento relativamente aos contratos celebrados,
+nomeadamente através da criação de uma base de dados partilhada.
+2 - A entidade gestora da base de dados deve elaborar as respectivas condições de funcionamento, solicitando o parecer
+prévio da ARN, e submetê-las a aprovação da Comissão Nacional de Protecção de Dados (CNPD).
+3 - Os mecanismos instituídos devem respeitar as seguintes condições, sem prejuízo do regime aplicável à protecção de
+dados pessoais e da privacidade:
+a) Os dados a incluir devem circunscrever-se aos elementos absolutamente essenciais à identificação dos assinantes
+incumpridores;
+b) Garantia do direito de acesso, rectificação e actualização dos dados pelo respectivo titular;
+c) Obrigação de informação nos contratos ou de advertência expressa aos assinantes que já tenham contrato celebrado da
+possibilidade da inscrição dos seus dados na base de dados em caso de incumprimento das obrigações contratuais,
+explicitando o montante da dívida a partir do qual se processa a inscrição dos dados dos assinantes naquela base e os
+mecanismos que podem ser usados para impedir aquela inclusão;
+d) Garantia de que previamente à inclusão de dados dos assinantes na base estes são notificados para, em prazo não
+inferior a cinco dias, sanar o incumprimento contratual, regularizar o seu saldo devedor ou demonstrar a sua inexistência ou
+inexigibilidade;
+e) Obrigação de informar os assinantes, no prazo de cinco dias, de que os seus dados foram incluídos na base de dados;
+f) As empresas que pretendam aceder aos elementos disponibilizados devem igualmente fornecer os elementos
+Versão à data de 18-04-2018 Pág. 27 de 75Legislação Consolidada
+necessários relativos aos contratos por si celebrados em que existam quantias em dívida;
+g) Todos os elementos recebidos devem ser exclusivamente utilizados pelas empresas participantes nos mecanismos
+instituídos, sendo vedada a sua transmissão, total ou parcial, a terceiros, bem como a sua utilização para fins diversos dos
+previstos no número anterior;
+h) Eliminação imediata de todos os elementos relativos ao assinante após o pagamento das dívidas em causa ou quando o
+seu valor seja inferior ao previsto na alínea a) do n.º 4;
+i) Não inclusão de dados relativos a assinantes que tenham apresentado comprovativo da inexistência ou inexigibilidade da
+dívida ou enquanto decorrer a análise, pelo operador ou prestador do serviço, dos argumentos apresentados para
+contestação da existência do saldo devedor ou durante o cumprimento de acordo destinado ao seu pagamento ou ainda de
+dados relativos a assinantes que tenham invocado excepção de não cumprimento do contrato ou que tenham reclamado ou
+impugnado a facturação apresentada;
+j) Garantia do direito a indemnização do assinante, nos termos da lei geral, em caso de inclusão indevida dos seus
+elementos nos mecanismos instituídos.
+4 - As condições de funcionamento da base de dados devem garantir o disposto no número anterior e delas deve constar
+nomeadamente o seguinte:
+a) Montante mínimo de crédito em dívida para que o assinante seja incluído na base de dados, o qual não pode ser inferior
+a 20 % da remuneração mínima mensal garantida;
+b) Identificação das situações de incumprimento susceptíveis de registo na base de dados, com eventual distinção de
+categorias de assinantes atento o montante em dívida; E
+c) Fixação de um período de mora a partir do qual se permite a integração na base de dados;
+R
+d) Identificação dos dados susceptíveis de inclusão;
+e) Período de permanência máximo de dados na base.
+5 - As empresas que oferecem redes e serviços de comunicações electrónicas podem recusar a celebração de um contrato
+D
+relativamente a um assinante que tenha quantias em dívida respeitantes a contratos anteriores celebrados com a mesma
+ou outra empresa, salvo se o assinante tiver invocado excepção de não cumprimento do contrato ou tiver reclamado ou
+impugnado a facturação apresentada.
+6 - O regime previsto no número anterior não é aplicável aos prestadores de serviço universal, os quais não podem
+recusar-se a contratar no âmbito do serviço universal, sem prejuízo do direito de exigir a prestação de garantias.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 47.º
+Obrigação de publicar informações
+1 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao
+público são obrigadas a disponibilizar ao público, bem como a quem manifeste intenção de subscrever um contrato de
+prestação de serviços por elas prestado, informações adequadas, transparentes, comparáveis e atualizadas sobre os
+termos e condições habituais em matéria de acesso e utilização dos serviços que prestam aos utilizadores finais e aos
+consumidores, explicitando, detalhadamente, os seus preços e demais encargos, bem como, quando aplicável, os relativos
+à cessação dos contratos.
+2 - Para efeitos do disposto no número anterior, devem aquelas empresas publicar e assegurar que se encontram
+disponíveis e facilmente acessíveis nos seus sítios na Internet e nos pontos de venda dos serviços, de acordo com o
+definido pela ARN, as seguintes informações, que devem também ser entregues, previamente, a quem com elas pretenda
+celebrar um contrato de prestação de serviços:
+a) Identificação do prestador, indicando nome, forma de contacto e endereço da sede da empresa que fornece redes de
+comunicações públicas ou serviços acessíveis ao público;
+b) Serviços de comunicações eletrónicas acessíveis ao público que oferecem, contendo, entre outros, os seguintes
+elementos:
+i) Descrição dos serviços oferecidos, bem como das várias prestações e funcionalidades que nos mesmos se incluem,
+indicando a área geográfica em que os mesmos se encontram disponíveis;
+ii) Níveis de qualidade de serviço oferecidos;
+c) Preços normais, explicitando os valores devidos por cada um dos serviços prestados e o conteúdo de cada elemento do
+Versão à data de 18-04-2018 Pág. 28 de 75Legislação Consolidada
+preço, abrangendo, designadamente:
+i) Encargos relativos à ativação do serviço e acesso, utilização e manutenção;
+ii) Informações detalhadas sobre os descontos normais aplicados e sistemas tarifários especiais ou específicos, eventuais
+encargos adicionais;
+iii) Custos relativos a equipamentos terminais alugados ou cuja propriedade transite para o cliente;
+iv) Encargos decorrentes da cessação do contrato, incluindo a devolução de equipamentos ou com penalizações por
+cessação antecipada por iniciativa dos assinantes;
+d) Sistemas de indemnizações ou reembolsos, incluindo informações específicas sobre as respectivas modalidades,
+quando existentes;
+e) Tipos de serviços de manutenção oferecidos;
+f) Condições contratuais típicas, incluindo eventuais períodos contratuais mínimos, condições de cessação do contrato,
+procedimentos e encargos relacionados com a portabilidade dos números e outros identificadores, quando existentes, bem
+como a indicação das formalidades e documentos a apresentar com o pedido de portabilidade para a denúncia do contrato;
+g) Mecanismos de resolução de conflitos, incluindo os criados pela empresa que oferece a rede ou o serviço.
+3 - As empresas obrigadas a publicar e disponibilizar as informações referidas nos números anteriores devem comunicá-las
+à ARN.
+4 - As informações publicadas pelas empresas nos termos dos números anteriores podem ser utilizadas gratuitamente para
+efeitos de venda ou disponibilização de guias interactivos ou Eoutros mecanismos de informação e comparação de
+condições de oferta que permitam aos consumidores e demais utilizadores finais uma avaliação isenta do custo de padrões
+alternativos de consumo.
+R
+5 - A ARN pode promover ou assegurar a disponibilização ao público dos mecanismos referidos no número anterior,
+nomeadamente quando verifique que os mesmos não estão disponíveis gratuitamente ou a um preço acessível.
+D
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 47.º-A
+Obrigação de prestar informações aos assinantes
+1 - Sem prejuízo das informações publicadas nos termos do artigo 47.º, a ARN pode determinar às empresas que oferecem
+redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao público a prestação de
+informações aos assinantes sobre:
+a) Os preços aplicáveis a comunicações dirigidas a determinados números ou serviços sujeitos a condições tarifárias
+especiais;
+b) Qualquer mudança no acesso aos serviços de emergência ou na disponibilização de informação sobre a localização da
+pessoa que efectua a chamada;
+c) Qualquer mudança das condições relativas à restrição do acesso ou da utilização dos serviços e aplicações;
+d) Eventuais procedimentos instaurados pela empresa para medir e condicionar o tráfego de modo a evitar que seja
+esgotada a capacidade num segmento de rede ou impedir que a capacidade contratada seja ultrapassada, indicando as
+repercussões desta medida na qualidade do serviço oferecido;
+e) O direito de inclusão, ou não, dos seus dados pessoais em listas;
+f) Características dos produtos e serviços destinados a assinantes portadores de deficiência, quando aplicável;
+g) A duração remanescente do contrato, sempre que haja períodos de fidelização, bem como os encargos associados à
+cessação antecipada do mesmo por iniciativa do assinante.
+2 - Compete à ARN fixar a forma e periodicidade da comunicação ao assinante das informações referidas no número
+anterior, podendo determinar, no caso das informações previstas na alínea a), que, relativamente a certas categorias de
+serviços, a comunicação dos preços é assegurada imediatamente antes de a chamada ser efectuada.
+3 - As empresas referidas no n.º 1 que estabeleçam com os seus assinantes períodos de fidelização são obrigadas a
+fornecer-lhes, através dos meios que habitualmente utilizam na sua comunicação regular com os mesmos, no momento e
+sempre que tal seja solicitado, toda a informação relativa à duração remanescente do seu contrato, bem como o valor
+associado à rescisão antecipada do mesmo.
+4 - As empresas referidas no n.º 1 são obrigadas a fornecer aos assinantes, mediante solicitação das autoridades públicas
+Versão à data de 18-04-2018 Pág. 29 de 75Legislação Consolidada
+competentes, sem quaisquer encargos e quando adequado, informações de interesse público, utilizando os meios que
+habitualmente utilizam na sua comunicação regular com esses assinantes.
+5 - Em relação ao contrato que estabeleça um período de fidelização, inicial ou sucessivo, as empresas referidas no n.º 1
+devem:
+a) Conservar, no caso de celebração por telefone, a gravação das chamadas telefónicas durante todo o período de
+vigência acordado, inicial ou sucessivo, acrescido do correspondente prazo de prescrição e caducidade;
+b) Assegurar, no caso das vendas presenciais, através de qualquer meio escrito, que o assinante é convenientemente
+informado dos períodos de vigência acordados.
+6 - As informações a que se refere o n.º 4 devem ser prestadas pelas autoridades públicas competentes num formato
+normalizado e podem abranger, nomeadamente, informação sobre as consequências legais que podem advir da utilização
+dos serviços de comunicações eletrónicas para a prática de atos ilícitos, divulgação de conteúdos nocivos, incluindo
+violação de direitos de autor e direitos conexos, assim como informação sobre os meios de proteção contra riscos para a
+segurança pessoal, para a privacidade e para os dados pessoais na utilização dos serviços de comunicações eletrónicas.
+7 - As informações referidas nos n.os 4 e 6 são da exclusiva responsabilidade da autoridade pública que solicita a sua
+divulgação e estão circunscritas ao espaço definido pelas empresas obrigadas à sua publicitação, não podendo estas
+obstaculizar ou impedir a clara perceção das informações relativas às condições de oferta dos serviços de comunicações
+eletrónicas.
+Alterações E
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+R
+Artigo 48.º
+Contratos
+D
+1 - Sem prejuízo da legislação aplicável à defesa do consumidor, a oferta de redes de comunicações públicas ou serviços
+de comunicações electrónicas acessíveis ao público é objecto de contrato, do qual devem obrigatoriamente constar, de
+forma clara, exaustiva e facilmente acessível, os seguintes elementos:
+a) A identidade e o endereço do fornecedor;
+b) Os serviços fornecidos, os respetivos níveis de qualidade mínima, designadamente o tempo necessário para a ligação
+inicial, bem como os níveis para os demais parâmetros de qualidade de serviço que sejam fixados nos termos do artigo
+40.º;
+c) Restrições impostas à utilização de equipamentos terminais fornecidos, eventuais limitações no acesso e à utilização de
+serviços, bem como medidas implementadas para condicionar o tráfego de modo a evitar esgotar ou ultrapassar a
+capacidade contratada, indicando, neste caso, o modo como esses procedimentos se poderão repercutir na qualidade do
+serviço;
+d) Informação sobre a disponibilização, ou falta de disponibilização, do acesso aos serviços de emergência e à informação
+de localização da pessoa que efetua a chamada, bem como sobre a existência de quaisquer limitações à oferta dos
+serviços de emergência, nos termos do artigo 51.º;
+e) Os tipos de serviços de apoio e manutenção oferecidos, bem como as formas de os contactar;
+f) Os detalhes dos preços e os meios de obtenção de informações actualizadas sobre todos os preços e encargos de
+manutenção aplicáveis, bem como as formas de pagamento e eventuais encargos ou penalizações inerentes a cada uma
+delas;
+g) A duração do contrato, as condições de renovação, suspensão e de cessação dos serviços e do contrato;
+h) Os sistemas de indemnização ou de reembolso dos assinantes, aplicáveis em caso de incumprimento dos níveis de
+qualidade de serviço previstos no contrato;
+i) Quando seja o caso, a existência do direito de livre resolução do contrato, o respetivo prazo e o procedimento para o
+exercício do direito, nos termos do Decreto-Lei n.º 24/2014, de 14 de fevereiro;
+j) As condições em que é disponibilizada a facturação detalhada;
+l) Indicação expressa da vontade do assinante sobre a inclusão ou não dos respectivos elementos pessoais nas listas
+telefónicas e sua divulgação através dos serviços informativos, envolvendo ou não a sua transmissão a terceiros, nos
+termos da legislação relativa à protecção de dados pessoais.
+m) Indicação da possibilidade de inscrição dos dados do assinante na base de dados prevista no artigo 46.º;
+n) Medidas que o fornecedor poderá adoptar na sequência de incidentes relativos à segurança ou à integridade da rede ou
+Versão à data de 18-04-2018 Pág. 30 de 75Legislação Consolidada
+para reagir a ameaças ou situações de vulnerabilidade;
+o) Medidas de protecção do assinante contra riscos para a segurança pessoal, para a privacidade e para os dados
+pessoais.
+2 - A informação relativa à duração dos contratos, incluindo as condições da sua renovação e cessação, deve ser clara,
+percetível, disponibilizada em suporte duradouro e incluir as seguintes indicações:
+a) Eventual período de fidelização, cuja existência depende da atribuição de qualquer vantagem ao consumidor,
+identificada e quantificada, associada à subsidiação de equipamentos terminais, à instalação e ativação do serviço ou a
+outras condições promocionais;
+b) Eventuais encargos decorrentes da portabilidade dos números e outros identificadores;
+c) Eventuais encargos decorrentes da cessação antecipada do contrato durante o período de fidelização, por iniciativa do
+assinante, nomeadamente em consequência da recuperação de custos associados à subsidiação de equipamentos
+terminais, à instalação e ativação do serviço ou a outras condições promocionais.
+3 - Quando o contrato a que se refere o n.º 1 for celebrado por telefone ou através de outro meio de comunicação à
+distância, o prestador do serviço, ou seu representante, deve facultar ao consumidor, antes da celebração do contrato, sob
+pena de nulidade deste, todas as informações referidas nos n.os 1 e 2, ficando o consumidor vinculado apenas depois de
+assinar proposta contratual ou enviar o seu consentimento escrito ao fornecedor de bens ou prestador de serviços, exceto
+nos casos em que o primeiro contacto telefónico seja efetuado pelo próprio consumidor.
+4 - É interdito às empresas que oferecem redes e ou serviços de comunicações eletrónicas opor-se à denúncia dos
+contratos por iniciativa dos assinantes, com fundamento na existêEncia de um período de fidelização, ou exigirem quaisquer
+encargos por incumprimento de um período de fidelização, se não possuírem prova da manifestação de vontade do
+consumidor referida no número anterior.
+R
+5 - A duração total do período de fidelização nos contratos de prestação de serviços de comunicações eletrónicas
+celebrados com consumidores não pode ser superior a 24 meses, sem prejuízo do disposto no número seguinte.
+6 - Excecionalmente, podem estabelecer-se períodos adicionais de fidelização, até ao limite de 24 meses, desde que,
+D
+cumulativamente:
+a) As alterações contratuais impliquem a atualização de equipamentos ou da infraestrutura tecnológica;
+b) Haja uma expressa aceitação por parte do consumidor.
+7 - Qualquer suporte duradouro, incluindo gravação telefónica, relacionado com a celebração, alteração ou cessação do
+contrato de comunicações eletrónicas deve ser conservado pelas empresas pelo período previsto na alínea a) do n.º 5 do
+artigo 47.º-A e disponibilizado à ARN ou ao assinante sempre que tal seja requerido por uma ou outro.
+8 - As empresas que prestam serviços de comunicações eletrónicas acessíveis ao público devem oferecer a todos os
+utilizadores a possibilidade de celebrarem contratos sem qualquer tipo de fidelização, bem como contratos com 6 e 12
+meses de período de fidelização, por cada benefício concedido ao utilizador, devendo publicitar:
+a) Nos mesmos suportes em que seja publicitada a oferta com fidelização, de forma claramente legível, a oferta sem
+fidelização;
+b) De forma facilmente acessível pelos consumidores, no caso de existir fidelização, a relação entre custo e benefício
+associada às diferentes ofertas comerciais, permitindo a comparação da mesma oferta com diferentes períodos de
+fidelização, sempre que existam.
+9 - A ARN pode solicitar às empresas, nos termos do artigo 108.º, que demonstrem o valor conferido à vantagem
+justificativa do período de fidelização identificada e quantificada nos termos da alínea a) do n.º 2.
+10 - Sem prejuízo da existência de períodos de fidelização, iniciais ou posteriores, nos termos da presente lei, as empresas
+não devem estabelecer condições contratuais desproporcionadas ou procedimentos de resolução dos contratos
+excessivamente onerosos e desincentivadores da mudança de prestador de serviço por parte do assinante, cabendo a
+fiscalização das mesmas à ARN.
+11 - Durante o período de fidelização, os encargos para o assinante, decorrentes da resolução do contrato por sua
+iniciativa, não podem ultrapassar os custos que o fornecedor teve com a instalação da operação, sendo proibida a
+cobrança de qualquer contrapartida a título indemnizatório ou compensatório.
+12 - Os encargos pela cessação antecipada do contrato com período de fidelização, por iniciativa do assinante, devem ser
+proporcionais à vantagem que lhe foi conferida e como tal identificada e quantificada no contrato celebrado, não podendo
+em consequência corresponder automaticamente à soma do valor das prestações vincendas à data da cessação.
+13 - Para efeitos do disposto no número anterior, no caso de subsidiação de equipamentos terminais, os encargos devem
+ser calculados nos termos da legislação aplicável e, nas demais situações, não podem ser superiores ao valor da vantagem
+conferida que, na proporção do período da duração do contrato fixada, ainda esteja por recuperar pela empresa que presta
+Versão à data de 18-04-2018 Pág. 31 de 75Legislação Consolidada
+o serviço, na data em que produz efeitos a sua cessação antecipada.
+14 - Findo o período de fidelização e na ausência de acordo relativamente ao estabelecimento de um novo período de
+fidelização nos termos do número seguinte, o valor a fixar como contrapartida pela prestação dos serviços não pode ser
+superior aos preços normais que pelo mesmo são devidos àquela data, abrangendo, apenas, os encargos relativos ao
+acesso, utilização e manutenção.
+15 - No decurso do período de fidelização ou no seu termo não pode ser estabelecido novo período de fidelização, exceto
+se, por vontade do assinante validamente expressa nos termos do n.º 3, for contratada a disponibilização subsidiada de
+novos equipamentos terminais ou a oferta de condições promocionais devidamente identificadas e quantificadas e que, em
+caso algum, podem abranger vantagens cujos custos já foram recuperados em período de fidelização anterior.
+16 - Sempre que a empresa proceda por sua iniciativa a uma alteração de qualquer das condições contratuais referidas no
+n.º 1, deve comunicar por escrito aos assinantes a proposta de alteração, por forma adequada, com uma antecedência
+mínima de 30 dias, devendo simultaneamente informar os assinantes do seu direito de rescindir o contrato sem qualquer
+encargo, no caso de não aceitação das novas condições, no prazo fixado no contrato, salvo nos casos em que as
+alterações sejam propostas exclusiva e objetivamente em benefício dos assinantes.
+18 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público devem depositar na ARN e na Direcção-Geral do Consumidor (DGC) um exemplar dos contratos que envolvam,
+ainda que parcialmente, a adesão a cláusulas contratuais gerais que utilizem para a oferta de redes e serviços.
+19 - O depósito a que se refere o número anterior deve ser realizado no prazo máximo de dois dias úteis sobre a data em
+que for iniciada a utilização do contrato de adesão e, sempre quEe este se destine a substituir um contrato anteriormente
+utilizado, deve indicar qual o modelo que o contrato depositado visa substituir.
+20 - A ARN determina, seguindo, para o efeito, o procedimento previsto no artigo 110.º, a imediata cessação da utilização
+R
+de práticas e dos contratos em uso pelas empresas que oferecem redes de comunicações públicas ou serviços de
+comunicações eletrónicas acessíveis ao público ou a sua adaptação, quando verifique:
+a) A sua desconformidade com as regras fixadas na legislação cuja aplicação lhe cabe supervisionar ou com qualquer
+D
+determinação proferida no âmbito das suas competências;
+b) A manifesta desproporcionalidade das práticas e dos contratos face aos serviços disponibilizados no momento da
+celebração, renovação ou alteração de contratos, nomeadamente quanto aos respetivos prazos de duração.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 48.º-A
+Reclamações de utilizadores finais
+1 - As empresas de comunicações electrónicas devem implementar procedimentos adequados ao tratamento célere e
+harmonizado de reclamações que lhes sejam apresentadas pelos utilizadores finais.
+2 - A ARN pode definir requisitos a observar nos procedimentos referidos no número anterior.
+3 - A ARN deve ordenar a investigação de queixas ou reclamações de que tome conhecimento no exercício das suas
+funções e, nos casos em que esteja em causa o incumprimento de disposições cuja observância lhe caiba supervisionar,
+pode ordenar a adopção de medidas correctivas.
+4 - A ARN publica um relatório no seu sítio na Internet com informação sobre as reclamações e demais solicitações
+apresentadas pelos utilizadores finais relativamente aos serviços oferecidos pelas empresas de comunicações electrónicas,
+abrangendo todo o tipo de reclamações, independentemente do modo e forma de apresentação.
+5 - O relatório a que alude o número anterior deve conter, entre outros elementos, informação sobre o volume de
+reclamações e solicitações recebidas pela ARN, identificar os prestadores e os serviços em causa e, dentro de cada
+serviço, as matérias que são objecto de reclamação.
+6 - O relatório referido no número anterior deve ser publicado, no mínimo, com uma periodicidade anual.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 48.º-B
+Resolução extrajudicial de conflitos
+Versão à data de 18-04-2018 Pág. 32 de 75Legislação Consolidada
+1 - Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos
+consumidores, os utilizadores finais podem submeter os conflitos surgidos com as empresas de comunicações electrónicas
+aos mecanismos de resolução extrajudicial de conflitos legalmente constituídos.
+2 - Compete à ARN fomentar o desenvolvimento de mecanismos simples, transparentes, económicos em função dos
+diversos tipos de utilizadores finais e não discriminatórios para a resolução célere, equitativa e imparcial de conflitos,
+nomeadamente os relacionados com condições contratuais ou execução de contratos que titulam o fornecimento de redes
+ou serviços de comunicações electrónicas entre as empresas de comunicações electrónicas e os utilizadores finais.
+3 - Para efeitos do disposto no número anterior, a ARN pode estabelecer acordos de cooperação ou participar na
+constituição de entidades que tenham por objecto assegurar os referidos mecanismos.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 49.º
+Disponibilidade dos serviços
+1 - As empresas que oferecem serviços telefónicos acessíveis ao público através de redes de comunicações públicas
+devem assegurar a maior disponibilidade possível dos serviços em situações de ruptura da rede, situações de emergência
+ou de força maior.
+E
+2 - As empresas que prestam serviços telefónicos acessíveis ao público devem tomar todas as medidas necessárias para
+assegurar o acesso ininterrupto aos serviços de emergência.
+3 - (Revogado).
+R
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+D
+Artigo 50.º
+Serviços de informações de listas telefónicas
+1 - Os assinantes dos serviços telefónicos acessíveis ao público têm o direito de figurar na lista completa à disposição do
+público, prevista na alínea a) do n.º 1 do artigo 89.º, e que os seus dados pessoais sejam disponibilizados aos prestadores
+de serviços de informações de listas e de listas acessíveis ao público.
+2 - Os utilizadores finais dos serviços telefónicos acessíveis ao público têm o direito de acesso aos serviços de informações
+de listas disponibilizados ao público em geral, competindo à ARN, quando necessário para garantir aquele direito,
+determinar a adopção de medidas, designadamente impondo obrigações, nos termos previstos no artigo 77.º
+3 - Não podem ser impostas restrições regulamentares que impeçam os utilizadores finais de um Estado membro de
+acederem directamente aos serviços de informações de listas de outro Estado membro através de comunicações vocais ou
+por SMS.
+4 - As empresas que atribuem números de telefone a assinantes devem satisfazer todos os pedidos razoáveis de
+fornecimento de informações pertinentes sobre os respectivos assinantes, solicitadas para efeitos de oferta de serviços de
+informações de listas e de listas acessíveis ao público, mediante um formato acordado e em condições justas, objectivas,
+orientadas para os custos e não discriminatórias.
+5 - O disposto no presente artigo fica sujeito às normas aplicáveis à protecção de dados pessoais e da privacidade, em
+particular no domínio das comunicações electrónicas.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 51.º
+Serviços de emergência e número único de emergência europeu
+1 - Constitui direito dos utilizadores finais de serviços de comunicações electrónicas que permitam efectuar chamadas
+nacionais para números incluídos no Plano Nacional de Numeração, incluindo os utilizadores de postos públicos, aceder
+gratuitamente e sem ter de recorrer a qualquer meio de pagamento aos serviços de emergência utilizando o número único
+de emergência europeu '112' e qualquer outro número nacional de emergência especificado pela ARN, devidamente
+Versão à data de 18-04-2018 Pág. 33 de 75Legislação Consolidada
+identificado no referido Plano.
+2 - As empresas que fornecem um serviço de comunicações electrónicas que permite efectuar chamadas para um número
+ou números incluídos no Plano Nacional de Numeração devem assegurar o direito de acesso referido no número anterior e
+disponibilizar gratuitamente à autoridade responsável pelo tratamento das chamadas de emergência as informações sobre
+a localização da pessoa que efectua a chamada, no momento em que esta é recebida, no que respeita a todas as
+chamadas para o número único de emergência europeu.
+3 - Compete à ARN estabelecer, por regulamento, os critérios de precisão e de fiabilidade da informação sobre a
+localização a fornecer à autoridade responsável pelo tratamento das chamadas de emergência.
+4 - A entidade responsável pelo atendimento e tratamento das chamadas de emergência deve adoptar as medidas
+necessárias a garantir a adequada divulgação, em Portugal, da existência e da utilização do número único europeu de
+chamadas de emergência, designadamente através de iniciativas destinadas a cidadãos estrangeiros que se encontrem em
+viagem no território nacional, bem como assegurar o apropriado e eficiente atendimento e tratamento das chamadas
+efectuadas para o número único europeu de emergência '112' ou para o número ou números nacionais de emergência que
+permaneçam em actividade.
+5 - As empresas referidas no n.º 2 devem disponibilizar aos utilizadores finais com deficiência o acesso aos serviços de
+emergência de nível equivalente ao dos restantes utilizadores finais, devendo sempre que possível seguir as normas e
+especificações europeias publicadas nos termos previstos no artigo 29.º, sem prejuízo da adopção de requisitos
+suplementares mais exigentes destinados a assegurar o acesso aos referidos serviços.
+E
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+R
+Artigo 52.º
+Suspensão e extinção do serviço prestado a assinantes não consumidores
+D
+1 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao
+público apenas podem suspender a prestação dos serviços que prestam a assinantes que não sejam consumidores após
+pré-aviso adequado ao assinante, salvo caso fortuito ou de força maior.
+2 - Em caso de não pagamento de faturas, a suspensão apenas pode ocorrer após advertência por escrito ao assinante,
+com a antecedência mínima de 20 dias, que justifique o motivo da suspensão e informe o assinante dos meios ao seu
+dispor para a evitar.
+3 - Nos casos referidos no número anterior, o assinante tem a faculdade de pagar e obter quitação de apenas parte das
+quantias constantes da factura, devendo, sempre que tecnicamente possível, a suspensão limitar-se ao serviço em causa,
+excepto em situações de fraude ou de pagamento sistematicamente atrasado ou em falta.
+4 - Durante o período de suspensão e até à extinção do serviço, deve ser garantido ao assinante o acesso a chamadas que
+não impliquem pagamento, nomeadamente as realizadas para o número único de emergência europeu.
+5 - A extinção do serviço por não pagamento de facturas apenas pode ter lugar quando a dívida seja exigível e após aviso
+adequado, de oito dias, ao assinante.
+Alterações
+Alterado pelo/a Artigo 4.º do/a Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 52.º-A
+Suspensão e extinção do serviço prestado a assinantes consumidores
+1 - Quando esteja em causa a prestação de serviços a assinantes que sejam consumidores, as empresas que oferecem
+redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao público devem, na falta de
+pagamento dos valores constantes da fatura, emitir um pré-aviso ao consumidor, concedendo-lhe um prazo adicional para
+pagamento, de 30 dias, sob pena de suspensão do serviço e de, eventualmente, haver lugar à resolução automática do
+contrato, nos termos do n.os 3 e 7, respetivamente.
+2 - O pré-aviso a que se refere o número anterior é comunicado por escrito ao consumidor no prazo de 10 dias após a data
+de vencimento da fatura, devendo indicar especificamente a consequência do não pagamento, nomeadamente a
+Versão à data de 18-04-2018 Pág. 34 de 75Legislação Consolidada
+suspensão do serviço e a resolução automática do contrato, e informá-lo dos meios ao seu dispor para as evitar.
+3 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao
+público devem obrigatoriamente, no prazo de 10 dias após o fim do prazo adicional previsto no n.º 1, suspender o serviço,
+por um período de 30 dias, sempre que, decorrido aquele prazo, o consumidor não tenha procedido ao pagamento ou não
+tenha celebrado com a empresa qualquer acordo de pagamento por escrito com vista à regularização dos valores em
+dívida.
+4 - A suspensão do serviço não tem lugar nas situações em que os valores da fatura sejam objeto de reclamação por
+escrito junto da empresa, com fundamento na inexistência ou na inexigibilidade da dívida, até à data em que deverá ter
+início a suspensão.
+5 - À suspensão prevista no presente artigo é aplicável o disposto nos n.os 3 e 4 do artigo anterior.
+6 - O consumidor pode fazer cessar a suspensão, procedendo ao pagamento dos valores em dívida ou à celebração de um
+acordo de pagamento por escrito com a empresa que oferece redes de comunicações públicas ou serviços de
+comunicações eletrónicas acessíveis ao público, casos em que esta deve repor a prestação do serviço imediatamente ou,
+quando tal não seja tecnicamente possível, no prazo de cinco dias úteis a contar da data do pagamento ou da celebração
+do acordo de pagamento, consoante aplicável.
+7 - Findo o período de 30 dias de suspensão sem que o consumidor tenha procedido ao pagamento da totalidade dos
+valores em dívida ou sem que tenha sido celebrado um acordo de pagamento por escrito, o contrato considera-se
+automaticamente resolvido.
+8 - A resolução prevista no número anterior não prejudica a cobErança de uma contrapartida a título indemnizatório ou
+compensatório pela resolução do contrato durante o período de fidelização, nos termos e com os limites do disposto no
+Decreto-Lei n.º 56/2010, de 1 de junho.
+R
+9 - A falta de pagamento de qualquer das prestações acordadas no acordo de pagamento importa obrigatoriamente a
+resolução do contrato, mediante pré-aviso escrito ao consumidor com a antecedência prevista no n.º 5 do artigo 52.º,
+aplicando-se o disposto no número anterior.
+D
+10 - O incumprimento do disposto no presente artigo por parte da empresa que oferece redes de comunicações públicas ou
+serviços de comunicações eletrónicas acessíveis ao público, nomeadamente a continuação da prestação do serviço em
+violação do disposto no n.º 3 ou a emissão de faturas após o momento em que a prestação do serviço deve ser suspensa,
+determina a não exigibilidade, ao consumidor, das contraprestações devidas pela prestação do serviço e a
+responsabilidade pelo pagamento das custas processuais devidas pela cobrança do crédito.
+11 - O disposto no número anterior não é aplicável à emissão de faturas após a suspensão da prestação do serviço que
+respeitem a serviços efetivamente prestados em momento anterior à suspensão ou às contrapartidas legalmente previstas
+em caso de resolução antecipada do contrato.
+12 - Aplica-se à suspensão do serviço por motivos não relacionados com o não pagamento de faturas o disposto no n.º 1
+do artigo 52.º
+Alterações
+Aditado pelo/a Artigo 5.º do/a Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28
+Artigo 53.º
+Oferta de recursos adicionais
+1 - As empresas que oferecem redes de comunicações públicas ou serviços telefónicos acessíveis ao público estão
+obrigadas a disponibilizar aos utilizadores finais, sempre que técnica e economicamente viável, os seguintes recursos:
+a) Marcação em multifrequência - DTMF, garantindo que a rede de comunicações pública ou os serviços telefónicos
+acessíveis ao público suportem a utilização das tonalidades DTMF definidas na ETSI ETR 207, para a sinalização de
+extremo-a-extremo através da rede;
+b) Identificação da linha chamadora, em conformidade com as normas aplicáveis à protecção de dados pessoais e da
+privacidade, nomeadamente as especificamente aplicáveis ao domínio das comunicações electrónicas.
+2 - Compete à ARN, decorrido o procedimento geral de consulta previsto no artigo 8.º, dispensar o cumprimento do
+disposto no número anterior, na totalidade ou em parte do território nacional, sempre que considere verificada a existência
+de acesso suficiente aos recursos aí referidos.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Versão à data de 18-04-2018 Pág. 35 de 75Legislação Consolidada
+Artigo 54.º
+Portabilidade dos números
+1 - Sem prejuízo de outras formas de portabilidade que venham a ser determinadas, é garantido a todos os assinantes com
+números incluídos no Plano Nacional de Numeração que o solicitem o direito de manter o seu número ou números, no
+âmbito do mesmo serviço, independentemente da empresa que o oferece, no caso de números geográficos, num
+determinado local, e no caso dos restantes números, em todo o território nacional.
+2 - As empresas responsáveis pela execução da portabilidade devem assegurar que a transferência de um assinante de
+uma empresa para outra, com implementação da portabilidade, se conclua no prazo mais curto possível e com respeito
+pela vontade expressa do assinante.
+3 - Quando o assinante conclua um acordo para a transferência do número, a transferência efectiva do número para a nova
+empresa deve ocorrer no prazo máximo de um dia útil, não podendo a perda de serviço exceder esse período.
+4 - Os preços grossistas relacionados com a oferta da portabilidade dos números devem obedecer ao princípio da
+orientação para os custos, não devendo os eventuais encargos directos para os assinantes desincentivar a mudança de
+prestador de serviços.
+5 - Compete à ARN garantir que as empresas disponibilizem aos assinantes informações adequadas e transparentes sobre
+os preços aplicáveis às operações de portabilidade, bem como às chamadas para números portados.
+6 - Não podem ser impostos pela ARN preços de retalho para operações de portabilidade dos números que possam causar
+distorções da concorrência, como sejam preços de retalho específEicos ou comuns.
+7 - Compete à ARN, após o procedimento geral de consulta previsto no artigo 8.º, determinar as regras necessárias à
+execução da portabilidade, incluindo a definição do processo global de portabilidade dos números, tendo em conta as
+R
+disposições nacionais sobre contratos, a viabilidade técnica e a necessidade de assegurar a continuidade do serviço ao
+assinante, bem como mecanismos de protecção dos assinantes, nomeadamente a fixação de compensações a pagar pelas
+empresas, em caso de atraso na portabilidade do número ou de portabilidade indevida.
+D
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Capítulo V
+Segurança e integridade das redes e serviços
+Alterações
+Aditado pelo/a Artigo 4.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 54.º-A
+Obrigações das empresas em matéria de segurança e integridade
+1 - As empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público devem adoptar as medidas técnicas e organizacionais adequadas à prevenção, gestão e redução dos riscos para a
+segurança das redes e serviços visando, em especial, impedir ou minimizar o impacte dos incidentes de segurança nas
+redes interligadas, a nível nacional e internacional, e nos utilizadores.
+2 - As empresas que oferecem redes de comunicações públicas são obrigadas a adoptar as medidas adequadas para
+garantir a integridade das respectivas redes, assegurando a continuidade da prestação dos serviços que se suportam nas
+referidas redes.
+3 - As medidas previstas no n.º 1 devem ser adequadas aos riscos existentes tendo em conta o estado da técnica.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 54.º-B
+Obrigações de notificação
+As empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público estão obrigadas a notificar a ARN das violações de segurança ou das perdas de integridade com impacte
+Versão à data de 18-04-2018 Pág. 36 de 75Legislação Consolidada
+significativo no funcionamento das redes e serviços.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 54.º-C
+Medidas de execução
+1 - Para efeitos de disposto no artigo 54.º-A, a ARN pode aprovar e impor às empresas que oferecem redes de
+comunicações públicas ou serviços de comunicações electrónicas acessíveis ao público medidas técnicas de execução.
+2 - Para efeitos do disposto no artigo 54.º-B, compete à ARN aprovar as medidas que definam as circunstâncias, o formato
+e os procedimentos aplicáveis às exigências de comunicação de violações de segurança ou perdas de integridade das
+redes.
+3 - As medidas de execução previstas nos números anteriores devem ser conformes com as decisões da Comissão
+Europeia adoptadas ao abrigo do procedimento previsto no artigo 13.º-A da Directiva n.º 2002/21/CE, do Parlamento
+Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º 2009/140/CE, do Parlamento Europeu e do Conselho,
+de 25 de Novembro, e, na sua ausência, devem basear-se nas normas europeias e internacionais existentes sobre a
+matéria.
+4 - A adopção das medidas de execução referidas nos n.os 1 e 2 está sujeita ao procedimento geral de consulta previsto no
+E
+artigo 8.º
+Alterações
+R
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 54.º-D
+D
+Requisitos adicionais
+Para além das medidas técnicas de execução previstas no artigo anterior, a ARN, para efeitos do disposto no artigo 54.º-A,
+pode fixar às empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas
+acessíveis ao público requisitos adicionais mais exigentes, nomeadamente, determinando o seguinte:
+a) A indicação de um ponto de contacto permanente, para efeitos do disposto no presente capítulo;
+b) A elaboração de um plano actualizado que contemple todas as medidas técnicas e organizacionais adoptadas;
+c) A realização de exercícios de avaliação e melhoria das medidas técnicas e organizacionais adoptadas, bem como a
+participação em exercícios conjuntos;
+d) A elaboração e apresentação à ARN de relatório anual nos termos a fixar, incluindo, nomeadamente, a experiência
+recolhida com incidentes de segurança.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 54.º-E
+Obrigações de informação da ARN
+Compete à ARN:
+a) Informar as autoridades reguladoras competentes dos demais Estados membros e a Agência Europeia para a
+Segurança das Redes e da Informação (ENISA) sempre que entenda que a dimensão ou gravidade das violações de
+segurança ou das perdas de integridade comunicadas nos termos do artigo 54.º-B o justificam;
+b) Informar o público pelos meios mais adequados das violações de segurança ou das perdas de integridade ou determinar
+às empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público que o façam quando tal seja considerado pela ARN como de interesse público;
+c) Apresentar, anualmente, à Comissão Europeia e à ENISA um relatório resumido sobre as comunicações de violações de
+segurança ou de perdas de integridade, efectuadas nos termos do artigo 54.º-B, bem como das medidas tomadas.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Versão à data de 18-04-2018 Pág. 37 de 75Legislação Consolidada
+Artigo 54.º-F
+Auditorias e prestação de informações
+1 - Compete à ARN determinar às empresas que oferecem redes de comunicações públicas ou serviços de comunicações
+electrónicas acessíveis ao público a realização, através de entidades auditoras independentes e a expensas suas, de
+auditoria à segurança das suas redes e serviços, bem como o envio à ARN de relatório com os resultados da mesma.
+2 - Para efeitos do disposto no número anterior:
+a) Compete à ARN estabelecer os requisitos a que devem obedecer as auditorias previstas no número anterior,
+nomeadamente quanto ao seu âmbito, periodicidade, procedimentos e normas de referência, bem como quanto aos
+requisitos aplicáveis às entidades auditoras;
+b) As empresas que oferecem redes de comunicações públicas ou serviços de comunicações electrónicas acessíveis ao
+público devem:
+i) Submeter previamente à ARN a aprovação da entidade auditora;
+ii) Enviar à ARN, em prazo razoável, o plano de correcção das não conformidades constantes do relatório de auditoria.
+3 - Pode ainda a ARN, ou outra entidade independente por si designada, efectuar auditoria de segurança às redes e aos
+serviços, nomeadamente em caso de violação de segurança ou perda de integridade.
+4 - Tendo em vista avaliar a segurança ou a integridade das redes e serviços, compete à ARN, nos termos dos artigos
+108.º e 109.º, exigir às empresas referidas no n.º 1 a prestação de todas as informações necessárias, incluindo
+documentação referente a políticas de segurança. E
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 17R6/2011, Série I de 2011-09-13
+Artigo 54.º-G
+InstDruções vinculativas e investigação
+1 - Para efeitos do disposto nos artigos 54.º-A e 54.º-B e no âmbito das medidas técnicas de execução e dos requisitos
+adicionais adoptados, a ARN pode emitir instruções vinculativas às empresas que oferecem redes de comunicações
+públicas ou serviços de comunicações electrónicas acessíveis ao público, incluindo a fixação de prazos de execução.
+2 - Compete à ARN investigar os casos de incumprimento das disposições e obrigações constantes do presente capítulo e
+seus efeitos sobre a segurança e integridade das redes.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Título IV
+Análise de mercados e controlos regulamentares
+Capítulo I
+Procedimento de análise de mercado e de imposição de obrigações
+Artigo 55.º
+Âmbito e princípios gerais
+1 - O presente título aplica-se às empresas que oferecem redes e serviços acessíveis ao público.
+2 - A análise de mercado e a imposição de obrigações regulamentares específicas devem obedecer ao princípio da
+fundamentação plena da aplicação de obrigações regulamentares específicas.
+3 - Na fundamentação das decisões de aplicação de obrigações regulamentares específicas deve a ARN,
+cumulativamente, demonstrar que a obrigação imposta:
+a) É adequada ao problema identificado, proporcional e justificada à luz dos objectivos básicos consagrados no artigo 5.º
+do presente diploma;
+b) É objectivamente justificável em relação às redes, serviços ou infra-estruturas a que se refere;
+Versão à data de 18-04-2018 Pág. 38 de 75Legislação Consolidada
+c) Não origina uma discriminação indevida relativamente a qualquer entidade;
+d) É transparente em relação aos fins a que se destina.
+Artigo 56.º
+Competência
+Compete à ARN, de acordo com as regras previstas no presente título:
+a) Definir os mercados relevantes de produtos e serviços, tendo em conta a recomendação da Comissão Europeia emitida
+ao abrigo da Directiva n.º 2002/21/CE, do Parlamento Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º
+2009/140/CE, do Parlamento Europeu e do Conselho, de 25 de Novembro, adiante designada por recomendação da
+Comissão Europeia, bem como outros mercados relevantes nela não previstos;
+b) Determinar se um mercado relevante é ou não efectivamente concorrencial;
+c) Declarar as empresas com poder de mercado significativo nos mercados relevantes;
+d) Impor, manter, alterar ou suprimir obrigações às empresas com ou sem poder de mercado significativo, incluindo a
+imposição de condições técnicas ou operacionais aplicáveis ao fornecedor e ou beneficiário do acesso.
+Alterações E
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 57.º
+R
+Procedimento específico de consulta
+1 - Sempre que as decisões a adoptar nos termos do artigo anterior sejam susceptíveis de afectar o comércio entre os
+D
+Estados membros, deve a ARN, após a conclusão do procedimento geral de consulta previsto no artigo 8.º, observar o
+seguinte procedimento destinado à consolidação do mercado interno:
+a) Tornar acessível por meio adequado, simultaneamente à Comissão Europeia, ao ORECE e às autoridades reguladoras
+nacionais dos restantes Estados membros, o projecto de decisão fundamentado indicando as informações que sejam
+confidenciais;
+b) Notificar a Comissão Europeia, o ORECE e as autoridades reguladoras nacionais dos restantes Estados membros de
+que o projecto de decisão se encontra acessível e qual o meio disponibilizado para o acesso.
+2 - A Comissão Europeia, o ORECE e as autoridades reguladoras nacionais podem pronunciar-se sobre o projecto de
+decisão no prazo de um mês, o qual não pode ser prorrogado.
+3 - A ARN, após análise das observações recebidas, as quais devem ser tidas em conta, ou na ausência das mesmas,
+pode aprovar a decisão definitiva, comunicando-a à Comissão Europeia e ao ORECE.
+4 - Exceptuam-se do disposto no número anterior os projectos de decisão da ARN relativos às seguintes matérias sempre
+que se verifique alguma das condições referidas no n.º 5:
+a) Definição de mercados relevantes diferentes dos indicados na recomendação da Comissão Europeia;
+b) Designação ou não de uma empresa com poder de mercado significativo, quer individual quer conjuntamente com
+outras.
+5 - Quando esteja em causa um projecto de decisão referido no número anterior que afecte o comércio entre os Estados
+membros e sempre que a Comissão Europeia, no âmbito do procedimento previsto no n.º 2, tenha informado a ARN que
+considera que o projecto de decisão é susceptível de criar um entrave ao mercado interno, ou que tem sérias dúvidas
+quanto à sua compatibilidade com o direito comunitário, designadamente com os objectivos de regulação enunciados no
+artigo 5.º, a ARN deve adiar a aprovação do projecto de decisão por um prazo adicional de dois meses, improrrogável.
+6 - Quando, no prazo de dois meses referido no número anterior, a Comissão Europeia, após parecer do ORECE e nos
+termos do procedimento previsto na Directiva n.º 2002/21/CE, do Parlamento Europeu e do Conselho, de 7 de Março,
+alterada pela Directiva n.º 2009/140/CE, do Parlamento Europeu e do Conselho, de 25 de Novembro, solicitar
+fundamentadamente à ARN que retire o projecto de decisão, indicando propostas específicas de alteração, a ARN, no
+prazo de seis meses a contar da data de notificação dessa decisão, deve:
+a) Retirar o projecto de decisão, comunicando essa decisão à Comissão Europeia e ao ORECE;
+b) Alterar o projecto de decisão, submetendo-o novamente aos procedimentos geral e específico de consulta, previstos,
+respectivamente, no artigo 8.º e no presente artigo.
+Versão à data de 18-04-2018 Pág. 39 de 75Legislação Consolidada
+7 - Se, no prazo de dois meses previsto no número anterior, a Comissão Europeia decidir retirar as suas reservas sobre o
+projecto de decisão, pode a ARN adoptar a decisão definitiva, comunicando-a à Comissão Europeia e ao ORECE.
+8 - O procedimento estabelecido no presente artigo pode não ser aplicado nos casos previstos nas recomendações ou
+orientações da Comissão Europeia, aprovadas ao abrigo do procedimento previsto na Directiva n.º 2002/21/CE, do
+Parlamento Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º 2009/140/CE, do Parlamento Europeu e do
+Conselho, de 25 de Novembro.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 57.º-A
+Procedimento para aplicação coerente de obrigações regulamentares
+1 - Sempre que o projecto de medida sujeito ao procedimento específico de consulta vise impor, manter, alterar ou suprimir
+obrigações a empresas com ou sem poder de mercado significativo previstas na alínea d) do artigo 56.º e a ARN seja
+notificada fundamentadamente pela Comissão Europeia, no prazo de um mês previsto no n.º 2 do artigo anterior, de que
+esta considera que o projecto criaria um obstáculo ao mercado único ou que tem sérias dúvidas quanto à sua
+compatibilidade com o direito comunitário, a ARN deve adiar a aprovação do projecto de decisão por um prazo de três
+meses a contar da notificação da Comissão Europeia.
+E
+2 - Durante o prazo referido no número anterior, a Comissão Europeia, o ORECE e a ARN cooperam estreitamente com o
+objectivo de identificar a medida mais apropriada e eficaz à luz dos objectivos de regulação estabelecidos no artigo 5.º,
+tendo em conta, simultaneamente, os pontos de vista dos intervenientes no mercado, que se pronunciaram no âmbito do
+R
+respectivo procedimento geral de consulta, e a necessidade de garantir o desenvolvimento de uma prática reguladora
+coerente.
+3 - Quando, no prazo de seis semanas a contar do início do período de três meses referido no n.º 1, o ORECE emitir e
+D
+publicitar um parecer sobre a notificação da Comissão Europeia indicando que partilha das suas dúvidas sobre o projecto
+de decisão da ARN e que este deve ser alterado ou retirado, apresentando propostas específicas de alteração, a ARN deve
+cooperar estreitamente com o ORECE tendo em vista identificar a medida mais apropriada e eficaz, podendo, antes do final
+do mesmo período de três meses, tomar uma das seguintes decisões:
+a) Alterar ou retirar o projecto de decisão, tendo em conta a notificação da Comissão Europeia prevista no n.º 1, bem como
+o parecer e cooperação do ORECE;
+b) Manter o projecto de decisão.
+4 - Quando o ORECE não partilhar das dúvidas da Comissão Europeia, não emitir parecer ou a ARN alterar ou mantiver o
+projecto de decisão, tudo nos termos do número anterior, e a Comissão Europeia, no prazo de um mês após o termo do
+período de três meses referido no n.º 1, emitir uma recomendação à ARN no sentido de alterar ou retirar o projecto de
+decisão, incluindo propostas específicas, ou decidir retirar as suas reservas, a ARN deve, no prazo de um mês a contar da
+adopção da referida recomendação ou decisão, comunicar à Comissão Europeia e ao ORECE a decisão definitiva
+aprovada, acompanhada de uma justificação fundamentada quando não tenha acolhido a recomendação da Comissão
+Europeia.
+5 - O prazo de um mês previsto na segunda parte do número anterior pode ser prorrogado nos casos em que a ARN,
+previamente à aprovação da sua decisão definitiva, submeta o projecto de decisão alterado ao procedimento geral de
+consulta previsto no artigo 8.º
+6 - A ARN pode retirar o projecto de medida em qualquer fase do procedimento.
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Capítulo II
+Definição e análise de mercado
+Artigo 58.º
+Definição de mercados
+Versão à data de 18-04-2018 Pág. 40 de 75Legislação Consolidada
+1 - Compete à ARN definir os mercados relevantes de produtos e serviços do sector das comunicações electrónicas,
+incluindo os mercados geográficos relevantes, em conformidade com os princípios do direito da concorrência.
+2 - Na definição de mercados deve a ARN, em função das circunstâncias nacionais, ter em conta a recomendação da
+Comissão Europeia que identifica, de acordo com os princípios do direito da concorrência, os mercados relevantes de
+produtos e serviços cujas características podem justificar a imposição de obrigações regulamentares específicas e as
+«Linhas de orientação para a análise de mercado e avaliação do poder de mercado significativo», adiante designadas por
+linhas de orientação.
+3 - A ARN pode definir mercados diferentes dos constantes da recomendação da Comissão Europeia, sendo aplicável o
+procedimento previsto no artigo 57.º
+4 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 59.º
+Análise dos mercados
+1 - Compete à ARN analisar os mercados relevantes definidos nos termos do artigo anterior, tendo em conta as linhas de
+orientação.
+E
+2 - No âmbito da análise dos mercados, compete à ARN determinar se cada um dos mercados é ou não efectivamente
+concorrencial para efeitos da imposição, manutenção, alteração ou supressão de obrigações previstas no presente título.
+3 - Caso a ARN conclua que um mercado é efectivamente concorrencial deve abster-se de impor qualquer obrigação
+R
+regulamentar específica e, se estas existirem, deve suprimi-las, informando antecipadamente do facto as partes
+abrangidas.
+4 - Caso a ARN determine que um mercado relevante não é efectivamente concorrencial, compete-lhe determinar quais as
+D
+empresas que, individualmente ou em conjunto com outras, têm poder de mercado significativo nesse mercado e impor-
+lhes as obrigações regulamentares específicas adequadas ou manter ou alterar essas obrigações caso já existam.
+5 - Caso a Comissão Europeia, mediante decisão tomada nos termos da Directiva n.º 2002/21/CE, do Parlamento Europeu
+e do Conselho, de 7 de Março, alterada pela Directiva n.º 2009/140/CE, do Parlamento Europeu e do Conselho, de 25 de
+Novembro, identifique mercados transnacionais, a ARN deve proceder, juntamente com as demais autoridades reguladoras
+nacionais envolvidas, a uma análise conjunta do mercado ou mercados em causa, tendo em conta as linhas de orientação,
+de modo a pronunciarem-se sobre a imposição, manutenção, alteração ou supressão das obrigações previstas no presente
+título.
+6 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 59.º-A
+Revisão da análise de mercados
+1 - A ARN deve proceder à análise dos mercados, no prazo de dois anos a contar da aprovação, pela Comissão Europeia,
+de uma recomendação revista sobre os mercados relevantes, no caso de mercados que a ARN não tenha notificado
+previamente à Comissão Europeia ao abrigo do artigo 57.º
+2 - A análise dos mercados deve ser revista:
+a) No prazo de três anos a contar da aprovação da análise mais recente do mercado em causa;
+b) Quando a ARN entenda justificável.
+3 - O prazo previsto na alínea a) do número anterior pode ser excepcionalmente prorrogado por um período adicional de
+três anos, mediante a apresentação, pela ARN à Comissão Europeia, de uma proposta de prorrogação devidamente
+justificada, relativamente à qual a Comissão Europeia não levante objecções no prazo de um mês a contar da sua
+apresentação.
+4 - Quando a ARN não conclua a análise de um mercado relevante nos prazos previstos nos números anteriores,
+consoante os casos, deve solicitar a assistência do ORECE de modo que, no prazo de seis meses, a respectiva análise e
+imposição de obrigações regulamentares esteja concluída e seja notificada ao abrigo do artigo 57.º
+Alterações
+Versão à data de 18-04-2018 Pág. 41 de 75Legislação Consolidada
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 60.º
+Poder de mercado significativo
+1 - Para efeitos do disposto na presente lei, considera-se que uma empresa tem poder de mercado significativo se,
+individualmente ou em conjunto com outras, gozar de uma posição equivalente a uma posição dominante, ou seja, de uma
+posição de força económica que lhe permita agir, em larga medida, independentemente dos concorrentes, dos clientes e
+dos consumidores.
+2 - A ARN, ao avaliar se duas ou mais empresas gozam de uma posição dominante conjunta num mercado, deve deliberar
+em conformidade com o direito comunitário e tomar em conta as linhas de orientação.
+3 - A ARN pode considerar que duas ou mais empresas gozam de uma posição dominante conjunta quando, mesmo na
+ausência de relações estruturais ou outras entre elas, operam num mercado que se caracteriza por uma falta de
+concorrência efectiva e no qual nenhuma empresa comum tenha poder de mercado significativo.
+4 - Sem prejuízo da jurisprudência do Tribunal de Justiça das Comunidades Europeias sobre dominância conjunta, a ARN
+deve, na sua avaliação, utilizar critérios baseados em determinadas características do mercado em análise em termos de
+concentração, ponderando designadamente os seguintes factores:
+a) (Revogada).
+b) (Revogada).
+E
+c) Pouca elasticidade da procura;
+d) (Revogada).
+e) (Revogada). R
+f) Quotas de mercado semelhantes;
+g) (Revogada).
+h) Integração vertical com recusa colectiva de fDornecimento;
+i) Barreiras legais ou económicas elevadas ao acesso;
+j) Falta de um contrapoder dos compradores;
+l) Falta de concorrência potencial;
+m) (Revogada).
+n) (Revogada).
+o) (Revogada).
+5 - Caso uma empresa tenha um poder de mercado significativo num mercado específico, pode considerar-se que também
+o detém num mercado adjacente se as ligações entre os dois mercados forem de molde a permitir a essa empresa utilizar
+neste mercado adjacente, por alavancagem, o poder detido no primeiro reforçando o seu poder de mercado.
+6 - Nos casos previstos no número anterior, a ARN pode impor, no mercado adjacente, obrigações destinadas a impedir o
+efeito de alavancagem, em conformidade com os artigos 67.º, 68.º, 69.º, 70.º, 71.º, 74.º, 75.º e 76.º e, se estas se
+revelarem insuficientes, em conformidade com o artigo 85.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 61.º
+Cooperação com a Autoridade da Concorrência
+Os projectos de decisão da ARN relativos à análise dos mercados e à determinação de detenção ou não de poder de
+mercado significativo estão sujeitos a parecer prévio da Autoridade da Concorrência, o qual deve ser emitido no prazo de
+30 dias contados da respectiva solicitação.
+Capítulo III
+Acesso e interligação
+Secção I
+Disposições gerais
+Versão à data de 18-04-2018 Pág. 42 de 75Legislação Consolidada
+Artigo 62.º
+Liberdade de negociação
+As empresas que oferecem redes e serviços de comunicações electrónicas podem negociar e acordar entre si modalidades
+técnicas e comerciais de acesso e interligação, sem prejuízo das competências da ARN previstas no presente capítulo.
+Artigo 63.º
+Competências da autoridade reguladora nacional
+1 - No exercício das competências previstas no presente capítulo, a ARN deve, em conformidade com os objectivos de
+regulação previstos no artigo 5.º, incentivar e, quando oportuno, garantir o acesso e a interligação adequados, bem como a
+interoperabilidade de serviços, com vista a promover a eficiência, a concorrência sustentável, o investimento eficiente e a
+inovação e a proporcionar o máximo benefício aos utilizadores finais.
+2 - Compete à ARN:
+a) Determinar obrigações em matéria de acesso e interligação às empresas que oferecem redes e serviços de
+comunicações electrónicas;
+b) Intervir por iniciativa própria quando justificado, incluindo em acordos já celebrados, ou, na falta de acordo entre as
+empresas, a pedido de qualquer das partes envolvidas nos termos dos artigos 10.º a 12.º, a fim de garantir os objectivos
+estabelecidos no artigo 5.º, de acordo com o disposto na presentEe lei.
+3 - Os operadores devem cumprir as obrigações na forma, modo e prazo determinados pela ARN.
+Alterações R
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 64.º
+D
+Condições de acesso e interligação
+1 - Os termos e condições de oferta de acesso e interligação devem respeitar as obrigações impostas pela ARN nesta
+matéria.
+2 - Os operadores têm o direito e, quando solicitados por outros no exercício do direito previsto na alínea a) do artigo 22.º,
+a obrigação de negociar a interligação entre si com vista à prestação dos serviços de comunicações electrónicas acessíveis
+ao público por forma a garantir a oferta e interoperabilidade de serviços.
+3 - A propriedade do tráfego pertence à empresa que explora a rede ou presta o serviço onde o tráfego é originado, salvo
+acordo em contrário, podendo o respectivo encaminhamento, bem como o ponto de entrega, ser livremente negociado
+entre as partes.
+4 - No caso de acordos transfronteiriços, a empresa que requer o acesso ou a interligação não necessita de estar
+abrangida pelo regime de autorização geral previsto na presente lei, desde que não ofereça redes e serviços de
+comunicações electrónicas em território nacional.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 65.º
+Confidencialidade
+1 - As empresas devem respeitar a confidencialidade das informações recebidas, transmitidas ou armazenadas antes, no
+decurso ou após os processos de negociação e celebração de acordos de acesso ou interligação e utilizá-las
+exclusivamente para os fins a que se destinam.
+2 - As informações recebidas não devem ser transmitidas a outras partes, incluindo outros departamentos, filiais ou
+empresas associadas, relativamente às quais o conhecimento destas possa constituir uma vantagem competitiva.
+3 - O disposto nos números anteriores não prejudica o exercício dos poderes de supervisão e fiscalização da ARN,
+nomeadamente quanto às informações exigidas nos termos do artigo 108.º
+Secção II
+Obrigações aplicáveis a empresas com poder de mercado significativo
+Versão à data de 18-04-2018 Pág. 43 de 75Legislação Consolidada
+Artigo 66.º
+Imposição, manutenção, alteração ou supressão de obrigações
+1 - Compete à ARN determinar a imposição, manutenção, alteração ou supressão das seguintes obrigações em matéria de
+acesso ou interligação aplicáveis às empresas declaradas com poder de mercado significativo:
+a) Obrigação de transparência na publicação de informações, incluindo propostas de referência, nos termos dos artigos
+67.º a 69.º;
+b) Obrigação de não discriminação na oferta de acesso e interligação e na respectiva prestação de informações, nos
+termos do artigo 70.º;
+c) Obrigação de separação de contas quanto a actividades específicas relacionadas com o acesso e ou a interligação, nos
+termos do artigo 71.º;
+d) Obrigação de dar resposta aos pedidos razoáveis de acesso, nos termos do artigo 72.º;
+e) Obrigação de controlo de preços e de contabilização de custos, nos termos dos artigos 74.º a 76.º;
+f) Obrigação de separação funcional, nos termos do artigo 76.º-A.
+2 - Para efeitos do disposto no número anterior, a ARN deve impor as obrigações adequadas atendendo à natureza do
+problema identificado, as quais devem ser proporcionadas e justificadas relativamente aos objectivos fixados no artigo 5.º
+3 - As obrigações referidas no n.º 1 não podem ser impostas a eEmpresas sem poder de mercado significativo, salvo nos
+casos previstos na presente lei ou quando tal seja necessário para respeitar compromissos internacionais.
+4 - Excepcionalmente e quando adequado, a ARN pode impor aos operadores declarados com poder de mercado
+R
+significativo obrigações para além das previstas nas alíneas a) a e) do n.º 1, mediante autorização prévia da Comissão
+Europeia, nos termos da Directiva n.º 2002/19/CE, do Parlamento Europeu e do Conselho, de 7 de Março, alterada pela
+Directiva n.º 2009/140/CE, do Parlamento Europeu e do Conselho, de 25 de Novembro, para o que deve submeter-lhe
+D
+previamente um projecto de decisão.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 67.º
+Obrigação de transparência
+1 - A obrigação de transparência consiste na exigência de publicitar, de forma adequada, as informações relativas à oferta
+de acesso e interligação do operador, nomeadamente informações contabilísticas, especificações técnicas, características
+da rede, termos e condições de oferta e utilização, incluindo preços e todas as condições que limitam o acesso ou a
+utilização de serviços e aplicações, desde que permitidas pela lei ou pela regulamentação aplicáveis.
+2 - Para efeitos do disposto no número anterior, compete à ARN definir as informações a publicitar, bem como a forma e o
+modo da sua publicitação.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 68.º
+Ofertas de referência
+1 - A ARN pode determinar, nomeadamente aos operadores que estejam também sujeitos a obrigações de não
+discriminação, a publicação de ofertas de referência de acesso ou interligação, consoante os casos, as quais devem:
+a) Ser suficientemente desagregadas de modo a assegurar que as empresas não sejam obrigadas a pagar por recursos
+que não sejam necessários para o serviço requerido;
+b) Apresentar uma descrição das ofertas pertinentes repartidas por componentes, de acordo com as necessidades do
+mercado;
+c) Apresentar a descrição dos termos e condições associadas, incluindo os preços.
+Versão à data de 18-04-2018 Pág. 44 de 75Legislação Consolidada
+2 - Para efeitos do disposto no número anterior, a ARN pode determinar os elementos mínimos que devem constar das
+ofertas de referência, especificando as informações exactas a disponibilizar, o nível de pormenor exigido e o modo de
+publicitação.
+3 - A ARN pode ainda determinar:
+a) Alterações às ofertas de referência publicitadas, a qualquer tempo e se necessário com efeito retroactivo, por forma a
+tornar efectivas as obrigações impostas em conformidade com o disposto no artigo 66.º;
+b) A incorporação imediata nos acordos celebrados das alterações impostas, desde que as mesmas sejam de conteúdo
+certo e suficiente.
+Artigo 69.º
+Elementos mínimos a incluir nas ofertas de referência
+1 - Sempre que um operador esteja sujeito à obrigação de oferta de acesso grossista à infra-estrutura de rede, incluindo o
+acesso desagregado ao lacete local, deve publicar uma oferta de referência contendo, no mínimo, os seguintes elementos,
+sem prejuízo do disposto no n.º 2 do artigo anterior:
+a) Condições para o acesso desagregado ao lacete local;
+b) Partilha de locais;
+c) Sistemas de informação;
+d) Condições de oferta. E
+2 - Para efeitos do disposto na alínea a) do número anterior, deve ser especificado o seguinte:
+a) Informação detalhada, incluindo localização, relativa aRos pontos de acesso físico e elementos da rede que são objecto
+da oferta de acesso, incluindo os equipamentos associados, abrangendo, em especial, o acesso desagregado (incluindo a
+disponibilidade dos lacetes e sublacetes locais), completo e partilhado, os armários e os repartidores das centrais, e
+incluindo, quando for o caso, o acesso a recDursos e infra-estruturas que permitam a instalação de redes de acesso e
+transporte por parte dos beneficiários, como condutas e infra-estrutura associada, e caminhos de cabos no interior das
+centrais locais ou dos pontos de atendimento;
+b) (Revogada.)
+c) Condições técnicas relacionadas com o acesso e a utilização dos lacetes e sublacetes locais, incluindo as características
+técnicas do acesso metálico e ou da fibra óptica e ou equivalente, dos repartidores de cabos, dos serviços conexos e,
+quando for o caso, condições técnicas de acesso às condutas e infra-estrutura associada;
+d) Procedimentos de encomenda e oferta e restrições de utilização.
+3 - Para efeitos do disposto na alínea b) do n.º 1, deve ser especificado o seguinte:
+a) Informações actualizadas sobre os locais existentes relevantes do operador com poder de mercado significativo ou
+localizações dos equipamentos e actualização prevista dos mesmos, podendo a disponibilidade destas informações limitar-
+se exclusivamente às partes interessadas por razões de segurança pública;
+b) Opções de co-instalação nos locais identificados na alínea anterior, incluindo a co-instalação física (em espaço aberto) e,
+se adequado, a co-instalação remota e a partilha virtual;
+c) Características do equipamento, incluindo eventuais restrições aos equipamentos que podem ser instalados em regime
+de co-instalação;
+d) Normas de segurança, incluindo medidas adoptadas pelos operadores notificados para garantir a segurança das suas
+instalações;
+e) Condições de acesso do pessoal dos operadores beneficiários do acesso, incluindo as condições para que os
+beneficiários possam visitar os locais em que é possível a co-instalação ou os locais cuja co-instalação foi recusada por
+motivos de falta de capacidade;
+g) Regras para a repartição de espaço a partilhar quando o mesmo é limitado;
+h) (Revogada).
+4 - Para efeitos do disposto na alínea c) do n.º 1, devem ser especificadas as condições de acesso aos sistemas de apoio
+operacional do operador notificado, sistemas de informação ou bases de dados para pré-encomenda, aprovisionamento,
+encomenda, pedidos de manutenção e reparação e facturação.
+5 - Para efeitos do disposto na alínea d) do n.º 1, deve ser especificado o seguinte:
+a) Tempo necessário para responder aos pedidos de fornecimento de serviços e recursos, acordos de nível de serviço,
+Versão à data de 18-04-2018 Pág. 45 de 75Legislação Consolidada
+resolução de deficiências, procedimentos de reposição do nível normal de serviço e parâmetros de qualidade do serviço;
+b) Termos contratuais habituais, incluindo, sempre que adequado, compensações pela incapacidade de cumprir os prazos
+de resposta aos pedidos;
+c) Preços ou fórmulas de fixação de preços para cada característica, função e recurso previstos.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 70.º
+Obrigação de não discriminação
+A imposição da obrigação de não discriminação consiste, nomeadamente, na exigência de, em circunstâncias equivalentes,
+aplicar condições equivalentes a outras empresas que ofereçam serviços equivalentes e prestar serviços e informações a
+terceiros, em condições e com qualidade idênticas às dos serviços e informações oferecidos aos seus próprios
+departamentos ou aos departamentos das suas filiais ou empresas associadas.
+Artigo 71.º
+Obrigação de separação de contas
+E
+1 - A imposição da obrigação de separação de contas relativamente a actividades específicas relacionadas com o acesso e
+interligação consiste, nomeadamente, na exigência de os operadores, em especial os verticalmente integrados,
+R
+apresentarem os seus preços por grosso e os seus preços de transferência interna de forma transparente com o objectivo,
+entre outros, de garantir o cumprimento da obrigação de não discriminação, quando aplicável, ou se necessário para
+impedir subvenções cruzadas.
+D
+2 - Para efeitos do disposto no número anterior, a ARN pode especificar o formato e a metodologia contabilística a utilizar.
+3 - Os operadores estão obrigados a disponibilizar à ARN, mediante pedido, os seus registos contabilísticos, incluindo os
+dados sobre receitas provenientes de terceiros, tendo em vista a verificação do cumprimento das obrigações de
+transparência e não discriminação.
+4 - A ARN pode publicar as informações que lhe foram disponibilizadas ao abrigo do disposto no número anterior, na
+medida em que contribuam para um mercado aberto e concorrencial e respeitando a confidencialidade comercial das
+mesmas.
+Artigo 72.º
+Obrigações de acesso e utilização de recursos de rede específicos
+1 - A ARN pode impor aos operadores a obrigação de dar resposta aos pedidos razoáveis de acesso e utilização de
+elementos de rede específicos e recursos conexos, nomeadamente nas situações em que a recusa de acesso ou a fixação
+de condições não razoáveis prejudicariam a emergência de um mercado concorrencial sustentável a nível retalhista ou os
+interesses dos utilizadores finais.
+2 - No exercício da competência prevista no número anterior, a ARN pode, nomeadamente, impor aos operadores as
+seguintes obrigações:
+a) Conceder a terceiros o acesso a elementos e ou recursos de rede específicos, incluindo o acesso a elementos da rede
+que não se encontrem activos e ou o acesso desagregado ao lacete local;
+b) Não retirar o acesso já concedido a determinados recursos;
+c) Interligar redes ou recursos de rede;
+d) Proporcionar a partilha de locais ou outras formas de partilha de recursos, incluindo a partilha de condutas, edifícios ou
+postes;
+e) Oferecer serviços específicos a fim de garantir aos utilizadores a interoperabilidade de serviços de extremo-a-extremo,
+incluindo recursos para serviços de rede inteligentes ou itinerância (roaming) em redes móveis;
+f) Conceder acesso aberto às interfaces técnicas, protocolos ou outras tecnologias chave que sejam indispensáveis para a
+interoperabilidade dos serviços ou serviços de rede virtuais;
+g) Oferecer serviços grossistas específicos para revenda por terceiros;
+Versão à data de 18-04-2018 Pág. 46 de 75Legislação Consolidada
+h) Oferecer acesso a sistemas de apoio operacional ou a sistemas de software similares necessários para garantir uma
+concorrência leal no fornecimento de serviços;
+i) Oferecer acesso a serviços associados, tais como identidade, localização e serviço de presença;
+j) Permitir a selecção e pré-selecção de operador e ou a oferta de realuguer da linha de assinante;
+l) Negociar de boa fé com as empresas que pedem acesso.
+3 - A imposição das obrigações previstas no número anterior pode ser acompanhada da previsão pela ARN de condições
+de justiça, razoabilidade e oportunidade no seu cumprimento.
+4 - Na decisão de impor ou não as obrigações previstas nos números anteriores, nomeadamente na avaliação da
+proporcionalidade da sua aplicação face aos objectivos de regulação previstos no artigo 5.º, a ARN deve ter especialmente
+em conta os seguintes factores:
+a) Viabilidade técnica e económica da utilização ou instalação de recursos concorrentes, em função do ritmo de
+desenvolvimento do mercado, tendo em conta a natureza e o tipo da interligação e ou do acesso em causa, incluindo a
+viabilidade de outros produtos de acesso a montante, tais como o acesso a infra-estrutura, nomeadamente a condutas;
+b) Viabilidade de oferta do acesso proposto, face à capacidade disponível;
+c) Investimento inicial do proprietário dos recursos, tendo em conta o investimento público realizado e os riscos envolvidos
+na realização do investimento;
+d) Necessidade de salvaguarda da concorrência a longo prazo, atribuindo particular atenção a uma concorrência eficiente
+em termos económicos, a nível das infra-estruturas; E
+e) Eventuais direitos de propriedade intelectual pertinentes, quando adequado;
+f) Oferta de serviços pan-europeus.
+R
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+D
+Artigo 73.º
+Condições técnicas e operacionais
+1 - Quando necessário, para garantir o funcionamento normal da rede, ao impor as obrigações previstas no artigo anterior,
+a ARN pode estabelecer condições técnicas ou operacionais aplicáveis ao fornecedor e ou ao beneficiário do acesso.
+2 - Quando as condições impostas nos termos do número anterior se refiram à aplicação de normas ou especificações
+técnicas específicas, devem obedecer às regras aplicáveis em matéria de normalização, nos termos do artigo 29.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 74.º
+Obrigação de controlo de preços e de contabilização de custos
+1 - Quando uma análise de mercado indique que uma potencial falta de concorrência efectiva implica que os operadores
+possam manter os preços a um nível excessivamente elevado ou possam aplicar uma compressão da margem de preços
+em detrimento dos utilizadores finais, a ARN pode impor obrigações de amortização de custos e controlo de preços,
+incluindo a obrigação de orientação dos preços para os custos e a obrigação de adoptar sistemas de contabilização de
+custos, para fins de oferta de tipos específicos de acesso ou interligação.
+2 - Ao impor as obrigações referidas no número anterior, a ARN deve:
+a) Ter em consideração o investimento realizado pelo operador, nomeadamente nas redes de nova geração, permitindo-lhe
+uma taxa razoável de rentabilidade sobre o capital investido, que reflicta todos os riscos inerentes a um novo projecto de
+investimento em redes;
+b) Assegurar que os mecanismos de amortização de custos ou as metodologias obrigatórias em matéria de fixação de
+preços promovam a eficiência e a concorrência sustentável e maximizem os benefícios para o consumidor, podendo
+também ter em conta nesta matéria os preços disponíveis nos mercados concorrenciais comparáveis.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Versão à data de 18-04-2018 Pág. 47 de 75Legislação Consolidada
+Artigo 75.º
+Demonstração da orientação para os custos
+1 - Os operadores sujeitos à obrigação de orientação dos preços para os custos devem demonstrar que os encargos se
+baseiam nos custos, incluindo uma taxa razoável de rentabilidade sobre os investimentos realizados.
+2 - A ARN pode exigir ao operador que justifique plenamente os seus preços e, quando adequado, pode determinar o seu
+ajustamento.
+3 - A ARN pode utilizar métodos contabilísticos independentes dos adoptados pelos operadores para efeitos do cálculo do
+custo da prestação eficiente dos serviços.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 76.º
+Verificação dos sistemas de contabilização de custos
+1 - Compete à ARN, ou a outra entidade independente por si designada, efectuar uma auditoria anual ao sistema de
+contabilização de custos destinado a permitir o controlo de preços, de modo a verificar a sua conformidade, bem como
+emitir e publicar a respectiva declaração.
+E
+2 - Compete à ARN disponibilizar ao público a descrição dos sistemas de contabilização de custos referidos no número
+anterior, apresentando, no mínimo, as categorias principais nas quais os custos são agrupados e as regras utilizadas para
+a respectiva imputação. .
+R
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+D
+Artigo 76.º-A
+Obrigação de separação funcional
+1 - Quando a ARN conclua que as obrigações impostas nos termos dos artigos 67.º a 76.º não permitiram garantir uma
+concorrência eficaz e que persistem problemas de concorrência ou falhas de mercado relevantes em relação ao
+fornecimento grossista de determinados mercados de produtos de acesso, a ARN pode, como medida excepcional, nos
+termos do n.º 4 do artigo 66.º, impor às empresas verticalmente integradas a obrigação de afectarem as actividades
+relacionadas com o fornecimento grossista de produtos de acesso relevantes a uma entidade empresarial
+operacionalmente independente.
+2 - A entidade operacionalmente independente referida no número anterior deve fornecer produtos e serviços de acesso a
+todas as empresas, incluindo a outras entidades empresariais da empresa-mãe, nos mesmos prazos, termos e condições,
+nomeadamente no que respeita a preços e níveis de serviço, e através dos mesmos sistemas e processos.
+3 - Sempre que pretenda impor uma obrigação de separação funcional, a ARN deve apresentar uma proposta à Comissão
+Europeia, da qual devem constar os seguintes elementos:
+a) Provas que justifiquem as conclusões da ARN referidas no n.º 1;
+b) Demonstração de que, num prazo razoável, existem poucas ou nenhumas perspectivas de concorrência a nível das
+infra-estruturas;
+c) Análise do impacte previsto na ARN, na empresa, em particular na força de trabalho da empresa operacionalmente
+independente e no sector das comunicações electrónicas no seu conjunto, e nos seus incentivos para investir na própria
+rede, e do impacte noutros interessados, incluindo o impacte previsto na concorrência entre infra-estruturas, e dos
+eventuais efeitos daí decorrentes para os consumidores;
+d) Análise das razões que justificam que esta obrigação é a forma mais eficiente de aplicar soluções destinadas a corrigir
+as deficiências ou os problemas identificados.
+4 - Juntamente com a proposta referida no número anterior, a ARN deve submeter à Comissão Europeia o projecto de
+decisão que pretende adoptar, o qual deve incluir os seguintes elementos:
+a) Natureza exacta e nível de separação, precisando, nomeadamente, o estatuto jurídico da entidade empresarial
+operacionalmente independente;
+b) Identificação dos activos da entidade separada e dos produtos ou serviços a fornecer por esta;
+Versão à data de 18-04-2018 Pág. 48 de 75Legislação Consolidada
+c) Disposições de governação que garantam a independência dos trabalhadores da entidade empresarial operacionalmente
+independente e a correspondente estrutura de incentivos;
+d) Regras para garantir o cumprimento das obrigações;
+e) Regras para garantir a transparência dos procedimentos operacionais, nomeadamente em relação aos outros
+interessados;
+f) Programa de monitorização para garantir a observância da medida a impor, incluindo a publicação de um relatório anual.
+5 - Após a decisão da Comissão Europeia sobre o projecto de medida, tomada nos termos do n.º 4 do artigo 66.º, a ARN
+efectua uma análise coordenada dos diferentes mercados relacionados com a rede de acesso, de acordo com o
+procedimento previsto no artigo 59.º, com base na qual impõe, mantém, altera ou suprime obrigações, em conformidade
+com os artigos 8.º, 57.º e 57.º-A.
+6 - Para efeitos do número anterior, uma empresa à qual seja imposta a separação funcional pode estar sujeita a qualquer
+das obrigações previstas nos artigos 67.º a 76.º, em qualquer mercado específico em que tenha sido designada com poder
+de mercado significativo pela ARN, em conformidade com o artigo 59.º, ou a quaisquer outras obrigações autorizadas pela
+Comissão Europeia, nos termos do n.º 4 do artigo 66.º
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 76.º-B
+E
+Separação funcional voluntária
+1 - As empresas verticalmente integradas designadas com poder de mercado significativo num ou em vários mercados
+R
+relevantes, em conformidade com o artigo 59.º, devem informar prévia e atempadamente a ARN quando pretenderem
+transferir os seus activos da rede de acesso local ou uma parte substancial dos mesmos para uma entidade jurídica
+separada de propriedade distinta ou estabelecer uma entidade empresarial separada para oferecerem a todos os
+D
+fornecedores retalhistas, incluindo às suas próprias divisões de retalho, produtos de acesso totalmente equivalentes.
+2 - As empresas a que se refere o número anterior devem igualmente informar a ARN, previamente e de forma atempada,
+de qualquer alteração da intenção comunicada, bem como do resultado final do processo de separação.
+3 - Compete à ARN avaliar o efeito da transacção pretendida nas obrigações regulamentares impostas à empresa
+verticalmente integrada, ao abrigo do artigo 66.º, através de uma análise coordenada dos diferentes mercados relacionados
+com a rede de acesso, nos termos do artigo 59.º
+4 - Após a conclusão do processo de separação, a ARN, com base na avaliação realizada nos termos do número anterior,
+impõe, mantém, altera ou suprime obrigações, em conformidade com os artigos 8.º, 57.º e 57.º-A.
+5 - A entidade separada pode estar sujeita a qualquer das obrigações previstas nos artigos 67.º a 76.º, em qualquer
+mercado específico em que tenha sido designada com poder de mercado significativo pela ARN, em conformidade com o
+artigo 59.º, ou a quaisquer outras obrigações autorizadas pela Comissão Europeia, nos termos do n.º 4 do artigo 66.º
+Alterações
+Aditado pelo/a Artigo 3.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Secção III
+Obrigações aplicáveis a todas as empresas
+Artigo 77.º
+Imposição de obrigações de acesso e interligação
+1 - Compete à ARN impor obrigações de acesso e interligação a qualquer empresa, independentemente de ter ou não
+poder de mercado significativo, nos seguintes termos:
+a) Às empresas que controlam o acesso aos utilizadores finais, na medida do necessário para garantir a ligação de
+extremo-a-extremo, incluindo, quando justificado, a obrigação de interligarem as suas redes;
+b) Às empresas que controlam o acesso aos utilizadores finais, quando justificado e na medida do necessário para garantir
+a interoperabilidade dos seus serviços;
+c) De oferta de acesso às IPA (interfaces de programas de aplicações) e às GEP (guias electrónicos de programas), em
+Versão à data de 18-04-2018 Pág. 49 de 75Legislação Consolidada
+condições justas, razoáveis e não discriminatórias, na medida do necessário para garantir a acessibilidade dos utilizadores
+finais aos serviços de programas televisivos e de rádio digitais especificados nos termos da lei pelas autoridades
+competentes.
+2 - (Revogado.)
+3 - As obrigações impostas nos termos do n.º 1 devem ser objectivas, transparentes, proporcionais e não discriminatórias e
+ser aplicadas em conformidade com os artigos 8.º, 57.º e 57.º-A.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 78.º
+Prestação de acesso condicional
+1 - Todos os operadores de serviços de acesso condicional que, independentemente dos meios de transmissão, oferecem
+acesso a serviços de programas televisivos e de rádio digitais, e dos quais dependam os operadores de televisão e de
+rádio para atingir qualquer grupo de potenciais espectadores ou ouvintes, devem:
+a) Oferecer a todos os operadores de televisão e de rádio, mediante condições justas, razoáveis e não discriminatórias
+compatíveis com o direito comunitário da concorrência, serviços técnicos que permitam que os serviços de programas
+televisivos e de rádio digitais sejam recebidos pelos telespectadores ou ouvintes devidamente autorizados através de
+E
+descodificadores geridos pelos operadores de serviços de acesso condicional, bem como respeitar o direito comunitário da
+concorrência;
+b) Dispor de contabilidade separada relativa à actividade de fornecimento de acesso condicional.
+R
+2 - Tendo em conta o disposto na alínea a) do número anterior, as condições de oferta, incluindo preços, divulgadas pelos
+operadores de distribuição devem especificar o fornecimento ou não de materiais associados ao acesso condicional.
+D
+3 - Os operadores referidos no n.º 1 devem comunicar à ARN, no prazo de cinco dias a contar da sua implementação, os
+procedimentos técnicos adoptados para assegurar a interoperabilidade dos diferentes sistemas de acesso condicional.
+4 - Para efeitos do número anterior, compete à ARN publicar no respectivo sítio na Internet as referências das
+especificações técnicas aplicáveis.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 79.º
+Transferência de controlo
+1 - Os operadores que prestam acesso condicional devem adoptar sistemas com capacidade técnica adequada a uma
+transferência de controlo com uma boa relação custo-eficácia, a acordar com os operadores de rede de suporte.
+2 - A transferência referida no número anterior deve permitir o pleno controlo pelos operadores de rede, a nível local ou
+regional, dos serviços que utilizam os sistemas de acesso condicional.
+Artigo 80.º
+Direitos de propriedade industrial
+1 - Sem prejuízo da legislação aplicável, os titulares de direitos de propriedade industrial relativos a sistemas e produtos de
+acesso condicional ao licenciarem os fabricantes de equipamentos de utilizador devem fazê-lo mediante condições justas,
+razoáveis e não discriminatórias.
+2 - O licenciamento referido no número anterior, no qual são também considerados factores de ordem técnica e comercial,
+não pode ser submetido a condições que proíbam, inibam ou desencorajem a inclusão no mesmo produto de:
+a) Um interface comum que permita a ligação a outros sistemas de acesso condicional que não o do titular do direito de
+propriedade industrial;
+b) Meios próprios de outro sistema de acesso condicional, desde que o beneficiário da licença respeite as condições
+razoáveis e adequadas que garantam, no que lhe diz respeito, a segurança das transacções dos operadores de sistemas
+Versão à data de 18-04-2018 Pág. 50 de 75Legislação Consolidada
+de acesso condicional.
+Artigo 81.º
+Alteração ou supressão das obrigações de acesso condicional
+1 - A ARN pode proceder a uma análise de mercado nos termos previstos na presente lei, tendo em vista decidir sobre a
+oportunidade da alteração ou supressão das obrigações de acesso condicional previstas nos artigos 78.º a 80.º
+2 - Quando, em resultado da análise de mercado, a ARN verifique que um ou mais operadores não têm poder de mercado
+significativo pode determinar a alteração ou supressão das obrigações de acesso condicional respeitantes a esses
+operadores, desde que não afectem negativamente:
+a) A acessibilidade dos utilizadores finais às emissões de rádio e televisão e aos serviços especificados no artigo 43.º; e
+b) As perspectivas de concorrência efectiva nos mercados de retalho de serviços de difusão digital de rádio e televisão e de
+sistemas de acesso condicional e outros recursos conexos.
+3 - A ARN deve informar antecipadamente os interessados que sejam afectados pela alteração ou supressão das
+obrigações.
+4 - O disposto no presente artigo não prejudica a possibilidade de imposição de obrigações relativamente à apresentação
+de guias electrónicos de programas e recursos equivalentes de nEavegação e listagem nos termos da lei.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 1R76/2011, Série I de 2011-09-13
+Capítulo IV
+Controlos nos mercados retalhistas
+D
+Artigo 82.º
+Conjunto mínimo de circuitos alugados
+1 - Compete à ARN impor as obrigações de oferta do conjunto mínimo de circuitos alugados definido nos termos do artigo
+29.º, bem como as condições para essa oferta definidas no artigo seguinte, às empresas com poder de mercado
+significativo relativamente à oferta dos elementos específicos ou da totalidade do conjunto mínimo, em todo ou em parte do
+território nacional.
+2 - Compete à ARN:
+a) Definir objectivos adequados para as condições de oferta fixadas, sempre que considere que o desempenho alcançado
+na oferta do conjunto mínimo de circuitos alugados não satisfaz as necessidades dos utilizadores;
+b) Autorizar a alteração das condições de oferta num caso específico sempre que, perante um pedido concreto, uma
+empresa, de forma fundamentada, considere que não é razoável a oferta de um circuito alugado pertencente ao conjunto
+mínimo de acordo com os preços e as condições de fornecimento publicados.
+Alterações
+Revogado pelo/a Artigo 8.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 83.º
+Condições de oferta de circuitos alugados
+1 - A oferta do conjunto mínimo de circuitos alugados pelas empresas declaradas com poder de mercado significativo deve
+obedecer aos princípios da não discriminação, da orientação dos preços para os custos e da transparência.
+2 - O princípio da não discriminação obriga a aplicar condições semelhantes em circunstâncias semelhantes às
+organizações que prestam serviços análogos e, quando aplicável, a oferecer às outras organizações circuitos alugados da
+mesma qualidade e nas mesmas condições que as que põem à disposição dos seus próprios serviços ou dos das suas
+subsidiárias ou parceiros.
+3 - Para efeitos do princípio da orientação dos preços para os custos, as empresas devem elaborar e pôr em prática um
+sistema adequado de contabilidade de custos.
+Versão à data de 18-04-2018 Pág. 51 de 75Legislação Consolidada
+4 - O princípio da transparência obriga à divulgação das seguintes informações sobre o conjunto mínimo de circuitos
+alugados:
+a) Características técnicas, incluindo as características físicas e eléctricas, bem como as especificações técnicas e de
+desempenho detalhadas aplicáveis ao ponto terminal da rede;
+b) Preços, incluindo os encargos iniciais de ligação, os encargos periódicos de aluguer e outros encargos, devendo,
+sempre que os preços sejam diferenciados, tal ser indicado;
+c) Condições de fornecimento, incluindo nomeada e obrigatoriamente o procedimento de encomenda, o prazo normal de
+entrega, o período contratual, o tempo típico de reparação e o procedimento de reembolso, quando existente.
+5 - Para efeitos do disposto na alínea c) do número anterior, considera-se:
+a) Prazo normal de entrega: o período de tempo decorrido desde a data do pedido firme de aluguer de um circuito até à sua
+colocação à disposição do cliente em 95% dos casos de circuitos alugados do mesmo tipo, devendo este prazo ser
+estabelecido com base nos prazos de entrega reais dos circuitos durante um período recente de duração razoável, não
+podendo o seu cálculo incluir os casos em que os utilizadores tenham pedido prazos de entrega mais longos;
+b) Período contratual: o período geralmente estabelecido para o contrato e o período contratual mínimo que o utilizador é
+obrigado a aceitar;
+c) Prazo típico de reparação: o período de tempo decorrido desde o momento da recepção de uma mensagem de avaria
+pela unidade responsável da empresa até ao momento em que estejam restabelecidos 80% dos circuitos alugados do
+mesmo tipo e em que os utilizadores tenham sido notificados, nos casos adequados, de que os referidos circuitos se
+encontram novamente em funcionamento, devendo, quando Esejam oferecidas diferentes classes de qualidade de
+reparação para o mesmo tipo de circuitos alugados, ser indicados os diferentes prazos típicos de reparação.
+R
+6 - A ARN deve manter disponíveis informações com um nível de detalhe adequado sobre os sistemas de contabilidade de
+custos adoptados pelas empresas, devendo, quando solicitado, apresentá-las à Comissão Europeia.
+D
+Alterações
+Revogado pelo/a Artigo 8.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Rectificado pelo/a Declaração de Rectificação n.º 32-A/2004 - Diário da República n.º 85/2004, 1º Suplemento, Série I-A de 2004-04-10
+Artigo 84.º
+Selecção e pré-selecção
+1 - As empresas declaradas com poder de mercado significativo na oferta de ligação à rede telefónica pública e utilização
+dessa rede num local fixo estão obrigadas a oferecer aos seus assinantes o acesso aos serviços de qualquer empresa que
+ofereça serviços telefónicos acessíveis ao público que com elas esteja interligada:
+a) Em regime de chamada-a-chamada, através da marcação de um indicativo de selecção da empresa;
+b) Através de uma pré-selecção, com possibilidade de anulação, chamada-a-chamada, mediante a marcação de um
+indicativo de selecção da empresa.
+2 - Compete à ARN avaliar e decidir sobre os pedidos dos utilizadores relativos à instalação dos recursos previstos no
+número anterior noutras redes ou de outras formas, na sequência do procedimento de análise de mercado previsto no
+artigo 59.º e nos termos do artigo 72.º
+3 - Compete à ARN garantir que os preços de acesso e de interligação relacionados com a oferta dos recursos referidos no
+n.º 1 respeitem o princípio da orientação para os custos e que os encargos directos que possam decorrer para os
+assinantes não desincentivem a sua utilização.
+4 - Compete à ARN, após o procedimento geral de consulta previsto no artigo 8.º, determinar as regras necessárias à
+execução da selecção e pré-selecção.
+Alterações
+Revogado pelo/a Artigo 8.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 85.º
+Controlos nos mercados retalhistas
+1 - Compete à ARN impor às empresas declaradas com poder de mercado significativo num determinado mercado
+Versão à data de 18-04-2018 Pág. 52 de 75Legislação Consolidada
+retalhista, previamente definido e analisado nos termos da presente lei, obrigações regulamentares adequadas, sempre
+que, cumulativamente:
+a) Verifique a inexistência de concorrência efectiva nesse mercado retalhista;
+b) Considere que da imposição das obrigações previstas nos artigos 67.º a 76.º não resultaria a realização dos objectivos
+de regulação fixados no artigo 5.º
+2 - As obrigações regulamentares a que se refere o número anterior devem atender à natureza do problema identificado,
+ser proporcionadas e justificadas relativamente aos objectivos fixados no artigo 5.º e podem incluir, nomeadamente, a
+exigência de que as empresas identificadas:
+a) Não imponham preços excessivamente altos;
+b) Não inibam a entrada no mercado ou restrinjam a concorrência através de preços predatórios;
+c) Não mostrem preferência indevida por utilizadores finais específicos;
+d) Não agreguem excessivamente os serviços.
+3 - No que se refere especificamente aos preços praticados por essas empresas e tendo em vista a protecção dos
+interesses dos utilizadores finais e a promoção de uma concorrência efectiva, a ARN pode aplicar medidas adequadas de
+imposição de preços máximos, de controlo individual dos preços ou medidas destinadas a orientar os preços para os
+custos ou para preços de mercados comparáveis.
+4 - Sem prejuízo do disposto nos artigos 93.º e 94.º, a ARN não deve aplicar os mecanismos de controlo de retalho
+previstos no presente artigo aos mercados geográficos ou deE utilizadores quando estiver segura que existe uma
+concorrência efectiva.
+5 - As empresas que estejam sujeitas a regulação de preços nos termos do presente artigo ou a outro tipo de controlo
+R
+relevante do retalho devem implementar sistemas de contabilidade analítica adequados à aplicação das medidas impostas.
+6 - Compete à ARN, ou a outra entidade independente por si designada, efectuar uma auditoria anual ao sistema de
+D
+contabilização de custos destinada a permitir o controlo de preços, de modo a verificar a sua conformidade, bem como
+emitir e publicar a respectiva declaração.
+7 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Título V
+Serviço universal e serviços obrigatórios adicionais
+Capítulo I
+Serviço universal
+Secção I
+Âmbito do serviço universal
+Artigo 86.º
+Conceito
+1 - O serviço universal consiste no conjunto mínimo de prestações definido no presente capítulo, de qualidade especificada,
+disponível para todos os utilizadores finais, independentemente da sua localização geográfica e a um preço acessível.
+2 - O âmbito de serviço universal deve evoluir por forma a acompanhar o progresso da tecnologia, o desenvolvimento do
+mercado e as modificações da procura por parte dos utilizadores, sendo o seu âmbito modificado sempre que tal evolução
+o justifique.
+3 - Compete ao Governo e à ARN, na prossecução das respectivas atribuições:
+a) Adoptar as soluções mais eficientes e adequadas para assegurar a realização do serviço universal no respeito pelos
+Versão à data de 18-04-2018 Pág. 53 de 75Legislação Consolidada
+princípios da objectividade, transparência, não discriminação e proporcionalidade;
+b) Reduzir ao mínimo as distorções de mercado, em especial a prestação de serviços a preços ou em termos e condições
+que se afastem das condições comerciais normais, sem prejuízo da salvaguarda do interesse público.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 87.º
+Âmbito do serviço universal
+O conjunto mínimo de prestações que deve estar disponível no âmbito do serviço universal é o seguinte:
+a) Ligação a uma rede de comunicações pública num local fixo e a prestação de um serviço telefónico acessível ao público
+através daquela ligação;
+b) Disponibilização de uma lista telefónica completa e de um serviço completo de informações de listas;
+c) Oferta adequada de postos públicos.
+Alterações
+E
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 88.º
+R
+Ligação à rede e prestação de serviço telefónico num local fixo
+1 - Os prestadores de serviço universal devem satisfazer todos os pedidos razoáveis de ligação a uma rede de
+comunicações pública num local fixo, bem cDomo de prestação de um serviço telefónico acessível ao público através
+daquela ligação.
+2 - A ligação à rede de comunicações pública referida no número anterior deve permitir que os utilizadores finais
+estabeleçam e recebam comunicações vocais, comunicações fac-símile e comunicações de dados, com débitos suficientes
+para viabilizar o acesso funcional à Internet, tendo em conta as tecnologias prevalecentes utilizadas pela maioria dos
+assinantes e a viabilidade tecnológica.
+3 - O serviço telefónico a que alude o n.º 1 deve permitir que assinantes e utilizadores efectuem e recebam chamadas
+nacionais e internacionais e acedam, através do número nacional de socorro definido no Plano Nacional de Numeração,
+aos vários sistemas de emergência.
+4 - Compete ao membro do Governo responsável pela área das comunicações aprovar, tendo em conta as circunstâncias
+específicas do mercado nacional, após parecer da ARN, os débitos mínimos necessários que o acesso à rede
+disponibilizado no âmbito do serviço universal deve suportar para viabilizar o acesso funcional à Internet referido no n.º 2.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 89.º
+Lista e serviço de informações
+1 - Constituem obrigações de serviço universal no âmbito da lista e serviço de informações:
+a) Elaborar, publicar e disponibilizar aos utilizadores finais uma lista telefónica completa sob a forma impressa e ou em
+suporte electrónico que, sem prejuízo do disposto em matéria de privacidade e protecção de dados pessoais, abranja todos
+os assinantes de serviços telefónicos acessíveis ao público;
+b) Actualizar e disponibilizar anualmente a lista a que se refere a alínea anterior;
+c) Prestar aos utilizadores finais um serviço de informações, através de um número curto, envolvendo a divulgação dos
+dados constantes da lista telefónica a que se refere a alínea a);
+d) Respeitar o princípio da não discriminação no tratamento e apresentação das informações que lhe são fornecidas,
+incluindo por outras empresas.
+2 - Para efeitos do número anterior, as empresas que oferecem serviços telefónicos acessíveis ao público devem acordar
+Versão à data de 18-04-2018 Pág. 54 de 75Legislação Consolidada
+com os prestadores de serviço universal o formato e as condições em que lhes fornecem as informações pertinentes sobre
+os respectivos assinantes, as quais devem ser justas, objectivas, orientadas para os custos e não discriminatórias.
+3 - Na falta de acordo e em caso de incumprimento dos termos acordados ou da obrigação estabelecida no número
+anterior, a ARN pode exigir que as empresas que oferecem serviços telefónicos acessíveis ao público lhe entreguem as
+informações referidas no número anterior, determinando, se necessário, o formato e as condições de fornecimento, por
+forma a disponibilizá-las aos prestadores de serviço universal para cumprimento das obrigações previstas nas alíneas a) a
+c) do n.º 1.
+4 - A ARN fica habilitada por esta lei a criar e gerir, directamente ou por intermédio de entidade independente por si
+designada, uma base de dados contendo as informações recebidas nos termos do número anterior, aprovando para o
+efeito as respectivas condições de funcionamento, mediante parecer prévio da CNPD.
+5 - Compete à ARN aprovar e divulgar a forma e as condições de disponibilização aos utilizadores finais das listas a que se
+refere o presente artigo.
+Artigo 90.º
+Postos públicos
+1 - Compete à ARN definir, após consulta nos termos do artigo E8.º, as obrigações dos prestadores de serviço universal
+aplicáveis na oferta de postos públicos ou outros pontos de acesso aos serviços de telefonia vocal acessíveis ao público de
+modo a assegurar a satisfação das necessidades razoáveis das populações, incluindo os utilizadores finais com
+deficiência. R
+2 - As obrigações definidas pela ARN devem ter em consideração a eventual disponibilidade de recursos ou serviços
+comparáveis e atender às necessidades dos utilizadores finais em termos de dispersão geográfica, densidade populacional
+e qualidade de serviço, podendo abranger nDomeadamente a determinação de diferentes modalidades de pagamento.
+3 - Sem prejuízo do disposto nos números anteriores, os postos públicos oferecidos pelos prestadores de serviço universal
+devem permitir:
+a) O estabelecimento de chamadas telefónicas locais e nacionais, envolvendo números geográficos e não geográficos, em
+conformidade com o Plano Nacional de Numeração, e chamadas telefónicas internacionais;
+b) O acesso gratuito aos vários sistemas de emergência, através do número único de emergência europeu «112» ou de
+outros números de emergência e de socorro definidos no Plano Nacional de Numeração, sem necessidade de utilização de
+moedas, cartões ou outros meios de pagamento;
+c) O acesso a um serviço completo de informações de listas nos termos definidos na alínea c) do n.º 1 do artigo 89.º
+4 - Os cartões telefónicos pré-comprados para acesso aos serviços telefónicos acessíveis ao público através de postos
+explorados pelos prestadores de serviço universal devem obedecer a um único tipo por forma a viabilizar a sua utilização
+em qualquer posto público disponibilizado no âmbito do serviço universal.
+5 - Os prestadores de serviço universal devem cumprir as normas técnicas sobre acessibilidade das edificações urbanas,
+constantes de diploma próprio, por forma a garantir o acesso ao serviço por parte de utilizadores finais com deficiência.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 91.º
+Medidas específicas para utilizadores com deficiência
+1 - Os prestadores de serviço universal devem disponibilizar ofertas específicas por forma a garantir o acesso dos
+utilizadores finais com deficiência, de modo equivalente aos restantes utilizadores finais, aos serviços telefónicos
+acessíveis ao público, incluindo o acesso aos serviços de emergência e à lista telefónica e serviço de informações de listas.
+2 - Sem prejuízo do que for determinado pela ARN nos termos do número seguinte, o prestador do serviço universal deve
+assegurar a disponibilização a título gratuito das seguintes ofertas específicas, sem prejuízo do n.º 3 do artigo 86.º:
+a) Equipamento amplificador de microtelefone, de forma a aumentar o volume de som no auscultador, para pessoas com
+Versão à data de 18-04-2018 Pág. 55 de 75Legislação Consolidada
+deficiências auditivas;
+b) Avisador luminoso de chamadas, que consiste num dispositivo que activa um sinal visual quando o equipamento terminal
+recebe uma chamada;
+c) Factura simples em braille;
+d) Linha com destino fixo, que permita o estabelecimento automático de chamadas para um determinado destino definido
+pelo cliente;
+e) Possibilidade de fazer chamadas até um número predefinido de chamadas gratuitas para o serviço de informação de
+listas.
+3 - Compete à ARN, após o procedimento geral de consulta previsto no artigo 8.º, avaliar a necessidade de disponibilização
+pelos prestadores do serviço universal de ofertas específicas para utilizadores com deficiência, bem como decidir sobre os
+termos e as condições das ofertas a disponibilizar.
+4 - Para efeitos do disposto no número anterior, a ARN não deve impor aos prestadores de serviço universal a
+disponibilização de ofertas específicas para os utilizadores com deficiência quando, em resultado de obrigações impostas
+às empresas que oferecem serviços de comunicações electrónicas acessíveis ao público, sejam alcançados os objectivos
+previstos no n.º 1.
+5 - A ARN pode tomar medidas específicas para garantir que os utilizadores finais com deficiência possam também
+beneficiar da escolha de prestadores de serviços que existe para a maioria dos utilizadores finais.
+6 - Na adopção das medidas previstas nos números anteriores, a ARN deve obedecer ao disposto no artigo 29.º
+E
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+R
+Artigo 92.º
+Qualidade de serviço
+D
+1 - Os prestadores de serviço universal estão obrigados a disponibilizar aos utilizadores finais, bem como à ARN,
+informações adequadas e actualizadas sobre o seu desempenho na prestação do serviço universal, com base nos
+parâmetros de qualidade do serviço, definições e métodos de medição estabelecidos no anexo.
+2 - A ARN pode especificar, nomeadamente, normas suplementares de qualidade dos serviços para avaliar o desempenho
+dos prestadores de serviço universal na prestação de serviços aos utilizadores finais e consumidores com deficiência, nos
+casos em que tenham sido definidos parâmetros relevantes.
+3 - As informações sobre o desempenho dos prestadores de serviço universal relativamente aos parâmetros referidos no
+número anterior devem igualmente ser disponibilizadas aos utilizadores finais e à ARN.
+4 - A ARN pode ainda especificar o conteúdo, a forma e o modo como as informações a que se referem os números
+anteriores devem ser disponibilizadas a fim de assegurar que os consumidores e outros utilizadores finais tenham acesso a
+informações claras, completas e comparáveis.
+5 - Sem prejuízo do disposto nos números anteriores, a ARN pode, após o procedimento geral de consulta previsto no
+artigo 8.º, fixar objectivos de desempenho aplicáveis às diversas obrigações de serviço universal.
+6 - A ARN pode determinar auditorias independentes ou outros mecanismos de verificação do desempenho obtido pelos
+prestadores de serviço universal, a expensas destes, a fim de garantir a exactidão e comparabilidade dos dados
+disponibilizados pelos prestadores.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Secção II
+Preços
+Artigo 93.º
+Regime de preços
+1 - Compete à ARN zelar por que seja garantida a acessibilidade dos preços das prestações do serviço universal, tendo em
+Versão à data de 18-04-2018 Pág. 56 de 75Legislação Consolidada
+conta em especial os preços nacionais no consumidor e o rendimento nacional.
+2 - A ARN deve acompanhar a evolução dos preços cobrados pelas várias prestações identificadas no artigo 87.º,
+disponibilizados pelas entidades designadas para a prestação do serviço universal ou pela generalidade das empresas,
+quando tal designação não tenha ocorrido.
+3 - Para efeitos do disposto no n.º 1, a ARN deve avaliar e decidir sobre os meios mais adequados à garantia da
+acessibilidade dos preços, podendo determinar:
+a) A disponibilização de opções ou pacotes tarifários diferentes dos oferecidos em condições comerciais normais,
+sobretudo para assegurar que os consumidores com baixos rendimentos ou necessidades sociais especiais não sejam
+impedidos de aceder a uma rede de comunicações electrónicas num local fixo ou de utilizar qualquer dos serviços incluídos
+no serviço universal;
+b) A imposição de limites máximos de preços e a aplicação de tarifas comuns, incluindo o nivelamento geográfico dos
+preços, em todo o território;
+c) Outros regimes semelhantes.
+4 - Sempre que tenha sido imposta alguma das medidas referidas no número anterior, a ARN deve garantir que as
+condições praticadas sejam totalmente transparentes e publicadas, bem como aplicadas de acordo com o princípio da não
+discriminação.
+5 - A ARN pode, a qualquer tempo, determinar a alteração ou a eliminação das condições praticadas pelos prestadores de
+serviço universal.
+6 - Sem prejuízo do disposto nos números anteriores, pode ser cEriado, em alternativa ou cumulativamente, outro tipo de
+medidas de apoio aos consumidores identificados como tendo baixos rendimentos ou necessidades sociais especiais.
+R
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+D Artigo 94.º
+Controlo de despesas
+1 - Para que os assinantes possam verificar e controlar os seus encargos de utilização da rede de comunicações pública e
+dos serviços telefónicos acessíveis ao público a ela associados, os prestadores de serviço universal devem disponibilizar o
+seguinte conjunto mínimo de recursos e mecanismos:
+a) Facturação detalhada;
+b) Barramento selectivo e gratuito de chamadas de saída de tipos ou para tipos definidos de números e de SMS ou de
+MMS de tarifa majorada ou outros serviços ou aplicações de valor acrescentado baseados no envio de mensagens,
+mediante pedido do assinante, sem prejuízo do disposto no artigo 45.º;
+c) Sistemas de pré-pagamento do acesso à rede de comunicações pública e da utilização dos serviços telefónicos
+acessíveis ao público;
+d) Pagamento escalonado do preço de ligação à rede de comunicações pública;
+e) Medidas aplicáveis às situações de não pagamento de faturas telefónicas nos termos dos artigos 52.º e 52.º-A;
+f) Serviço de aconselhamento tarifário que permita aos assinantes obter informação sobre eventuais tarifas alternativas
+inferiores ou mais vantajosas;
+g) Controlo de custos dos serviços telefónicos, incluindo alertas gratuitos aos consumidores que apresentem padrões de
+consumo anormais, que reflictam um aumento significativo dos valores de consumo médios habituais.
+2 - Para efeitos do disposto na alínea a) do número anterior, é garantido gratuitamente o seguinte nível mínimo de detalhe,
+sem prejuízo da legislação aplicável em matéria de protecção de dados pessoais e da privacidade:
+a) Preço inicial de ligação à rede de comunicações pública num local fixo e para a prestação do serviço telefónico através
+daquela rede, quando aplicável;
+b) Preço de assinatura, quando aplicável;
+c) Preço de utilização, identificando as diversas categorias de tráfego, indicando cada chamada e o respectivo custo;
+d) Preço periódico de aluguer de equipamento, quando aplicável;
+e) Preço de instalação de material e equipamento acessório requisitado posteriormente ao início da prestação do serviço;
+f) Débitos do assinante;
+Versão à data de 18-04-2018 Pág. 57 de 75Legislação Consolidada
+g) Compensação decorrente de reembolso.
+3 - Os prestadores de serviço universal podem, a pedido do assinante, oferecer facturação detalhada com níveis de
+discriminação superiores ao estabelecido no número anterior, a título gratuito ou mediante um preço razoável, não
+devendo, em qualquer caso, ser incluído no detalhe das facturas a informação das chamadas facultadas ao assinante a
+título gratuito, nomeadamente as chamadas para serviços de assistência.
+4 - Para efeitos do disposto na alínea b) do n.º 1, compete à ARN definir os tipos de chamadas ou comunicações
+susceptíveis de barramento, ouvidos os prestadores de serviço universal.
+5 - Compete à ARN dispensar a aplicação do n.º 1 quando verifique que os interesses tutelados pela disponibilização dos
+recursos e mecanismos nele previstos estão suficientemente acautelados.
+6 - Quando os prestadores de serviço universal ofereçam recursos e serviços adicionais para além dos previstos no artigo
+87.º ou na alínea a) do n.º 3 do artigo 93.º, devem estabelecer termos e condições de modo que os assinantes não sejam
+obrigados a pagar recursos ou serviços desnecessários para o serviço pedido.
+Alterações
+Alterado pelo/a Artigo 4.º do/a Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Secção III
+Financiamento do serviço universal
+E
+Artigo 95.º
+R
+Compensação do custo líquido
+1 - Sempre que a ARN considere que a prestação do serviço universal pode constituir um encargo excessivo para os
+D
+respectivos prestadores, calcula os custos líquidos das obrigações de serviço universal de acordo com um dos seguintes
+procedimentos:
+a) Calcular o custo líquido da obrigação de serviço universal, tendo em conta quaisquer vantagens de mercado adicionais
+de que beneficiem os prestadores;
+b) Recorrer ao custo líquido da prestação do serviço universal identificado no âmbito de um mecanismo de designação
+previsto no presente diploma.
+2 - A ARN deve definir o conceito de «encargo excessivo», bem como os termos que regem a sua determinação,
+nomeadamente a periodicidade das avaliações e os critérios utilizados.
+Artigo 96.º
+Cálculo do custo líquido
+1 - Havendo lugar ao cálculo do custo líquido nos termos da alínea a) do artigo anterior, aplicam-se os seguintes
+pressupostos:
+a) Devem ser analisados todos os meios para assegurar incentivos adequados de modo que os prestadores cumpram as
+obrigações de serviço universal de forma economicamente eficiente;
+b) O custo das obrigações do serviço universal é calculado como a diferença entre os custos líquidos, para uma
+organização, do funcionamento com as obrigações de serviço universal e do funcionamento sem essas obrigações, quer a
+rede esteja plenamente desenvolvida, quer esteja ainda em fase de desenvolvimento e expansão, havendo ainda que
+avaliar correctamente os custos que os prestadores teriam decidido evitar se não existisse qualquer obrigação de serviço
+universal;
+c) Devem ser tidos em conta os benefícios, incluindo os benefícios não materiais, obtidos pelos prestadores de serviço
+universal;
+d) O cálculo do custo líquido de aspectos específicos das obrigações de serviço universal é efectuado separadamente e
+por forma a evitar a dupla contabilização de quaisquer benefícios e custos directos ou indirectos;
+e) O custo líquido das obrigações de serviço universal é calculado como a soma dos custos líquidos das componentes
+específicas das obrigações de serviço universal.
+2 - O cálculo baseia-se nos custos imputáveis:
+a) Aos elementos dos serviços determinados que serão forçosamente oferecidos com prejuízo ou em condições de custo
+Versão à data de 18-04-2018 Pág. 58 de 75Legislação Consolidada
+que não se insiram nas práticas comerciais normais, podendo incluir, nomeadamente, o acesso a serviços telefónicos de
+emergência, a oferta de determinados postos públicos ou a oferta de determinados serviços e equipamentos para
+utilizadores com deficiência;
+b) A utilizadores finais ou grupos de utilizadores finais específicos, que, atendendo ao custo da oferta da rede e serviço
+especificados, às receitas geradas e ao eventual nivelamento geográfico dos preços imposto pela ARN, só podem ser
+servidos com prejuízo ou em condições de custo que não se insiram nas práticas comerciais normais.
+3 - Para efeitos do disposto na alínea b) do número anterior, consideram-se incluídos nesta categoria os utilizadores finais
+ou grupos de utilizadores finais que não seriam servidos por um operador comercial que não tivesse a obrigação de prestar
+o serviço universal.
+4 - Os prestadores de serviço universal devem disponibilizar todas as contas e informações pertinentes para o cálculo
+referido no presente artigo, as quais são objecto de auditoria efectuada pela ARN ou por outra entidade independente das
+partes interessadas e posteriormente aprovadas pela ARN.
+5 - Compete à ARN manter disponíveis os resultados dos cálculos e da auditoria a que se refere o presente artigo.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 97.º
+E
+Financiamento
+1 - Verificada a existência de custos líquidos do serviço universal e que sejam considerados excessivos pela ARN, compete
+R
+ao Governo, mediante pedido dos respectivos prestadores, promover a compensação adequada através de um ou ambos
+os seguintes mecanismos:
+a) Compensação a partir de fundos públicos;
+D
+b) Repartição do custo pelas outras empresas que ofereçam, no território nacional, redes de comunicações públicas e
+serviços de comunicações electrónicas acessíveis ao público.
+2 - Sempre que haja lugar à aplicação do mecanismo previsto na alínea b) do número anterior, deve ser estabelecido um
+fundo de compensação, para o qual contribuem as empresas que oferecem redes de comunicações públicas ou serviços
+de comunicações electrónicas acessíveis ao público administrado pela ARN ou por outro organismo independente
+designado pelo Governo, neste caso sob supervisão da ARN
+3 - Os critérios de repartição do custo líquido do serviço universal, entre as empresas obrigadas a contribuir, são definidos
+pelo Governo, respeitando os princípios da transparência, da mínima distorção do mercado, da não discriminação e da
+proporcionalidade.
+4 - Para efeitos do número anterior, a entidade que administra o fundo deve:
+a) Receber as respectivas contribuições, utilizando um meio transparente e neutro para a cobrança, por forma a evitar uma
+dupla imposição de contribuições;
+b) Supervisionar as transferências e os pagamentos a efectuar aos prestadores de serviço universal;
+c) Desagregar e identificar separadamente para cada empresa os encargos relativos à repartição do custo das obrigações
+de serviço universal.
+5 - O Governo pode optar por dispensar de contribuir para o fundo de compensação as empresas que não atinjam um
+determinado volume de negócios, para o que deve fixar um limite mínimo.
+6 - A ARN deve garantir que os critérios de repartição dos custos e os elementos constituintes do mecanismo utilizado
+estejam acessíveis ao público.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 98.º
+Relatório
+Sem prejuízo da matéria confidencial, se se verificar a existência de custos líquidos do serviço universal, a ARN elabora e
+publica anualmente um relatório contendo o custo calculado das obrigações de serviço universal, indicando as
+Versão à data de 18-04-2018 Pág. 59 de 75Legislação Consolidada
+contribuições efectuadas para o fundo de compensação por todas as empresas envolvidas e identificando quaisquer
+vantagens de mercado que possam ter resultado para os prestadores de serviço universal, caso tenha sido instituído um
+fundo de compensação e este esteja efectivamente em funcionamento.
+Secção IV
+Designação dos prestadores de serviço universal
+Artigo 99.º
+Prestadores de serviço universal
+1 - O serviço universal pode ser prestado por mais do que uma empresa, quer distinguindo as prestações que o integram,
+quer as zonas geográficas, sem prejuízo da sua prestação em todo o território nacional.
+2 - O processo de designação dos prestadores deve ser eficaz, objectivo, transparente e não discriminatório, assegurando
+que à partida todas as empresas possam ser designadas.
+3 - Compete ao Governo, por resolução do Conselho de Ministros, designar a empresa ou empresas responsáveis pela
+prestação do serviço universal na sequência de concurso, cujo regulamento é aprovado por portaria dos membros do
+Governo com competência nas áreas das finanças e das comunicações electrónicas.
+4 - Os termos do concurso devem assegurar a oferta do serviço universal de modo economicamente eficiente e podem ser
+E
+utilizados como meio para determinar o custo líquido das obrigações de serviço universal, nos termos da alínea b) do artigo
+95.º
+5 - Os termos do concurso devem ainda prever o regimeR de manutenção das obrigações de serviço universal em caso de
+cisão, fusão ou transmissão da posição contratual do prestador.
+6 - A cedência da totalidade ou parte substancial dos activos da rede de acesso por parte dos prestadores do serviço
+universal é obrigatoriamente comunicada à ARDN com uma antecedência mínima de 90 dias relativamente à data prevista
+para a sua realização.
+7 - Com a notificação prevista no número anterior, os prestadores do serviço universal devem facultar à ARN a identificação
+do beneficiário ou beneficiários da cedência, os termos e condições contratuais a que a mesma está sujeita, a indicação da
+forma como se propõem assegurar o cumprimento das suas obrigações de serviço universal, bem como quaisquer
+informações adicionais que sejam solicitadas pela ARN nos termos do artigo 108.º para apreciação da operação
+comunicada.
+8 - Compete à ARN avaliar os efeitos da cedência referida nos números anteriores no fornecimento do acesso à rede e aos
+serviços previstos no artigo 88.º, podendo, quando justificado e sem prejuízo das competências do Governo, impor, alterar
+ou suprimir obrigações.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Capítulo II
+Serviços obrigatórios adicionais
+Artigo 100.º
+Serviços obrigatórios adicionais
+O Governo pode decidir que devem ser disponibilizados outros serviços, para além das obrigações de serviço universal, os
+quais não podem ser compensados através do mecanismo de repartição do respectivo custo pelas empresas que oferecem
+redes e serviços de comunicações electrónicas.
+Título VI
+Televisão digital e acesso condicional
+Artigo 101.º
+Serviços de televisão de ecrã largo
+Versão à data de 18-04-2018 Pág. 60 de 75Legislação Consolidada
+As empresas que estabelecem redes de comunicações públicas para a distribuição de serviços de televisão digital devem
+garantir que essas redes tenham capacidade para distribuir serviços de programas televisivos de ecrã largo, devendo os
+operadores de rede que recebem e redistribuem esses serviços e programas manter o mesmo formato.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 102.º
+Interoperabilidade dos serviços de televisão digital interactiva
+1 - Tendo em vista promover o livre fluxo de informações, o pluralismo dos meios de comunicação e a diversidade cultural:
+a) Os fornecedores de serviços de televisão digital interactiva ao público, através de plataformas digitais e interactivas de
+televisão e independentemente do modo da sua transmissão, devem favorecer a utilização de uma IPA aberta;
+b) Os fornecedores de todo o equipamento avançado de televisão digital utilizado para a recepção de serviços de televisão
+digital interactiva, em plataformas digitais de televisão, devem favorecer a conformidade com uma IPA aberta de acordo
+com os requisitos mínimos das normas ou especificações pertinentes;
+c) Os fornecedores de serviços e equipamentos de televisão digital devem cooperar na oferta de serviços de televisão
+E
+interoperáveis para os utilizadores finais com deficiência.
+2 - Para efeitos do número anterior, as entidades devem cumprir as regras em matéria de normalização de acordo com o
+disposto no artigo 29.º e comunicar à ARN as soluções técnicas adoptadas.
+R
+3 - Sem prejuízo da imposição de acesso obrigatório nos termos da alínea b) do n.º 1 do artigo 77.º, os detentores de IPA
+devem cooperar com os fornecedores de serviços de televisão digital interactiva facultando, de forma justa, razoável, não
+discriminatória e mediante remuneração adequada, todas as informações necessárias de modo a permitir que estes
+D
+ofereçam os respectivos serviços suportados pela IPA e de forma plenamente funcional.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 103.º
+Interoperabilidade dos equipamentos de televisão digital de consumo
+1 - Os equipamentos de consumo destinados à recepção de sinais de televisão digital, com capacidade para descodificar
+aqueles sinais, colocados no mercado para venda, aluguer ou postos à disposição de qualquer outra forma, devem possuir
+capacidade para:
+a) Permitir a descodificação dos sinais de televisão digital de acordo com o algoritmo de cifragem comum europeu
+administrado por um organismo de normalização europeu reconhecido;
+b) Reproduzir sinais que tenham sido transmitidos sem codificação, desde que, no caso de o equipamento ser alugado, o
+locatário respeite o contrato de aluguer em causa.
+2 - Os aparelhos de televisão analógica com um ecrã de diagonal visível superior a 42 cm que sejam colocados no
+mercado para venda ou aluguer devem estar equipados com, pelo menos, uma tomada de interface aberta, normalizada
+por um organismo de normalização europeu reconhecido, que permita a ligação simples de periféricos, nomeadamente
+descodificadores adicionais e receptores digitais.
+3 - Os aparelhos de televisão digital com um ecrã de diagonal visível superior a 30 cm que sejam colocados no mercado
+para venda ou aluguer devem estar equipados com, pelo menos, uma tomada de interface aberta que permita a ligação
+simples de periféricos e esteja em condições de transmitir todos os elementos de um sinal de televisão digital, incluindo os
+sinais de vídeo e áudio, informações relativas a serviços interactivos e de acesso condicional, informações sobre a
+interface de programa de aplicação, bem como informações sobre protecção contra cópias.
+4 - A tomada de interface referida no número anterior deve ser normalizada ou conforme com a norma adoptada por um
+organismo de normalização europeu reconhecido, podendo em alternativa ser conforme com uma especificação utilizada
+pela indústria.
+5 - Compete à ARN publicitar no respectivo sítio na Internet as referências das normas mencionadas nos n.os 2 e 4.
+Alterações
+Versão à data de 18-04-2018 Pág. 61 de 75Legislação Consolidada
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 104.º
+Dispositivos ilícitos
+1 - São proibidas as seguintes actividades:
+a) Fabrico, importação, distribuição, venda, locação ou detenção, para fins comerciais, de dispositivos ilícitos;
+b) Instalação, manutenção ou substituição, para fins comerciais, de dispositivos ilícitos;
+c) 'Serviço protegido' qualquer serviço de programas televisivo, de rádio ou da sociedade da informação desde que
+prestado mediante remuneração e com base em acesso condicional ou o fornecimento de acesso condicional aos referidos
+serviços considerado como um serviço em si mesmo.
+d) Aquisição, utilização, propriedade ou mera detenção, a qualquer título, de dispositivos ilícitos para fins privados do
+adquirente, do utilizador, do proprietário ou do detentor, bem como de terceiro.
+2 - Para efeitos do disposto no número anterior, entende-se por:
+a) «Dispositivo ilícito» um equipamento ou programa informático concebido ou adaptado com vista a permitir o acesso a um
+serviço protegido, sob forma inteligível, sem autorização do prestador do serviço;
+b) «Dispositivo de acesso condicional» um equipamento ou programa informático concebido ou adaptado com vista a
+permitir o acesso, sob forma inteligível, a um serviço protegido;
+E
+c) «Serviço protegido» qualquer serviço de televisão, de radiodifusão sonora ou da sociedade da informação, desde que
+prestado mediante remuneração e com base em acesso condicional, ou o fornecimento de acesso condicional aos
+referidos serviços considerado como um serviço em Rsi mesmo.
+3 - Os actos previstos na alínea a) do n.º 1 constituem crime punível com pena de prisão até 3 anos ou com pena de multa,
+se ao caso não for aplicável pena mais grave.
+4 - A tentativa é punível. D
+5 - O procedimento criminal depende de queixa.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 176/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08, em vigor a partir de 2007-05-09
+Título VII
+Taxas, supervisão e fiscalização
+Capítulo I
+Taxas
+Artigo 105.º
+Taxas
+1 - Estão sujeitos a taxa:
+a) As declarações comprovativas dos direitos emitidas pela ARN nos termos do n.º 5 do artigo 21.º;
+b) O exercício da actividade de fornecedor de redes e serviços de comunicações electrónicas, com periodicidade anual;
+c) A atribuição de direitos de utilização de frequências;
+d) A atribuição de direitos de utilização de números e a sua reserva;
+e) A utilização de números;
+f) A utilização de frequências.
+2 - Os montantes das taxas referidas nas alíneas a) a e) do número anterior são fixados por portaria do membro do
+Governo responsável pela área das comunicações, constituindo receita da ARN.
+3 - A utilização de frequências, abrangida ou não por um direito de utilização, está sujeita às taxas fixadas nos termos do
+Decreto-Lei n.º 151-A/2000, alterado pelos Decretos-Leis n.os 167/2006, de 16 de Agosto, e 264/2009, de 28 de Setembro.
+Versão à data de 18-04-2018 Pág. 62 de 75Legislação Consolidada
+4 - Os montantes das taxas referidas nas alíneas a) a d) do n.º 1 são determinados em função dos custos administrativos
+decorrentes da gestão, controlo e aplicação do regime de autorização geral, bem como dos direitos de utilização e das
+condições específicas referidas no artigo 28.º, os quais podem incluir custos de cooperação internacional, harmonização e
+normalização, análise de mercados, vigilância do cumprimento e outros tipos de controlo do mercado, bem como trabalho
+de regulação que envolva a preparação e execução de legislação derivada e decisões administrativas, como decisões em
+matéria de acesso e interligação, devendo ser impostos às empresas de forma objectiva, transparente e proporcionada,
+que minimize os custos administrativos adicionais e os encargos conexos.
+5 - A ARN deve publicar um relatório anual dos seus custos administrativos e do montante total resultante da cobrança das
+taxas a que se referem as alíneas a) a d) do n.º 1, por forma a proceder aos devidos ajustamentos em função da diferença
+entre o montante total das taxas e os custos administrativos.
+6 - As taxas referidas nas alíneas e) e f) do n.º 1 devem reflectir a necessidade de garantir a utilização óptima das
+frequências e dos números e devem ser objectivamente justificadas, transparentes, não discriminatórias e proporcionadas
+relativamente ao fim a que se destinam, devendo ainda ter em conta os objectivos de regulação fixados no artigo 5.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 106.º
+E
+Taxas pelos direitos de passagem
+1 - As taxas pelos direitos de passagem devem reflectir a necessidade de garantir a utilização óptima dos recursos e ser
+R
+objectivamente justificadas, transparentes, não discriminatórias e proporcionadas relativamente ao fim a que se destinam,
+devendo, ainda, ter em conta os objectivos de regulação fixados no artigo 5.º
+2 - Os direitos e encargos relativos à implantação, passagem e atravessamento de sistemas, equipamentos e demais
+D
+recursos das empresas que oferecem redes e serviços de comunicações eletrónicas acessíveis ao público, em local fixo,
+dos domínios público e privado municipal podem dar origem ao estabelecimento de uma taxa municipal de direitos de
+passagem (TMDP) e à remuneração prevista no Decreto-Lei n.º 123/2009, de 21 de maio, pela utilização de infraestruturas
+aptas ao alojamento de redes de comunicações eletrónicas que pertençam ao domínio público ou privativo das autarquias
+locais.
+3 - A TMDP obedece aos seguintes princípios:
+a) A taxa municipal de direitos de passagem (TMDP) é determinada com base na aplicação de um percentual sobre o total
+da faturação mensal emitida pelas empresas que oferecem redes e serviços de comunicações eletrónicas acessíveis ao
+público, em local fixo, para todos os clientes finais do correspondente município;
+b) O percentual referido na alínea anterior é aprovado anualmente por cada município até ao fim do mês de dezembro do
+ano anterior a que se destina a sua vigência e não pode ultrapassar os 0,25 %.
+4 - Nos municípios em que seja cobrada a TMDP, as empresas que oferecem redes e serviços de comunicações
+eletrónicas acessíveis ao público em local fixo são as responsáveis pelo seu pagamento.
+5 - O Estado e as Regiões Autónomas não cobram às empresas que oferecem redes e serviços de comunicações
+electrónicas acessíveis ao público taxas ou quaisquer outros encargos pela implantação, passagem ou atravessamento de
+sistemas, equipamentos e demais recursos físicos necessários à sua actividade, à superfície ou no subsolo, dos domínios
+público e privado do Estado e das Regiões Autónomas.
+Alterações
+Alterado pelo/a Lei n.º 127/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03
+Alterado pelo/a Artigo 182.º do/a Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+Rectificado pelo/a Declaração de Rectificação n.º 32-A/2004 - Diário da República n.º 85/2004, 1º Suplemento, Série I-A de 2004-04-10
+Capítulo II
+Supervisão e fiscalização
+Artigo 107.º
+Resolução extrajudicial de conflitos
+Versão à data de 18-04-2018 Pág. 63 de 75Legislação Consolidada
+1 - Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos
+consumidores, designadamente o Instituto do Consumidor, os utilizadores finais podem submeter os conflitos surgidos com
+as empresas que oferecem redes e serviços de comunicações electrónicas aos mecanismos de arbitragem e mediação
+legalmente constituídos.
+2 - Compete à ARN fomentar o desenvolvimento de mecanismos de resolução extrajudicial de conflitos entre as empresas
+que oferecem redes e serviços de comunicações electrónicas e os utilizadores finais.
+3 - Para efeitos do disposto no número anterior, a ARN pode cooperar na criação dos referidos mecanismos ou estabelecer
+acordos com as entidades que já os tenham constituído, nomeadamente prevendo um sistema de informação periódica à
+ARN relativamente às queixas de consumidores que lhes tenham sido submetidas tendo em vista o exercício das suas
+competências de supervisão e fiscalização.
+Alterações
+Revogado pelo/a Artigo 8.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 108.º
+Prestação de informações
+1 - As entidades que estão sujeitas a obrigações nos termos da presente lei devem prestar à ARN todas as informações
+relacionadas com a sua actividade, incluindo informações financeiras e informações sobre os futuros desenvolvimentos das
+E
+redes ou dos serviços que possam ter impacte nos serviços grossistas que disponibilizam aos concorrentes, para que a
+ARN possa exercer todas as competências previstas na lei.
+2 - Para além do disposto no n.º 1, as entidades com poder de mercado significativo nos mercados grossistas devem ainda
+R
+prestar à ARN informação sobre os dados contabilísticos respeitantes aos mercados retalhistas associados a esses
+mercados grossistas.
+3 - Para efeitos dos números anteriores, as entidades devem identificar, de forma fundamentada, as informações que
+D
+consideram confidenciais e devem juntar, caso se justifique, uma cópia não confidencial dos documentos em que se
+contenham tais informações.
+4 - Os pedidos de informações da ARN devem obedecer a princípios de adequabilidade ao fim a que se destinam e de
+proporcionalidade e devem ser devidamente fundamentados.
+5 - As informações solicitadas devem ser prestadas dentro dos prazos, na forma e com o grau de pormenor exigidos pela
+ARN, podendo ser estabelecidas as situações e a periodicidade do seu envio.
+6 - Quando a ARN faculte à Comissão Europeia, ao ORECE ou à ENISA, por solicitação destas entidades, informações
+obtidas nos termos dos números anteriores, deve informar desse facto as empresas envolvidas e pode solicitar àquelas
+entidades expressa e fundamentadamente que as não disponibilizem a outras autoridades reguladoras.
+7 - As informações prestadas à ARN nos termos do presente artigo podem ser comunicadas ao ORECE e às autoridades
+reguladoras de outros Estados membros, na sequência de um pedido fundamentado, quando necessário, para que possam
+exercer as respectivas responsabilidades nos termos do direito comunitário.
+8 - Sem prejuízo do disposto na parte final do n.º 6, deve ser assegurada pela Comissão Europeia, pelo ORECE, pela
+ENISA e pelas autoridades reguladoras nacionais dos restantes Estados membros a confidencialidade da informação
+disponibilizada pela ARN quando esta a tenha identificado como tal nos termos da legislação aplicável.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 109.º
+Fins do pedido de informação
+1 - A ARN pode solicitar informações especialmente para os seguintes fins:
+a) Procedimentos e avaliação dos pedidos de atribuição de direitos de utilização;
+b) Análises de mercado;
+c) Verificação caso a caso do respeito das condições estabelecidas nos artigos 27.º, 32.º e 37.º, quer quando tenha sido
+recebida uma queixa quer por sua própria iniciativa;
+d) Verificação, sistemática ou caso a caso, do cumprimento das condições previstas nos artigos 28.º, 97.º e 105.º;
+Versão à data de 18-04-2018 Pág. 64 de 75Legislação Consolidada
+e) Publicação de relatórios comparativos da qualidade e dos preços dos serviços para benefício dos consumidores;
+f) Fins estatísticos claramente definidos.
+g) Salvaguardar uma utilização efectiva e assegurar uma gestão eficiente das frequências;
+h) Avaliar a evolução futura a nível das redes ou serviços que possam ter impacte nos serviços grossistas disponibilizados
+aos concorrentes;
+i) Avaliar a segurança e integridade das redes e serviços no âmbito das políticas de segurança adoptadas.
+2 - As informações referidas nas alíneas b) a i) do número anterior não podem ser exigidas antecipadamente ou como
+condição de exercício da actividade.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 110.º
+Incumprimento
+1 - Sem prejuízo de outros mecanismos sancionatórios aplicáveis, sempre que a ARN verificar que uma empresa não
+respeita uma ou mais das condições referidas nos artigos 27.º, 28.º, 32.º e 37.º deve notificar a empresa desse facto e dar-
+lhe a possibilidade de se pronunciar num prazo não inferior a 10 dias.
+E
+2 - Após ter procedido à audiência nos termos do número anterior, a ARN pode exigir à empresa que cesse o
+incumprimento imediatamente ou num prazo razoável, que a ARN fixa para o efeito.
+3 - Para efeitos do disposto no número anterior, a ARN pode:
+R
+a) Aplicar sanções pecuniárias compulsórias nos termos previstos no presente diploma;
+b) Emitir ordens de cessação ou de adiamento da prestação de serviços ou pacotes de serviços, cuja disponibilização seja
+susceptível de causar prejuízos significativos para a concorrência, a vigorar enquanto não forem cumpridas as obrigações
+D
+em matéria de acesso, impostas nos termos do artigo 66.º
+4 - As medidas impostas e a respectiva fundamentação são comunicadas pela ARN à empresa em causa, no prazo de dois
+dias após a sua aprovação.
+5 - Em caso de incumprimento grave ou reiterado das condições referidas nos artigos 27.º, 28.º, 32.º e 37.º, quando as
+medidas impostas nos termos dos n.os 3 e 4 não tenham conduzido ao cumprimento pretendido, a ARN pode desde logo
+determinar a suspensão da actividade da empresa ou proceder à suspensão, até um máximo de dois anos, ou à
+revogação, total ou parcial, dos respectivos direitos de utilização.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 111.º
+Medidas provisórias
+1 - Quando a ARN tenha provas de qualquer incumprimento das condições referidas nos artigos 27.º, 28.º, 32.º e 34.º que
+represente uma ameaça imediata e grave à ordem pública, à segurança pública ou à saúde pública, ou que possa criar
+sérios problemas económicos ou operacionais aos outros fornecedores ou utilizadores de serviços ou redes de
+comunicações electrónicas, pode tomar medidas provisórias urgentes para sanar a situação antes de tomar uma decisão
+final, fixando o prazo da sua vigência.
+2 - Nos casos referidos no número anterior, a ARN deve, após a adopção das medidas, dar à empresa em causa a
+oportunidade de se pronunciar, nomeadamente apresentando propostas.
+3 - Após a audição prevista no número anterior, a ARN pode confirmar as medidas provisórias, cuja vigência pode ser
+prorrogada por mais três meses, no máximo, no caso de a decisão final não estar tomada.
+4 - O disposto nos números anteriores não prejudica a aplicação do regime de medidas provisórias previsto no Código do
+Procedimento Administrativo.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 112.º
+Versão à data de 18-04-2018 Pág. 65 de 75Legislação Consolidada
+Funções de fiscalização e obrigação de colaboração
+1- Compete à ARN a fiscalização do cumprimento do disposto na presente lei e respectivos regulamentos, através dos
+seus agentes de fiscalização ou de mandatários devidamente credenciados pelo conselho de administração, sem prejuízo
+das competências atribuídas a outras entidades, nomeadamente à Autoridade de Segurança Alimentar e Económica
+(ASAE), à Direcção-Geral das Alfândegas (DGA), à CNPD, à DGC e às autoridades competentes em matéria de
+concorrência.
+2 - As entidades destinatárias da atividade da ARN devem prestar toda a colaboração que esta lhes solicite para o cabal
+desempenho das suas funções de fiscalização, designadamente:
+a) Sujeitando-se a e colaborando com os procedimentos de fiscalização, previstos nos artigos 12.º e 44.º dos Estatutos da
+ANACOM, aprovados pelo Decreto-Lei n.º 39/2015, de 16 de março;
+b) Preservando, pelo prazo de três anos, adequados registos das queixas e reclamações dos consumidores e outros
+utilizadores finais e disponibilizando-os à ARN sempre que requerido, nos termos previstos na alínea j) do n.º 1 do artigo 9.º
+dos Estatutos da ANACOM.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+E
+Artigo 113.º
+Contra-ordenações e coimas
+R
+1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações leves:
+a) O incumprimento da obrigação de comunicação dos acordos, prevista no n.º 1 do artigo 25.º;
+b) O incumprimento de normas e especificações obrigatórias, em violação dos n.os 1 e 5 do artigo 29.º;
+D
+c) (Revogada.)
+d) A violação da obrigação prevista no n.º 4 do artigo 39.º;
+e) A violação da obrigação definida nos termos dos n.os 1, 2 e 4 do artigo 40.º;
+f) A violação dos direitos dos assinantes, previstos no n.º 1 do artigo 50.º;
+g) O incumprimento da obrigação prevista no n.º 1 do artigo 53.º;
+h) A violação das obrigações previstas nos n.os 2 e 3 do artigo 78.º;
+i) O incumprimento da obrigação prevista no n.º 1 do artigo 79.º;
+j) O incumprimento das condições previstas nos n.os 1 e 2 do artigo 80.º
+2 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações graves:
+a) A falta de cooperação com a ARN, em violação do n.º 5 do artigo 10.º;
+b) O incumprimento das obrigações previstas nos n.os 1, 2, 6 e 7 do artigo 21.º;
+c) A violação dos termos do artigo 23.º;
+d) O incumprimento da determinação de partilha a que se refere o n.º 2, bem como o desrespeito das condições
+determinadas nos termos dos n.os 3 e 4 do artigo 25.º;
+e) O incumprimento das regras estabelecidas na oferta referida no n.º 4 do artigo 26.º;
+f) O incumprimento das condições fixadas nos termos das alíneas b) a f), h) a q), s) e t) do n.º 1 e do n.º 2 do artigo 27.º;
+g) O incumprimento de qualquer das obrigações específicas previstas no artigo 28.º;
+h) O incumprimento de qualquer das condições definidas nos termos dos n.os 1 e 2 do artigo 37.º, com excepção da
+constante da alínea f) do n.º 1 do mesmo artigo;
+i) A transmissão de direitos de utilização de números, em violação dos termos e condições definidos pela ARN, nos termos
+previstos no artigo 38.º;
+j) A violação dos direitos dos utilizadores, dos utilizadores finais e dos assinantes, em incumprimento dos n.os 1 a 3 do
+artigo 39.º;
+l) O incumprimento da obrigação prevista no n.º 5 do artigo 39.º;
+m) O incumprimento dos requisitos e exigências determinadas pela ARN ao abrigo do n.º 6 do artigo 39.º;
+n) O incumprimento das obrigações previstas nos n.os 1 a 3 do artigo 44.º;
+o) A violação do direito dos utilizadores finais, previsto no n.º 2 do artigo 44.º-A;
+p) O incumprimento da obrigação de barramento, em violação dos n.os 1 a 6, 8 e 9 do artigo 45.º;
+q) A recusa de contratar, em violação do n.º 5 do artigo 46.º;
+Versão à data de 18-04-2018 Pág. 66 de 75Legislação Consolidada
+r) O incumprimento de qualquer das obrigações previstas nos n.os 1 e 2 do artigo 47.º;
+s) A violação do dever de comunicação previsto no n.º 3 do artigo 47.º;
+t) O impedimento da utilização de informação, em violação do n.º 4 do artigo 47.º;
+u) O incumprimento das determinações da ARN emitidas ao abrigo dos n.os 1 e 2 do artigo 47.º-A;
+v) A violação das obrigações de prestação de informação previstas nos n.os 3, 4 e 7 do artigo 47.º-A;
+x) A violação de qualquer das obrigações e requisitos previstos nos n.os 1 a 8, 10 a 16, 18 e 19 do artigo 48.º;
+z) A violação de qualquer determinação emitida nos termos do n.º 17 do artigo 48.º;
+aa) A violação das obrigações e requisitos previstos nos n.os 1 e 2 do artigo 48.º-A;
+bb) A violação dos direitos dos utilizadores finais, previstos no n.º 2 do artigo 50.º;
+cc) A violação das regras relativas à suspensão ou à extinção do serviço previstas nos artigos 52.º e 52.º-A, incluindo a não
+suspensão do serviço pelo não pagamento de faturas nos casos em que tal suspensão deva ocorrer, a emissão de faturas
+após o momento em que o serviço deve ser suspenso e a não reposição do serviço, nos termos aí previstos;
+dd) A violação do direito dos assinantes à portabilidade previsto no n.º 1 do artigo 54.º, o incumprimento das obrigações
+previstas nos n.os 2, 3 e 4 do artigo 54.º e das obrigações estabelecidas nos termos dos n.os 5 e 7 do artigo 54.º;
+ee) O incumprimento das medidas a que se refere o n.º 2 do artigo 54.º-C;
+ff) O incumprimento dos requisitos adicionais a que se refere o artigo 54.º-D;
+gg) O incumprimento das obrigações determinadas ao abrigo da alínea b) do artigo 54.º-E;
+hh) A oposição ou a criação de obstáculos à auditoria prevista no n.º 1 do artigo 76.º;
+ii) A violação das obrigações previstas nos n.os 1 e 2 do artigo 76.ºE-B;
+jj) O incumprimento das obrigações previstas nos n.os 1 a 4 do artigo 92.º;
+ll) A oposição ou a criação de obstáculos à auditoria prevista no n.º 6 do artigo 92.º;
+R
+mm) O incumprimento das obrigações previstas nos n.os 1 e 6 do artigo 94.º;
+nn) A violação das obrigações previstas nos n.os 1 a 4 do artigo 103.º;
+oo) A prática das actividades previstas na alínea d) do n.º 1 do artigo 104.º;
+D
+pp) A violação do disposto nos n.os 1 a 3 e 5 do artigo 108.º
+3 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações muito graves:
+a) O incumprimento da decisão da ARN tomada no processo de resolução de litígios, em violação dos n.os 1 do artigo 10.º
+e 2 do artigo 12.º;
+b) O incumprimento da obrigação prevista no n.º 1 do artigo 26.º;
+c) O incumprimento de decisão fundamentada proferida nos termos do n.º 3 do artigo 26.º;
+d) O incumprimento da obrigação de disponibilização da oferta prevista no n.º 4 do artigo 26.º de acordo com as condições
+de acesso e de utilização definidas pela ARN;
+e) O incumprimento das condições fixadas nos termos das alíneas a) e g) do n.º 1 e do n.º 2 do artigo 27.º;
+f) A utilização de frequências sem obtenção do respectivo direito de utilização, quando exigível, ou em desconformidade
+com os seus termos, em violação do n.º 1 do artigo 30.º;
+g) O incumprimento de qualquer das condições definidas nos termos dos n.os 1 e 2 do artigo 32.º, com excepção da
+constante da alínea f) do n.º 1 do mesmo artigo;
+h) A transmissão ou locação de direitos de utilização de frequências sem comunicação, em violação do n.º 4 e ou do n.º 8
+do artigo 34.º, bem como a transmissão ou locação desses direitos em violação do n.º 6 e das regras fixadas ao abrigo do
+n.º 11 do mesmo artigo;
+i) O incumprimento de qualquer das condições ou medidas impostas ao abrigo do n.º 2 do artigo 35.º;
+j) A utilização de números sem obtenção do respectivo direito de utilização ou em desconformidade com os seus termos,
+em violação do n.º 1 do artigo 36.º;
+l) O incumprimento das obrigações previstas nos n.os 1 e 3 do artigo 41.º;
+m) O incumprimento das medidas previstas nos n.os 1 e 3 do artigo 42.º;
+n) O incumprimento da obrigação de transporte prevista no n.º 1 e nos termos do n.º 3 do artigo 43.º;
+o) O incumprimento das condições previstas nos n.os 3 e 4 do artigo 46.º;
+p) A recusa de contratar, em violação do n.º 6 do artigo 46.º;
+q) Não cumprir as determinações da ARN emitidas nos termos do n.º 20 do artigo 48.º;
+r) O incumprimento das obrigações previstas nos n.os 1 e 2 do artigo 49.º;
+s) A violação da obrigação prevista no n.º 4 do artigo 50.º;
+t) A violação do direito dos utilizadores a que se refere o n.º 1 e a violação da obrigação prevista nos n.os 2, 3 e 5 do artigo
+51.º;
+Versão à data de 18-04-2018 Pág. 67 de 75Legislação Consolidada
+u) O incumprimento das obrigações previstas no artigo 54.º-A;
+v) O incumprimento da obrigação prevista no artigo 54.º-B;
+x) O incumprimento das medidas técnicas de execução a que se refere o n.º 1 do artigo 54.º-C;
+z) O incumprimento das obrigações previstas nos n.os 1, 2 e 4 do artigo 54.º-F;
+aa) A oposição ou a criação de obstáculos à auditoria prevista no n.º 3 do artigo 54.º-F;
+bb) O incumprimento das instruções vinculativas previstas no n.º 1 do artigo 54.º-G;
+cc) O incumprimento das obrigações nos termos previstos no n.º 3 do artigo 63.º;
+dd) O incumprimento das obrigações previstas nos n.os 1 e 2 do artigo 64.º;
+ee) A violação das obrigações de confidencialidade previstas nos n.os 1 e 2 do artigo 65.º;
+ff) O incumprimento de qualquer das obrigações impostas nos termos dos n.os 1, 3 e 4 do artigo 66.º;
+gg) O incumprimento das condições impostas ao abrigo do n.º 1 do artigo 73.º;
+hh) A violação das obrigações impostas nos termos do n.º 4 do artigo 76.º-B;
+ii) A violação das obrigações impostas nos termos do n.º 1 do artigo 77.º;
+jj) A violação da obrigação prevista no n.º 1 do artigo 78.º;
+ll) O incumprimento das obrigações impostas nos termos dos n.os 1, 3 e 5 do artigo 85.º;
+mm) A oposição ou a criação de obstáculos à auditoria prevista no n.º 6 do artigo 85.º;
+nn) A violação das obrigações previstas nos n.os 1 a 3 do artigo 88.º;
+oo) A violação das obrigações e condições previstas nos n.os 1 a 3 e nos termos do n.º 5 do artigo 89.º;
+pp) O incumprimento das obrigações definidas nos termos dos n.oEs 1, 3 e 4 do artigo 90.º;
+qq) O incumprimento das obrigações impostas nos termos dos n.os 1, 2, 3 e 5 do artigo 91.º;
+rr) O incumprimento de objectivos de desempenho fixados nos termos do n.º 5 do artigo 92.º;
+R
+ss) O incumprimento das determinações emitidas nos termos dos n.os 3 e 5 e das obrigações impostas ao abrigo do n.º 4
+do artigo 93.º;
+tt) O incumprimento da obrigação de contribuição em violação do n.º 2 do artigo 97.º;
+D
+uu) O incumprimento das obrigações previstas nos n.os 6, 7 e 8 do artigo 99.º;
+vv) A violação das obrigações previstas no artigo 101.º;
+xx) O incumprimento das obrigações previstas nos n.os 1 a 3 do artigo 102.º;
+zz) A prática das actividades previstas nas alíneas b) e c) do n.º 1 do artigo 104.º;
+aaa) O desrespeito por decisões que decretem medidas provisórias, nos termos dos n.os 1 e 3 do artigo 111.º;
+bbb) O incumprimento de ordens ou mandados legítimos da ARN regularmente comunicados aos seus destinatários;
+ccc) A violação das obrigações previstas no n.º 2 do artigo 112.º
+4 - Constituem contra-ordenações graves, no âmbito do Regulamento (CE) n.º 717/2007, do Parlamento Europeu e do
+Conselho, de 27 de Junho, relativo à itinerância nas redes de comunicações móveis públicas da Comunidade, com a
+redacção que lhe foi conferida pelo Regulamento (CE) n.º 544/2009, do Parlamento Europeu e do Conselho, de 18 de
+Junho:
+a) A violação das obrigações decorrentes do artigo 4.º, dos n.os 1 a 6 do artigo 4.º-B e dos artigos 6.º e 6.º-A do referido
+regulamento;
+b) A violação da obrigação de informar prevista no n.º 4 do artigo 7.º do referido regulamento.
+5 - Constituem contra-ordenações muito graves no âmbito do regulamento referido no número anterior:
+a) A violação das obrigações decorrentes dos n.os 1 e 2 do artigo 3.º e dos artigos 4.º-A e 4.º-C do referido regulamento;
+b) A violação de determinações emitidas pela ARN no uso dos poderes conferidos pelos n.os 5 e 6 do artigo 7.º do referido
+regulamento.
+6 - Constitui contraordenação a adoção pelas empresas que oferecem redes e ou serviços de comunicações eletrónicas
+acessíveis ao público de comportamentos habituais ou padronizados, bem como a emissão de orientações,
+recomendações ou instruções aos trabalhadores, agentes ou parceiros de negócios, cuja aplicação seja suscetível de
+conduzir à violação de regras legais ou de determinações da ARN, contraordenação que é muito grave sempre que
+daqueles atos resulte ou possa resultar infração muito grave ou grave, sendo grave nos restantes casos.
+7 - As contra-ordenações leves são puníveis com as seguintes coimas:
+a) Se praticadas por pessoa singular, de (euro) 100 a (euro) 2500;
+b) Se praticadas por microempresa, de (euro) 200 a (euro) 5000;
+c) Se praticadas por pequena empresa, de (euro) 500 a (euro) 10 000;
+d) Se praticadas por média empresa, de (euro) 1000 a (euro) 20 000;
+e) Se praticadas por grande empresa, de (euro) 2000 a (euro) 100 000.
+Versão à data de 18-04-2018 Pág. 68 de 75Legislação Consolidada
+8 - As contra-ordenações graves são puníveis com as seguintes coimas:
+a) Se praticadas por pessoa singular, de (euro) 250 a (euro) 7500;
+b) Se praticadas por microempresa, de (euro) 1000 a (euro) 10 000;
+c) Se praticadas por pequena empresa, de (euro) 2000 a (euro) 25 000;
+d) Se praticadas por média empresa, de (euro) 4000 a (euro) 50 000;
+e) Se praticadas por grande empresa, de (euro) 10 000 a (euro) 1 000 000.
+9 - As contra-ordenações muito graves são puníveis com as seguintes coimas:
+a) Se praticadas por pessoa singular, de (euro) 750 a (euro) 20 000;
+b) Se praticadas por microempresa, de (euro) 2000 a (euro) 50 000;
+c) Se praticadas por pequena empresa, de (euro) 6000 a (euro) 150 000;
+d) Se praticadas por média empresa, de (euro) 10 000 a (euro) 450 000;
+e) Se praticadas por grande empresa, de (euro) 20 000 a (euro) 5 000 000.
+10 - Sempre que a contra-ordenação resulte da omissão do cumprimento de um dever jurídico ou de uma ordem emanada
+da ARN, a aplicação das sanções ou o seu cumprimento não dispensam o infractor do cumprimento do dever ou da ordem,
+se este ainda for possível.
+11 - Nos casos referidos no número anterior, o infractor pode ser sujeito pela ARN à injunção de cumprir o dever ou a
+ordem em causa, cujo incumprimento no prazo fixado pode determinar a aplicação de uma sanção pecuniária compulsória,
+nos termos do artigo 116.º
+12 - Nas contra-ordenações previstas na presente lei, são puníveisE a tentativa e a negligência.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 1R15/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 42/2013 - Diário da República n.º 126/2013, Série I de 2013-07-03
+Alterado pelo/a Artigo 4.º do/a Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 176/2007 - DiDário da República n.º 88/2007, Série I de 2007-05-08, em vigor a partir de 2007-05-09
+Artigo 114.º
+Sanções acessórias
+1 - Para além das coimas fixadas no artigo anterior, podem ainda ser aplicadas, sempre que a gravidade da infracção e a
+culpa do agente o justifique, as seguintes sanções acessórias:
+a) Perda a favor do Estado de objectos, equipamentos e dispositivos ilícitos, nas contra-ordenações previstas nas alíneas
+ll) e jj) do n.º 2 e zz) do n.º 3 do artigo anterior;
+b) Interdição do exercício da respectiva actividade até ao máximo de dois anos, nas contra-ordenações previstas nas
+alíneas f) do n.º 2 e a), e), f), h), j), m), n) e bb) do n.º 3 do artigo anterior;
+c) Privação do direito de participar em concursos ou arrematações promovidos no âmbito do presente diploma até ao
+máximo de dois anos, nas contra-ordenações previstas nas alíneas f), h), m) e n) do n.º 3 do artigo anterior.
+2 - Quando seja declarada a perda de objectos, equipamentos ou dispositivos ilícitos a favor do Estado, nos termos da
+alínea a) do número anterior, o respectivo proprietário ou detentor fica obrigado a proceder à sua entrega na ARN, no prazo
+de 30 dias úteis a contar da notificação da decisão que a determine.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 176/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08, em vigor a partir de 2007-05-09
+Artigo 115.º
+Processamento e aplicação
+1 - A aplicação de admoestações e das coimas e sanções acessórias previstas na presente lei bem como o arquivamento
+dos processos de contra-ordenação são da competência do conselho de administração da ARN.
+2 - A instauração dos processos de contra-ordenação é da competência do conselho de administração da ARN, cabendo a
+instrução dos mesmos aos respectivos serviços.
+3 - As competências previstas nos números anteriores podem ser delegadas.
+Versão à data de 18-04-2018 Pág. 69 de 75Legislação Consolidada
+4 - O montante das coimas reverte para o Estado em 60% e para a ARN em 40%.
+5 - (Revogado).
+6 - Exceptua-se do disposto nos números anteriores o incumprimento das condições previstas nos n.os 3 e 4 do artigo 46.º,
+cabendo à CNPD a instauração e instrução do processo de contra-ordenação, bem como a aplicação das respectivas
+coimas, cujo montante reverte em 40 % para esta entidade.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 116.º
+Sanções pecuniárias compulsórias
+1 - Sem prejuízo de outras sanções aplicáveis, em caso de incumprimento de decisões da ARN que imponham sanções
+administrativas ou ordenem, no exercício dos poderes que legalmente lhe assistem, a adoção de comportamentos ou de
+medidas determinadas às empresas que oferecem redes e serviços de comunicações eletrónicas, pode esta, quando tal se
+justifique, impor uma sanção pecuniária compulsória, nomeadamente nos casos referidos nas alíneas a) e g) do n.º 1, d),
+e), jj) e nn) do n.º 2, a), b), c), d), h), i), m), n), q), s), bb), cc), ff), hh), ii), jj), ll), mm), oo), qq), ss), tt), aaa), bbb) e ccc) do n.º
+3 e b) dos n.os 4 e 5, todos do artigo 113.º
+2 - A sanção pecuniária compulsória consiste na imposição à empresa que oferece redes ou serviços de comunicações
+E
+electrónicas do pagamento de uma quantia pecuniária por cada dia de atraso que, para além do prazo fixado para o
+cumprimento da obrigação, se verifique.
+3 - A sanção a que se referem os números anteriores é fixada segundo critérios de razoabilidade e proporcionalidade,
+R
+atendendo ao volume de negócios do infractor realizado no ano civil anterior e ao impacte negativo causado no mercado e
+nos utilizadores pelo incumprimento, podendo o seu montante diário oscilar entre (euro) 2000 e (euro) 100 000.
+4 - Os montantes fixados nos termos do número anterior podem ser variáveis para cada dia de incumprimento no sentido
+D
+crescente, não podendo ultrapassar o montante máximo de (euro) 3000000 e um período máximo de 30 dias.
+5 - O montante da sanção aplicada reverte para o Estado em 60% e para a ARN em 40%.
+6 - Dos actos da ARN praticados ao abrigo do presente artigo cabe recurso para o tribunal da concorrência, regulação e
+supervisão, quando praticados no âmbito de um processo de contra-ordenação, e para os tribunais administrativos, nos
+restantes casos.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 15/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Alterado pelo/a Artigo 12.º do/a Lei n.º 46/2011 - Diário da República n.º 120/2011, Série I de 2011-06-24, em vigor a partir de 2011-06-29
+Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25, em vigor a partir de 2009-09-26
+Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 176/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08, em vigor a partir de 2007-05-09
+Artigo 117.º
+Notificações
+Quando, em processo de contra-ordenação, o notificando não for encontrado ou se recusar a receber a notificação
+efectuada nos termos gerais, a mesma será feita através da publicação de anúncios em dois números seguidos de um dos
+jornais de maior circulação na localidade da última residência do notificando ou de maior circulação nacional.
+Alterações
+Revogado pelo/a Artigo 8.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 118.º
+Auto de notícia
+1 - Os autos de notícia lavrados no âmbito de acções de fiscalização no cumprimento das disposições da presente lei
+fazem fé sobre os factos presenciados pelos autuantes, até prova em contrário.
+2 - O disposto no número anterior aplica-se aos elementos de prova obtidos através de aparelhos ou instrumentos
+aprovados nos termos legais e regulamentares.
+Versão à data de 18-04-2018 Pág. 70 de 75Legislação Consolidada
+3 - Do auto de notícia deve constar o endereço do autuado, sendo este advertido de que o endereço fornecido valerá para
+efeitos de notificação.
+4 - Quando o responsável pela contra-ordenação for uma pessoa colectiva ou uma sociedade, deverá indicar-se, sempre
+que possível, a identificação, a residência e o local de trabalho dos respectivos gerentes, administradores ou directores.
+Artigo 119.º
+Perda a favor do Estado
+1 - Consideram-se perdidos a favor do Estado os objectos que tenham sido apreendidos e que, após notificação aos
+interessados a ordenar a sua entrega, não tenham sido reclamados no prazo de 60 dias.
+2 - Os objectos perdidos a favor do Estado revertem para a ARN, que lhes dará o destino que julgar adequado.
+Capítulo III
+Disponibilização de informações pela ARN
+Artigo 120.º
+Publicação de informações
+E
+1 - Compete à ARN disponibilizar e manter actualizadas informações que contribuam para um mercado aberto e
+concorrencial, designadamente as relativas às seguintes matérias:
+a) Aplicação do presente quadro regulamentar;
+R
+b) Procedimentos de consulta em curso nos termos dos artigos 8.º, 57.º e 57.º-A, bem como os resultados dos processos
+concluídos, salvo informações confidenciais;
+c) Direitos, condições, procedimentos, taxas e decisões referentes às autorizações gerais e aos direitos de utilização e de
+D
+instalação de recursos;
+d) Transmissão de direitos de utilização;
+e) Registo das empresas que oferecem redes e serviços de comunicações electrónicas;
+f) Obrigações impostas às empresas nos termos dos capítulos III e IV do título IV, identificando os respectivos mercados,
+com salvaguarda das informações confidenciais ou que constituam segredo comercial;
+g) Informação sobre os direitos no âmbito do serviço universal, incluindo os previstos no artigo 94.º, e condições de oferta
+de todos os serviços acessíveis ao público de modo a permitir aos consumidores avaliar as alternativas disponíveis,
+nomeadamente através de guias interactivos;
+h) Um relatório relativo aos custos do serviço universal nos termos do artigo 98.º;
+i) Resultado do cálculo do custo líquido do serviço universal e da auditoria efectuada nos termos do artigo 96.º;
+j) Mecanismos de arbitragem e mediação existentes nos termos do n.º 1 do artigo 48.º-B.
+2 - As informações referidas no número anterior podem ser disponibilizadas, nomeadamente, em formato digital na Internet,
+na sede da ARN e em todas as suas delegações, bem como na sua publicação oficial, conforme a natureza da matéria o
+aconselhe.
+3 - Para efeitos da alínea c) do n.º 1, quando as informações respeitarem a diferentes sectores da Administração Pública,
+compete à ARN realizar todos os esforços razoáveis para dar uma visão global dessas informações de modo acessível ao
+utilizador, especialmente tendo em vista facilitar a apresentação de pedidos de direitos de instalação de recursos, sempre
+que considere que tal é possível sem custos desproporcionados.
+4 - Compete à ARN transmitir à Comissão Europeia o seguinte:
+a) Cópia de todas as informações publicadas referidas na alínea f) do n.º 1;
+b) Notificação das empresas que forem consideradas detentoras de poder de mercado significativo e respectivas alterações
+que ocorram;
+c) Identificação das empresas designadas como prestadores de serviço universal, bem como as obrigações impostas às
+referidas empresas;
+d) Todas as informações que lhe sejam solicitadas pela Comissão Europeia, tendo em vista o reexame periódico da
+Versão à data de 18-04-2018 Pág. 71 de 75Legislação Consolidada
+aplicação das directivas das comunicações electrónicas.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Título VIII
+Disposições transitórias e finais
+Artigo 121.º
+Reavaliação de direitos de utilização de frequências
+1 - Os titulares de direitos de utilização de frequências atribuídos antes de 25 de Maio de 2011 e que se mantenham
+válidos até 25 de Maio de 2016 podem até esta mesma data apresentar à ARN um pedido de reavaliação das restrições de
+neutralidade tecnológica e de serviços aos seus direitos, enquadráveis nas restrições previstas nos n.os 2 a 5 do artigo
+16.º-A.
+2 - A ARN, na análise dos pedidos de reavaliação das restrições aos direitos de utilização que lhe são apresentados nos
+termos do número anterior, deve adoptar as medidas adequadas para promover a lealdade da concorrência.
+3 - A ARN deve notificar o titular do direito de utilização do resultado da sua reavaliação, dando-lhe a possibilidade de, num
+E
+prazo não inferior a 10 dias, se pronunciar ou retirar o pedido.
+4 - Se o titular do direito de utilização retirar o pedido, o direito de utilização mantém-se inalterado até à data da sua
+caducidade ou até 25 de Maio de 2016, consoante o que ocorrer mais cedo.
+R
+5 - Após 25 de Maio de 2016, a ARN deve adoptar as medidas necessárias para garantir a aplicabilidade do artigo 16.º-A a
+todas as autorizações gerais, direitos de utilização de frequências e atribuições de espectro utilizadas para serviços de
+comunicações electrónicas existentes em 25 de Maio de 2011.
+D
+6 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 121.º
+Itinerância internacional nas redes telefónicas móveis públicas da Comunidade
+1 - No âmbito do Regulamento (CE) n.º 717/2007, do Parlamento Europeu e do Conselho, de 27 de Junho, relativo à
+itinerância nas redes telefónicas móveis públicas da Comunidade, e que altera a Directiva n.º 2002/21/CE, do Parlamento
+Europeu e do Conselho, de 7 de Março, relativa a um quadro regulamentar comum para as redes e serviços de
+comunicações electrónicas, constituem contra-ordenações:
+a) A violação das obrigações decorrentes dos n.os 1 e 2 do artigo 3.º, do artigo 4.º e do artigo 6.º do referido regulamento;
+b) A violação da obrigação de informar prevista no n.º 4 do artigo 7.º do referido regulamento;
+c) A violação de determinações emitidas pela Autoridade Reguladora Nacional (ARN) no uso dos poderes conferidos pelos
+n.os 5 e 6 do artigo 7.º do referido regulamento.
+2 - As contra-ordenações previstas no número anterior são puníveis com coima de (euro) 5000 a (euro) 5 000 000.
+3 - Sempre que a contra-ordenação resulte da omissão do cumprimento de um dever jurídico previsto no Regulamento
+(CE) n.º 717/2007, do Parlamento Europeu e do Conselho, de 27 de Junho, ou de uma ordem emanada da ARN emitida
+nos termos dos n.os 5 e 6 do artigo 7.º do referido regulamento, a aplicação das sanções ou o seu cumprimento não
+dispensam o infractor do cumprimento do dever ou da ordem, se este ainda for possível.
+4 - É aplicável às sanções previstas no presente artigo o regime contra-ordenacional previsto nos n.os 4 e 5 do artigo 113.º,
+nos n.os 1 a 4 do artigo 115.º e nos artigos 116.º e 117.º da presente lei.
+Alterações
+Revogado pelo/a Artigo 8.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Aditado pelo/a Artigo 1.º do/a Lei n.º 35/2008 - Diário da República n.º 144/2008, Série I de 2008-07-28, em vigor a partir de 2008-07-29
+Artigo 122.º
+Manutenção de direitos e obrigações
+Versão à data de 18-04-2018 Pág. 72 de 75Legislação Consolidada
+1 - As empresas mantêm os direitos de utilização dos recursos de numeração e frequências atribuídos antes da publicação
+da presente lei até ao termo do prazo fixado no respectivo título de atribuição, quando tal prazo exista.
+2 - Mantêm-se ainda aplicáveis todas as obrigações assumidas pelas empresas licenciadas em concursos realizados antes
+da publicação da presente lei, pelo que se mantêm em vigor na parte relevante os respectivos instrumentos de concurso.
+3 - Sem prejuízo do disposto no artigo 43.º, não devem ser mantidas as medidas legislativas ou administrativas que
+obriguem os operadores, ao concederem acesso ou interligação, a oferecerem condições diferentes a diferentes empresas
+por serviços equivalentes e ou imponham obrigações que não estejam relacionadas com o acesso e os serviços de
+interligação efectivamente prestados, neste caso sem prejuízo das condições fixadas nos artigos 27.º, 32.º e 37.º
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 123.º
+Normas transitórias
+1 - As obrigações previstas no artigo 43.º são objecto de revisão até 25 de Maio de 2012, mediante especificação, por parte
+da Entidade Reguladora para a Comunicação Social, dos serviços de programas televisivos e de rádio que devem ser
+objecto de obrigação de transporte pelas empresas que oferecem redes e serviços de comunicações electrónicas.
+2 - A adaptação dos mecanismos de prevenção de contratação está sujeita ao procedimento previsto no n.º 2 do artigo 46.º
+E
+3 - A ARN publicará, no prazo máximo de 60 dias a contar da data de publicação da presente lei, um regulamento no qual
+definirá os procedimentos a adoptar pelas empresas que oferecem redes e serviços de comunicações electrónicas
+R
+acessíveis ao público em local fixo, da cobrança e entrega mensais, aos municípios, das receitas provenientes da aplicação
+da TMDP.
+D
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 124.º
+Concessionária
+1 - É aplicável à concessionária do serviço público de telecomunicações o regime constante da presente lei.
+2 - Mantêm-se em vigor todas as obrigações constantes das bases da concessão do serviço público de telecomunicações
+aprovadas pelo Decreto-Lei n.º 31/2003, de 17 de Fevereiro, salvo quando da aplicação da presente lei resulte um regime
+mais exigente para a concessionária, caso em que será este a vigorar.
+3 - (Revogado).
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 125.º
+Regulamentos
+1 - Compete à ARN publicar os regulamentos necessários à execução da presente lei, nomeadamente os que envolvem as
+matérias referidas nos n.os 1 do artigo 21.º, 2 dos artigos 27.º, 32.º, 37.º e 40.º, 3 do artigo 51.º, 7 do artigo 54.º, 2 e 4 do
+artigo 92.º e 5 do artigo 108.º, sem prejuízo da competência estatutária da ARN para emitir regulamentos sempre que tal se
+mostre indispensável ao exercício das suas atribuições.
+2 - Sem prejuízo do disposto no número anterior, mantêm-se em vigor todas as medidas e determinações adoptadas pela
+ARN ao abrigo da legislação revogada pela presente lei.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 126.º
+Contagem de prazos
+Versão à data de 18-04-2018 Pág. 73 de 75Legislação Consolidada
+1 - À contagem de prazos previstos na presente lei aplicam-se as regras constantes do artigo 72.º do Código do
+Procedimento Administrativo.
+2 - Os prazos previstos nos artigos 57.º e 57.º-A contam-se de acordo com as regras estabelecidas pela Comissão
+Europeia nas recomendações ou orientações aprovadas ao abrigo do procedimento previsto na Directiva n.º 2002/21/CE,
+do Parlamento Europeu e do Conselho, de 7 de Março, alterada pela Directiva n.º 2009/140/CE, do Parlamento Europeu e
+do Conselho, de 25 de Novembro.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 127.º
+Norma revogatória
+1 - São revogados os seguintes diplomas:
+a) Lei n.º 91/97, de 1 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º da Lei n.º 29/2002, de 6 de Dezembro,
+com excepção dos n.os 2 e 3 do artigo 12.º;
+b) Decreto-Lei n.º 230/96, de 29 de Novembro;
+c) Decreto-Lei n.º 241/97, de 18 de Setembro;
+d) Decreto-Lei n.º 381-A/97, de 30 de Dezembro;
+E
+e) Decreto-Lei n.º 415/98, de 31 de Dezembro;
+f) Decreto-Lei n.º 290-A/99, de 30 de Julho, com as alterações introduzidas pelo Decreto-Lei n.º 249/2001, de 21 de
+Setembro;
+R
+g) Decreto-Lei n.º 290-B/99, de 30 de Julho;
+h) Decreto-Lei n.º 290-C/99, de 30 de Julho;
+i) Decreto-Lei n.º 458/99, de 5 de Novembro;
+D
+j) Decreto-Lei n.º 474/99, de 8 de Novembro, com as alterações introduzidas pela Lei n.º 95/2001, de 20 de Agosto;
+l) Decreto-Lei n.º 287/2001, de 8 de Novembro;
+m) Decreto-Lei n.º 133/2002, de 14 de Maio.
+2 - (Revogado).
+3 - A concessionária do serviço público de telecomunicações é excluída do âmbito de aplicação da alínea e) do n.º 1 do
+artigo 7.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 26/2010, de 30
+de Março.
+4 - A Portaria n.º 791/98, de 22 de Setembro, aprovada ao abrigo do Decreto-Lei n.º 241/97, de 18 de Setembro, mantém-
+se em vigor.
+Alterações
+Alterado pelo/a Artigo 2.º do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+Artigo 128.º
+Entrada em vigor
+1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.
+2 - A TMDP, consagrada no artigo 106.º, entra em vigor nos 90 dias seguintes à publicação da presente lei.
+Assinatura
+Aprovada em 11 de Dezembro de 2003.
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
+Promulgada em 28 de Janeiro de 2004.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendada em 29 de Janeiro de 2004.
+O Primeiro-Ministro, José Manuel Durão Barroso.
+Versão à data de 18-04-2018 Pág. 74 de 75Legislação Consolidada
+Anexo
+Parâmetros de qualidade do serviço
+Parâmetros de tempo de fornecimento e qualidade do serviço, definições e métodos previstos nos artigos 40.º e 92.º
+(ver documento original)
+Alterações
+Alterado pelo/a Anexo do/a Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13
+E
+R
+D
+Versão à data de 18-04-2018 Pág. 75 de 75

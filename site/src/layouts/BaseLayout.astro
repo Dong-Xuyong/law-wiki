@@ -1,0 +1,50 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = "Pesquisa pública no corpus jurídico Law Wiki.",
+} = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const href = (path: string) => `${base}${path}`;
+---
+
+<!doctype html>
+<html lang="pt-PT">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#0b2f2c" />
+    <title>{title} · Law Wiki</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href={href("/")}>
+        <span class="brand-mark" aria-hidden="true">§</span>
+        <span>Law Wiki</span>
+      </a>
+      <nav aria-label="Navegação principal">
+        <a href={href("/search/")}>Pesquisar</a>
+        <a href={href("/folders/")}>Pastas</a>
+        <a href={href("/map/")}>Mapa jurídico</a>
+        <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a>
+      </nav>
+    </header>
+    <div class="research-notice">
+      Auxiliar de pesquisa — conteúdo importado pode estar não verificado e não constitui aconselhamento jurídico.
+    </div>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <span>Law Wiki</span>
+      <span>Fontes integrais, relações com proveniência e estado de verificação visível.</span>
+    </footer>
+  </body>
+</html>

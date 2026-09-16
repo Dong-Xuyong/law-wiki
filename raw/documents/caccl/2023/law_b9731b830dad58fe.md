@@ -1,0 +1,389 @@
+---
+id: "law_b9731b830dad58fe"
+folder: "CACCL/Jurisprudencia/Diversas"
+filename: "Sent.137.pdf"
+year: "2023"
+website: "CACCL"
+topic: "Viagens Organizadas"
+tokens: 9120
+tokens_sm: 818
+is_empty: "False"
+content_hash: "bb60dd6f086c51da81390db7e19a25a46f35e2b1b40ea36a12201685cec0fe2c"
+csv_row: 4016
+imported: "2026-09-11"
+---
+
+# Sent.137
+
+## Full text
+
+Processo nº 3517/ 2023
+TÓPICOS
+Serviço: Viagens organizadas
+Tipo de problema: Não fornecido / não prestado
+Direito aplicável: Lei n.º 24/96, de 31 de julho; Decreto-Lei n.º 17/2018; artigo 397.º CC;
+artigo 236.º, n.º 1 CC; artigo 762.º, n.º 1 CC; artigo 801.º, n.º 2 CC
+Pedido do Consumidor: Devolução do valor pago (€950,00).
+_______________________________________________________________________
+SENTENÇA Nº 137 /2024
+1. PARTES
+Reclamante: ---, devidamente identificada nos autos;
+Reclamada:
+2. OBJETO DO LITÍGIO
+A Reclamante celebrou com a Reclamada, por intermédio de uma promotora/angariadora
+(---), uma viagem organizada a Itália. A viagem promovida tinha a duração de 5 (cinco) dias
+e 4 (quatro) noites e um custo de 950€ (novecentos e cinquenta euros) por pessoa e teria
+lugar entre os dias 08.06.2022 e 12.06.2022. No dia 08.06.2022, a Reclamante embarcou,
+na sua localidade, no autocarro que a Reclamada disponibilizou para levar o grupo de 49
+(quarenta e nove) passageiros para o aeroporto. No autocarro conheceu o guia que se
+apresentou como guia e disse que os iria acompanhar a viagem toda, tendo indicado que a
+partir daquele momento deveriam permanecer juntos e obedecer às suas ordens e
+indicações.
+1
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptChegados ao aeroporto e ao ter surgido um problema com o bilhete de dois membros do
+grupo, gerado por parte do sistema informático da companhia aérea, alega que o guia se
+dedicou a tentar resolver o problema desses bilhetes, deixando o grupo desamparado e sem
+as informações necessárias para que pudessem embarcar. Assim, e apesar de já ter o seu
+bilhete, não embarcou atempadamente e as portas de embarque fecharam, o que
+impossibilitou a realização da viagem
+Vem, assim, pedir a este Tribunal a devolução do valor de 950 € (novecentos e cinquenta
+euros) relativos à viagem adquiriu à Reclamada. A Reclamada nega a pretensão da
+Reclamante, alegando que a mesma, e os seus companheiros, não embarcaram no avião em
+virtude de uma escolha pessoal, tendo a Reclamada cumprido todas as obrigações que lhe
+cabiam e não existindo, deste modo, um incumprimento do contrato da sua parte.
+Não foi possível conciliar a posição das partes.
+3. FUNDAMENTAÇÃO
+3.1. DE FACTO
+3.1.1. Factos provados
+Da discussão da causa, bem como da documentação junta aos autos, resultaram provados,
+com interesse para a causa, os seguintes factos:
+a) No ano de 2022, entre a Reclamante e a Reclamada celebrou-se um contrato
+relativo a uma viagem organizada com destino a Itália;
+b) A Reclamante adquiriu a viagem para fins pessoais, i.e, para efeitos de férias;
+c) A viagem foi promovida na localidade de Sarilhos Pequenos por uma
+promotora/angariadora – --- – ligada à Comissão de Festas daquela localidade;
+2
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptd) Para a promoção da viagem foi utilizado um cartaz difundido na localidade de
+Sarilhos Pequenos, sendo o único elemento com informações sobre a viagem que
+foi entregue aos potenciais interessados, incluindo a Reclamante;
+e) No cartaz da promoção da viagem consta o símbolo da Reclamada, bem como a sua
+morada e número de identificação de pessoa coletiva no final;
+f) Foram enviados aproximadamente 20 (vinte) exemplares do cartaz para a
+promotora/angariadora;
+g) A Reclamada contactou a promotora/angariadora a 07.07.2021 para divulgar a
+viagem que a mesma promoveu junto da localidade, sendo os serviços prestados
+pela Reclamada;
+h) Os consumidores nunca contactaram diretamente com a Reclamada, sendo todos
+os contactos feitos com a promotora/angariadora da viagem ou auxiliares da
+mesma;
+i) A função da promotora/angariadora era angariar consumidores que adquirissem o
+pacote de viagem e estadia a Itália, recebendo, da Reclamada, contrapartidas
+financeiras por tal serviço, acrescidas de duas gratuitidades em função do número
+de pessoas angariado;
+j) Os montantes recebidos a título de pagamento pela promotora/angariadora foram,
+uma vez descontada a sua remuneração, depois enviados para a Reclamada;
+k) A Reclamante procedeu ao pagamento faseado da viagem, realizando a
+promotora/angariadora transferências bancárias regulares para a Reclamada com
+vista ao envio dos montantes recebidos;
+l) A viagem encontra-se completamente paga pela Reclamante;
+m) A promotora --- reside na localidade é alguém da confiança da Reclamante e da
+maioria dos participantes na viagem;
+n) A Reclamante tem uma relação de proximidade e de plena confiança na promotora;
+o) A Reclamante já tinha realizado viagens, dentro do território continental, com a
+referida promotora;
+3
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptp) A promotora/angariadora --- foi informada de todos os elementos necessários para
+a realização da viagem, tais como autocarros, locais de carga fornecidos pela
+própria, nome do guia-acompanhante ---, contactos, horários de voos, hotéis;
+q) A viagem promovida tinha a duração de 5 (cinco) dias e 4 (quatro) noites e um custo
+de 950€ (novecentos e cinquenta euros) por pessoa e teria lugar entre os dias
+08.06.2022 e 12.06.2022;
+r) A viagem, pelo preço de 950€ (novecentos e cinquenta euros) incluía também as
+refeições;
+s) A viagem promovida integrava a visita a várias cidades em Itália, a saber: Milão,
+Veneza, Florença, Vaticano e Roma;
+t) Na madrugada de 08.06.2022, cerca das 04h30 / 05h00, os Reclamantes
+embarcaram num autocarro, que os recolheu na localidade em que residiam, para
+se dirigirem ao aeroporto;
+u) A Reclamante estava inserida num grupo de 50 (cinquenta pessoas), dos quais
+quarenta e sete eram consumidores, um o guia acompanhante e os outros dois a
+promotora/angariadora e o seu acompanhante;
+v) Na viagem de autocarro seguia também o guia ---, o qual informou os passageiros
+que seria o responsável por eles e que os acompanharia em todos os momentos da
+viagem, pelo que resolveriam sempre todas as questões com ele e obedeceriam às
+suas ordens;
+w) O guia tinha uma bandeirinha para assinalar a sua localização;
+x) No programa que publicitou a viagem constava a menção a “guia acompanhante” e
+“guia oficial”, mas não consta uma explicação da diferença entre ambos;
+y) O guia --- recebeu da Reclamada uma folha de serviço com indicação dos percursos,
+das viagens em Itália, dos hotéis, entradas em hotéis;
+z) Estes elementos relativos aos percursos, das viagens em Itália, dos hotéis, entradas,
+entre outros, não foram, em momento algum, comunicados aos viajantes;
+4
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptaa) Os bilhetes das viagens aéreas não foram impressos com antecedência, mas apenas
+na chegada ao aeroporto;
+bb) Chegados ao aeroporto, o guia imprimiu os bilhetes e foi distribuindo os mesmos,
+faseadamente, aos membros do grupo, chegando à conclusão de que estavam em
+falta os bilhetes de dois membros;
+cc) Os dois bilhetes que faltavam resultaram de um erro da TAP em virtude de dois
+passageiros terem um nome idêntico;
+dd) O guia ordenou aos membros do grupo que entregassem a bagagem e fizessem o
+check-in enquanto ele tentava efetuava as diligências necessárias para resolver o
+problema relativo aos bilhetes;
+ee) O guia ordenou aos membros do grupo que permanecessem juntos e aguardassem
+pelas suas instruções;
+ff) O guia contactou de imediato por telefone uma funcionária da Reclamada com vista
+ao desbloqueio dos bilhetes, dado que o balcão da transportadora aérea só abria às
+6h00 (seis da manhã) e já tinha fila;
+gg) A empresa só contactou a promotora/angariadora por voltas das 8h00 (oito horas)
+da manhã, quando já tinha passado a hora de partida do avião;
+hh) A Reclamante não voltou a ver o guia até saber que tinha de regressar a casa por já
+não conseguir embarcar;
+ii) O grupo subiu, ao fim de algum tempo o qual não se conseguiu precisar, para a sala
+de embarque após uma voz, que não se identificou, ter ordenado que o fizessem;
+jj) Um funcionário do aeroporto, em virtude da dimensão do grupo, pediu ao grupo
+que aguardasse numa zona mais resguardada perto das portas de embarque;
+kk) A Reclamante tinha o seu bilhete;
+ll) A Reclamante não embarcou porque não sabia com detalhe o itinerário da viagem,
+não tinha sequer tinham os dados relativos ao alojamento para pernoitar em Itália,
+não dominava o idioma do país de destino e não sabia que havia um outro guia em
+Itália;
+5
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptmm) A Reclamante também não se sentiu segura para embarcar por não ter o
+guia a acompanhar;
+nn) Quando o grupo tentou embarcar, alguém lhes comunicou (não se apurou quem)
+que as portas de embarque já estavam fechadas;
+oo) Os bilhetes dos passageiros tinham como destino Veneza, mas os mesmos achavam
+que iam para Milão;
+pp) A Reclamada tinha contratado um guia-oficial em Itália;
+qq) A Reclamada, após o sucedido, fez uma proposta de acordo às partes: devolver
+metade do valor da viagem ou realizar uma nova, em data a acordar, com um
+acréscimo do preço em virtude das flutuações de mercado;
+rr) As propostas de acordo foram rejeitadas.
+3.1.2. Factos não provados
+a) Que os passageiros tenham dito “não embarca um, não embarca nenhum” numa
+lógica de corporativismo;
+b) Que a promotora/angariadora tenha incentivado os membros do grupo e os
+próprios Reclamantes a não viajarem;
+c) Que a promotora/angariadora tivesse uma posição de domínio sobre o grupo;
+d) Que o guia estivesse sempre com os passageiros;
+e) Que os passageiros tivessem sido informados que havia um outro guia em Itália à
+sua espera e de qual era o percurso detalhado da sua viagem;
+f) Que os passageiros tivessem a certeza do aeroporto para que se dirigiam no país de
+destino;
+g) Que a Reclamante tivesse documentação ou informação que lhe permitisse saber
+onde se dirigir no aeroporto de destino;
+h) Que a promotora/angariadora tivesse partilhado a informação detalhada relativa a
+percursos e hotéis de pernoita com os passageiros.
+6
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.pt3.3. MOTIVAÇÃO
+A convicção do Tribunal quanto à matéria de facto fundou-se no conjunto de documentos
+juntos aos autos, bem como na prova produzida na audiência de discussão e julgamento,
+quer através da prova testemunhal, quer das declarações de parte. A análise da prova
+produzida junto do Tribunal foi realizada pelo mesmo à luz das regras da repartição do ónus
+da prova, recorrendo a juízos de normalidade e de experiência.
+A Reclamada impugnou que os Reclamantes não dispusessem de elementos para viajar,
+dado que estavam providos do seu bilhete e que em Itália estava um guia oficial à sua
+espera. Contudo, a Reclamante demonstrou que efetivamente não dispunha dos elementos
+necessários para tal.
+No que respeita aos factos não provados alíneas a) a d), pese embora a Reclamada tenha
+alegado a verificação dos mesmos, estes foram refutados sistematicamente pela
+Reclamante e pelas testemunhas. Os factos não provados e), f) e g) resultam das declarações
+das partes (Reclamantes e Reclamadas, bem como da prova testemunhal).
+Um ponto essencial deve ser esclarecido: a passagem do tempo tem, naturalmente, impacto
+na clareza dos detalhes na memória das partes, sobretudo porque a grande maioria dos
+passageiros (que ora surgem como Reclamantes ou testemunhas) são idosos, de idade
+avançada e, muitos deles, com pouco instrução. Ainda que, quanto a alguns pontos possam
+surgir pequenas contradições de facto, no essencial convergem para o mesmo: não tinham
+os elementos suficientes para conseguirem seguir viagem sozinhos sem guia e este nunca
+os mandou / ordenou embarcar.
+Pelo exposto, assim fundou o Tribunal a sua convicção quanto à matéria considerada como
+provada e não provada.
+7
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.pt3.2. DE DIREITO
+*
+O Tribunal é competente para a resolução do presente litígio, ao abrigo do artigo 14.º-2 da
+Lei de Defesa do Consumidor (Lei n.º 24/96, de 31 de julho), segundo o qual “os conflitos de
+consumo de reduzido valor económico estão sujeitos a arbitragem necessária ou mediação
+quando, por opção expressa dos consumidores, sejam submetidos à apreciação de tribunal
+arbitral adstrito aos centros de arbitragem de conflitos de consumo legalmente
+autorizados”, bem como ao abrigo dos artigos 4.º e 5.º do Regulamento Harmonizado para
+todos os Centros de Arbitragem de Conflitos de Consumo.
+As partes têm personalidade e capacidade judiciárias e são legítimas.
+Não há nulidades, exceções ou questões prévias de que cumpra oficiosamente conhecer.
+*
+Entre a Reclamante e a Reclamada foi celebrado um contrato de viagem organizada. O
+conceito de viagem organizada, para os devidos efeitos, é o que se encontra consagrado no
+artigo 2.º, n.º 1, al. p), do Decreto-Lei n.º 17/20181: aquela que resulta da “combinação de,
+pelo menos, dois tipos diferentes de serviços de viagem para efeitos da mesma viagem ou
+férias”. Esta é a situação que se encontra em análise nos autos, dado que a viagem
+comercializada reunia quer a viagem para Itália, quer outras deslocações dentro do próprio
+país de destino, incluindo também alojamento.
+Uma nota é devida quanto à relação contratual estabelecida entre as partes, dado que a
+Reclamada manteve a contestação utilizada em processos anteriores: a Reclamada alegou
+não ter estabelecido uma relação contratual com a Reclamante, pois todos os contactos que
+desenvolveu foram com a promotora/angariadora. Como a própria designação indica, a
+promotora/angariadora assumiu a obrigação de promover e angariar clientes para a
+Reclamada, viabilizando, desse modo, a realização da viagem.
+1 Estabelece o regime de acesso e de exercício da atividade das agências de viagens e turismo, transpondo
+a Diretiva (UE) 2015/2302
+8
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptNão obstante, as relações contratuais estabeleceram-se entre a Reclamada e a Reclamante:
+foi a Reclamada a destinatária dos montantes transferidos pela promotora/angariadora
+(uma vez descontada a sua percentagem), foi a Reclamada quem procedeu à aquisição das
+viagens e marcação dos hotéis. Por outro lado, do próprio cartaz utilizado a título de
+programa para divulgar a viagem resultava a menção à Reclamada (através da utilização do
+seu logótipo) como a agência de viagens interveniente e à qual tinha sido contratada a
+viagem organizada pelos Reclamantes. Não subsistem, portanto, dúvidas, em como a
+relação contratual se estabeleceu entre a Reclamada e a Reclamante, sendo estes as partes
+da relação creditícia.
+**
+Uma vez esclarecida a relação contratual estabelecida entre as partes, importa qualificar,
+para efeitos de competência do presente Tribunal ao abrigo da arbitragem necessária, se
+estamos perante uma relação de consumo.
+Neste contexto, é possível afirmar que estamos perante um contrato de viagem organizada
+com natureza de relação de consumo, na medida em que nos termos da Lei n.º 24/96, de
+31 de Julho2 (Lei de Defesa do Consumidor – LDC), art. 2.º se considera “consumidor todo
+aquele a quem sejam (...) prestados serviços (...) destinados a uso não profissional, por
+pessoa que exerça com carácter profissional uma atividade económica que vise a obtenção
+de benefícios”. Tal como resulta da matéria considerada como provada, a situação que se
+encontra em discussão reconduz-se ao âmbito definido por aquela norma, pois a Reclamada
+dedica-se, de forma profissional, à comercialização e prestação de serviços de viagens e a
+Reclamante celebrou o contrato com a finalidade pessoal de ir de férias.
+2 Considere-se o diploma na sua redação mais atual.
+9
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptEstando qualificada juridicamente a relação entre Reclamante e Reclamada, pode o Tribunal
+analisar a questão principal que se coloca no presente litígio: determinar se é imputável à
+Reclamada o não embarque da Reclamante e, nessa medida, analisar se existe um
+incumprimento contratual por parte da primeira.
+Nos termos do contrato celebrado entre as partes – e configurando o mesmo uma viagem
+organizada na qual deveria constar a presença contínua de um guia – a Reclamada assumiu
+a obrigação de, mediante o respetivo pagamento, providenciar a viagem e todos os meios
+necessários para que a Reclamante chegasse ao destino contratado e nos exatos termos
+acordados (o que inclui a presença de um guia).
+De acordo com o programa, o qual foi disponibilizado para promover a viagem, a
+Reclamante dirigia-se para Itália, onde permaneceriam cinco dias e quatro noites. Ademais,
+conforme resulta do programa a viagem incluía um guia acompanhante, bem como estadia
+e refeições. A esta obrigação da Reclamada correspondia a obrigação da Reclamante pagar
+o preço, o que fez. Estamos, portanto, perante obrigações de natureza sinalagmática: tendo
+a Reclamante cumprindo a sua prestação (artigo 397.º CC3), caberia à Reclamada cumprir a
+sua.
+A Reclamante estava inserida num grupo de 50 (cinquenta pessoas), dos quais 47 (quarenta
+e sete) eram consumidores, um o guia acompanhante e os outros dois a
+promotora/angariadora e o seu acompanhante. Conforme resulta dos factos provados,
+estas quarenta e nove pessoas estavam acompanhadas por um único guia. Neste sentido,
+quando se verificou o problema com os bilhetes – o qual, conforme resultou provado, se
+deveu a um erro informático da transportadora aérea – o guia não pode acompanhar o
+grupo para tentar resolver a questão. O que significa que os meios humanos que a
+Reclamada disponibilizou não eram de todo suficientes para assegurar uma das prestações
+3 CC – Código Civil.
+10
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.pta que estava adstrita: acompanhar o grupo em todos os momentos. Um só guia é
+manifestamente insuficiente para acompanhar um grupo de tal dimensão e composto,
+essencialmente, por pessoas de uma idade mais avançada e com pouca instrução, muitas
+das quais sem experiência em viajar para o estrangeiro.
+Por outro lado, o devedor que revelasse a diligência exigível a um bom pai de família teria
+tido a diligência de providenciar pelo check-in e emissão dos bilhetes com a antecedência
+necessária a resolver quaisquer problemas que se pudessem verificar. Imprimir meia
+centena de bilhetes, de madrugada, e enquanto o balcão da companhia ainda estava
+encerrado não revela esse cuidado exigível a um profissional que exerce a sua profissão na
+área do turismo.
+Neste sentido, o desaparecimento do guia durante um período prolongado foi suscetível de
+afetar a Reclamante, pois ficou sem o elemento que informou o grupo que os iria sempre
+acompanhar e que seria o responsável por eles durante toda a viagem. Aliás, foi o guia ---
+que recebeu da Reclamada uma folha de serviço com indicação dos percursos, das viagens
+em Itália, dos hotéis, entradas em hotéis; estes elementos relativos aos percursos, das
+viagens em Itália, dos hotéis, entre outros, não foram comunicados aos passageiros,
+incluindo a presente Reclamante.
+É certo que a Reclamante tinha o cartão de embarque e que, em abstrato, poderia ter
+entrado no avião, conforme alegou a Reclamada. Com tal afirmação a Reclamada quer
+alegar a existência de culpa do lesado para excluir qualquer responsabilidade da sua parte.
+Todavia, mesmo que o guia tenha procedido à entrega dos cartões de embarque e alertado
+para que despachassem a bagagem, não dotou a Reclamante dos elementos necessários
+para que a mesma pudesse seguir viagem sozinha.
+11
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptO bom pai de família,4 se colocado na posição em que estavam a Reclamante e dotado dos
+elementos e conhecimentos que os mesmos tinham, também não teria embarcado no avião
+sem ter o guia consigo.
+A este propósito, alega a Reclamada que o guia --- era somente um guia acompanhante e
+que em Itália estava um guia oficial, facto do qual fizeram prova no processo. Contudo,
+perante a Reclamante, o guia --- assumiu-se tão-somente como “guia”, não resultando claro
+que estaria alguém em Itália à sua espera ou sequer que os dois guias tinham um “estatuto”
+distinto. É certo que a Reclamada alega a legislação italiana nesse sentido, mas não é sequer
+exigível ao consumidor comum que tenha conhecimento das subtilezas legislativas que cada
+ordenamento contém a propósito da regulamentação dos guias turísticos.
+Neste contexto, sempre se adiante que a menção a guia acompanhante e guia oficial surge
+no programa divulgado. Todavia, lançando mão do artigo 236.º, n.º 1 CC quanto à
+interpretação de declarações contratuais, “[a] declaração negocial vale com o sentido que
+um declaratário normal, colocado na posição do real declaratário, possa deduzir do
+comportamento do declarante, salvo se este não puder razoavelmente contar com ele”. O
+comportamento do guia --- tornou inequívoco perante a Reclamante que ele era o único
+guia, pelo que embarcar sem ele era o equivalente a embarcar sozinha, não permitindo o
+programa concluir em sentido contrário.
+Com efeito, ficou provado que a Reclamante depois de receber o seu bilhete e se aperceber
+do que se estava a passar com os bilhetes dos outros dois passageiros não voltou a estar
+acompanhada pelo guia.
+4 A apreciação da culpa no ordenamento jurídico português opera-se nos termos do artigo 487.º CC,
+dispondo o n.º 2 que “A culpa é apreciada, na falta de outro critério legal, pela diligência de um bom pai
+de família, em face das circunstâncias de cada caso.”.
+12
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptA Reclamante e maioria do grupo subiram, ao fim de algum tempo o qual não se conseguiu
+precisar, para realizar o controlo de segurança após ouvirem uma voz de comando, – cuja
+origem não se conseguiu precisar – e tentaram embarcar sem sucesso.
+Um devedor diligente deveria ter acautelado a situação do grupo, sem prejuízo de tentar
+resolver a questão dos dois bilhetes pendentes e o Tribunal não ficou convencido que isso
+foi feito. Aliás, ficou provado que durante um largo período a Reclamante ficou totalmente
+desacompanhada e sem indicações sobre o que deveriam fazer por parte da pessoa que,
+algum tempo antes, se tinha assumido como responsável por todos eles.
+Nem se argumente que, neste sentido, a responsabilidade seria imputável ao guia. De
+acordo com o artigo 800.º, n.º 1 do CC, “[o] devedor é responsável perante o credor pelos
+actos dos seus representantes legais ou das pessoas que utilize para o cumprimento da
+obrigação, como se tais actos fossem praticados pelo próprio devedor”. Aliás, no mesmo
+sentido dispõe o artigo 35.º do Decreto-Lei n.º 17/20185.
+Por conseguinte, podemos concluir que a Reclamada não cumpriu a prestação a que estava
+vinculada e sem que existisse um qualquer ato culposo da Reclamante que a isso obstasse:
+não embarcou porque não dispunha dos elementos essenciais para que o pudesse fazer,
+não bastando que tivesse o cartão de embarque. Esse comportamento seria o adotado pelo
+bom pai de família caso dispusesse das mesmas informações que os Reclamantes: não
+estamos perante uma simples viagem, mas face a uma viagem organizada.
+Nos termos gerais de Direito, o devedor exonera-se quando cumpre a prestação a que está
+obrigado (cf. artigo 762.º, n.º 1 CC). Não foi o que sucedeu no presente caso, tendo existido
+um incumprimento por parte da Reclamada.
+5 “Quando se tratar de viagens organizadas, as agências de viagens e turismo são responsáveis perante
+os seus clientes, ainda que os serviços devam ser executados por terceiros e sem prejuízo do direito de
+regresso, nos termos gerais aplicáveis.”
+13
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.ptLogo, o não cumprimento por parte da Reclamada legitima a Reclamante, a sem qualquer
+abuso, solicitar a devolução dos montantes que suportaram com a aquisição da viagem. É o
+que resulta do artigo 801.º, n.º 2 CC, nos termos do qual quando a obrigação resulte de um
+contrato bilateral – o que é o caso – “o credor, independentemente do direito à
+indemnização, pode resolver o contrato e, se já tiver realizado a sua prestação, exigir a
+restituição dela por inteiro”.
+4. DECISÃO
+Pelo exposto, considera-se totalmente procedente o pedido da Reclamante, condenando-
+se a Reclamada no pagamento de 950€ (novecentos e cinquenta euros), no prazo de 20
+(vinte) dias úteis, para o IBAN a comunicar ao Tribunal pela Reclamante.
+Deve a Reclamante, no prazo de cinco dias, comunicar o seu IBAN aos serviços do Tribunal.
+Fixa-se à ação o valor de 950€ (novecentos e cinquenta euros), que corresponde ao valor
+indicado pela Reclamante e que não mereceu oposição da Reclamada.
+Sem custas adicionais.
+Notifique, com cópia.
+Lisboa, 16 de março de 2024.
+A Juiz Árbitro
+(Doutora Daniela Mirante)
+14
+Rua dos Douradores, 112, 2º e 3º - 1100-207 Lisboa - Tel: 21 880 70 30
+E.Mail: juridico@centroarbitragemlisboa.pt

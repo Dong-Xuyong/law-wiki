@@ -1,0 +1,47 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import catalog from "../generated/catalog.json";
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const docs = catalog.documents;
+const websites = new Set(docs.map((item) => item.website).filter(Boolean)).size;
+const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(Boolean)).size;
+---
+
+<BaseLayout title="Pesquisa jurídica conectada">
+  <section class="container">
+    <p class="eyebrow">Corpus jurídico público</p>
+    <h1>Encontre o documento.<br />Veja as ligações.</h1>
+    <p class="lede">
+      Pesquise decisões, legislação e materiais jurídicos pelo texto integral.
+      Navegue pela estrutura original de pastas ou explore autoridades, temas e fontes num mapa interativo.
+    </p>
+    <form class="search-box" action={`${base}/search/`}>
+      <input name="q" type="search" placeholder="Ex.: compensação por cancelamento de voo" aria-label="Pesquisar no corpus" />
+      <button type="submit">Pesquisar</button>
+    </form>
+    <div class="actions">
+      <a class="button secondary" href={`${base}/folders/`}>Explorar pastas</a>
+      <a class="button secondary" href={`${base}/map/`}>Abrir mapa jurídico</a>
+    </div>
+  </section>
+
+  <section class="container" style="padding-top:0">
+    <div class="grid">
+      <div class="panel stat"><strong>{catalog.count.toLocaleString("pt-PT")}</strong><span>documentos pesquisáveis</span></div>
+      <div class="panel stat"><strong>{websites}</strong><span>fontes institucionais</span></div>
+      <div class="panel stat"><strong>{topics}</strong><span>temas de arquivo</span></div>
+    </div>
+  </section>
+
+  <section class="container" style="padding-top:0">
+    <div class="panel">
+      <p class="eyebrow">Como ler o portal</p>
+      <h2>Fonte primeiro, análise depois</h2>
+      <p class="lede">
+        Cada resultado conserva o caminho original, metadados e estado de verificação.
+        Abra o texto integral antes de tratar um resumo importado como fundamento jurídico.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

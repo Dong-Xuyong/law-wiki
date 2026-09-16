@@ -1,0 +1,260 @@
+---
+id: "law_30bbd1251986dcdf"
+folder: "CNIACC/Jurisprudencia/Outros"
+filename: "processo-941-2023.pdf"
+year: "2021"
+website: "CNIACC"
+topic: "garantias/defeitos"
+tokens: 6227
+tokens_sm: 1039
+is_empty: "False"
+content_hash: "1b44408c34cd20d42f581ca2f629805353a7ac6de4a027a82311b848b9719184"
+csv_row: 1759
+imported: "2026-09-11"
+---
+
+# processo-941-2023
+
+## Full text
+
+-Sentença Arbitral-
+Processo de Arbitragem n.º 941_2023.
+Demandante: A
+Demandada: B
+Resumo da Sentença Arbitral (elaborado pelo árbitro): 1.º Da norma do artigo 11.º, do
+Decreto-Lei n.º84/2021, de 18/10, na sua redação atualizada, resulta que o fornecedor de
+bens deve entregar os bens na data ou dentro do período especificado pelo consumidor,
+salvo convenção em contrário; 2.º A demandada comunicou ao demandante que o bem seria
+entregue no prazo máximo de quinze dias úteis; 3.º Não sendo cumprida a obrigação de
+entrega dos bens na data acordada o consumidor tem o direito a resolver imediatamente o
+contrato, sem necessidade de indicação do prazo adicional nos termos do artigo 11.º/8, se
+o fornecedor dos bens não os entregar na data acordada; 4.º O demandante concedeu à
+demandada prazos de entrega adicionais; 5.º Resolvido o contrato o fornecedor dos bens
+deve restituir ao consumidor a totalidade do montante pago até catorze dias após a referida
+resolução (artigo 11.º/9); 6.º Tendo resultado provado que a demandada não cumpriu o
+prazo de entrega do bem, nos prazos inicial e subsequentes, assistia o direito ao demandante
+a resolver o contrato e a exigir a devolução em dobro do preço pago (artigo 11.º/10).
+I. - Relatório:
+A. - Das Partes e do Objeto da Ação Arbitral:
+O demandante, apresentou uma reclamação no CNIACC, à qual foi atribuída o número
+941_2023, contra a demandada “B”.
+Tendo-se frustrado a possibilidade de celebração de um acordo entre as partes, na fase de
+conciliação prévia à audiência arbitral, em virtude da ausência da demandada na referida
+audiência, o processo prosseguiu, então, para a sua fase arbitral, por vontade expressa do
+demandante.
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptPor se tratar de arbitragem necessária, nos termos e para os efeitos do disposto no artigo
+14.º/2, da Lei n.º24/96, de 31/07, na redação introduzida pela Lei n.º63/2019, de 16/08,
+compete a este tribunal julgar e decidir este litígio.
+A instância arbitral estabilizou-se, por isso, com as partes acima identificadas, não se tendo
+verificado qualquer modificação subjetiva decorrente da intervenção de novas partes.
+De igual modo o pedido e a causa de pedir constantes da reclamação inicial do demandante
+não foram objeto de alteração, que se dão aqui por integralmente reproduzidos para todos
+os efeitos, e consistem na resolução do contrato de compra e venda celebrado com a
+demandada e a devolução em dobro do respetivo preço.
+Por sua vez, a demandada não apresentou contestação escrita ou oral em sede de audiência
+arbitral, e não esteve representada na audiência arbitral.
+B. – A Mediação e a Constituição do Tribunal Arbitral:
+Nos termos do regulamento do CNIACC a fase da arbitragem é precedida da fase da
+mediação que tem como objetivo a obtenção de um acordo entre as partes litigantes com
+vista à resolução do litígio que as opõe.
+Na fase da “Mediação” as Ex.mas Senhoras Juristas adstritas ao CNIACC promoveram
+todos os procedimentos previstos no regulamento do CNIACC e procuraram,
+insistentemente, a resolução, por acordo, do litígio que opõe as partes neste processo arbitral.
+Fruto dessa “Mediação” foi possível reunir todos os factos e os documentos que os
+suportam, e concluir que foram cumpridos todos os requisitos e procedimentos relativos à
+fase da “Mediação” previstos no regulamento do CNIACC e da Lei da “Resolução
+Alternativa de Litígios”.
+Na fase de “Mediação” não foi possível conciliar as partes e obter um acordo para a resolução
+amigável do litígio, razão pela qual o processo seguiu para a fase “Arbitral”, em virtude do
+demandante ter manifestado a sua pretensão de ver o litígio decidido pelo Tribunal Arbitral
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptdo CNIACC e estar em causa um litígio sujeito à arbitragem necessária (artigo 14.º/2, da Lei
+n.º24/96, de 31/07, na sua redação atualizada).
+Nos termos do artigo 13.º do regulamento do CNIACC o tribunal arbitral é constituído por
+um único Árbitro.
+O árbitro signatário da presente sentença arbitral foi designado para o efeito pelo CNIACC
+e aceitou a nomeação na data mencionada nos autos deste processo.
+C. – Audiência Arbitral (artigo 14.º do Regulamento do CNIACC):
+Nos termos do artigo 14.º do Regulamento do CNIACC as partes foram notificadas da data,
+hora e local da audiência arbitral, precedida da tentativa de conciliação prevista no artigo 11.º
+do referido regulamento, assim como para apresentarem, querendo, a sua contestação e
+todos os meios de prova que entendessem por convenientes.
+A audiência arbitral realizou-se na sede deste Tribunal Arbitral, em Braga, no dia 12-07-2023,
+pelas 15:25.
+O demandante esteve presente na audiência arbitral e a demandada não esteve presente nem
+se fez representar, razão pela qual se frustrou, desde logo, a possibilidade de realização da
+tentativa de conciliação.
+Finda a audiência arbitral foi elaborada a respetiva ata e assinada pelo árbitro signatário e pela
+Ex.ma Senhora Jurista do CNIACC presente na audiência.
+II. – Saneamento e Valor da Causa:
+Questão Prévia: Omissão de apresentação de contestação pela demandada:
+Como se deu conta supra a demandada não apresentou contestação escrita ou oral em sede
+de audiência arbitral.
+Em sede de “saneamento” importará que este tribunal determine qual o efeito processual
+decorrente da omissão de apresentação de contestação por parte da referida demandada.
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptDe acordo com o disposto no artigo 35.º/2, da Lei da Arbitragem Voluntária (LAV),
+aplicada supletivamente por força do disposto no artigo 19.º/3, do regulamento do
+CNIACC, “Se o demandando não apresentar a sua contestação, em conformidade com o n.º2 do artigo 33.º,
+o tribunal arbitral prossegue o processo arbitral, sem considerar esta omissão, em si mesma, como uma
+aceitação das alegações do demandante”.
+Da norma acaba de citar resulta, em suma, que a ausência de contestação por parte da
+demandada não implica a sua confissão dos factos alegados pelo demandante.
+Conclui-se, então, que este tribunal arbitral é competente, foi validamente constituído, as
+partes têm personalidade e capacidade judiciárias e são legítimas.
+Não é obrigatório que as partes se façam representar e/ou acompanhar por terceiros, pese
+embora lhes assista esse direito, nos termos do disposto no artigo 12.º da Lei n.º 144/2015,
+de 08/09, na sua redação atualizada.
+O processo é o próprio tendo em conta a causa de pedir e o pedido e está isento de quaisquer
+nulidades que tenham de ser apreciadas ou questões que obstem ao conhecimento do mérito
+da causa.
+Nenhuma das partes atribuiu valor à causa nas fases de “Mediação” ou “Arbitral”.
+Compete a este tribunal fazê-lo no uso dos poderes que lhe são conferidos pelo disposto no
+artigo 14.º do regulamento do CNIACC e, subsidiariamente, pela remissão operada pelo
+disposto no artigo 19.º, nos termos da Lei da Arbitragem Voluntária e do Código do
+Processo Civil (artigo 306.º/1).
+O demandante pretende que este tribunal declare a resolução do contrato e condene a
+demandada no reembolso em dobro da quantia paga pela televisão no valor de €1.958,00.
+Analisado, assim, os pedidos e a causa de pedir à luz das regras previstas no CPC para a
+verificação do valor da causa fixa-se o seu valor em €1.958,00, recorrendo ao critério previsto
+no artigo 297.º/1, do CPC, em virtude de ser este o valor do bem adquirido pelo demandante
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pte que este agora pretende ver reembolsado em dobro por força da resolução do contrato de
+compra e venda decorrente do incumprimento definitivo do mesmo pela demandada.
+O valor da causa fixa-se, assim, em €1.958,00 (mil novecentos e cinquenta e oito euros), nos
+termos do artigo 297.º/1, do CPC, por remissão do artigo 19.º do Regulamento do
+CNIACC para a Lei de Arbitragem Voluntária e desta para o Código de Processo Civil, com
+os fundamentos acima enunciados.
+Cumpre, por isso, apreciar e decidir:
+III. – Enquadramento de Facto:
+Finda a produção de prova e tendo em conta a posição assumida pelo demandante no seu
+articulado, as declarações prestadas pelo mesmo em sede de audiência arbitral que se
+revelaram espontâneas, autênticas, genuínas, coerentes, assertivas e, por isso, com
+credibilidade, não se descortinando qualquer contradição entre as mesmas, a reclamação
+inicial, reiterada, posteriormente, na fase “arbitral” deste processo, e, por fim, com os
+documentos que juntou aos autos, em conjugação, ainda, com as regras da experiência e com
+os juízos da normalidade da vida, resultaram provados, com relevância para a decisão desta
+causa arbitral, os factos seguintes:
+1. As partes celebraram em 29-10-2022 à distância um contrato de compra e venda através
+do qual o demandante adquiriu uma televisão da marca “….” pela qual pagou o preço de
+€979,00;
+2. A televisão foi adquirida para uso pessoal do demandante;
+3. O demandante não contabilizou na contabilidade de custos da sua atividade profissional
+o custo com a aquisição da televisão;
+4. O preço da compra foi pago através de referências multibanco no dia 29-10-2022;
+5. A demandada informou o demandante que o bem seria entregue no prazo máximo de
+quinze dias úteis;
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pt6. A demandada não cumpriu o prazo inicial de entrega do bem;
+7. A demandada contactou, por escrito, através de e-mail, o demandante a desculpar-se pelo
+atraso na entrega do bem e a solicitar um prazo adicional para o efeito;
+8. O demandante concordou com prorrogação do prazo de entrega;
+9. A demandada não cumpriu o prazo subsequente de entrega do bem;
+10. Em 10-04-2023 o demandante resolveu o contrato, comunicou por escrito a resolução
+do contrato à demandada e solicitou o reembolso do preço pago;
+11. Desde então até à presente data o demandante vem reclamando da demandada o
+reembolso em dobro do preço pago;
+12. A demandada assumiu por escrito que faria o reembolso, mas nunca o concretizou,
+embora o demandante lhe tivesse disponibilizado o seu IBAN para o efeito.
+Não existem outros factos, provados ou não provados, com relevância para esta
+sentença arbitral.
+IV. – Motivação:
+Este Tribunal Arbitral formou a sua convicção do modo seguinte:
+a) Quanto aos factos n.ºs 1/2/3/4/5/6/7/8/9/10/11/12 pelos documentos juntos aos
+autos com a reclamação inicial e pelas declarações de parte prestadas em sede de audiência
+arbitral.
+A prova foi produzida, exclusivamente, a partir das declarações de parte prestadas pelo
+demandante em sede de audiência arbitral e dos documentos juntos aos autos pelo mesmo,
+através dos quais foi possível apurar, desde logo, a data, objeto, natureza, prazo e preço do
+contrato de compra e venda, o incumprimento dos prazos, inicial e subsequente, a perda de
+interesse do demandante no negócio e a sua vontade em ver o contrato resolvido e a
+devolução do preço do bem.
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptPese embora não ter intervindo nos presentes autos em nenhuma das suas fases e, como
+vimos, a ausência de contestação, escrita ou oral, não ter como consequência a confissão dos
+factos pela demandada, a verdade é que o demandante beneficia da presunção legal,
+consagrada no artigo 11.º/11, do Decreto-Lei 84/2021, de 18/10, (“11 - Incumbe ao profissional
+a prova do cumprimento das obrigações estabelecidas no presente artigo.”), recaindo, desse modo, sobre
+a demandada, o ónus de ilidir tal presunção, nos termos e para os efeitos previstos no artigo
+350.º/1/2, do Código Civil, que consagra que “2. As presunções legais podem, todavia, ser ilididas
+mediante prova em contrário, exceto nos casos em que a lei o proibir.”.
+Não intervindo nos autos a demandada não logrou, por isso, ilidir aquela presunção legal e,
+desse modo, resultou, para este tribunal arbitral, o incumprimento culposo, pela demandada,
+da obrigação de entrega da televisão nos prazos inicial e subsequente.
+V. – Enquadramento de Direito:
+A questão objeto deste litígio arbitral diz respeito a um contrato de compra e venda de um
+bem, no caso de uma televisão, que não foi entregue nos prazos inicial e subsequente, e que
+por isso o demandante, na qualidade de consumidor, perdeu o interesse definitivamente no
+cumprimento do contrato e pretende ver validada a resolução do contrato por si operada e
+a condenação da demandada na devolução do preço pago pelo bem.
+Vejamos, então, se assiste razão ao demandante na sua pretensão:
+Os efeitos essenciais da compra e venda encontram-se consagrados no artigo 879.º, do
+Código Civil, e traduzem-se na transmissão da propriedade da coisa ou da titularidade do
+direito e nas obrigações de entregar a coisa e de pagar o preço.
+No que concerne ao contrato de compra e venda resultou, suficientemente, para este tribunal
+arbitral, da matéria de facto dada como provada, que as partes celebraram um contrato de
+compra e venda válido e eficaz cujos efeitos essenciais, previstos no artigo 879.º, do Código
+Civil, se verificaram à exceção da entrega do bem pela demandada (artigo 879.º/alínea c),
+do Código Civil).
+Resultou, igualmente, da matéria de facto provada que o prazo inicial foi fixado pela
+demandada, que o demandante se conformou com esse prazo, que a entrega do bem não
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptocorreu na data inicial, nem na data subsequente e que por isso o demandante perdeu o
+interesse definitivo no cumprimento do contrato.
+Verificando-se, desse modo, os pressupostos de facto e direito enunciados no artigo 11.º, do
+Decreto-Lei n.º84/2021, de 18/10, o demandante estava legitimada para declarar a perda
+definitiva de interesse no cumprimento do contrato e, assim, obter a sua resolução pela via
+arbitral.
+Os efeitos da resolução do contrato de compra e venda encontram-se previstos, por sua vez,
+no artigo 433.º do Código Civil.
+Esta norma equipara os efeitos da resolução aos da nulidade ou anulabilidade dos negócios
+jurídicos previstos no artigo 289.º, daquele código.
+Da conjugação destas normas resulta, então, que a resolução do contrato de compra e venda
+tem efeito retroativo, estando as partes obrigadas a restituir tudo o que tiverem prestado, ou
+seja, a demandada a devolver o preço pago pelo demandante, como resulta, aliás, do já
+referido artigo 11.º, do Decreto-Lei n.º84/2021, de 18/10.
+A demandada também não conseguiu ilidir a presunção de culpa no incumprimento prevista
+no artigo 799.º/1, do Código Civil, e no já citado artigo 11.º/11, porquanto não provou que
+a não entrega do aspirador não lhe é imputável.
+Aplicando o “direito” acabado de citar aos factos dados como provados temos, então, que o
+demandante, na qualidade de consumidor, assiste-lhe o direito à resolução do contrato e à
+devolução do preço pago pelo bem, porquanto a demandada não cumpriu os prazos, inicial
+e subsequente, por um lado, e porque em consequência desse incumprimento o demandante
+declarou a perda definitiva de interesse na prestação da demandada, ou seja, na entrega do
+bem, resolveu o contrato e reclamou a devolução do preço, por outro.
+Em suma: da aplicação do direito à matéria de facto dada como provada este tribunal arbitral
+conclui, assim, pela procedência da presente ação arbitral e, consequentemente, pela
+declaração da resolução do contrato e condenação da demanda na devolução, em dobro, ao
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptdemandante, do preço pago pelo bem objeto do contrato de compra e venda, no caso a
+quantia de €1.958,00.
+VI. – Decisão:
+Assim, em face do exposto, julgo totalmente procedente, por provada, a presente ação
+arbitral e, consequentemente, declaro a resolução do contrato de compra e venda
+celebrado entre as partes e condeno a demandada a devolver à demandante a quantia
+de €1.958,00, tudo nos termos e com os efeitos previstos no artigo 15.º do Regulamento do
+CNIACC.
+VII. – Encargos processuais e Depósito da decisão arbitral:
+O valor da causa fixa-se, assim, em €1.958,00 (mil novecentos e cinquenta e oito euros), nos
+termos do artigo 297.º/1, do CPC, por remissão do artigo 19.º do Regulamento do
+CNIACC para a Lei de Arbitragem Voluntária e desta para o Código de Processo Civil, com
+os fundamentos acima enunciados.
+Os eventuais encargos processuais decorrentes deste processo arbitral serão liquidados e
+cobrados pelo CNIACC nos termos do artigo 16.º do seu regulamento.
+Notifiquem-se as partes com cópia desta decisão e deposite-se o seu original no CNIACC
+nos termos do artigo 15.º/2 do referido regulamento.
+Braga, 12-07-2023.
+O Árbitro,
+Alexandre Maciel,
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pt

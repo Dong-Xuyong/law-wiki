@@ -1,0 +1,473 @@
+---
+id: "law_6c893a77ffbdb153"
+folder: "Triave/Jurisprudencia/Outros"
+filename: "2022_Processo 2729.out.pdf"
+year: "2022"
+website: "Triave"
+topic: "garantias/defeitos"
+tokens: 6477
+tokens_sm: 1225
+is_empty: "True"
+content_hash: "a0b1ad62e6d24c6f86fddba3b6342ec856bbcef955512d13d63cf128b99aa49b"
+csv_row: 514
+imported: "2026-09-11"
+---
+
+# 2022_Processo 2729.out
+
+## Full text
+
+a
+TRIAVE | €9 RAL
+
+CENTRO DE ARBITRAGEM
+DE CONFLITOS DE CONSUMO
+
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+
+Processo de Arbitragem n.º 2729 2022.
+Demandante:
+
+Demandada:
+
+Resumo da Sentença Arbitral (elaborado pelo árbitro): 1.º Da norma do artigo 11.º, do
+Decreto-Lei n.º84/2021, de 18/10, na sua redação atualizada, resulta que o fornecedor de bens
+deve entregar os bens na data ou dentro do período especificado pelo consumidor, salvo
+convenção em contrário; 2.º À demandada comunicou aÃ demandante que o bem seria entregue
+no prazo máximo de 53 dias úteis; 3.º Não sendo cumprida a obrigação de entrega dos bens na
+data acordada o consumidor tem o direito a resolver imediatamente o contrato, sem necessidade
+de indicação do prazo adicional nos termos do artigo 11.º/8, se o fornecedor dos bens não os
+entregar na data acordada; 4.º A demandante concedeu à demandada prazos de entrega adicionais;
+5.º Resolvido o contrato o fornecedor dos bens deve restituir ao consumidor a totalidade do
+montante pago até catorze dias após a referida resolução (artigo 11.º/9); 6.º Tendo resultado
+provado que a demandada não cumpriu o prazo de entrega do bem, nos prazos inicial e
+subsequentes, assistia o direito aA demandante a resolver o contrato e a exigir a devolução em
+
+dobro do preço pago (artigo 11,º/10).
+
+I. - Relatório:
+A. - Das Partes e do Objeto da Ação Arbitral:
+A demandante residente na
+apresentou uma reclamação no TRIAVE, à qual foi atribuída o número
+
+2729 2022, contra a demandada.
+
+Tendo-se frustrado a possibilidade de celebração de um acordo entre as partes, na fase de
+conciliação prévia à audiência arbitral, em virtude da ausência da demandada na referida audiência,
+
+o processo prosseguiu, então, para a sua fase arbitral, por vontade expressa da demandante.
+
+Rua Capitão Alfredo Guimarães, n,º 1 = 4800-019 Guimarães | TIf. 253422410 | Fax 253422411 | E-mail: geralOtriave.pt
+
+Página 1 de 9
+
+ro
+TRIAVE | (€9) RAL
+
+CENTRO DE ARBITRAGEM
+DE CONFLITOS DE CONSUMO
+
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+
+Por se tratar de arbitragem necessária, nos termos e para os efeitos do disposto no artigo 14.º/2,
+da Lei n.º24/96, de 31/07, na redação introduzida pela Lei n.º63/2019, de 16/08, compete a este
+
+tribunal julgar e decidir este litígio.
+
+À instância arbitral estabilizou-se, por isso, com as partes acima identificadas, não se tendo
+
+verificado qualquer modificação subjetiva decorrente da intervenção de novas partes.
+
+De igual modo o pedido e a causa de pedir constantes da reclamação inicial da demandante não
+foram objeto de alteração, que se dão aqui por integralmente reproduzidos para todos os efeitos,
+e consistem na resolução do contrato de compra e venda celebrado com a demandada e a
+
+devolução em dobro do respetivo preço.
+
+Por sua vez, a demandada não apresentou contestação escrita ou oral em sede de audiência
+
+arbitral, e não esteve representada na audiência arbitral.
+
+B. - A Mediação e a Constituição do Tribunal Arbitral:
+
+Nos termos do regulamento do TRIAVE a fase da arbitragem é precedida da fase da mediação
+que tem como objetivo a obtenção de um acordo entre as partes litigantes com vista à resolução
+
+do litígio que as opõe.
+
+Na fase da “Mediação” as Ex.mas Senhoras Juristas adstritas ao TRIAVE promoveram todos os
+procedimentos previstos no regulamento do TRIAVE e procuraram, insistentemente, a
+
+resolução, por acordo, do litígio que opõe as partes neste processo arbitral.
+
+Fruto dessa “Mediação” foi possível reunir todos os factos e os documentos que os suportam, e
+concluir que foram cumpridos todos os requisitos e procedimentos relativos à fase da “Mediação”
+
+previstos no regulamento do TRIAVE e da Lei da “Resolução Alternativa de Litígios”.
+
+Na fase de “Mediação” não foi possível conciliar as partes e obter um acordo para a resolução
+amigável do litígio, razão pela qual o processo seguiu para a fase “Arbitral”, em virtude da
+demandante ter manifestado a sua pretensão de ver o litígio decidido pelo Tribunal Arbitral do
+TRIAVE e estar em causa um litígio sujeito à arbitragem necessária (artigo 14.º/2, da Lei
+
+n.º24/96, de 31/07, na sua redação atualizada).
+
+Rua Capitão Alfredo Guimarães, n.º 1 - 4800-019 Guimarães | TIf. 253422410 | Fax 253422411 | E-mail: geralQDtriave.pt
+
+Página 2 de 9
+
+o
+TRIAVE | €9 RA É.
+
+CENTRO DE ARBITRAGEM
+DE CONFLITOS DE CONSUMO
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+
+Nos termos do artigo 13.º do regulamento do TRIAVE o tribunal arbitral é constituído por um
+
+único Árbitro.
+
+O árbitro signatário da presente sentença arbitral foi designado para o efeito pelo TRIAVE e
+
+aceitou a nomeação na data mencionada nos autos deste processo.
+
+C. — Audiência Arbitral (artigo 14.º do Regulamento do TRIAVE):
+
+Nos termos do artigo 14.º do Regulamento do TRIAVE as partes foram notificadas da data, hora
+e local da audiência arbitral, precedida da tentativa de conciliação prevista no artigo 11,º do
+referido regulamento, assim como para apresentarem, querendo, a sua contestação e todos os
+
+meios de prova que entendessem por convenientes.
+À audiência arbitral realizou-se em Vizela, no dia 13-01-2023, pelas 11:00.
+
+A demandante esteve presente na audiência arbitral e a demandada não esteve presente nem se
+fez representar, tazão pela qual se frustrou, desde logo, a possibilidade de realização da tentativa
+
+de conciliação,
+
+Finda a audiência arbitral foi elaborada a respetiva ata e assinada pelo árbitro signatário e pela
+
+Ex.ma Senhora Jurista do TRIAVE presente na audiência,
+II. - Saneamento e Valor da Causa:
+Questão Prévia: Omissão de apresentação de contestação pela demandada:
+
+Como se deu conta supra a demandada não apresentou contestação escrita ou otal em sede de
+
+audiência arbitral.
+
+Em sede de “saneamento” importará que este tribunal determine qual o efeito processual
+
+decorrente da omissão de apresentação de contestação pot parte da referida demandada.
+
+De acordo com o disposto no artigo 35.º/2, da Lei da Arbitragem Voluntária (LAV), aplicada
+supletivamente por força do disposto no artigo 19.º/3, do regulamento do TRIAVE, “Se o
+
+demandando não apresentar a sua contestação, em conformidade com o n.º2 do artigo 33.8, o tribunal arbitral
+Rua Capitão Alfredo Guimarães, n.º 1 = 4800-019 Guimarães | TIf. 253422410 | Fax 253422411 | E-mail: geralOtriave.pt
+
+Página 3 de 9
+
+o
+TRIAVE | (€9 RAL
+
+CENTRO DE ARBITRAGEM CENTROS
+DE CONFLITOS DE CONSUMO
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+prossegue o processo arbitral, sem considerar esta omissão, em si mesma, como uma aceitação das alegações dA
+
+demandante”,
+
+Da norma acaba de citar resulta, em suma, que a ausência de contestação por parte da demandada
+
+não implica a sua confissão dos factos alegados pela demandante.
+
+Conclui-se, então, que este tribunal arbitral é competente, foi validamente constituído, as partes
+
+têm personalidade e capacidade judiciárias e são legítimas.
+
+Não é obrigatório que as partes se façam representar e/ou acompanhar por terceiros, pese embora
+lhes assista esse direito, nos termos do disposto no artigo 12.º da Lei n.º 144/2015, de 08/09, na
+
+sua redação atualizada.
+
+O processo é o próprio tendo em conta a causa de pedir e o pedido e está isento de quaisquer
+nulidades que tenham de ser apreciadas ou questões que obstem ao conhecimento do mérito da
+
+causa.
+Nenhuma das partes atribuiu valor à causa nas fases de “Mediação” ou “Arbitral”,
+
+Compete a este tribunal fazê-lo no uso dos poderes que lhe são conferidos pelo disposto no
+artigo 14.º do regulamento do TRIAVE e, subsidiariamente, pela remissão operada pelo disposto
+no artigo 19.º, nos termos da Lei da Arbitragem Voluntária e do Código do Processo Civil (artigo
+306.º/1).
+
+À demandante pretende que este tribunal declare a resolução do contrato e condene a demandada
+
+no reembolso, em dobro, do preço pago pelo sofá que lhe adquiriu, no valor total de €788,10.
+
+Analisado, assim, os pedidos e a causa de pedir à luz das regras previstas no CPC para a verificação
+do valor da causa fixa-se o seu valor em €788,10, recorrendo ao critério previsto no artigo
+297.º/1, do CPC, em virtude de ser este o valor do bem adquirido pela demandante e que esta
+agora pretende ver reembolsado, em dobro, por força da resolução do contrato de compra e
+
+venda decorrente do incumprimento definitivo do mesmo pela demandada.
+
+Rua Capitão Alfredo Guimarães, n.º 1 - 4800-019 Guimarães | Tlf. 253422410 | Fax 253422411 | E-mail: geralDtriave.pt
+
+Página 4 de 9
+
+o
+TRIAVE | €C9 RAL
+
+CENTRO DE ARBITRAGEM CENTROS
+
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+O valor da causa fixa-se, assim, em €788,10 (setecentos e oitenta e oito eutos e dez cêntimos),
+nos termos do artigo 297.º/1, do CPC, por remissão do artigo 19.º do Regulamento do TRIAVE
+
+para a Lei de Arbitragem Voluntária e desta para o Código de Processo Civil, com os fundamentos
+
+acima enunciados.
+Cumpre, por isso, apreciar e decidir:
+
+II. —- Enquadramento de Facto:
+
+Finda a produção de prova e tendo em conta a posição assumida pela demandante no seu
+articulado, as declarações prestadas pela mesma em sede de audiência arbitral que se revelaram
+espontâneas, autênticas, genuínas, coerentes, assertivas e, por isso, com credibilidade, não se
+descortinando qualquer contradição entre as mesmas, a reclamação inicial, reiterada,
+posteriormente, na fasc “arbitral” deste processo, e, por fim, com os documentos que juntou aos
+
+autos, em conjugação, ainda, com as regras da experiência e com os juízos da normalidade da
+
+vida, resultaram provados, com relevância para a decisão desta causa arbitral, os factos
+seguintes:
+1. As partes celebraram em 25-06-2022 um contrato de compra e venda através do qual a
+
+demandante adquiri à reclamada um sofá pelo preço de €788,10;
+
+2. O contrato foi celebrado presencialmente na loja comercial da reclamada
+
+3. Na data da celebração do contrato a demandante pagou 50% do preço;
+
+4. Os restantes 50% do preço seriam pagos no ato da entrega do sofá;
+
+5. A reclamada fixou o prazo de entrega em 53 dias úteis;
+
+6. Antes do fim do prazo a demandante contacto, por e-mail e telefone, a demandada e esta
+informou-a que o prazo de entrega não seria um cumprido devido à falta de matéria prima
+
+necessária para fabricar o sofá;
+
+7. Findo o prazo inicial a demandada informou a demandante que o sofá seria entregue no dia
+
+17-09-2022;
+
+Rua Capitão Alfredo Guimarães, n.º 1 - 4800-019 Guimarães | TIf,253 422410 | Fax 253422411 | E-mail: geral triave pt
+
+Página 5 de 9
+
+(a
+TRIAVE | €9 RAL
+
+CENTRO DE ARBITRAGEM CENTROS
+DO AVE, TÂMEGA E SOVRA DE ARBITRAGEM
+
+8. No dia 17-09-2022 a demandada não entregou o sofá à demandante e esta interpelou-a acerca
+
+do atraso, ao que aquela respondeu que seria entregue no dia 27-09-2022;
+9. No dia 27-09-2022 a demandada não entregou o sofá à demandante;
+
+10. Nessa data a demandante resolveu o contrato, comunicou a resolução por escrito à
+
+demandada e solicitou a devolução da parte do preço que havia pago;
+
+11. A demandada não devolveu o preço pago pela demandante no prazo legalmente previsto para
+
+o efeito;
+12, O sofá foi adquirido para uso pessoal da demandante;
+
+13. À demandante não contabilizou na contabilidade de custos da sua atividade profissional o
+
+custo com a aquisição do sofá;
+14. A demandante reclamou da demandada o reembolso, em dobro, do preço pago pelo sofá.
+
+15. Até à presente data a demandada não devolveu à demandante a parte do preço pago ou o seu
+
+dobro.
+
+Não existem outros factos, provados ou não provados, com relevância para esta sentença
+
+arbitral.
+
+IV. - Motivação:
+
+Este Tribunal Arbitral formou a sua convicção do modo seguinte:
+
+a) Quanto aos factos n.ºs 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15 pelos documentos juntos
+aos autos com a reclamação inicial e pelas declarações de parte prestadas em sede de audiência
+
+arbitral.
+
+À prova foi produzida, exclusivamente, a partir das declarações de parte prestadas pela reclamante
+em sede de audiência arbitral e dos documentos juntos aos autos pelo mesmo, através dos quais
+
+foi possível apurar, desde logo, a data, objeto, natureza, prazo e preço do contrato de compra e
+
+Rua Capitão Alfredo Guimarães, n.º 1 = 4800-019 Guimarães | TI. 253422410 | Fax 253422411 | E-mall: geraldtriave.pt
+
+Página 6 de 9
+
+CENTRO DE ARBITRAGEM
+DE CONFLITOS DE CONSUMO
+
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+
+for
+TRIAVE | €9 RAL
+
+venda, o incumprimento dos prazos, inicial e subsequente, a perda de interesse da demandante
+
+no negócio e a sua vontade em ver o contrato resolvido e a devolução do preço do bem,
+
+Pese embora não ter intervindo nos presentes autos em nenhuma das suas fases e, como vimos,
+a ausência de contestação, escrita ou oral, não ter como consequência a confissão dos factos pela
+demandada, a verdade é que A demandante beneficia da presunção legal, consagrada no artigo
+11.º/11, do Decreto-Lei 84/2021, de 18/10, (“11 - Incumbe ao profissional a prova do comprimento das
+obrigações estabelecidas no presente artigo.”), tecaindo, desse modo, sobre a demandada, o ónus de ilidir
+tal presunção, nos termos e para os efeitos previstos no artigo 350.º/1/2, do Código Civil, que
+consagra que “2. As presunções legais podem, todavia, ser ilididas mediante prova em contrário, exceto nos casos
+
+em que a lei o proibir.”
+
+Não intervindo nos autos a demandada não logrou, por isso, ilidir aquela presunção legal e, desse
+modo, resultou, para este tribunal arbitral, o incumprimento culposo, pela demandada, da
+
+obrigação de entrega da sofá nos prazos inicial e subsequente.
+
+V. — Enquadramento de Direito:
+
+À questão objeto deste litígio arbitral diz respeito a um contrato de compra e venda de um bem,
+no caso de um sofá, que não foi entregue nos prazos inicial e subsequente, e que por isso a
+demandante, na qualidade de consumidora, perdeu o interesse definitivamente no cumprimento
+do contrato e pretende ver validada a resolução do contrato por si operada e a condenação da
+
+demandada na devolução, em dobro, do preço pago pelo bem.
+
+Vejamos, então, se assiste razão à demandante na sua pretensão:
+Os efeitos essenciais da compra e venda encontram-se consagrados no artigo 879.º, do Código
+Civil, e traduzem-se na transmissão da propriedade da coisa ou da titularidade do direito e nas
+
+obrigações de entregar a coisa e de pagar o preço.
+
+No que concerne ao contrato de compra e venda resultou, suficientemente, para este tribunal
+arbitral, da matéria de facto dada como provada, que as partes celebraram um contrato de compra
+e venda válido e eficaz cujos efeitos essenciais, previstos no artigo 879.º, do Código Civil, se
+verificaram à exceção da entrega do bem pela demandada (artigo 879.º /alínea c), do Código
+Civil).
+
+Rua Capitão Alfredo Guimarães, n.º 1 = 4800-019 Guimarães | TIf. 253422410 | Fax 253422411 | E-mail; geralDtriave.pt
+
+Página 7 de 9
+
+ro
+TRIAVE | €9 RAL
+
+CENTRO DE ARBITRAGEM
+DE CONFLITOS DE CONSUMO
+DO AVE, TÂMEGA E SOUSA DE ARBITRAGEM
+Resultou, igualmente, da matéria de facto provada que o prazo inicial foi fixado pela demandada,
++, ,
+que a demandante se conformou com esse prazo, que a entrega do bem não ocorreu na data
+inicial, nem na data subsequente e que por isso a demandante perdeu o interesse definitivo no
+
+cumprimento do contrato,
+
+Verificando-se, desse modo, os pressupostos de facto e direito enunciados no artigo 11.º, do
+Decreto-Lei n.º84/2021, de 18/10, a demandante estava legitimada para declarar a perda
+definitiva de interesse no cumprimento do contrato e, assim, obter a sua resolução pela via
+
+arbitral.
+
+Os efeitos da resolução do contrato de compra e venda encontram-se previstos, por sua vez, no
+
+artigo 433.º do Código Civil.
+
+Esta norma equipara os efeitos da resolução aos da nulidade ou anulabilidade dos negócios
+
+jurídicos previstos no artigo 289.º, daquele código.
+
+Da conjugação destas normas resulta, então, que a resolução do contrato de compra e venda tem
+efeito retroativo, estando as partes obrigadas a restituir tudo o que tiverem prestado, ou seja, a
+demandada a devolver o preço pago pela demandante, como resulta, aliás, do já referido artigo
+
+11.º, do Decreto-Lei n.º84/2021, de 18/10.
+
+À demandada também não conseguiu ilidir a presunção de culpa no incumprimento prevista no
+artigo 799.º/1, do Código Civil, e no já citado artigo 11.º/11, porquanto não provou que a não
+
+entrega do sofá não lhe é imputável.
+
+Aplicando o “direito” acabado de citar aos factos dados como provados temos, então, que À
+demandante, na qualidade de consumidor, assiste-lhe o direito à resolução do contrato e à
+devolução do preço pago pelo bem, porquanto a demandada não cumpriu os prazos, inicial e
+subsequente, por um lado, e porque em consequência desse incumprimento a demandante
+declarou a perda definitiva de interesse na prestação da demandada, ou seja, na entrega do bem,
+
+resolveu o contrato e reclamou a devolução em dobro do preço, por outro.
+
+Rua Capitão Alfredo Guimarães, n,º 1 - 4800-019 Guimarães | TIf. 253422410 | Fax 253422411 | E-mail; geralDtriave,pt
+
+Página 8 de 9
+
+ra
+TRIAVE | €9 RAL
+
+CENTRO DE ARBITRAGEM
+
+DO AVE, TÂMEGA E SOUSA. DE ARBITRAGEM
+Em suma: da aplicação do direito à matéria de facto dada como provada este tribunal arbitral
+conclui, assim, pela procedência da presente ação arbitral e, consequentemente, pela declaração
+da resolução do contrato e condenação da demanda na devolução, em dobro, à demandante do
+
+preço pago pelo bem objeto do contrato de compra e venda, no caso a quantia de €788,10.
+
+VI. — Decisão:
+
+Assim, em face do exposto, julgo totalmente procedente, por provada, a presente ação
+arbitral e, consequentemente, declaro a resolução do contrato de compra e venda celebrado
+entre as partes e condeno a demandada a devolver aA demandante a quantia de €788,10,
+
+tudo nos termos e com os efeitos previstos no artigo 15.º do Regulamento do TRIAVE.,
+
+VII. — Encargos processuais e Depósito da decisão arbitral:
+
+O valor da causa fixa-se, assim, em €788,10 (setecentos e oitenta e oito euros e dez cêntimos),
+nos termos do artigo 297.º/1, do CPC, por remissão do artigo 19.º do Regulamento do TRIAVE
+para a Lei de Arbitragem Voluntária e desta para o Código de Processo Civil, com os fundamentos
+
+acima enunciados.
+
+Os eventuais
+
+e
+
+ 
+
+cobtados pelo TRI 7
+
+Notifiquem-se as partes com cópia desta decisão e deposite-se o seu original no TRIAVE nos
+
+termos do artigo 15.º/2 do referido regulamento,
+
+Braga, 14-02-2023,
+
+O Ásbitro,
+Alexandre Maciel,
+
+ST
+
+Rua Capitão Alfredo Guimarães, n.º 1 = 4800-019 Guimarães | TIf, 253422410 | Fax 253422411 | E-mail: geral&dtriave, pt
+
+Página 9 de 9
+

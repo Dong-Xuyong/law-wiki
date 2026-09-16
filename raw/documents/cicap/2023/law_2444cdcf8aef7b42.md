@@ -1,0 +1,399 @@
+---
+id: "law_2444cdcf8aef7b42"
+folder: "CICAP/Decisoes Arbitrais"
+filename: "Sentenca-890.2023.pdf"
+year: "2023"
+website: "CICAP"
+topic: "Decisoes Arbitrais"
+tokens: 4347
+tokens_sm: 1059
+is_empty: "True"
+content_hash: "efcaa68b35a3329c408799a4cf58c386234c9eb842311db514c8f0ec437c3e50"
+csv_row: 2474
+imported: "2026-09-11"
+---
+
+# Sentenca-890.2023
+
+## Full text
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+-Sentença Arbitral-
+
+Processo de Arbitragem n.º 890 2023.
+Demandante:
+
+Demandada:
+
+Resumo da Sentença Arbitral (elaborado pelo árbitro): 1,º A Lei n.º24/96, de 31/07, nos
+seus artigos 3.º, 4.º e 12.º, consagra que o consumidor tem direito à qualidade dos bens e
+serviços (artigo 3.º /alínea a), que os serviços que lhe são destinados devem ser aptos a
+satisfazer os fins a que se destinam e a produzir os efeitos que se lhes atribuem (artigo 4.º),
+e, ainda, a ser indemnizado pelos danos patrimoniais e não patrimoniais resultantes da
+prestação de serviços defeituosos (artigo 12.º); 2.º Não tendo a demandada prestados os
+serviços contratados pelo demandante nos termos e condições contratados, com qualidade
+e produzidos os efeitos pretendidos por aquela, assiste-lhe o direito a ser indemnizada pelos
+
+danos que alega lhe terem sido causados (artigo 12.º).
+
+I. - Relatório:
+A, - Das Partes e do Objeto da Ação Arbitral:
+O demandante residente na ma
+no Porto, apresentou uma reclamação no CICAP, à qual foi atribuída
+
+o número 890 2023, contra a demandada
+
+Tendo-se frustrado a possibilidade de celebração de um acordo entre as partes, na fase de
+conciliação prévia à audiência arbitral, em virtude da indisponibilidade das partes para o
+efeito, o processo prosseguiu, então, para a sua fase arbitral, por vontade expressa do
+
+demandante.
+
+Por se tratar de arbitragem necessária, nos termos e para os efeitos do disposto no artigo
+14.º/2, da Lei n.º24/96, de 31/07, na redação introduzida pela Lei n.º63/2019, de 16/08,
+
+compete a este tribunal julgar e decidir este litígio.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+o
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+À instância arbitral estabilizou-se, por isso, com as partes acima identificadas, não se tendo
+
+verificado qualquer modificação subjetiva decorrente da intervenção de novas partes.
+
+De igual modo o pedido e a causa de pedir constantes da reclamação inicial do demandante
+não foram objeto de alteração, que se dão aqui por integralmente reproduzidos para todos
+os efeitos, e consistem na condenação da reclamada no pagamento da quantia de €39,95, a
+título de indemnização pelos danos patrimoniais que alega lhe terem sido causados em
+consequência de uma prestação de serviços que não foi prestada com a qualidade e
+
+produzidos os efeitos pretendidos.
+
+À demandada não apresentou contestação escrita ou oral na fase “arbitral” deste processo e
+
+não esteve presente ou representada na audiência arbitral.
+
+B. — Constituição do Tribunal Arbitral:
+Nos termos do artigo 13.º do regulamento do CICAP o tribunal arbitral é constituído por
+
+um único Arbitro.
+
+O árbitro signatário da presente sentença arbitral foi designado para o efeito pelo CICAP e
+
+aceitou a nomeação na data mencionada nos autos deste processo.
+
+C. — Audiência Arbitral (artigo 14.º do Regulamento do CICAP):
+
+Nos termos do artigo 14.º do Regulamento do CICAP as partes foram notificadas da data,
+hora e local da audiência arbitral, precedida da tentativa de conciliação prevista no artigo 11.º
+do referido regulamento, assim como para apresentarem, querendo, até 48 horas antes da
+
+data da referida audiência, todos os meios de prova que entendessem por convenientes.
+
+À audiência arbitral realizou-se na sede deste tribunal, no Porto, no dia 25-09-2023, pelas
+16:15. O demandante esteve presente na audiência arbitral e a demandada ausente e sem
+representação, tendo-se frustrado a tentativa de conciliação em virtude, desde logo, da
+
+ausência da demandada.
+
+A demandada não apresentou contestação escrita ou oral.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+>
+
+ 
+
+o
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+Finda a audiência arbitral foi elaborada a respetiva ata e assinada pelo árbitro signatário e
+
+pelo Ex.mo Senhor Jurista do CICAP presente na audiência.
+
+II. — Saneamento e Valor da Causa:
+
+Questão Prévia - Omissão de apresentação de contestação pela demandada:
+Como se deu conta supra a demandada não apresentou contestação escrita ou oral em sede de
+
+audiência arbitral.
+
+Em sede de “saneamento” importará que este tribunal determine qual o efeito processual
+
+decorrente da omissão de apresentação de contestação por parte da referida demandada.
+
+De acordo com o disposto no artigo 35.º/2, da Lei da Arbitragem Voluntária (LAV), aplicada
+supletivamente por força do disposto no artigo 19.º/3, do regulamento do CICAP, “Se o
+demandando não apresentar a sua contestação, em conformidade com o n.º2 do artigo 33.º, o tribunal arbitral
+prossegue o processo arbitral, sem considerar esta omissão, em si mesma, como uma aceitação das alegações do
+
+demandante”.
+
+Da norma acaba de citar resulta, em suma, que a ausência de contestação por parte da
+
+demandada não implica a sua confissão dos factos alegados pelo demandante.
+
+Conclui-se, então, que este tribunal arbitral é competente, foi validamente constituído, as
+
+partes têm personalidade e capacidade judiciárias e são legítimas.
+
+O processo é o próprio tendo em conta a causa de pedir e o pedido e está isento de quaisquer
+nulidades que tenham de ser apreciadas ou questões que obstem ao conhecimento do mérito
+
+da causa.
+
+Compete a este tribunal fixar o valor da causa arbitral no uso dos poderes que lhe são
+conferidos pelo disposto no artigo 14.º do regulamento do CICAP e, subsidiariamente, pela
+remissão operada pelo disposto no artigo 19.º, nos termos da Lei da Arbitragem Voluntária
+
+e do Código do Processo Civil (artigo 306.º/1).
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+[oa
+
+ 
+
+o
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+   
+
+TRIBUNAL ARBITRAL DE CONSUMO
+O demandante pretende que este tribunal condene a demandada no pagamento da quantia
+de €1.081,95 a título de indemnização dos danos que alega lhe terem sido causados por conta
+
+da prestação de serviços prestada pela mesma.
+
+Analisado, assim, os pedidos e a causa de pedir à luz das regras previstas no CPC para a
+verificação do valor da causa fixa-se o seu valor em €1.081,95, recorrendo ao critério previsto
+no artigo 297.º/1, do CPC, em virtude de ser este o valor de indemnização peticionada pelo
+
+reclamante à reclamada.
+Cumpre, por isso, apreciar e decidir:
+
+HI. — Enquadramento de Facto:
+
+Finda a produção de prova e tendo em conta a posição assumida pelo demandante na sua
+reclamação inicial, as declarações de parte prestadas por si, os documentos juntos aos autos,
+os factos admitidos por acordo, confessados e/ou provados por documentos, em
+conjugação, ainda, com as regras da experiência e com os juízos da normalidade da vida,
+resultaram provados, com relevância para a decisão desta causa arbitral, todos os factos
+
+constantes da reclamação inicial.
+
+Não existem outros tos, provados ou não dos, co evânci s
+
+sentença arbitral.
+
+IV. — Motivação:
+Este Tribunal Arbitral formou a sua convicção do modo seguinte:
+a) Quanto aos factos n.ºs 1-8, da reclamação inicial, pelas declarações de parte prestadas
+pelo reclamante em sede de audiência arbitral e pelos 7 (sete), documentos juntos
+
+com a reclamação inicial.
+
+Todos os factos alegados pelo reclamante resultaram provados, desde logo, pelos sete
+
+documentos juntos com a reclamação inicial.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA fo
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( o 2 )
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+Ida
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+O documento n.º junto com a reclamação inicial revela, por si só, a força probatória
+suficiente dos factos que constituem a causa de pedir desta ação arbitral porquanto
+consubstanciam uma confissão extrajudicial, nos termos e para os efeitos previstos no
+Código Civil, dos factos e dos valores indemnizatórios que totalizam o pedido desta ação
+
+arbitral!
+
+Este documento seria suficiente, por si só, para este tribunal arbitral julgar totalmente
+procedente, por provada, esta ação arbitral e, consequentemente, condenar a demandada no
+pedido, pois, à luz do disposto no artigo 358.º/2, 2.º parte, a confissão extrajudicial em
+documento particular, como é caso do e-mail que constitui o Doc.7 junto com a
+reclamação inicial, feita à parte contrária, como também o caso, pois é feita pela reclamada
+ao reclamante, tem força probatória plena contra o confitente, ou seja, contra a
+
+reclamada.
+
+V. — Enquadramento de Direito:
+À questão objeto deste litígio arbitral diz respeito a um contrato de prestação de serviços
+
+relativamente ao qual se colocam duas grandes questões:
+
+1.º Os serviços foram prestados com a qualidade exigida e revelaram-se aptos a satisfazer os
+
+fins que se destinavam;
+
+2º Em caso de resposta afirmativa à primeira questão a demandada está obrigada a
+
+indemnizar o demandante.
+
+Sem necessidade de mais considerações prévias este tribunal anuncia, desde, já, que responde
+negativamente à primeira questão e afirmativamente à segunda, ou seja, ficou provado,
+suficientemente, nos presentes autos, que os serviços não foram prestados com a qualidade
+
+exigida e não revelaram aptos a satisfazer os fins a que destinavam.
+
+À Lei n.º24/96, de 31/07, nos seus artigos 3.º, 4.º e 12.º, consagra que o consumidor tem
+direito à qualidade dos bens e serviços (artigo 3.º/alínea a), que os serviços que lhe são
+
+destinados devem ser aptos a satisfazer os fins a que se destinam e a produzir os efeitos que
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+tem
+
+ 
+
+o
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+se lhes atribuem (artigo 4.º), e, ainda, a ser indemnizado pelos danos patrimoniais e não
+
+patrimoniais resultantes da prestação de serviços defeituosos (artigo 12.º).
+
+Não tendo a demandada prestados os serviços contratados pelo demandante nos termos e
+condições contratados, com qualidade e produzidos os efeitos pretendidos por aquela assiste-
+
+lhe o direito a ser indemnizado pelos danos que alega lhe terem sido causados (artigo 12.º).
+
+Em suma: da aplicação do direito à matéria de facto dada como provada este tribunal arbitral
+conclui, assim, pela procedência da presente ação arbitral e, consequentemente, pela
+
+condenação da demandada no pedido de indemnização.
+
+VI. — Decisão:
+Assim, em face do exposto, julgo totalmente procedente, por provada, a presente ação
+arbitral e, consequentemente, condeno a demandada no pagamento ao demandante da
+
+iais, tudo nos termos
+
+ 
+
+e com os efeitos previstos no artigo 15.º do Regulamento do CICAP.
+
+VII. — Depósito da decisão arbitral:
+
+O valor da causa fixa-se, assim, em €1.081,95 (mil e oitenta e um euros e noventa e cinco
+
+ 
+
+cêntimos), nos termos dos artigos 297.º/1, do CPC, por remissão do artigo 19.º do
+Regulamento do CICAP para a Lei de Arbitragem Voluntária e desta para o Código de
+
+Processo Civil, com os fundamentos acima enunciados.
+
+Notifiquem-se as partes com cópia desta decisão e deposite-se o seu original no CICAP nos
+
+termos do artigo 15.º/2 do referido regulamento.
+
+Braga, 26-09-2023.
+O Árbitro,
+Alexandre Maciel,
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+Ion
+
+ 
+
+o
+
+(e
+(g,
+

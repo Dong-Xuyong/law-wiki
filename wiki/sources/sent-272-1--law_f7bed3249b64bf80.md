@@ -1,0 +1,124 @@
+---
+tags: ["sources", "atraso-e-ou-cancelamento-de-voo", "caccl"]
+id: "law_f7bed3249b64bf80"
+title: "Sent.272 (1)"
+aliases: ["law_f7bed3249b64bf80", "Sent.272 (1).pdf"]
+folder: "CACCL/Jurisprudencia/Diversas"
+filename: "Sent.272 (1).pdf"
+year: "2023"
+website: "CACCL"
+topic: "Atraso e/ou Cancelamento de Voo"
+topic_raw: "Atraso e/ou Cancelamento de Voo"
+topic_kind: "subject"
+sector: "travel-and-transport"
+categories: ["air-passenger-rights", "delay-and-cancellation"]
+tokens: 1418
+tokens_sm: 885
+is_empty: "False"
+content_hash: "169d1c66005bd79c9dd77a3d1f96672c1123e4c31f8295944102bac5f128e612"
+summary_hash: "650ae5477ab677b5c416e9dd0bcc8c20bb91100b992ab241b9bde7a09b3bc6be"
+csv_row: 3623
+raw: "raw/documents/caccl/2023/law_f7bed3249b64bf80.md"
+document_type: "unknown"
+process_number: "unknown"
+case: "unknown"
+forum: "unknown"
+decision_date: "unknown"
+sectors: ["travel-and-transport"]
+doctrines: []
+cited_instruments: []
+outcome_status: "unknown"
+duplicate_of: []
+family: ""
+enrichment_state: "imported-unverified"
+extractor_version: "lawwiki-importer:2"
+jurisdiction: "Portugal"
+jurisdiction_source: "corpus-default"
+authority_level: "unknown"
+citation: "Sent.272 (1).pdf"
+legal_status: "unknown"
+as_of: "2023"
+verification: "unverified"
+enriched: false
+generated_kind: "source"
+generated_fingerprint: "620fc61ff54845d2ff1adf14ec3de6cc27343d744291c859df0cceaad9fc1d51"
+created: "2026-09-11"
+updated: "2026-09-11"
+---
+
+# Sent.272 (1)
+
+## Status
+
+Imported CSV digest. **Unverified** against the full text; research aid, not legal advice. Check [[raw/documents/caccl/2023/law_f7bed3249b64bf80|the raw document]].
+
+## Summary
+
+**Resumo do Processo nº 1393/2023**
+
+**Serviço:** Artigos relacionados com tecnologias de informação e comunicação.  
+**Tipo de problema:** Não fornecido / não prestado.  
+**Direito aplicável:** Artigos 6.º, 7.º, 11.º, 12.º e 15.º, n.º 1, alíneas a), b) e c) do Decreto-Lei n.º 84/2021, de 18 de outubro, e artigos 4.º, n.º 1, 5.º, 5.º-A, 10.º e 11.º do Decreto-Lei n.º 24/2014, de 14 de fevereiro, bem como o artigo 559.º do Código Civil.  
+
+**Pedido do Consumidor:** Devolução do preço em dobro, face à não entrega do bem e à não devolução do valor pago no prazo de 14 dias legalmente estipulado (€64,00).  
+
+**Sentença nº 272/2023**  
+
+**Relatório:**  
+- O reclamante compareceu ao julgamento, confirmando o conteúdo da reclamação.  
+- A reclamada não compareceu nem se fez representar, apesar de devidamente citada.  
+
+**Fundamentação de Facto:**  
+1. Em 23.10.2022, o reclamante adquiriu uma coluna portátil (Smart Speaker Bluetooth) pelo valor de €32,00, através do site da reclamada.  
+2. Em 03.10.2022, o reclamante solicitou informações sobre o prazo de entrega, sendo informado que a entrega ocorreria até 15.11.2022.  
+3. Em 23.11.2022, sem receber o bem, o reclamante foi informado de uma "falha de stock".  
+4. Em 06.12.2022, o reclamante solicitou o cancelamento da encomenda e o reembolso do valor pago.  
+5. Em 15.12.2022, a reclamada confirmou o reembolso no prazo de 14 dias, mas o valor não foi devolvido.  
+6. O reclamante requereu o pagamento em dobro, nos termos do artigo 11.º, n.ºs 9 e 10, do DL 84/2021.  
+
+**Fundamentação Jurídica:**  
+Com base nos artigos 6.º, 7.º, 11.º, 12.º e 15.º, n.º 1, alíneas a), b) e c) do DL 84/2021, e nos artigos 4.º, n.º 1, 5.º, 5.º-A, 10.º e 11.º do DL 24/2014, declara-se resolvido o contrato. Julga-se procedente a reclamação, condenando-se a reclamada a restituir o valor pago pelo bem não entregue.  
+
+**Despacho:**  
+- Julga-se procedente a reclamação.  
+- Condena-se a reclamada a restituir o valor pago (€32,00), acrescido de juros legais, nos termos do artigo 559.º do Código Civil, até ao efetivo pagamento.  
+- Sem custas.  
+
+**Lisboa, 21 de junho de 2023**  
+O Juiz Árbitro,  
+(Dr. José Gil Roque)
+
+## Source metadata
+
+- Organization: [[entities/caccl|CACCL]]
+- Topic (raw exact label): [[concepts/atraso-e-ou-cancelamento-de-voo|Atraso e/ou Cancelamento de Voo]]
+- Sector: travel-and-transport
+- Categories: air-passenger-rights, delay-and-cancellation
+- Folder: `CACCL/Jurisprudencia/Diversas`
+- Filename: `Sent.272 (1).pdf`
+- Year: 2023
+- CSV row: 3623
+
+## Key holdings / issues
+
+Unknown until verified against the raw text.
+
+## Entities mentioned
+
+- None extracted.
+
+## Concepts
+
+- [[concepts/atraso-e-ou-cancelamento-de-voo]] — CSV filing label only
+
+## Pinpoint quotations
+
+- None extracted.
+
+## Related sources
+
+- None established.
+
+## Raw source
+
+- [[raw/documents/caccl/2023/law_f7bed3249b64bf80]] — immutable full text

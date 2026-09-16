@@ -1,0 +1,27 @@
+{
+  "name": "law-wiki-portal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "python ../scripts/build_web_catalog.py",
+    "dev": "npm run data && astro dev",
+    "build": "npm run data && astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.3.0",
+    "astro": "^5.13.0",
+    "cytoscape": "^3.33.1",
+    "markdown-it": "^14.1.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@pagefind/default-ui": "^1.4.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "pagefind": "^1.4.0",
+    "typescript": "^5.9.2"
+  }
+}

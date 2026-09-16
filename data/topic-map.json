@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "description": "Versioned normalization of the exact CSV Topic labels. Raw labels remain authoritative metadata; normalized values are filing aids, not legal conclusions.",
+  "topics": {
+    "garantias/defeitos": {
+      "kind": "subject",
+      "sector": "consumer-goods",
+      "categories": ["guarantees-and-defects"],
+      "aliases": ["garantias", "defeitos", "falta-de-conformidade"]
+    },
+    "Decisoes Arbitrais": {
+      "kind": "document-genre",
+      "sector": null,
+      "categories": ["arbitral-decisions"],
+      "aliases": ["decisoes-arbitrais"]
+    },
+    "Eletricidade e gas natural": {
+      "kind": "subject",
+      "sector": "energy",
+      "categories": ["electricity", "natural-gas"],
+      "aliases": ["eletricidade-e-gas-natural"]
+    },
+    "Viagens Organizadas": {
+      "kind": "subject",
+      "sector": "travel-and-transport",
+      "categories": ["package-travel"],
+      "aliases": ["viagens-organizadas"]
+    },
+    "Energia": {
+      "kind": "subject",
+      "sector": "energy",
+      "categories": [],
+      "aliases": ["energia"]
+    },
+    "Energia Eletrica": {
+      "kind": "subject",
+      "sector": "energy",
+      "categories": ["electricity"],
+      "aliases": ["energia-eletrica"]
+    },
+    "Comunicacoes": {
+      "kind": "subject",
+      "sector": "communications",
+      "categories": [],
+      "aliases": ["comunicacoes"]
+    },
+    "Eletricidades e gas naturais": {
+      "kind": "subject",
+      "sector": "energy",
+      "categories": ["electricity", "natural-gas"],
+      "aliases": ["eletricidades-e-gas-naturais"]
+    },
+    "Atraso e/ou Cancelamento de Voo": {
+      "kind": "subject",
+      "sector": "travel-and-transport",
+      "categories": ["air-passenger-rights", "delay-and-cancellation"],
+      "aliases": ["atraso-cancelamento-voo"]
+    },
+    "Legislacao": {
+      "kind": "document-genre",
+      "sector": null,
+      "categories": ["legislation"],
+      "aliases": ["legislacao"]
+    },
+    "Outros_Transportes": {
+      "kind": "subject",
+      "sector": "travel-and-transport",
+      "categories": ["other-transport"],
+      "aliases": ["outros-transportes"]
+    },
+    "Comunicacoes eletronicas": {
+      "kind": "subject",
+      "sector": "communications",
+      "categories": ["electronic-communications"],
+      "aliases": ["comunicacoes-eletronicas"]
+    },
+    "Agua": {
+      "kind": "subject",
+      "sector": "water-and-environmental-services",
+      "categories": ["water"],
+      "aliases": ["agua"]
+    },
+    "Comunicacoes Eletronicas e Servicos Postais": {
+      "kind": "subject",
+      "sector": "communications",
+      "categories": ["electronic-communications", "postal-services"],
+      "aliases": ["comunicacoes-eletronicas-servicos-postais"]
+    },
+    "Servicoes postais": {
+      "kind": "subject",
+      "sector": "communications",
+      "categories": ["postal-services"],
+      "aliases": ["servicos-postais"]
+    },
+    "Agua Saneamento e lixo": {
+      "kind": "subject",
+      "sector": "water-and-environmental-services",
+      "categories": ["water", "sanitation", "waste"],
+      "aliases": ["agua-saneamento-lixo"]
+    },
+    "Agua Saneamento e residuos": {
+      "kind": "subject",
+      "sector": "water-and-environmental-services",
+      "categories": ["water", "sanitation", "waste"],
+      "aliases": ["agua-saneamento-residuos"]
+    },
+    "Servicos financeiros": {
+      "kind": "subject",
+      "sector": "financial-services",
+      "categories": [],
+      "aliases": ["servicos-financeiros"]
+    },
+    "Outros": {
+      "kind": "uncategorized",
+      "sector": null,
+      "categories": [],
+      "aliases": ["outros"]
+    },
+    "Gas": {
+      "kind": "subject",
+      "sector": "energy",
+      "categories": ["natural-gas"],
+      "aliases": ["gas"]
+    },
+    "Documentos fornecidos": {
+      "kind": "collection",
+      "sector": null,
+      "categories": ["supplied-material"],
+      "aliases": ["documentos-fornecidos"]
+    },
+    "Energia eletrica e gas natural": {
+      "kind": "subject",
+      "sector": "energy",
+      "categories": ["electricity", "natural-gas"],
+      "aliases": ["energia-eletrica-gas-natural"]
+    }
+  }
+}

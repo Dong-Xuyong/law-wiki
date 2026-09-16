@@ -1,0 +1,102 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import MarkdownIt from "markdown-it";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import catalog from "../../generated/catalog.json";
+
+type DocumentRecord = (typeof catalog.documents)[number];
+
+export function getStaticPaths() {
+  return catalog.documents.map((document) => ({
+    params: { id: String(document.id) },
+    props: { document },
+  }));
+}
+
+const { document } = Astro.props as { document: DocumentRecord };
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../../../../");
+const read = (relative: unknown) => {
+  const value = String(relative || "");
+  const target = path.resolve(root, value);
+  if (!value || !target.startsWith(root) || !fs.existsSync(target)) return "";
+  return fs.readFileSync(target, "utf-8");
+};
+const withoutFrontmatter = (text: string) => text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+const section = (text: string, name: string, next: string) => {
+  const body = withoutFrontmatter(text);
+  const start = body.indexOf(`## ${name}`);
+  if (start < 0) return "";
+  const contentStart = start + name.length + 3;
+  const end = body.indexOf(`## ${next}`, contentStart);
+  return body.slice(contentStart, end < 0 ? undefined : end).trim();
+};
+const rawMarkdown = read(document.rel_raw);
+const sourceMarkdown = read(document.rel_source);
+const fullText = section(rawMarkdown, "Full text", "__never__") || withoutFrontmatter(rawMarkdown);
+const summary = section(sourceMarkdown, "Summary", "Source metadata");
+const md = new MarkdownIt({ html: false, linkify: true, typographer: false });
+const summaryHtml = md.render(summary || "Sem resumo disponível.");
+const fullTextHtml = md.render(fullText || "Sem texto extraído.");
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const pdfRelative = document.pdf_path
+  ? String(document.pdf_path).replace(/^raw[\\/]pdfs[\\/]/, "").replaceAll("\\", "/")
+  : "";
+const pdfUrl = pdfRelative ? `${base}/pdfs/${pdfRelative.split("/").map(encodeURIComponent).join("/")}` : "";
+const verification = String(document.verification || "unverified");
+---
+
+<BaseLayout title={String(document.title)} description={`Documento jurídico: ${document.title}`}>
+  <article class="container narrow">
+    <p class="eyebrow">{document.website || "Fonte desconhecida"} · {document.year || "Ano desconhecido"}</p>
+    <h1 data-pagefind-meta="title">{document.title}</h1>
+    <div>
+      <span class:list={["tag", { warning: verification !== "verified" }]}>{verification}</span>
+      <span class="tag">{document.document_type || "unknown"}</span>
+      {document.topic_raw && <span class="tag">{document.topic_raw}</span>}
+    </div>
+
+    <div
+      hidden
+      data-pagefind-filter={`website:${document.website || "unknown"}`}
+      data-pagefind-meta={`website:${document.website || "unknown"}`}
+    ></div>
+    <div hidden data-pagefind-filter={`year:${document.year || "unknown"}`} data-pagefind-meta={`year:${document.year || "unknown"}`}></div>
+    <div hidden data-pagefind-filter={`topic:${document.topic_raw || document.topic || "unknown"}`}></div>
+    <div hidden data-pagefind-meta={`verification:${verification}`}></div>
+
+    <section class="panel" style="margin-top:2rem">
+      <h2 style="margin-top:0">Metadados</h2>
+      <dl class="meta-grid">
+        <div class="meta-item"><dt>Identificador</dt><dd>{document.id}</dd></div>
+        <div class="meta-item"><dt>Ficheiro original</dt><dd>{document.filename}</dd></div>
+        <div class="meta-item"><dt>Pasta</dt><dd>{document.folder}</dd></div>
+        <div class="meta-item"><dt>Fonte</dt><dd>{document.website || "unknown"}</dd></div>
+        <div class="meta-item"><dt>Ano</dt><dd>{document.year || "unknown"}</dd></div>
+        <div class="meta-item"><dt>Tema</dt><dd>{document.topic_raw || document.topic || "unmapped"}</dd></div>
+      </dl>
+      <div class="actions">
+        <a class="button secondary" href={`${base}/map/?document=${document.id}`}>Ver relações</a>
+        {pdfUrl && <a class="button" href={pdfUrl} target="_blank">Abrir PDF</a>}
+      </div>
+    </section>
+
+    <div data-pagefind-body>
+      <section class="document-body">
+        <h2>Resumo importado</h2>
+        <div set:html={summaryHtml}></div>
+      </section>
+      {pdfUrl && (
+        <section>
+          <h2>PDF original</h2>
+          <iframe class="pdf-frame" src={pdfUrl} title={`PDF: ${document.title}`}></iframe>
+        </section>
+      )}
+      <details style="margin-top:2rem" open>
+        <summary><strong>Texto integral extraído</strong></summary>
+        <section class="document-body" set:html={fullTextHtml}></section>
+      </details>
+    </div>
+  </article>
+</BaseLayout>

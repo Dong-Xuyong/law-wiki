@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Franklin:wght@500;600;700&display=swap");
+
+:root {
+  color-scheme: light;
+  --ink: #17201f;
+  --muted: #60706d;
+  --paper: #f5f4ee;
+  --surface: #fffef9;
+  --line: #d9ddd7;
+  --forest: #0b3b36;
+  --forest-soft: #dcebe7;
+  --gold: #b7802b;
+  --danger: #8c3c32;
+  --shadow: 0 18px 50px rgb(16 48 44 / 9%);
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 90% -10%, #dbe9e4 0, transparent 30rem),
+    var(--paper);
+  min-height: 100vh;
+}
+a { color: var(--forest); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: #126d62; }
+.site-header {
+  min-height: 72px;
+  padding: 0 5vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(11 59 54 / 14%);
+  background: rgb(255 254 249 / 88%);
+  backdrop-filter: blur(16px);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+.brand {
+  align-items: center;
+  display: flex;
+  gap: .65rem;
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 1.08rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.brand-mark {
+  align-items: center;
+  background: var(--forest);
+  border-radius: 11px;
+  color: white;
+  display: inline-flex;
+  font-family: Georgia, serif;
+  font-size: 1.3rem;
+  height: 38px;
+  justify-content: center;
+  width: 38px;
+}
+nav { display: flex; gap: 1.4rem; }
+nav a { font-size: .92rem; font-weight: 600; text-decoration: none; }
+.research-notice {
+  background: #ede5d2;
+  color: #5c4826;
+  font-size: .78rem;
+  padding: .48rem 5vw;
+  text-align: center;
+}
+main { min-height: calc(100vh - 170px); }
+.container { margin: 0 auto; max-width: 1240px; padding: 3.5rem 5vw; }
+.narrow { max-width: 880px; }
+h1, h2, h3 {
+  font-family: "Libre Franklin", sans-serif;
+  letter-spacing: -.025em;
+}
+h1 { font-size: clamp(2rem, 5vw, 4.4rem); line-height: 1.02; margin: 0 0 1rem; }
+h2 { margin-top: 2.2rem; }
+.eyebrow {
+  color: var(--gold);
+  font-size: .77rem;
+  font-weight: 700;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+.lede { color: var(--muted); font-size: clamp(1rem, 2vw, 1.25rem); line-height: 1.65; max-width: 760px; }
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  padding: clamp(1.2rem, 3vw, 2.2rem);
+}
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(3, 1fr); }
+.stat strong { color: var(--forest); display: block; font-size: 2rem; }
+.stat span { color: var(--muted); font-size: .85rem; }
+.search-box {
+  background: white;
+  border: 1px solid #cbd5d1;
+  border-radius: 14px;
+  display: flex;
+  gap: .5rem;
+  padding: .45rem;
+}
+.search-box input, input, select {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  color: var(--ink);
+  font: inherit;
+  padding: .75rem .9rem;
+}
+.search-box input { border: 0; flex: 1; min-width: 0; outline: 0; }
+button, .button {
+  background: var(--forest);
+  border: 0;
+  border-radius: 9px;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font: inherit;
+  font-weight: 650;
+  padding: .76rem 1rem;
+  text-decoration: none;
+}
+button.secondary, .button.secondary { background: var(--forest-soft); color: var(--forest); }
+.actions { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.4rem; }
+.tag {
+  background: var(--forest-soft);
+  border-radius: 999px;
+  color: var(--forest);
+  display: inline-flex;
+  font-size: .76rem;
+  font-weight: 650;
+  margin: .15rem;
+  padding: .32rem .62rem;
+}
+.tag.warning { background: #f2e4cc; color: #745018; }
+.meta-grid { display: grid; gap: .7rem 1.4rem; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.meta-item { border-bottom: 1px solid var(--line); padding: .6rem 0; }
+.meta-item dt { color: var(--muted); font-size: .75rem; }
+.meta-item dd { margin: .18rem 0 0; overflow-wrap: anywhere; }
+.document-body { font-family: Georgia, serif; font-size: 1.02rem; line-height: 1.75; }
+.document-body h1 { font-size: 2rem; }
+.document-body h2 { border-top: 1px solid var(--line); font-size: 1.35rem; padding-top: 1.2rem; }
+.document-body pre { overflow: auto; }
+.document-body img { max-width: 100%; }
+.pdf-frame { border: 1px solid var(--line); border-radius: 12px; height: 75vh; width: 100%; }
+.results { display: grid; gap: .8rem; margin-top: 1.5rem; }
+.result {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1rem 1.15rem;
+}
+.result h3 { margin: 0 0 .35rem; }
+.result p { color: var(--muted); margin: .35rem 0; }
+.result mark { background: #f5dca8; }
+.filters { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
+.status { color: var(--muted); font-size: .88rem; }
+.folder-tree details { border-left: 1px solid var(--line); margin-left: .7rem; padding-left: .8rem; }
+.folder-tree summary { cursor: pointer; font-weight: 600; padding: .4rem; }
+.folder-docs { display: grid; gap: .35rem; margin: .3rem 0 1rem 1.5rem; }
+.folder-docs a { font-size: .88rem; }
+.map-shell { height: 72vh; min-height: 540px; position: relative; }
+#cy { height: 100%; width: 100%; }
+.map-controls {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin-bottom: .8rem;
+}
+.map-controls input { flex: 1; min-width: 220px; }
+.map-note { color: var(--muted); font-size: .82rem; }
+footer {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  display: flex;
+  font-size: .78rem;
+  justify-content: space-between;
+  padding: 1.5rem 5vw;
+}
+@media (max-width: 760px) {
+  .site-header { align-items: flex-start; flex-direction: column; gap: .65rem; padding-block: .8rem; }
+  nav { gap: .8rem; overflow-x: auto; width: 100%; }
+  .grid, .meta-grid { grid-template-columns: 1fr; }
+  .container { padding-top: 2.2rem; }
+  footer { flex-direction: column; gap: .45rem; }
+}

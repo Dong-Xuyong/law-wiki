@@ -1,0 +1,533 @@
+---
+id: "law_833c0ba0db5e45e2"
+folder: "CICAP/Decisoes Arbitrais"
+filename: "839_2021-13-03-2022.pdf"
+year: "2021"
+website: "CICAP"
+topic: "Decisoes Arbitrais"
+tokens: 6208
+tokens_sm: 1260
+is_empty: "True"
+content_hash: "762193f7026542f10272905091dfa54d846e5a9a3f24e07d11ae06a03c3d8f69"
+csv_row: 2946
+imported: "2026-09-11"
+---
+
+# 839_2021-13-03-2022
+
+## Full text
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+-Sentença Arbitral-
+
+Processo de Arbitragem n.º 839 2021.
+Demandante:
+
+Demandada:
+
+Resumo da Sentença Arbitral (elaborado pelo árbitro): 1.º O utente/consumidor tem
+direito à informação para o consumo (artigo 3.º/alínea d), da Lei n.º24/96, de 31/07); 2.º
+O consumidor tem direito à informação em particular (artigo 8.º/1, da Lei n.º24/96, de
+31/07); 3.º O prestador de serviço público essencial tem o dever de informar o consumidor
+de forma clara, objetiva, adequada e conveniente, nas fases de negociação e de celebração do
+contrato, acerca, nomeadamente, as características principais dos bens tendo em conta o
+suporte utilizado para o efeito e considerando os bens em causa (artigo 8.º/1/alínea a), da
+Lei n.º24/96, de 31/07 e artigo 4.º, da Lei n.º23/96, de 26/07); 4.º À discordância e/ou
+descontentamento do consumidor relativamente às características e/ou funcionamento dos
+serviços adquiridos não consubstancia uma violação dos Princípios Geral da Boa-fé (artigo
+3.º, da Lei n.º23/96, de 26/07), e dos Padrões de Qualidade (artigo 7.º, da Lei n.º23/96, de
+26/07); 5.º O pagamento do preço da energia consumida aliada ao facto de não se verificaram
+os pressupostos legais para invocação da prescrição do direito da demandada ao recebimento
+do preço pago através de débito direto em conta bancária, autorizado previamente pelo
+demandante, revela-se suficiente para concluir pela improcedência do pedido; 6.º
+Demonstrando-se que a demandada cumpriu os seus deveres legais de prestadora de serviço
+
+público essencial não assiste ao demandante o direito à devolução das quantias peticionadas.
+
+I. - Relatório:
+A. - Das Partes e do Objeto da Ação Arbitral:
+O demandante residente na
+apresentou uma reclamação no CICAP, à qual foi
+atribuída o número 839 2021, contra a demandada (doravante designada
+
+apenas por à
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+(a
+
+(e
+
+9
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+Tendo-se frustrado a possibilidade de celebração de um acordo entre as partes o processo
+
+prosseguiu, então, para a sua fase arbitral, por vontade expressa do demandante.
+
+Por se tratar de arbitragem necessária, nos termos e para os efeitos do disposto no artigo
+15.º/1/2, da Lein.º23/96, de 26/07, na sua redação atualizada, compete a este tribunal julgar
+
+e decidir este litígio.
+
+A instância arbitral estabilizou-se, por isso, com as partes acima identificadas, não se tendo
+
+verificado qualquer modificação subjetiva decorrente da intervenção de novas partes.
+
+De igual modo os pedidos e causa de pedir constantes da reclamação inicial do demandante
+não foram objeto de alteração, que se dão aqui por integralmente reproduzidos para todos
+os efeitos, e consistem, em suma, na condenação da demandada na devolução das quantias
+pagas por conta de um direi prescrito, por um lado, e por conta de um serviço (“Funciona”),
+
+que alega não ter contratado, por outro.
+
+Por sua vez, a demandada apresentou contestação escrita na qual se defendeu por
+impugnação e exceção, alegando, em suma, que cumpriu, integralmente, os seus deveres de
+prestadora de serviço público essencial e que por isso esta ação arbitral deverá ser julgada
+
+totalmente improcedente, por não provada, e a mesma ser absolvida dos pedidos.
+
+B. — A Mediação e a Constituição do Tribunal Arbitral:
+Nos termos do regulamento do CICAP a fase da arbitragem é precedida da fase da mediação
+que tem como objetivo a obtenção de um acordo entre as partes litigantes com vista à
+
+resolução do litígio que as opõe.
+
+Na fase da “Mediação” as Ex.mas Senhoras Juristas adstritas ao CICAP promoveram todos
+os procedimentos previstos no seu regulamento e procuraram, precisamente, a resolução,
+
+por acordo, do litígio que opõe as partes neste processo arbitral.
+
+Fruto dessa “Mediação” foi possível reunir, desde logo, os factos e os documentos que os
+suportam, e concluir que foram cumpridos todos os requisitos e procedimentos relativos à
+fase da “Mediação” previstos no regulamento do CICAP e da Lei da “Resolução Alternativa
+de Litígios”.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+Na fase de “Mediação” não foi possível conciliar as partes e obter um acordo para a resolução
+amigável do litígio, razão pela qual o processo seguiu para a fase “Arbitral”, em virtude de o
+demandante ter manifestado a sua pretensão de ver o litígio decidido pelo Tribunal Arbitral
+do CICAP e aquele estar sujeito à arbitragem necessário nos termos e para os efeitos do
+
+disposto no artigo 15.º/1/2, da Lei n.º23/96, de 26/07, na sua redação atualizada.
+
+Nos termos do artigo 13.º do regulamento do CICAP o tribunal arbitral é constituído por
+
+um único Arbitro.
+
+O árbitro signatário da presente sentença arbitral foi designado para o efeito pelo CICAP e
+
+aceitou a nomeação na data mencionada nos autos deste processo.
+
+C. — Audiência Arbitral (artigo 14.º do Regulamento do CICAP):
+Nos termos do artigo 14.º do Regulamento do CICAP as partes foram notificadas da data,
+hora e local da audiência arbitral, precedida da tentativa de conciliação prevista no artigo 11.º
+
+do referido regulamento.
+
+Nos termos do artigo 14.º, acima citado, a demandado poderia apresentar a sua contestação
+escrita até 48 horas antes da hora marcada para a audiência ou oralmente na própria audiência
+
+e, ainda, produzir toda a prova que considerem relevante.
+
+À audiência arbitral realizou-se na sede do Tribuna Arbitral, no Porto, no dia 21-10-2021,
+pelas 10:45.
+
+O demandante estava presente e a demandada representada pela Sr.* Dr.
+» Advogada, não tendo as partes logrado a composição amigável deste litígio em sede
+
+de conciliação.
+
+Finda a audiência arbitral foi elaborada a respetiva ata e assinada pelo árbitro signatário e pela
+
+Ex.ma Senhora Jurista do CICAP presente na audiência.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+II. — Saneamento e Valor da Causa:
+Este tribunal arbitral é competente, foi validamente constituído, as partes têm personalidade
+
+e capacidade judiciárias e são legítimas.
+
+O processo é o próprio tendo em conta a causa de pedir e o pedido e está isento de quaisquer
+nulidades que tenham de ser apreciadas ou questões que obstem ao conhecimento do mérito
+
+da causa.
+
+Nenhuma das partes atribuiu valor à causa nas fases de “Mediação” ou “Arbitral”.
+
+Compete a este tribunal fazê-lo no uso dos poderes que lhe são conferidos pelo disposto no
+artigo 14.º do regulamento do CICAP e, subsidiariamente, pela remissão operada pelo
+disposto no artigo 19.º, nos termos da Lei da Arbitragem Voluntária e do Código do
+
+Processo Civil (artigo 306.º/1).
+
+O demandante pretende a condenação da demandada na devolução das quantias pagas por
+conta de um direi prescrito, por um lado, e por conta de um serviço (“Funciona”), que alega
+
+não ter contratado, por outro.
+
+Analisando o pedido e a causa de pedir à luz das regras previstas no CPC para a vetificação
+do valor da causa fixa-se o valor da causa em €241,34, recorrendo ao critério previsto no
+
+artigo 296.º/1, do CPC, em virtude de ser o valor do bem objeto deste litígio arbitral.
+
+O valor da causa fixa-se, assim, em €241,34 (duzentos e quarenta e um euros e trinta e quatro
+cêntimos), nos termos do artigo 296.º/1, do CPC, por remissão do artigo 19.º do
+Regulamento do CICAP para a Lei de Arbitragem Voluntária e desta para o Código de
+
+Processo Civil, com os fundamentos acima enunciados.
+
+Cumpre, por isso, apreciar e decidir:
+
+HI. — Enquadramento de Facto:
+Finda a produção de prova e tendo em conta a posição assumida pelas partes nos seus
+
+articulados, as declarações de partes prestadas pelo reclamante, que se limitou a confirmar o
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+(a
+
+(e
+
+9
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+   
+
+TRIBUNAL ARBITRAL DE CONSUMO
+teor da reclamação inicial, o depoimento da testemunha
+
+nora do demandante, que depôs com seriedade, autenticidade, espontaneidade e, por isso,
+com credibilidade, mas que revelou um conhecimento indireto dos factos, os documentos
+juntos aos autos pelas partes, os factos confessados e/ou admitidos por acordo, em
+conjugação, ainda, com as regras da experiência e com os juízos da normalidade da vida,
+
+resultaram provados, com relevância para a decisão desta causa arbitral, os factos
+
+seguintes:
+1. Entre reclamante e reclamada foi celebrado contrato de fornecimento de energia
+
+elétrica em 25 de fevereiro de 2014 com destino à instalação identificada pelo Código
+
+de Ponto de Entrega e situada na
+
+2. Optando, então pela faturação com periodicidade bimestral, emitida em suporte papel
+e remetida com destino ao endereço oportunamente indicado para receção da
+correspondência, e pagamento por débito direto em conta sedeada no então Banco
+
+Popular;
+
+3. Contrato este que cessa em 31 de março de 2017, ao que se crê por exercício do direito
+
+à mudança de comercializador;
+
+4. No dia 16 de maio de 2017, o reclamante apresenta-se na Loja EDP da Loja do
+Cidadão do Porto com vista a celebrar novo contrato de fornecimento de energia
+
+elétrica para a citada instalação;
+
+5. Indicando, então, o email com vista ao envio das faturas
+por correio eletrónico o que conjuntamente com a manutenção da opção pelo
+pagamento por debito direto garantiria um desconto sobre os termos variáveis e fixos
+
+de energia elétrica de 1%;
+
+6. Em março de 2017 pelas 20:39 o reclamante, ou alguém por ele — a esta distância é
+
+impossível sabê-lo, pediu
+
+º
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+   
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+7. Pelo que a cópia da fatura foi remetida por correio eletrónico, para o endereço
+
+indicado;
+
+8. Apesar desta opção, tanto o pagamento da fatura de setembro de 2018 como da fatura
+de janeiro de 2020 foram recusados pela instituição bancária indicada pelo reclamante
+
+que alegou, para tal a “insuficiência de saldo”;
+
+9. Sucede que a última recusa de pagamento por débito direto só foi comunicada à
+reclamada em janeiro de 2021 pelo que o cumprimento da obrigação de pagar só se
+concretizou, de facto, em janeiro de 2021 quase em simultâneo com o pagamento da
+
+fatura correspondente a esse mês;
+
+10. No período de 20177 a 2021 o reclamante não comunicou à reclamada a não receção
+
+das faturas;
+
+11. Nesse período as faturas foram pagas pelo reclamante;
+
+12. O serviço adicional “Funciona”, foi contratado em 2018 o que garantiu a ampliação
+do desconto proporcionado e foi cancelado o nas condições definidas nas respetiva
+
+Condições Gerais e Particulares.
+
+Não existem outros factos, provados ou não provados, com relevância para esta
+sentença arbitral.
+Este Tribunal Arbitral formou a sua convicção do modo seguinte:
+
+a) Quanto aos factos n.ºs 1/2/3 por acordo das partes;
+
+b) Quanto aos factos n.ºs 4 a 12 pelos Docs.1 a 8 juntos com a contestação escrita
+
+da reclamada.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+Para o apuramento da matéria de facto revelaram-se essenciais e determinantes os
+documentos juntos aos autos pelas partes pois a partir dos mesmos este tribunal arbitral
+conseguiu concluir, desde logo, pela confirmação da tese apresentada pela reclamada e pela
+
+inconsistência factual da causa de pedir apresentada pelo demandante.
+
+Através dos mesmos foi possível a este tribunal arbitral apurar, desde logo, a existência do
+contrato, a data em que foi celebrado, a natureza dos serviços adquiridos, o respetivo preço
+e a confirmação, por escrito, pelo reclamante, mediante a assinatura presencial e pelo seu
+punho do contrato junto com o Doc.1 com a contestação, a contratação, posteriormente, do
+serviço “Funciona”, a solicitação do envio das faturas através de correio eletrónico, os
+descontos comerciais associados ao serviço “Funciona” e ao envio de faturas através de
+correio eletrónico e, sobretudo, o pagamento de todas as faturas emitidas no período de maio
+
+de 20177 até à apresentação da reclamação junto deste tribunal arbitral, em 2021.
+
+As declarações de parte do reclamante e o depoimento testemunhal da sua nora não se
+revelaram suficientemente fortes para provar a tese apresentada por aquele, por um lado, e
+para destruir a tese enunciada pela reclamada, por outro, na medida em que se limitaram a
+alegar que o demandante é uma pessoa idosa, com muitos problemas de saúde e que foi
+
+enganado pelos colaboradores da demandada.
+
+IV. — Enquadramento de Direito:
+O utente /consumidor tem direito à informação para o consumo (artigo 3.º /alínea d), da
+
+Lei n.º24/96, de 31/07).
+
+O consumidor tem direito, ainda, à informação em particular (artigo 8.º/1, da Lei n.º24/96,
+
+de 31/07).
+
+O prestador de serviço público essencial tem o dever de informar o consumidor de forma
+clara, objetiva, adequada e conveniente, nas fases de negociação e de celebração do contrato,
+acerca, nomeadamente, as características principais dos bens tendo em conta o suporte
+utilizado para o efeito e considerando os bens em causa (artigo 8.º/1/alínea a), da Lei
+
+n.º24/96, de 31/07 e artigo 4.º, da Lei n.º23/96, de 26/07).
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+À discordância e/ou descontentamento do consumidor relativamente às características e/ou
+funcionamento dos serviços adquiridos não consubstancia uma violação dos Princípios Geral
+da Boa-fé (artigo 3.º, da Lei n.º23/96, de 26/07), e dos Padrões de Qualidade (artigo 7.º, da
+Lei n.º23/96, de 26/07).
+
+O pagamento do preço da energia consumida aliada ao facto de não se verificaram os
+pressupostos legais para invocação da prescrição do direito da demandada ao recebimento
+do preço pago através de débito direto em conta bancária, autorizado previamente pelo
+
+demandante, revela-se suficiente para concluir pela improcedência do pedido
+
+Demonstrando-se que a demandada cumpriu os seus deveres legais de prestadora de serviço
+
+público essencial não assiste ao demandante o direito à devolução das quantias peticionadas.
+
+Em suma: este tribunal arbitral considera que não assiste razão à demandante no pedido
+formulado na sua reclamação inicial e reiterados nas fases da “Mediação” e “Arbitral”,
+
+concluindo, assim, pela improcedência da ação e absolvição da demandada dos pedidos.
+
+V. — Decisão:
+Assim, em face do exposto, julgo totalmente improcedente, por não provada, a presente
+
+ação arbitral e, consequentemente, absolvo a demandada dos pedidos formulados pelo
+demandante, tudo nos termos e com os efeitos previstos no artigo 15.º do Regulamento
+do CICAP.
+
+VI. — Encargos processuais e Depósito da decisão arbitral:
+
+O valor da causa fixa-se, assim, em €241,34 (duzentos e quarenta e um euros e trinta e quatro
+cêntimos), nos termos do artigo 296.º/1, do CPC, por remissão do artigo 19.º do
+Regulamento do CICAP para a Lei de Arbitragem Voluntária e desta para o Código de
+
+Processo Civil, com os fundamentos acima enunciados.
+
+Notifiquem-se as partes com cópia desta decisão e deposite-se o seu original no CICAP nos
+
+termos do artigo 15.º/2 do referido regulamento.
+
+Braga, 13-03-2022.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+   
+
+O Árbitro,
+Alexandre Maciel,
+
+(a
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+(e
+(g,
+

@@ -1,0 +1,158 @@
+---
+id: "law_afcdb0453ca4443d"
+folder: "CICAP/Decisoes Arbitrais"
+filename: "Sentenca-20.07.2022 (1).pdf"
+year: "2022"
+website: "CICAP"
+topic: "Decisoes Arbitrais"
+tokens: 2541
+tokens_sm: 1160
+is_empty: "False"
+content_hash: "e5cedcd5a8792b4d9f7eafd46538bd6272e56485f1f69036631d5512543d6c18"
+csv_row: 2710
+imported: "2026-09-11"
+---
+
+# Sentenca-20.07.2022 (1)
+
+## Full text
+
+TRIBUNAL ARBITRAL DE CONSUMO
+SENTENÇA
+Proc nº. 16/2022
+TAC
+MAIA
+REQUERENTE: Cláudia Sofia Ferreira Costa, devidamente identificada nos
+autos.
+REQUERIDA: Rádio Popular, SA, devidamente identificada nos autos
+Vem a requerente alegar sumariamente que:
+Em 29/4/2022, adquiriu no estabelecimento comercial da requerida, em
+Ermesinde, para equipar a sua habitação, uma placa e um forno de cozinha,
+pelo preço de 319,00 € (Doc 1)
+Em 3/5/2022, a requerida procedeu à entrega dos referidos bens, através de
+uma empresa de transportes contratada por esta. No momento da entrega
+dos equipamentos, os dois funcionários da empresa de transportes, uma vez
+que estavam com pressa, depositaram a embalagem na escadaria da
+habitação da requerente.
+Solicitaram que esta procedesse à assinatura de uma guia de entrega (doc 2)
+O que foi feito.
+Após a abertura da embalagem, a requerente apercebeu-se que a placa
+estava partida, o forno amassado na parte traseira e o puxador da porta
+frontal também amassado. (docs 3 e 4)
+CÂMARA MUNICIPAL DA MAIA
+PR. DO DOUTOR JOSÉ VIEIRA DE CARVALHO 4470-202 MAIA
+TEL. 229 408 633 · FAX 229 408 634 · tac@cm-maia.pt · www.cm-maia.pt 1/1
+Protocolo com o Centro de Informação e Arbitragem do PortoTRIBUNAL ARBITRAL DE CONSUMO
+De tal, foi de imediato dado conhecimento à requerida que declinou
+qualquer responsabilidade.
+Por isso,
+Vem a requerente solicitar à requerida a resolução do contrato de compra e
+venda celebrado, bem como a condenação desta (requerida) no
+pagamento à requerente da quantia de 319,99 €.
+Ora,
+Devidamente citada, a requerida na contestação, impugna os factos
+alegados na reclamação, pois que:
+Aceita a venda dos equipamentos, nas condições já descritas, e refere que
+os mesmos foram embalados de origem, sem quaisquer anomalias ou
+desconformidades.
+Bens que foram entregues em casa da reclamante, no dia e hora agendados.
+Como se verifica pela guia de entrega, os bens não foram desembalados, a
+pedido da requerente, ora, segundo os termos e condições das entregas ao
+domicílio, os equipamentos deveriam ter sido desembalados, o que não
+aconteceu.
+Foi a reclamante (quem os recebeu) que solicitou que os bens não fossem
+desembalados, conforme doc 1 - assinado pelo companheiro da reclamante.
+CÂMARA MUNICIPAL DA MAIA
+PR. DO DOUTOR JOSÉ VIEIRA DE CARVALHO 4470-202 MAIA
+TEL. 229 408 633 · FAX 229 408 634 · tac@cm-maia.pt · www.cm-maia.pt 2/
+2
+Protocolo com o Centro de Informação e Arbitragem do PortoTRIBUNAL ARBITRAL DE CONSUMO
+A desconformidade existente revela tratar-se de danos provocados após os
+bens terem sido desembalados, até porque se assim não fosse, tais danos
+implicariam que a caixa exterior estivesse igualmente danificada.
+A pressa na entrega dos bens nunca implicou a recusa de desembalar os
+bens.
+Nos termos do art. 11, nº. 12 do DL 84/2021, de 18 /10, o risco de perda ou de
+dano nos bens transfere-se para o consumidor quando este adquire a posse
+física destes.
+Foi ouvida a testemunha indicada pela requerente, José Pedro Pereira
+Ferreira, companheiro da requerente e com esta residente, que referiu que na
+altura da entrega tinha havido um acidente de viação e que quando chegou
+à porta da entrada já estavam a subir as escadas com os equipamentos.
+Pediu para deixar à entrada pois seriam para colocar na cozinha e não havia
+necessidade de os levar para dentro.
+Os equipamentos estavam numa só embalagem e o exterior desta estava
+normal.
+O forno foi aproveitado, mudaram a pega deste que estava amolgada e
+necessitaram de comprar outra placa, porque a anterior estava
+inoperacional.
+Foi ouvida a testemunha indicada pela requerida Joaquim Valdemar Gomes
+dos Santos, que é sócio da transportadora em causa e que transportou os
+bens.
+CÂMARA MUNICIPAL DA MAIA
+PR. DO DOUTOR JOSÉ VIEIRA DE CARVALHO 4470-202 MAIA
+TEL. 229 408 633 · FAX 229 408 634 · tac@cm-maia.pt · www.cm-maia.pt 3/
+3
+Protocolo com o Centro de Informação e Arbitragem do PortoTRIBUNAL ARBITRAL DE CONSUMO
+Refere que o equipamento estava embalado numa só caixa e que no interior
+existe para protecção, uma caixa de esferovite. A embalagem não
+apresentava qualquer amolgadela por fora.
+Por dentro o assador também está com danos.
+No dia da entrega havia um acidente de viação, no local desta, e após
+estacionarem entregaram o equipamento no 1º. Andar com a ajuda do
+carrinho de mão.
+O marido da requerente (que os recebeu) disse que ainda estava em obras
+no interior da casa e que podiam deixar ficar no cimo das escadas em frente
+à porta de entrada.
+Assinou a guia de remessa e, porque os bens ficaram embalados, a pessoa
+que os recebeu assinou do lado esquerdo desta.
+Assim,
+A prova da entrega dos bens foi efetuada, bem como que estes foram
+colocados à porta da habitação da requerente a pedido do marido desta,
+que ercebeu os bens, e ainda que a embalagem exterior estava intacta, sem
+nenhum sinal de amolgadela ou de pancada.
+Que os bens não foram desembalados a pedido de quem os recebeu, e que
+como tal assinou a guia de entrega junta aos autos.
+Que o forno foi aproveitado e está em uso.
+A legislação aplicável nesta situação, o DL nº. 84/2021de 18 de Outubro, que
+entrou em vigor no dia 1 de Janeiro de 2022, aplicando-se aos contratos
+CÂMARA MUNICIPAL DA MAIA
+PR. DO DOUTOR JOSÉ VIEIRA DE CARVALHO 4470-202 MAIA
+TEL. 229 408 633 · FAX 229 408 634 · tac@cm-maia.pt · www.cm-maia.pt 4/
+4
+Protocolo com o Centro de Informação e Arbitragem do PortoTRIBUNAL ARBITRAL DE CONSUMO
+celebrados após esta data, (cfr art 53 e 55 do referido diploma), refere no nº.
+12 do art. 11, sob a epígrafe “entrega do bem ao consumidor” que - 1 - o bem
+considera-se entregue ao consumidor quando este ou um terceiro por ele
+indicado, que não o transportador, adquire a posse física do bem. E – 12 - nos
+contratos em que o profissional envie os bens para o consumidor, o risco de
+perda ou dano dos bens transfere-se para o consumidor, quando este ou um
+terceiro por ele indicado, que não o transportador, adquira a posse física dos
+bens.
+Também segundo os termos e condições de entrega ao domicílio que a
+requerida conhece, porque constam do documento junto aos autos, os
+equipamentos deveriam ter sido desembalados, para verificação dos
+mesmos, o que não aconteceu, a pedido de quem os recebeu e aí
+representou a reclamante.
+É, pois esta a legislação aplicável e que rege a presente situação.
+Foi cumprida a legislação do consumo, inexiste qualquer responsabilidade
+contratual ou extracontratual que possa ser assacada à requerida.
+Nestes termos,
+Julgo a presente reclamação totalmente improcedente, por não ter sido
+provada e, em consequência, absolve-se a requerida dos pedidos efetuados
+pela requerente.
+CÂMARA MUNICIPAL DA MAIA
+PR. DO DOUTOR JOSÉ VIEIRA DE CARVALHO 4470-202 MAIA
+TEL. 229 408 633 · FAX 229 408 634 · tac@cm-maia.pt · www.cm-maia.pt 5/
+5
+Protocolo com o Centro de Informação e Arbitragem do PortoTRIBUNAL ARBITRAL DE CONSUMO
+Sem custas por não serem devidas
+Registe e notifique
+Maia, 20/7/2022
+Rui Moreira Chaves
+Juíz árbitro
+CÂMARA MUNICIPAL DA MAIA
+PR. DO DOUTOR JOSÉ VIEIRA DE CARVALHO 4470-202 MAIA
+TEL. 229 408 633 · FAX 229 408 634 · tac@cm-maia.pt · www.cm-maia.pt 6/
+6
+Protocolo com o Centro de Informação e Arbitragem do Porto

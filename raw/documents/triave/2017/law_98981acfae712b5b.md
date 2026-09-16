@@ -1,0 +1,33 @@
+---
+id: "law_98981acfae712b5b"
+folder: "Triave/Jurisprudencia/Eletricidade e gas natural"
+filename: "2017 - Processo 608 - eng.pdf"
+year: "2017"
+website: "Triave"
+topic: "Eletricidade e gas natural"
+tokens: 279
+tokens_sm: 463
+is_empty: "False"
+content_hash: "38a124d36f576abe0058cff4950724cb9e9fac6db45a59ea79925b1504124a6d"
+csv_row: 931
+imported: "2026-09-11"
+---
+
+# 2017 - Processo 608 - eng
+
+## Full text
+
+Processo nº 608/2017
+Juiz-Árbitro: Conselheiro Fernandes Magalhães
+RESUMO DA DECISÃO ARBITRAL
+1. O prestador de serviço tem o dever de faturar o real consumo efetuado com
+todo o rigor.
+2. O mesmo sucedendo com a correção da faturação que tenha de realizar.
+3. Fazendo coincidir o consumo faturado com o consumo real.
+4. Impõe tudo isso a Lei nº 23/96 de 26/07 que faz referência e apelo à boa-fé, à
+importância dos interesses dos utentes, aos elevados padrões de qualidade que
+devem existir e à rigorosa e especificada faturação (art.os 3º, 7º e 9º).
+Por tudo o exposto, e sem necessidade de mais amplas considerações, se decide julgar
+procedente o pedido da reclamante condenando-se a reclamada a retificar em toda
+essa conformidade a nota de crédito N.
+1

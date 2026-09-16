@@ -1,0 +1,323 @@
+---
+id: "law_d68ab35bfce28739"
+folder: "CNIACC/Jurisprudencia/Energia Eletrica"
+filename: "processo-1516-201815.pdf"
+year: "2018"
+website: "CNIACC"
+topic: "Energia Eletrica"
+tokens: 7640
+tokens_sm: 1001
+is_empty: "False"
+content_hash: "cb67e065947aeb6788b5e069ed9ec25fc238bbb4c1cef004da2ed6a8b47cd24e"
+csv_row: 2081
+imported: "2026-09-11"
+---
+
+# processo-1516-201815
+
+## Full text
+
+Processo de arbitragem n.º 1516/2018
+Reclamante: A
+Reclamada: B
+RESUMO:
+O Reclamante alega que após a interrupção e consequente reposição de energia elétrica
+verificada no dia 09-05-2018 na sua residência, o televisor que se encontrava ligado no
+quarto começou a deitar fumo e deixou de funcionar. De acordo com o relatório
+apresentado pelo Reclamante, a avaria do televisor residia na fonte de alimentação que
+se encontrava queimada devido a risco elétrico.
+A Reclamada admitiu que no dia 09-05-2018 se registou a interrupção e subsequente
+reposição de energia elétrica na residência do Reclamante e que tal incidente teve
+origem em disparos na rede aérea de Media Tensão da Reclamada que abastece o local,
+provocados por um arco partido do selecionador 0160 ACB a jusante do PTD ACB
+0358. Indica ainda que se trata de uma sobretensão de manobra, correspondente a uma
+situação normal e inevitável na exploração das redes.
+Ao Reclamante competia alegar e provar a existência de danos (avaria do televisor) e
+que o facto (reposição da energia elétrica com sobretensão de manobra) é, em concreto,
+condição sine qua non desse dano. Competiria, depois, à Reclamada provar que tal
+incidente, que caracterizou como “disparos na rede aérea de Media Tensão que
+abastece o local”, é indiferente a causar a avaria do televisor, por terem concorrido
+circunstâncias excecionais, totalmente alheias à Reclamada, suscetíveis de interromper
+o nexo de causalidade entre o incidente e o dano.
+Conforme alegou a Reclamada, em causa neste incidente esteve uma situação “normal
+e inevitável na exploração das redes”, pelo que não terá existido qualquer
+circunstância excecional, como um evento climatérico extremo ou invulgar, suscetível
+de provocar os danos invocados pelo Reclamante.
+Assim, considera-se estabelecido e provado o nexo de causalidade entre a sobretensão
+transitória decorrente da reposição de energia elétrica pela Reclamada e a danificação
+do televisor do Reclamante, tendo este direito a ser indemnizado pelos danos sofridos,
+em concreto do valor da reparação do televisor no montante de 98,00€ mais IVA, no
+total de 120,54€.
+1I – RELATÓRIO
+1. O Reclamante, na sua reclamação apresentada em formulário eletrónico ao Centro
+Nacional de Informação e Arbitragem de Conflitos de Consumo (adiante
+abreviadamente designado CNIACC), no dia 18 de julho de 2018 (fls. 1 e 5) alega,
+em resumo, os seguintes factos essenciais:
+a) No dia 9 de maio de 2018, encontrando-se sozinho em casa e estando vários
+aparelhos elétricos ligados, designadamente os televisores do quarto e da sala,
+bem como os habituais eletrodomésticos de cozinha, verificou ter ocorrido uma
+interrupção do fornecimento de energia elétrica;
+b) Aquando do subsequente retorno da eletricidade, reparou que a energia elétrica
+“parecia fraca” pois vários eletrodomésticos continuavam a ligar e desligar e o
+forno na cozinha emitia sons “estranhos”;
+c) Regressando ao quarto onde se encontrava um televisor ligado verificou que
+este emitia fumo, pelo que desligou imediatamente o disjuntor do quadro
+elétrico da sua habitação para evitar que outros eletrodomésticos se
+danificassem;
+d) O dito televisor (de marca Schentech – modelo SCH22LED) deixou de funcionar
+na sequência destes acontecimentos, tendo sido indicado no relatório da
+empresa Electro-Memória que a avaria residia na fonte de alimentação que se
+encontrava queimada em virtude de risco elétrico (documento junto a fls. 6);
+e) Fez participação do sinistro à seguradora no âmbito de um contrato de seguro
+multirriscos que tem contratualizado para eventuais danos ocasionados na sua
+habitação e esta recusou pagar qualquer compensação pela avaria no aparelho
+de televisão uma vez que a responsabilidade por tais danos seria da B, aqui
+Reclamada (fls. 10);
+f) Efetuou uma reclamação, de forma eletrónica, junto da Reclamada que lhe
+confirmou que a sua residência (local de consumo n.º 0000000) foi afetada no dia
+9 de maio de 2018 por uma interrupção do fornecimento de energia elétrica em
+consequência de um incidente ocorrido na rede de média tensão também da
+Reclamada (fls. 8);
+g) A Reclamada indicou ainda que tal situação é normal e inevitável na exploração
+de redes elétricas e os equipamentos elétricos de uso doméstico são construídos
+para resistirem a essas ocorrências (fls. 8);
+h) O custo da reparação cifrava-se em 98,00€ mais IVA;
+Pelo que pretende ser ressarcido pelos danos sofridos com a avaria do aparelho de
+televisão após a interrupção e sucessiva reposição de eletricidade, considerando que
+a Reclamada demonstrou um cumprimento defeituoso da sua obrigação de fornecer
+energia elétrica de forma ininterrupta.
+22. A Reclamada, regularmente notificada, contestou (fls. 15-20) os factos descritos
+pelo Reclamante, tendo alegado, em resumo, que:
+a) Não existe, na data dos acontecimentos em questão, qualquer comunicação por
+parte do Reclamante para a linha de assistência técnica da Reclamada por conta
+dos factos em apreciação;
+b) Para o local de consumo n.º 00000000 e na data de 09-05-2018 foram registados
+vários incidentes em virtude de várias interrupções que afetaram, entre outros,
+o Reclamante, tendo tais incidentes tido origem na rede aérea de Media Tensão;
+c) O Reclamante submeteu várias Reclamações junto dos serviços da Reclamada e
+apresentou em 23-05-2018 a declaração emitida pela Electro-Memória sobre a
+avaria no televisor e a fatura emitida pela MediaMarket relativa à aquisição de
+uma TV;
+d) A Reclamada comunicou ao Reclamante declinar qualquer responsabilidade na
+avaria do televisor uma vez que esteve em causa uma situação normal e
+inevitável na exploração das redes, sendo que na reposição da energia elétrica
+verifica-se sempre uma sobretensão transitória, designada de sobretensão de
+manobra, que está prevista nas normas europeias que regulam o sector elétrico;
+e) Os equipamentos elétricos modernos, como é o caso da televisão danificada já
+é concebido para aguentar sobretensões transitórias sem que lhes seja causado
+qualquer dano, ainda que o uso e vetustez do equipamento possa alterar essas
+características;
+f) O incidente com origem na rede de média tensão foi insuscetível de causar os
+danos alegados pelo Reclamante;
+g) O relatório relativo à avaria do televisor não indica a data em que pode ter
+ocorrido o tal “risco elétrico”, nem resulta do mesmo que os danos resultaram
+do facto verificado, não comprovando a necessária relação de causa-efeito;
+h) A fatura relativa à aquisição de um novo aparelho não comprova que tenha sido
+o Reclamante a despender a quantia em causa, visto ser omissa a identidade do
+comprador;
+i) Deve ser valorada a falibilidade dos equipamentos do Reclamante cujos
+dispositivos de segurança não foram accionados;
+Pelo que pugna pela improcedência do pedido do Reclamante.
+3. Do processo e da competência do tribunal arbitral
+O Reclamante submeteu o presente litígio à apreciação deste tribunal arbitral, através
+de reclamação apresentada ao CNIACC em formulário eletrónico, no dia 18 de julho
+de 2018, ao abrigo do artigo 15.º, n.º 1, da Lei n.º 23/96, de 26 de julho, com a redação
+dada pela Lei n.º 6/2011, de 10 de março, que estabelece que “os litígios de consumo no
+âmbito dos serviços públicos essenciais estão sujeitos a arbitragem necessária quando, por opção
+3expressa dos utentes que sejam pessoas singulares, sejam submetidos à apreciação do tribunal
+arbitral dos centros de arbitragem de conflitos de consumo legalmente autorizados”. Ora, o
+serviço de fornecimento de energia elétrica é um serviço público essencial [artigo 1.º,
+n.º 2, alínea b), da referida Lei n.º 23/96] e o Reclamante é pessoa singular e
+consumidora dos serviços prestados pela Reclamada para fins não profissionais.
+Este tribunal arbitral é, assim, competente no âmbito da matéria decidendi e o processo
+correu os seus termos em conformidade com o Regulamento do Centro Nacional de
+Informação e Arbitragem de Conflitos de Consumo (Regulamento)1, não enfermando
+de nulidades que o invalidem.
+As partes têm personalidade judiciária e são legítimas.
+4. Objeto do litígio
+O objeto do litígio restringe-se, nos termos expostos anteriormente, a saber se o
+Reclamante tem direito à indemnização pelos danos sofridos relativamente à avaria de
+um televisor após se ter verificado uma interrupção e subsequente reposição da energia
+elétrica com sobretensão transitória.
+II – FUNDAMENTOS DA SENTENÇA
+A) DOS FACTOS
+i) Matéria de facto provada
+Considerando as alegações constantes da reclamação, da contestação da Reclamada e
+das respostas das partes, e, bem assim, o teor dos documentos juntos aos autos e os
+esclarecimentos prestados em sede de audiência de julgamento pelas partes, bem
+como o depoimento escrito da testemunha da Reclamada, X considero provados os
+seguintes factos relevantes para a boa decisão da causa:
+a) Para o local de consumo n.º 00000000 e na data de 09-05-2018 registou-se a
+interrupção e subsequente reposição de energia elétrica na residência do
+Reclamante (facto alegado pelo Reclamante e admitido pela Reclamada nos arts.
+5 e 6 da contestação, corroborado pelos documentos juntos por esta a fls. 25-28);
+b) Tal incidente teve origem em disparos na rede aérea de Media Tensão da
+Reclamada que abastece o local, provocado por um arco partido do selecionador
+0160 ACB a jusante do PTD ACB 0358 (facto alegado pela Reclamada conforme
+1 Autorizado por Despacho do Secretário de Estado da Justiça n.º 20778, de 8 de setembro de 2009, publicado no Diário da
+República, 2.ª série, de 16 de novembro de 2009.
+4Doc. 2 da contestação e corroborado pelo testemunho escrito da testemunha da
+Reclamada X, não tendo sido impugnado pelo Reclamante);
+c) O Reclamante submeteu várias reclamações sobre o incidente e inerente avaria
+à Reclamada (facto admitido por acordo e comprovado pelos documentos
+juntos pelo Reclamante e pela Reclamada a fls. 8 e 32-33)
+d) A avaria do televisor verificou-se na fonte de alimentação que ficou queimada
+em virtude risco elétrico (relatório apresentado pelo Reclamante a fls. 6 e que a
+Reclamada apenas impugna a fls. 19 quanto à ausência de indicação temporal e
+por falta de concretização de qual o risco elétrico verificado, admitindo, em
+consequência, que a avaria se deva a risco elétrico em virtude dos eventos
+ocorridos a 09-05-2018);
+e) A reparação do televisor teria um custo de 98,00€ mais IVA (conforme relatório
+apresentado pelo Reclamante e valor não impugnado pela Reclamada);
+f) O Reclamante adquiriu um televisor na MediaMarket pelo valor de 139,00 euros
+(conforme documento junto a fls. 7 e cuja identificação do comprador consta a
+fls. 39, facto admitido em virtude da evidência documental pela Reclamada).
+ii) Factos não provados
+Não se provaram outros factos com interesse para a decisão da causa por ausência de
+prova ou de prova convincente sobre os mesmos e pelo funcionamento das regras do
+ónus da prova, designadamente que o televisor do Reclamante não estava concebido
+para aguentar sobretensões transitórias (facto alegado pela Reclamada mas sobre o
+qual não é apresentada qualquer prova) ou que o incidente de 9 de maio de 2018 é
+insuscetível de causar os danos invocados pelo Reclamante.
+B) DO DIREITO
+Considerando o objeto do litígio, os fundamentos da ação, da contestação e das
+respostas das partes, importa decidir se o Reclamante tem direito ao ressarcimento dos
+danos sofridos com a avaria de um televisor após se ter verificado uma interrupção e
+subsequente reposição da energia elétrica pela Reclamada com sobretensão transitória.
+A pretensão indemnizatória do Reclamante relativamente a danos patrimoniais
+sofridos em virtude da interrupção e subsequente reposição de energia elétrica com
+sobretensão transitória, terá de fundamentar-se na responsabilidade civil da
+Reclamada. Como nos dá conta Paulo Duarte, o “problema da responsabilidade civil é,
+5pois, o de saber quem, em que condições e em que medida, deve suportar o dano: se o
+próprio lesado; ou um terceiro”2.
+Ora, a atividade da distribuição de energia elétrica foi separada da atividade inerente
+à sua comercialização, em virtude das alterações introduzidas pelo Decreto-Lei n.º
+29/2006, de 15 de fevereiro. Levanta-se, assim, a questão de saber se a responsabilidade
+da Reclamada terá de ser analisada por via contratual ou extracontratual.
+O funcionamento do sistema elétrico nacional, no atual quadro jurídico em vigor,
+pressupõe uma cadeia de relações jurídicas que se entrecruzam em virtude das
+atividades protagonizadas pelos diferentes sujeitos a operar no sector. Como nos dá
+conta Paulo Duarte, o “operador da rede de transporte, para além da relação que
+estabelece, a montante, com o produtor (cuja produção recebe), relaciona-se, a jusante,
+com os operadores das redes de distribuição. O operador da rede de distribuição em
+AT e MT, para além do vínculo que o conexiona com o transportador, relaciona-se com
+os operadores das redes de distribuição em BT. Estes, por seu turno, relacionam-se
+juridicamente com os comercializadores e até com o consumidor final. O
+comercializador, por fim, acha-se envolvido em relações jurídicas com o distribuidor,
+o produtor e o consumidor”3. Deste modo, como continua o autor em referência, a
+“fonte das relações jurídicas que assim se estabelecem entre os vários sujeitos que agem
+no mercado da electricidade é, em regra, o contrato”.
+A própria regulamentação legal aplicável ao setor da energia elétrica e vigente no nosso
+ordenamento jurídico faz nascer para o Operador da Rede de Distribuição, um conjunto
+de obrigações relativamente à prestação dos serviços inerentes à sua atividade,
+designadamente, o dever de garantir a qualidade do serviço e o dever de manter o
+fornecimento contínuo de energia elétrica, conforme decorre dos artigos 4.º, n.º 1, e 5.º,
+n.º 1, do Regulamento n.º 629/2017 – Regulamento da Qualidade de Serviço do Setor
+Elétrico e do Setor do Gás Natural4.
+Ainda que não se pudesse afirmar a responsabilidade contratual da Reclamada no caso
+em concreto, sempre se aplicariam à matéria decidendi os ditames do artigo 509.º do
+Código Civil, respondendo a Reclamada por responsabilidade pelo risco por danos
+causados por instalações de energia elétrica5. Com efeito, nos termos daquele artigo
+“Aquele que tiver a direcção efectiva de instalação destinada à condução ou entrega da energia
+eléctrica (…) e utilizar essa instalação no seu interesse, responde tanto pelo prejuízo que derive
+2 DUARTE, Paulo (2018). Casos Práticos de Solicitadoria – Direito das Obrigações, Almedina, p. 92.
+3 Veja-se, a título de exemplo, a sentença proferida no âmbito do Processo n.º 3001/2015, que correu termos no
+Centro de Informação de Consumo e Arbitragem do Porto (CICAP), de 11 de junho de 2016.
+4 Publicado no Diário da República, 2ª série, n.º 243, de 20 de dezembro de 2017.
+5 Neste sentido, veja-se a sentença proferida no âmbito do Processo n.º 1075/2018 que correu termos no CNIACC,
+proferida por Jorge Morais Carvalho.
+6da condução ou entrega da electricidade (…), como pelos danos resultantes da própria
+instalação”.
+Consequentemente, sendo a Reclamada responsável pela rede de distribuição de
+energia elétrica em território continental e utilizando a mesma com benefício
+económico, responde pelos danos causados por essa atividade independentemente de
+culpa.
+Compete nesta sede ao Reclamante, nos termos do artigo 342.º do Código Civil, provar
+a existência de danos e que os mesmos decorreram da condução ou entrega de energia
+elétrica. Ora, o Reclamante alega que após a interrupção e consequente reposição de
+energia elétrica verificada no dia 9 de maio de 2018 na sua residência, o televisor de
+marca Schentech – modelo SCH22LED, que se encontrava ligado no quarto, começou a
+deitar fumo e deixou de funcionar. De acordo com o relatório apresentado pelo
+Reclamante e produzido pela Electro-Memória, o televisor apresentava a fonte de
+alimentação queimada devido a risco elétrico.
+Por seu turno, a Reclamada admite que no dia 09-05-2018 se registou a interrupção e
+subsequente reposição de energia elétrica na residência do Reclamante e que tal
+incidente teve origem em disparos na rede aérea de Media Tensão da Reclamada que
+abastece o local, provocados por um arco partido do selecionador 0160 ACB a jusante
+do PTD ACB 0358. Comprovando este facto apresenta os registos de incidentes no doc.
+2 da contestação (fls. 25-27), corroborado pelo testemunho escrito de X, testemunha por
+si arrolada. Indica ainda que se trata de uma sobretensão de manobra, correspondente
+a uma situação normal e inevitável na exploração das redes.
+Forçoso é, assim, concluir pela adequabilidade do incidente relativo à sobretensão de
+manobra relativamente aos danos causados ao Reclamante, em concreto a danificação
+da fonte de alimentação que queimou após a reposição da energia elétrica pela
+Reclamada.
+É certo que a Reclamada impugna o relatório relativo à avaria por o mesmo não indicar
+a data em que ocorreu o “risco elétrico” que originou a danificação da fonte de
+alimentação do televisor e que não é especificado que risco elétrico provocou os danos
+identificados.
+Ora, ao Reclamante competia alegar e provar a existência de danos (avaria do televisor)
+e que o facto (reposição da energia elétrica com sobretensão de manobra) é, em
+concreto, condição sine qua non desse dano. Apresentado relatório técnico que indica
+dever-se a avaria a um risco elétrico e existindo prova que se verificou uma sobretensão
+na rede de distribuição de energia elétrica fica provada a adequabilidade do facto a
+provocar o concreto dano evidenciado. Competiria, depois, à Reclamada provar que o
+incidente do dia 09-05-2018 e a sobretensão transitória verificada é, em abstrato,
+7indiferente a provocar a avaria do televisor e que só se tornou uma condição sine qua
+non dele em resultado de circunstâncias extraordinárias.
+Ora, a Reclamada indica e prova que o incidente de 09-05-2018 teve origem em disparos
+na rede aérea de Media Tensão da Reclamada que abastece o local, provocados por um
+arco partido do selecionador 0160 ACB a jusante do PTD ACB 0358. Acrescenta também
+que a reposição de energia elétrica após a sua interrupção produz sempre uma
+sobretensão transitória, designada de sobretensão de manobra, que é normal e
+inevitável. O Reclamante apresenta um relatório que indica dever-se a avaria no
+televisor a um risco elétrico. A origem deste risco elétrico não é, nem é exigível que seja,
+identificada pelo técnico que analisa a avaria do televisor, mas tal causa é compatível
+com o incidente comprovado pela Reclamada relativo a uma sobretensão transitória.
+Com efeito, de acordo com o ponto 2.2., alínea yy), do Regulamento n.º 629/2017 –
+Regulamento da Qualidade de Serviço do Setor Elétrico e do Setor do Gás Natural, a
+sobretensão caracteriza-se por um “aumento temporário da tensão eficaz num ponto do
+sistema de alimentação de energia acima de um limiar de início especificado com duração típica
+entre 10 ms e 1 minuto”, o que vem, afinal, a caber no conceito genérico de risco elétrico.
+A Reclamada alega que a sobretensão transitória verificada no local se enquadra nas
+normas europeias que regulam o sector, mas não indica qual foi a tensão efetivamente
+verificada no incidente de 09-05-2018, por forma a que este tribunal possa concluir pelo
+seu caráter normal. Mas mesmo sendo normal e inevitável, tal não exclui a sua
+responsabilidade nos termos do artigo 509.º do Código Civil.
+Na verdade, competiria à Reclamada provar que tal incidente, que caracterizou como
+“disparos na rede aérea de Media Tensão que abastece o local”, é indiferente a causar
+a avaria do televisor, por terem concorrido circunstâncias excecionais, totalmente
+alheias à Reclamada, suscetíveis de interromper o nexo de causalidade entre o incidente
+e o dano. Neste contexto, limita-se a Reclamada a indicar que os equipamentos elétricos
+modernos, como é o caso da televisão danificada, já são concebidos para aguentar
+sobretensões transitórias sem que lhes seja causado qualquer dano. Pretende assim a
+Reclamada imputar os danos ao tipo de aparelho do Reclamante. Ora tais alegações
+não são em si suficientes para provar a existência de quaisquer outras circunstâncias
+excecionais suscetíveis de causar em abstracto os danos no televisor do Reclamante.
+Com efeito, nos termos do artigo 509.º, n.º 2, do Código Civil, apenas quando os danos
+são devidos a causa de força maior, considerada esta como “toda a causa exterior
+independente do funcionamento e utilização da coisa”, é que se vê excluída a
+responsabilidade da empresa responsável pela rede de distribuição da energia elétrica.
+Ora, conforme alegou a Reclamada, em causa neste incidente esteve uma situação
+“normal e inevitável na exploração das redes”, pelo que não terá existido qualquer
+circunstância excecional, como um evento climatérico extremo ou invulgar, que tenha
+8causado os danos invocados pelo Reclamante. E a falibilidade dos equipamentos
+elétricos de uso doméstico não constitui uma circunstância excecional suscetível de
+interromper o nexo de causalidade entre a sobretensão transitória verificada no
+incidente e a avaria do televisor do Reclamante, como pretendeu a Reclamada.
+Assim, considera-se que o nexo de causalidade entre a sobretensão transitória
+decorrente da reposição de energia elétrica pela Reclamada e a danificação do
+televisor do Reclamante está estabelecido, tendo este direito a ser indemnizado pelos
+danos sofridos, em concreto do valor da reparação do televisor no montante de 98,00€
+mais IVA, no total de 120,54€.
+III – DECISÃO
+Nestes termos, com base nos fundamentos expostos, julgando a ação procedente,
+condeno a Reclamada a pagar ao Reclamante, a título de indemnização, o montante
+de 120,54€ (cento e vinte euros e cinquenta e quatro cêntimos) relativo à reparação do
+televisor avariado no valor de 98,00€ mais IVA, em consequência do incidente de
+sobretensão transitória verificado e da sua responsabilidade.
+Notifique-se.
+Leiria, 31 de julho de 2019
+A Juiz-árbitro
+Cátia Marques Cebola
+9

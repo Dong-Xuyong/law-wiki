@@ -1,0 +1,195 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "law-wiki-connection-schema-v2",
+  "title": "Law Wiki provenance-first enrichment document",
+  "description": "Runtime contract for candidate, reviewed, and accepted legal graph assertions. JSONL edge records use $defs/assertion.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "extractor_version",
+    "document_id",
+    "raw_path",
+    "source_path",
+    "document_type",
+    "assertions"
+  ],
+  "properties": {
+    "schema_version": {"const": "2.0"},
+    "extractor_version": {"type": "string", "minLength": 1, "maxLength": 100},
+    "document_id": {"$ref": "#/$defs/document_id"},
+    "raw_path": {"type": "string", "pattern": "^raw/documents/.+\\.md$"},
+    "source_path": {"type": "string", "pattern": "^wiki/sources/.+\\.md$"},
+    "document_type": {"$ref": "#/$defs/document_type"},
+    "process_number": {"type": ["string", "null"]},
+    "case_key": {"type": ["string", "null"]},
+    "forum_key": {"type": ["string", "null"]},
+    "decision_date": {
+      "anyOf": [
+        {"type": "string", "format": "date"},
+        {"type": "null"}
+      ]
+    },
+    "topic_raw": {"type": ["string", "null"]},
+    "sectors": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "doctrines": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "outcome_status": {"type": ["string", "null"]},
+    "family_keys": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "assertions": {"type": "array", "items": {"$ref": "#/$defs/assertion"}}
+  },
+  "x-law-wiki": {
+    "edge_store": "data/connections.jsonl",
+    "review_queue": "data/enrichment/review-queue.jsonl",
+    "text_coordinate_system": {
+      "payload": "normalized-LF text following the first level-2 heading named Full text",
+      "unit": "Python Unicode code point",
+      "interval": "half-open [start,end)"
+    },
+    "resolver_keys": {
+      "case": "case:pt:<normalized-forum-key>:<validated-process-number>",
+      "instrument": "instrument:<jurisdiction>:<type>:<normalized-number>/<year>",
+      "authority_primary": "authority:ecli:<normalized-ecli>",
+      "authority_fallback": "authority:<court-key>:<process-number>:<decision-date>"
+    },
+    "hard_edge_rule": "Every accepted assertion has raw-span, metadata-field, or content-hash provenance. Summary text is never hard evidence."
+  },
+  "$defs": {
+    "document_id": {"type": "string", "pattern": "^law_[0-9a-f]{16}$"},
+    "document_type": {
+      "enum": [
+        "arbitral-decision",
+        "court-decision",
+        "legislation",
+        "legal-commentary",
+        "administrative-document",
+        "unknown"
+      ]
+    },
+    "node_type": {
+      "enum": [
+        "document",
+        "case",
+        "forum",
+        "organization",
+        "sector",
+        "doctrine",
+        "topic",
+        "instrument",
+        "provision",
+        "authority",
+        "outcome",
+        "family",
+        "entity"
+      ]
+    },
+    "node": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["key", "type", "label"],
+      "properties": {
+        "key": {"type": "string", "minLength": 1, "maxLength": 400},
+        "type": {"$ref": "#/$defs/node_type"},
+        "label": {"type": "string", "minLength": 1, "maxLength": 400},
+        "path": {"type": ["string", "null"]}
+      }
+    },
+    "raw_span_provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "raw_path", "section", "start", "end", "quote", "evidence_hash"],
+      "properties": {
+        "kind": {"const": "raw-span"},
+        "raw_path": {"type": "string", "pattern": "^raw/documents/.+\\.md$"},
+        "section": {
+          "enum": ["header", "parties", "facts", "applicable-law", "reasoning", "disposition", "other"]
+        },
+        "start": {"type": "integer", "minimum": 0},
+        "end": {"type": "integer", "minimum": 1},
+        "quote": {"type": "string", "minLength": 1, "maxLength": 1600},
+        "evidence_hash": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      }
+    },
+    "metadata_provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "field", "value", "evidence_hash"],
+      "properties": {
+        "kind": {"const": "metadata-field"},
+        "field": {
+          "enum": ["id", "website", "folder", "filename", "year", "topic", "content_hash", "csv_row"]
+        },
+        "value": {"type": ["string", "integer"]},
+        "evidence_hash": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      }
+    },
+    "content_hash_provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "content_hash", "peer_document_id"],
+      "properties": {
+        "kind": {"const": "content-hash"},
+        "content_hash": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "peer_document_id": {"$ref": "#/$defs/document_id"}
+      }
+    },
+    "provenance": {
+      "oneOf": [
+        {"$ref": "#/$defs/raw_span_provenance"},
+        {"$ref": "#/$defs/metadata_provenance"},
+        {"$ref": "#/$defs/content_hash_provenance"}
+      ]
+    },
+    "assertion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "assertion_id",
+        "subject",
+        "predicate",
+        "object",
+        "source_document_id",
+        "provenance",
+        "method",
+        "extractor_version",
+        "confidence",
+        "review_status"
+      ],
+      "properties": {
+        "assertion_id": {"type": "string", "pattern": "^conn_[0-9a-f]{24}$"},
+        "subject": {"$ref": "#/$defs/node"},
+        "predicate": {
+          "enum": [
+            "document_of",
+            "decided_by",
+            "published_by",
+            "about_sector",
+            "about_doctrine",
+            "about_topic",
+            "cites_instrument",
+            "cites_provision",
+            "cites_authority",
+            "has_outcome",
+            "exact_duplicate_of",
+            "same_case_as",
+            "template_sibling_of",
+            "semantically_similar_to",
+            "mentions_entity"
+          ]
+        },
+        "object": {"$ref": "#/$defs/node"},
+        "source_document_id": {"$ref": "#/$defs/document_id"},
+        "provenance": {"$ref": "#/$defs/provenance"},
+        "method": {
+          "enum": ["metadata", "regex", "content-hash", "lexical", "grok-4.6", "resolver"]
+        },
+        "extractor_version": {"type": "string", "minLength": 1, "maxLength": 100},
+        "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+        "review_status": {
+          "enum": ["candidate", "accepted", "rejected", "disputed", "summary-only"]
+        },
+        "reviewers": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "reason": {"type": "string", "minLength": 1, "maxLength": 1000}
+      }
+    }
+  }
+}

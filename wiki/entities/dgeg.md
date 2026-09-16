@@ -1,0 +1,13 @@
+---
+verification: unverified
+enrichment_state: graph-reviewed
+---
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+# DGEG
+
+## Connected sources
+
+Graph-derived links; underlying source pages remain unverified.
+- [[sources/30-03-2018-eletricidade--law_0a54318d6a6608f9|30.03.2018-ELETRICIDADE.pdf]] — mentions entity
+<!-- LAW-WIKI:GRAPH:END -->

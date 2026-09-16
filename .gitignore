@@ -1,0 +1,17 @@
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.pyc
+.venv/
+venv/
+*.log
+site/node_modules/
+site/dist/
+site/.astro/
+site/src/generated/
+site/public/data/
+site/public/pdfs/

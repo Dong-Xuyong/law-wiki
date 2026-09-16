@@ -1,0 +1,14 @@
+---
+verification: unverified
+enrichment_state: graph-reviewed
+---
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+# Regulamento n.º 3/2017
+
+## Connected sources
+
+Graph-derived links; underlying source pages remain unverified.
+- [[sources/processo-1665-2018-1--law_a99bdcaad0752fe1|processo-1665-2018 (1).pdf]] — cites instrument
+- [[sources/processo-1665-2018--law_c75883517fe8ea83|processo-1665-2018.pdf]] — cites instrument
+<!-- LAW-WIKI:GRAPH:END -->

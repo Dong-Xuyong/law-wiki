@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<BaseLayout title="Pastas">
+  <section class="container">
+    <p class="eyebrow">Arquivo original</p>
+    <h1>Explorar por pasta</h1>
+    <p class="lede">A estrutura preserva a proveniência organizacional dos documentos importados.</p>
+    <div class="panel">
+      <label for="folder-filter">Filtrar pastas ou documentos</label>
+      <input id="folder-filter" type="search" placeholder="Nome da pasta ou documento…" style="width:100%;margin:.6rem 0 1rem" />
+      <div id="folder-tree" class="folder-tree"><p class="status">A carregar…</p></div>
+    </div>
+  </section>
+
+  <script is:inline define:vars={{ base }}>
+    const treeRoot = document.querySelector("#folder-tree");
+    const filter = document.querySelector("#folder-filter");
+    let folders = [];
+    let documents = [];
+
+    function esc(value) {
+      const span = document.createElement("span");
+      span.textContent = value || "";
+      return span.innerHTML;
+    }
+    function renderNodes(nodes, prefix = "", query = "") {
+      return nodes.map((node) => {
+        const path = prefix ? `${prefix}/${node.name}` : node.name;
+        const ownDocs = documents.filter((doc) => doc.folder === path);
+        const childHtml = renderNodes(node.children || [], path, query);
+        const matchingDocs = ownDocs.filter((doc) =>
+          !query || `${doc.title} ${doc.filename}`.toLocaleLowerCase("pt").includes(query)
+        );
+        const selfMatch = path.toLocaleLowerCase("pt").includes(query);
+        if (query && !selfMatch && !matchingDocs.length && !childHtml) return "";
+        const docsHtml = matchingDocs.length ? `<div class="folder-docs">${matchingDocs.slice(0, 250).map((doc) =>
+          `<a href="${base}/documents/${doc.id}/">${esc(doc.title)}</a>`
+        ).join("")}${matchingDocs.length > 250 ? "<span>Mais documentos disponíveis na pesquisa.</span>" : ""}</div>` : "";
+        return `<details ${query ? "open" : ""}><summary>${esc(node.name)} <span class="tag">${node.count}</span></summary>${docsHtml}${childHtml}</details>`;
+      }).join("");
+    }
+    function render() {
+      const query = filter.value.trim().toLocaleLowerCase("pt");
+      treeRoot.innerHTML = renderNodes(folders, "", query) || "<p>Nenhuma pasta encontrada.</p>";
+    }
+    Promise.all([
+      fetch(`${base}/data/folders.json`).then((response) => response.json()),
+      fetch(`${base}/data/catalog.json`).then((response) => response.json()),
+    ]).then(([folderData, catalog]) => {
+      folders = folderData;
+      documents = catalog.documents;
+      render();
+    }).catch(() => { treeRoot.innerHTML = "<p>Não foi possível carregar o catálogo.</p>"; });
+    filter.addEventListener("input", render);
+  </script>
+</BaseLayout>

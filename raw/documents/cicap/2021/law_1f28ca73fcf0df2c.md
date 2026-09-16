@@ -1,0 +1,558 @@
+---
+id: "law_1f28ca73fcf0df2c"
+folder: "CICAP/Decisoes Arbitrais"
+filename: "333.2021.pdf"
+year: "2021"
+website: "CICAP"
+topic: "Decisoes Arbitrais"
+tokens: 6328
+tokens_sm: 1266
+is_empty: "True"
+content_hash: "3bc01e6e077cd2141660373f701010a29aea15ddd8e675320d92e03bce672b22"
+csv_row: 2889
+imported: "2026-09-11"
+---
+
+# 333.2021
+
+## Full text
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+-Sentença Arbitral-
+
+Processo de Arbitragem n.º 333 2021.
+Demandantes:
+
+Demandada:
+
+Resumo da Sentença Arbitral (elaborado pelo árbitro): 1.º Das normas dos artigos 2.º e
+3.º, do Decreto-Lei n.º67/2003, de 08/04, resultam que o fornecedor tem o dever de entregar
+ao consumidor os bens em conformidade com o contrato de compra e venda (artigo 2.º/1),
+por um lado, e que o fornecedor responde perante o consumidor por qualquer falta de
+conformidade que exista no bem momento em que o bem lhe é entregue (artigo 3.º/1), por
+outro; 2.º Ainda de acordo com o disposto no artigo 4.º/1, do mesmo diploma, em caso de
+falta de conformidade do bem com o contrato, o consumidor tem direito a que esta seja
+reposta sem encargos por meio de reparação ou substituição, à redução adequada do preço
+e à resolução do contrato; 3.º À este respeito dispõe, ainda, a Lei n.º24/96, de 31/07, nos
+seus artigos 3.º, 4.º e 12.º, ao consagrar que o consumidor tem direito à qualidade dos bens
+e serviços (artigo 3.º /alínea a), que os bens que lhe são destinados devem ser aptos a satisfazer
+os fins a que se destinam e a produzir os efeitos que se lhes atribuem (artigo 4.º), e, ainda, a
+ser indemnizado pelos danos patrimoniais e não patrimoniais resultantes da prestação de
+serviços defeituosos (artigo 12.9); 4.º Em caso de falta de conformidade do bem com o
+contrato assiste ao consumidor o direito à substituição do bem, nos termos do artigo 4.º/1;
+5.º Verifica-se uma falta de conformidade do bem quando o bem adquirido e entregue ao
+consumidor não corresponde às características constantes do contrato de compra e venda;
+6.º Tendo a demandada entregado aos consumidores os bens adquiridos por esta com as
+características previstas no contrato de compra e venda não lhes assiste o direito à redução
+adequada do preço, nos termos do disposto nos artigos 3.º/1/2 e 4.º/1, do Decreto-Lei
+n.º67/2003, de 08/04.
+
+I. - Relatório:
+A. - Das Partes e do Objeto da Ação Arbitral:
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+Os demandantes e
+
+>
+
+residentes na » em Braga, apresentou uma
+
+reclamação no CICAP, à qual foi atribuída o número 333 2021, contra a demandada
+
+Tendo-se frustrado a possibilidade de celebração de um acordo entre as partes o processo
+
+prosseguiu, então, para a sua fase arbitral, por vontade expressa dos demandantes.
+
+Por se tratar de arbitragem necessária, nos termos e para os efeitos do disposto no artigo
+14.º/1/2, da Lei n.º24/96, de 31/07, na sua redação atualizada, compete a este tribunal julgar
+
+e decidir este litígio.
+
+A instância arbitral estabilizou-se, por isso, com as partes acima identificadas, não se tendo
+
+verificado qualquer modificação subjetiva decorrente da intervenção de novas partes.
+
+De igual modo os pedidos e causa de pedir constantes da reclamação inicial dos demandantes
+não foram objeto de alteração, que se dão aqui por integralmente reproduzidos para todos
+os efeitos, e consistem, em suma, na redução em €700,00 do preço pago com fundamento
+
+na desconformidade do bem adquirido com as características previstas no referido contrato.
+
+Por sua vez, a demandada contestou a ação arbitral defendendo-se por exceção e impugnação
+
+e pugnando a final pela improcedência total da ação arbitral e pela sua absolvição do pedido.
+
+B. — Constituição do Tribunal Arbitral:
+Nos termos do artigo 13.º do regulamento do CICAP o tribunal arbitral é constituído por
+
+um único Arbitro.
+
+O árbitro signatário da presente sentença arbitral foi designado para o efeito pelo CICAP e
+
+aceitou a nomeação na data mencionada nos autos deste processo.
+
+C. — Audiência Arbitral (artigo 14.º do Regulamento do CICAP):
+Nos termos do artigo 14.º do Regulamento do CICAP as partes foram notificadas da data,
+hora e local da audiência arbitral, precedida da tentativa de conciliação prevista no artigo 11.º
+
+do referido regulamento.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+Nos termos do artigo 14.º, acima citado, a demandada poderia apresentar a sua contestação
+escrita no prazo previsto para o efeito e, anda, produzir toda a prova que considerem
+
+relevante.
+
+A demandada apresentou contestação escrita no prazo concedido para o efeito.
+
+À audiência arbitral realizou-se na sede deste Tribunal, no Porto, no dia 18-07-2022.
+
+Os demandantes encontravam-se presentes e a demandada representada pelo Sr.º Dr.º
+» Advogado, não tendo as partes logrado a composição amigável
+
+deste litígio arbitral em sede de conciliação.
+
+Finda a audiência arbitral foi elaborada a respetiva ata e assinada pelo árbitro signatário e pela
+
+Ex.ma Senhora Jurista do CICAP presente na audiência.
+
+II. — Saneamento e Valor da Causa:
+Este tribunal arbitral é competente, foi validamente constituído, as partes têm personalidade
+
+e capacidade judiciárias e são legítimas.
+
+O processo é o próprio tendo em conta a causa de pedir e o pedido e está isento de quaisquer
+nulidades que tenham de ser apreciadas ou questões que obstem ao conhecimento do mérito
+
+da causa.
+
+Compete a este tribunal fixar o valor da causa arbitral no uso dos poderes que lhe são
+conferidos pelo disposto no artigo 14.º do regulamento do CICAP e, subsidiariamente, pela
+remissão operada pelo disposto no artigo 19.º, nos termos da Lei da Arbitragem Voluntária
+
+e do Código do Processo Civil (artigo 306.º/1).
+
+Os demandantes pretendem que este tribunal arbitral condene a demandada na redução em
+€700,00 do preço pago com fundamento na desconformidade do bem adquirido com as
+
+características previstas no referido contrato.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+ 
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+Analisando o pedido e a causa de pedir à luz das regras previstas no CPC para a verificação
+
+do valor da causa fixa-se o valor da causa em €700,00, recorrendo ao critério previsto no
+
+ 
+
+artigo 296.º/1, do CPC, em virtude de ser o valor do pedido formulado pelos demandantes.
+
+ 
+
+O valor da causa fixa-se, assim, em €700,00 (setecentos euros), nos termos do artigo 296.º/1,
+
+do CPC, por remissão do artigo 19.º do Regulamento do CICAP para a Lei de Arbitragem
+
+Voluntária e desta para o Código de Processo Civil, com os fundamentos acima enunciados.
+
+Cumpre, por isso, apreciar e decidir:
+
+HI. — Enquadramento de Facto:
+
+Finda a produção de prova e tendo em conta a posição assumida pelas partes nos seus
+
+articulados, as declarações de parte prestadas pelos demandantes, os depoimentos das
+
+testemunhas arroladas pelas partes, os factos confessados e/ou admitidos por acordo, em
+
+conjugação, ainda, com as regras da experiência e com os juízos da normalidade da vida,
+
+resultaram provados, com relevância para a decisão desta causa arbitral, os factos
+
+se
+
+Le
+
+di
+
+tes:
+
+À reclamada dedica-se ao “O comércio por grosso e a retalho de todo o tipo de mobiliário
+interior, sofás e artigos similares, artigos de iluminação novos para qualquer fim, todo o tipo de
+eletrodomésticos, carpetes, tapetes, cortinados, papel de parede e revestimentos similares para paredes
+e pavimentos, artigos de decoração, mobiliário exterior. Compreende a aplicação / colocação de todo o
+tipo de revestimentos para pavimentos, paredes e tetos e atividades de design. compreende ainda,
+outras atividades anxiliares de serviços financeiros, exceto seguros e fundos de pensões fabricação de
+mobiliário de madeira para salas de estar, quartos de dormir, casas de banho e outros fins. Inclui
+mobiliário urbano (bancos), sofás, cadeiras e assentos com armação de madeira, assim como
+
+acabamentos (estofamento, pintura, polimento, lacagem e envernizamento).”;
+
+Às partes celebraram um contrato de compra e venda através do qual a demandada
+forneceu aos demandantes uma mobília de quarto, composta por uma cama (estrado
+e colchão), duas mesas de cabeceira, cômoda e um roupeiro, tudo pela quantia de €
+
+5.285,00 (cinco mil duzentos e oitenta e cinco euros);
+
+A mobília foi entregue aos demandantes no dia 23-11-2019;
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+ 
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+4. A demandada aconselhou os demandantes na colocação de dois puxadores na
+
+cómoda dada as suas dimensões;
+
+5. A demandada realizou um projeto a três dimensões para a colocação dos dois
+
+puxadores e exibiu-o aos demandantes;
+
+EN
+
+Os demandantes recusaram a colocação dos dois puxadores;
+
+E
+
+A demandada colocou apenas um puxador na cómoda;
+
+se
+
+Posteriormente, os demandantes pretenderam a colocação de mais puxadores na
+
+cómoda;
+
+=»
+
+À demandada colocou seis puxadores em inox na cómoda e não cobrou qualquer
+
+quantia adicional aos demandantes;
+
+10. A demandada reconheceu o erro na produção do roupeiro e substituiu a prateleira
+
+por uma gaveta;
+
+11. O colchão fornecido pela demandada não tinha as medidas contratadas pelos
+
+demandantes;
+12. À demandada substituím o colchão;
+13. O estrado da cama tinha as dimensões contratadas pelos demandantes;
+
+14. As partes contrataram o fornecimento de mobiliário novo, produzido em fábrica de
+
+acordo com as medidas indicadas pelos demandantes, e com acabamento lacado;
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA fer
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 Q o )
+e.mail: cicapOcicap.pt www.cicap.pt
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+   
+
+TRIBUNAL ARBITRAL DE CONSUMO
+15. Os móveis foram produzidos, acabados e enviados para os demandantes, tal como
+Pp > Pp 5
+
+solicitado por estes;
+
+16. Os móveis novos com acabamento lacado têm um cheiro característico decorrente
+
+do acabamento que lhes é dado.
+
+Não existem outros factos, provados ou não provados, com relevância para esta
+
+sentença arbitral.
+Este Tribunal Arbitral formou a sua convicção do modo seguinte:
+
+a) Quanto ao facto n.º1 por consulta do portal “Ministério da Justiça — Publicações de
+
+atos societários e de outras entidades;
+
+b) Quanto ao facto n.º2 pelos Docs.1/2 juntos com a contestação;
+
+c) Quanto ao facto n.º3 por confissão dos demandantes nas declarações de partes
+
+prestadas em sede de audiência arbitral;
+
+d) Quanto aos factos n.ºs 4-16 pelos depoimentos das testemunhas
+
+e que revelaram conhecimento direto dos factos.
+
+Para o apuramento da matéria de facto revelaram-se determinantes os documentos juntos
+pelo reclamante, designadamente a fatura-recibo que consubstancia o contrato de
+fornecimento celebrado entre as partes, a partir do qual foi possível apurar o bem fornecido,
+o preço pago e a data da sua aquisição, por um lado, e os depoimento das testemunhas
+arroladas pela reclamada, que revelando conhecimento direto dos factos confirmaram-se,
+integralmente, com autenticidade, genuinidade, verdade e, por isso, com credibilidade, a
+
+versão dos factos relatada na contestação, por outro.
+
+Do acima exposto resulto, então, para este tribunal arbitral, que os demandantes não
+cumpriram o ónus da prova previsto no artigo 342.º/1, do Código Civil, na medida em que
+
+não provaram os factos constitutivos do direito à redução do preço em €700,00.
+
+º
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+IV. — Enquadramento de Direito:
+
+Na sua reclamação inicial os demandantes pediram a condenação da reclamada na redução
+em €700,00 do preço pago pelos bens com fundamento na sua desconformidade com o
+
+contrato.
+
+Otra, a questão objeto deste litígio arbitral resume-se em saber se no momento da venda dos
+bem a ausência das características contratadas, no caso o dano identificado no terminal
+negativo, constitui uma falta de conformidade e, consequentemente, se assiste aos
+demandantes o direito à redução do preço no montante de €700,00 tal como peticionado
+
+pelos mesmos na sua reclamação inicial.
+
+Vejamos, então, se lhes assiste razão:
+
+O artigo 2.º/1, do Decreto-Lei n.º67/2003, de 08/04, dispõe, a esse respeito, que o “7 - O
+
+vendedor tem o dever de entregar ao consumidor bens que sejam conformes com o contrato de compra e venda. ”.
+
+O artigo 3.º/1, do mesmo diploma, consagra, por sua vez, que o “7 - O vendedor responde
+perante o consumidor por qualquer falta de conformidade que exista no momento em que o bem lhe é entregne.”
+e que “2 - As faltas de conformidade que se manifestem num prazo de dois on de cinco anos a contar da data
+de entrega de coisa móvel corpórea on de coisa imóvel, respectivamente, presumem-se existentes já nessa data,
+
+salvo quando tal for incompatível com a natureza da coisa ou com as características da falta de conformidade. ”.
+
+O artigo 4.º, do diploma citado, sob a epígrafe “Dyreitos do consumidor”, determina que “7 -
+Em caso de falta de conformidade do bem com o contrato, o consumidor tem direito a que esta seja reposta
+sem encargos, por meio de reparação on de substituição, à redução adequada do preço on à resolução do
+contrato. 2 - Tratando-se de um bem imóvel, a reparação ou a substituição devem ser realizadas dentro de
+um prazo razoável, tendo em conta a natureza do defeito, e tratando-se de um bem móvel, num prazo máximo
+de 30 dias, em ambos os casos sem grave inconveniente para o consumidor. 3 - A expressão «sem encargos»,
+utilizada no n.º 1, reporta-se às despesas necessárias para repor o bem em conformidade com o contrato,
+
+incluindo, designadamente, as despesas de transporte, de mão-de-obra e material. ”.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+Relativamente ao prazo de garantia o artigo 5.º, desse diploma, dispõe que “7 - O comprador
+pode exercer os direitos previstos no artigo anterior quando a falta de conformidade se manifestar dentro de
+um prazo de dois on cinco anos a contar da entregado bem, consoante se trate, respectivamente, de coisa móvel
+ou imóvel. 2 - Tratando-se de coisa móvel usada, o prazo previsto no número anterior pode ser reduzido a um
+ano, por acordo das partes. 6 - Havendo substituição do bem, o bem sucedâneo goza de um prazo de garantia
+de dois ou de cinco anos a contar da data da sna entrega, conforme se trate, respectivamente, de bem móvel ou
+imóvel. 7 - O prazo referido no n.º 1 suspende-se, a partir da data da denúncia, durante o período em que o
+
+consumidor estiver privado do nso dos bens.”.
+
+Em face da matéria de facto que resultou provada a resposta deste tribunal arbitral é
+totalmente negativa, porquanto os bens em causa apresentam as qualidades e o desempenho
+
+que os demandantes poderia razoavelmente esperar.
+
+Ao atuar do modo que atuou a demandada vendeu aos demandantes bens em conformidade
+
+com o contrato de compra e venda.
+
+Este tribunal arbitral responde, assim, negativamente à questão objeto deste litígio, ou seja,
+o mobiliário fornecido pela demandada não se apresenta desconforme com o contrato
+
+celebrado com os demandantes.
+
+V. — Decisão:
+
+Assim, em face do exposto, julgo totalmente improcedente, por não provada, a presente
+ação arbitral e, consequentemente, absolvo a demandada do pedido, tudo nos termos e
+
+com os efeitos previstos no artigo 15.º do Regulamento do CICAP.
+
+VI. — Encargos processuais e Depósito da decisão arbitral:
+
+O valor da causa fixa-se, assim, em €700,00 (setecentos euros), nos termos do artigo 296.º/1,
+
+ 
+
+do CPC, por remissão do artigo 19.º do Regulamento do CICAP para a Lei de Arbitragem
+
+Voluntária e desta para o Código de Processo Civil, com os fundamentos acima enunciados.
+
+Notifiquem-se as partes com cópia desta decisão e deposite-se o seu original no CICAP nos
+
+termos do artigo 15.º/2 do referido regulamento.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+ 
+
+º
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+   
+
+Braga, 05-04-2023.
+
+O Árbitro,
+Alexandre Maciel,
+
+(a
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicapOcicap.pt www.cicap.pt
+
+(e
+(g,
+

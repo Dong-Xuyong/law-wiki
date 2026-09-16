@@ -1,0 +1,17 @@
+---
+import KnowledgeMap from "../components/KnowledgeMap";
+import BaseLayout from "../layouts/BaseLayout.astro";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<BaseLayout title="Mapa jurídico">
+  <section class="container">
+    <p class="eyebrow">Relações com proveniência</p>
+    <h1>Mapa jurídico</h1>
+    <p class="lede">
+      Explore o corpus por fonte, tema e pasta. As relações jurídicas adicionais provêm apenas
+      de afirmações aceites no piloto; aceitação no grafo não equivale a verificação jurídica.
+    </p>
+    <KnowledgeMap client:load base={base} />
+  </section>
+</BaseLayout>

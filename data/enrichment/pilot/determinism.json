@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-09-15",
+  "runs": 2,
+  "scope": [
+    "wiki/**/*.md",
+    "data/connections.jsonl",
+    "data/enrichment/review-queue.jsonl"
+  ],
+  "aggregate_sha256": "2ae4f01b240395452a1ba3b1146709b57b99929c7f4432637c7c601b929da6f0",
+  "identical": true
+}

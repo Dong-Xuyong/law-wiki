@@ -1,0 +1,914 @@
+---
+id: "law_9e7fcb3947bba923"
+folder: "CICAP/Decisoes Arbitrais"
+filename: "Sentenca-797_2022_page-0001.pdf"
+year: "2022"
+website: "CICAP"
+topic: "Decisoes Arbitrais"
+tokens: 12134
+tokens_sm: 1474
+is_empty: "True"
+content_hash: "1f5bcfcfa4df0a353408022333280645dba1813249c362100eb08a1e3861677d"
+csv_row: 2683
+imported: "2026-09-11"
+---
+
+# Sentenca-797_2022_page-0001
+
+## Full text
+
+(A R AL CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+Proc. n.º 797/2022
+SENTENÇA
+Demandante: , residente na .
+Demandada: and
+1. Relatório
+1.1. O demandante, - , apresentou no
+CICAP reclamação contra . pedindo que seja
+
+declarada a resolução de contrato de compra e venda à distância, celebrado entre
+a requerente e a requerida, no valor 3.990,00€. Na reclamação inicial da
+demandante, a qual aqui se dá por integralmente reproduzida, alega, em suma,
+que no dia 09/02/2022, a demanda compareceu na sua habitação e que lhe vendeu
+2 colchões designados por , mais 2 almofadas, no valor total de
+3.990,00€, a serem pagos através de um crédito coligado, em prestações.
+Acontece, que passados alguns dias apôs a entrega dos referidos bens, e dentro
+do prazo estipulado por lei, o demandante contacta a demandada e invoca a livre
+resolução do contrato, sendo que a demandada se deslocou novamente à habitação
+no dia 22/02/2022 e substitui-o um dos colchões por uma máquina de água
+Hidrogenada. Acontece que tudo isto foi feito contra a vontade do demandante que
+apenas queria ver resolvido o contrato efetuado no valor de 3.990,00€. Por carta
+enviada à demandada, no dia 21/04/2022, o demandante expressou a
+
+anulabilidade do contrato realizado com a demandada do contrato.
+
+1.2. Regulamente citada, a demandada apresentou contestação, a qual aqui
+se dá por integralmente reproduzida. A demandada, em suma, alega que o
+
+Demandante nunca apresentou a livre resolução contratual, pois sempre se mostrou
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(dcicap.pt www.cicap.pt
+
+ 
+
+9)
+
+(e
+(g,
+
+ 
+
+(A RAL CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+satisfeito com os produtos adquiridos.
+
+Nos termos do art.º 297.º n.º 1 do Código de Processo Civil, aplicável por remissão
+do art.º 19.º n.º 3 do Regulamento do CICAP, fixa-se o valor da causa em
+
+3.990,00€, por ser o valor do vestido.
+
+Tratando-se de arbitragem necessária, nos termos do art.º 14.º n.º 2 da Lei n.º
+24/96 de 31 de julho, na redação que lhe foi dada pela Lei n.º 63/2019 de 16 de
+agosto, é este tribunal competente para julgar e decidir o litígio.
+
+*
+
+Não existem quaisquer outras nulidades, exceções ou questões prévias que obstem
+ao conhecimento do mérito e de que cumpra conhecer, no entanto salienta-se que
+o demandante apresentou uma procuração onde se faz representar nesta contenda
+
+pela Sra. “ e que a mesma foi aceite.
+
+2. Objeto do Litígio
+
+O objeto do litígio consiste em determinar se a demandante tem direito a exigir que
+seja declarada a resolução de contrato de compra e venda, celebrado entre as
+partes, e como consequência a devolução dos 3.990,00€, pagos por esta à
+
+demandada.
+
+3. Questões a resolver
+Tendo em consideração o objeto do litígio e o pedido da demandante, verificam-se
+as seguintes questões a resolver: a questão da aplicabilidade do regime jurídico que
+regula os direitos do consumidor nos contratos celebrados à distância e fora do
+estabelecimento comercial, constante no Decreto-Lei n.º 24/2014, de 14 de
+fevereiro, a verificação dos pressupostos do direito à resolução do contrato e da
+
+condenação ao pagamento do montante peticionado.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(dcicap.pt www.cicap.pt
+
+ 
+
+9)
+
+(e
+(g,
+
+(A RAL CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+o e) CICAP CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+   
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+4. Fundamentação
+4.1. Dos factos
+4.1.1. Factos provados
+Com interesse para a decisão julgo provados os seguintes factos:
+1. A Demandada tem como objeto, entre outros, a venda de produtos ligados ao
+bem estar ao tratamento de água;
+
+2. No dia 09/02/2022, a demandada deslocou-se à habitação do demandante com
+o intuito de vender produtos, tendo nesse dia vendido 2 colchões designados
+por , bem como, 2 almofadas, no valor total de 3.990,00€,
+
+assinado para tal um contrato de compra e venda;
+
+3. No dia 15/02/2022, os bens foram entregues e instalados pela demandada, na
+habitação do demandante, porém, passados alguns dias, mas nunca depois do
+
+dia 22/02/2022, o demandante entra em contacto com a demandada;
+
+4. No dia 22/02/2202, a demandada desloca-se à habitação do demandante, onde
+
+este troca um dos colchões por uma máquina de água Hidrogenada;
+
+5. Que no dia 21/04/2022, o demandante envia uma carta para a demandada a
+
+exigir a anulabilidade do contrato;
+
+4.1.2. Factos não provados
+
+Para além dos factos prejudicados pela factualidade dada como provada julgo como
+não provados os seguintes factos:
+
+1. Que a demandante tenha assinado documentos de forma involuntária.
+
+4.2. Fundamentação da matéria de facto
+
+Nos termos do art.º 607.º n.º 5 do Código de Processo Civil, a factualidade dada
+como provada resultou da livre e prudente convicção do julgador, edificada através
+da apreciação crítica da prova produzida, à luz das normas e princípios jurídicos
+
+9)
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+(e
+(g,
+
+ 
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+aplicáveis, devidamente cotejadas pelas regras da experiência comum, tendo em
+conta “in casu ”, o conteúdo a petição inicial, as declarações de parte da
+demandante e da demandada, a contestação da demandada e as testemunhas por
+esta apresentada, as presunções legais aplicáveis, a demais prova documental e
+bem assim os factos notórios, os instrumentais e os que constituem complemento
+e concretização das alegações das partes, que resultaram da instrução e discussão
+da causa, dentro dos poderes de cognição do tribunal (cfr art.º 5.º do Código de
+Processo Civil).
+
+Assim, no que respeita ao facto provado n.º 1 do ponto 4.1.1, supra descrito, este
+é manifestamente notório, resultando da atividade conhecida da demandada e do
+contrato de compra e venda juntos ao processo.
+
+O facto provado n.º 2 resulta da valoração da petição inicial, das declarações das
+
+testemunhas da demandada.
+
+Os factos provados n.º 3 e 4, resultaram da petição inicial e documentos juntos,
+das declarações de parte da demandante e demandada, bem como, das declarações
+das testemunhas devidamente cotejadas.
+
+O facto provado n.º 5 resultou das copias das cartas, juntas ao processo pelo
+
+demandante.
+
+No que concerne ao facto não provado, este resulta da ausência de prova que nos
+
+permita concluir no seu sentido.
+
+4.3. Fundamentação da matéria de direito
+
+Tendo em conta as questões a resolver supra enunciadas cumpre-nos agora
+
+enquadrar a factualidade dada como provada à matéria de direito.
+
+O regime jurídico que regula os interesses legítimos dos consumidores nos contratos
+celebrados à distância e nos contratos celebrados fora do estabelecimento
+comercial, tendo em vista promover a transparência das práticas comerciais e
+salvaguardar, consta no Decreto-Lei n.º 24/2014, de 14 de fevereiro, O presente
+decreto-lei transpõe para a ordem jurídica nacional a Diretiva n.º 2011/83/UE, do
+
+Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativa aos direitos
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+9)
+
+(e
+(g,
+
+(a RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+ 
+
+dos consumidores, que altera a Diretiva n.º 93/13/CEE, do Conselho, e a Diretiva
+n.º 1999/44/CE, do Parlamento Europeu e do Conselho, e que revoga a Diretiva n.º
+85/577/CEE, do Conselho, e a Diretiva n.º 97/7/CE, do Parlamento Europeu e do
+Conselho.
+
+A definição de consumidor, para efeitos do citado diploma encontra-se no seu art.º
+3º, al.3 e) como: “ e) «Consumidor», a pessoa singular que atue com fins que não
+se integrem no âmbito da sua atividade comercial, industrial, artesanal ou
+profissional; ”.
+
+Por seu lado, no art.º 3º, al.à n) do mesmo Decreto-Lei n.º 24/2014, de 14 de
+fevereiro, fornecedor de bens é: “n) «Fornecedor de bens ou prestador de serviços»,
+a pessoa singular ou coletiva, pública ou privada, que, num contrato com um
+consumidor, atue no âmbito da sua atividade profissional, ou através de outro
+
+profissional, que atue em seu nome ou por sua conta; ”
+
+Ainda importante para a demanda, convém aludir à definição de bem de consumo,
+que nos é dada pelo art.º 30 al.a a), subalíneas i) e ii) do mesmo diploma, o qual
+estipula: 'a) «Bem»:
+
+1) Qualquer bem móvel corpóreo, incluindo os bens em segunda mão e a água, o
+gás e a eletricidade quando colocados em venda num volume limitado ou em
+
+quantidade determinada;
+
+ii) Qualquer bem móvel corpóreo que incorpore ou esteja interligado com um
+conteúdo ou serviço digital, de tal modo que a falta destes impeça os bens de
+
+desempenharem as suas funções («bens com elementos digitais»); "
+
+Da definição de contrato celebrado à distância, contida no art.º 39, al.a h):
+"«Contrato celebrado à distância», um contrato celebrado entre o consumidor e o
+fornecedor de bens ou o prestador de serviços sem presença física simultânea de
+ambos, e integrado num sistema de venda ou prestação de serviços organizado para
+o comércio à distância mediante a utilização exclusiva de uma ou mais técnicas de
+comunicação à distância até à celebração do contrato, incluindo a própria
+celebração; ”
+
+e de "«Contrato celebrado fora do estabelecimento comercial», previsto art.º 3º,
+al.a i), o contrato que é celebrado na presença física simultânea do fornecedor de
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+9)
+
+(e
+(g,
+
+ 
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+bens ou do prestador de serviços e do consumidor em local que não seja o
+estabelecimento comercial daquele, incluindo os casos em que é o consumidor a
+
+fazer uma proposta contratual, incluindo os contratos:
+
+i) Celebrados no estabelecimento comercial do profissional ou através de
+quaisquer meios de comunicação à distância imediatamente após o consumidor ter
+sido, pessoal e individualmente, contactado num local que não seja o
+
+estabelecimento comercial do fornecedor de bens ou prestador de serviços;
+ii) Celebrados no domicílio do consumidor;
+iii) Celebrados no local de trabalho do consumidor;
+
+iv) Celebrados em reuniões em que a oferta de bens ou de serviços seja
+promovida por demonstração perante um grupo de pessoas reunidas no domicílio
+
+de uma delas, a pedido do fornecedor ou do seu representante ou mandatário;
+
+v) Celebrados durante uma deslocação organizada pelo fornecedor de bens
+ou prestador de serviços ou por seu representante ou mandatário, fora do respetivo
+estabelecimento comercial;
+
+vi) Celebrados no local indicado pelo fornecedor de bens ou prestador de
+serviços, a que o consumidor se desloque, por sua conta e risco, na sequência de
+uma comunicação comercial feita pelo fornecedor de bens ou prestador de serviços
+
+ou pelo seu representante ou mandatário;”
+
+E, finalmente da definição de Contrato de prestação de serviços, presente art.º 39,
+al.a j): "«Contrato de compra e venda», qualquer contrato ao abrigo do qual o
+fornecedor de bens e prestador de serviços transfere a propriedade dos bens para
+o consumidor, incluindo qualquer contrato que tenha simultaneamente por objeto
+
+bens e serviços; ”
+
+Desta forma, confrontando as aludidas definições legais com factualidade dada
+como provada é por demais evidente que o Decreto-Lei n.º 24/2014, de 14 de
+fevereiro, é aplicável à relação jurídica em apreço, porquanto estamos perante um
+contrato celebrado fora do estabelecimento comercial, de compra e venda de um
+bem, realizado por um consumidor a um vendedor profissional, no âmbito de uma
+
+atividade comercial que visa a obtenção de benefícios, e que foi no dia 09/02/2022.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+9)
+
+ 
+
+(a RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+Prosseguindo:
+
+No que concerne aos contratos celebrados à distância o art.º 4.º do Decreto-Lei n.º
+24/2014, de 14 de fevereiro que:
+
+“Artigo 4.º
+
+Informação pré-contratual nos contratos celebrados à distância
+
+1 - Antes de o consumidor se vincular a um contrato celebrado à distância ou
+fora do estabelecimento comercial, ou por uma proposta correspondente, o
+fornecedor de bens ou prestador de serviços deve facultar-lhe, em tempo útil e
+de forma clara e compreensível, as seguintes informações:
+
+a) Identidade do fornecedor de bens ou do prestador de serviços, incluindo o
+nome, a firma ou denominação social, o endereço fisico onde se encontra
+estabelecido, o número de telefone e o endereço eletrónico, de modo a permitir
+ao consumidor contactá-lo e comunicar de forma rápida e eficaz;
+
+b) Quando aplicável, o endereço físico e identidade do profissional que atue por
+conta ou em nome do fornecedor de bens ou prestador de serviços;
+
+c) O endereço físico do estabelecimento comercial do profissional, no caso de ser
+diferente do endereço comunicado nos termos das alíneas anteriores e, se
+aplicável, o endereço fisico do profissional por conta de quem atua, onde o
+consumidor possa apresentar uma reclamação;
+
+d) Características essenciais do bem ou serviço, na medida adequada ao suporte
+utilizado e ao bem ou serviço objeto do contrato;
+
+e) Preço total do bem ou serviço, incluindo taxas e impostos, encargos
+suplementares de transporte, despesas postais ou de entrega ou quaisquer
+outros encargos que no caso caibam;
+
+£) O modo de cálculo do preço, incluindo tudo o que se refira a quaisquer
+encargos suplementares de transporte, de entrega e postais, e quaisquer outros
+custos, quando a natureza do bem ou serviço não permita o cálculo em
+momento anterior à celebração do contrato;
+
+9) A indicação de que podem ser devidos encargos suplementares de transporte,
+de entrega e postais, e quaisquer outros custos, quando tais encargos não
+possam ser razoavelmente calculados antes da celebração do contrato;
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA ' o”
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( “0 :
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+h) O preço total, que deve incluir os custos totais, por período de faturação, no
+caso de um contrato de duração indeterminada ou que inclua uma assinatura de
+periodicidade;
+
+) O preço total equivalente à totalidade dos encargos mensais ou de outra
+periodicidade, no caso de um contrato com uma tarifa fixa, devendo ser
+comunicado o modo de cálculo do preço quando for impossível o seu cálculo em
+momento anterior à celebração do contrato;
+
+J) Modalidades de pagamento, de entrega, de execução, a data-limite em que o
+profissional se compromete a entregar o bem ou a prestar o serviço, e se for o
+caso, o sistema de tratamento de reclamações dos consumidores pelo fornecedor
+de bens ou prestador de serviços;
+
+1) A informação de que o preço foi personalizado com base numa decisão
+automatizada, quando aplicável;
+
+m) Quando seja o caso, a existência do direito de livre resolução do contrato, o
+respetivo prazo e o procedimento para o exercício do direito, nos termos dos
+artigos 10.º e 11.º com entrega do formulário de livre resolução constante da
+parte B do anexo ao presente decreto-lei, do qual faz parte integrante;
+
+n) Quando seja o caso, a indicação de que o consumidor suporta os custos da
+devolução dos bens em caso de exercício do direito de livre resolução e o
+montante desses custos, se os bens, pela sua natureza, não puderem ser
+devolvidos normalmente pelo correio normal;
+
+0) A obrigação de o consumidor pagar ao prestador de serviços um determinado
+montante, proporcional ao serviço já prestado, sempre que o consumidor exerça
+o direito de livre resolução depois de ter apresentado o pedido a que se refere o
+artigo 15.9
+
+Pp) Quando não haja direito de livre resolução, nos termos do artigo 17.º, a
+indicação de que o consumidor não beneficia desse direito ou, se for caso disso,
+as circunstâncias em que o consumidor perde o seu direito de livre resolução;
+
+q) Custo de utilização da técnica de comunicação à distância, quando calculado
+em referência a uma tarifa que não seja a tarifa base;
+
+1) A duração do contrato, quando não seja indefinida ou instantânea, ou, em
+caso de contrato de fornecimento de bens ou prestação de serviços de execução
+continuada ou periódica ou de renovação automática, os requisitos da denúncia,
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA ' o”
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( “0 :
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+incluindo, quando for o caso, o regime de contrapartidas estabelecidas para a
+cessação antecipada dos contratos sujeitos a períodos contratuais mínimos;
+
+s) A existência e o prazo da garantia de conformidade dos bens, dos conteúdos
+ou serviços digitais, quando seja aplicável o regime jurídico da venda de bens de
+consumo constante do Decreto-Lei n.º 67/2003 de 8 de abril;
+
+t) À existência e condições de assistência pós-venda, de serviços pós-venda e de
+garantias comerciais quando for o caso;
+
+u) A existência de códigos de conduta relevantes, quando os haja, e o modo de
+obter as respetivas cópias;
+
+v) A duração minima das obrigações dos consumidores decorrentes do contrato,
+quando for o caso;
+
+x) A existência de depósitos ou outras garantias financeiras e respetivas
+condições, a pagar ou prestar pelo consumidor a pedido do profissional, quando
+as houver;
+
+Z) Funcionalidade dos bens com elementos digitais, conteúdos ou serviços
+digitais, incluindo medidas de proteção técnica, quando aplicável;
+
+aa) Qualquer compatibilidade e interoperabilidade relevante dos bens com
+elementos digitais, conteúdos ou serviços digitais de que o profissional tenha ou
+possa razoavelmente ter conhecimento, se for caso disso;
+
+bb) A possibilidade de acesso a um mecanismo extrajudicial de reclamação e
+recurso a que o profissional esteja vinculado e o modo de acesso a esse mesmo
+
+mecanismo, quando for o caso.
+
+No mesmo artigo, refere no seu n. 8 que: "- Incumbe ao fornecedor de bens ou
+prestador de serviços a prova do cumprimento dos deveres de informação
+estabelecidos no presente artigo.”
+
+No artigo 6.º do mesmo diploma encontram-se estabelecidos os requisitos para a
+confirmação da celebração do contrato à distância:
+"Artigo 6.º
+Confirmação da celebração do contrato celebrado à distância
+
+1- O fomecedor de bens ou prestador de serviços deve confirmar a celebração
+do contrato à distância, em suporte duradouro, no prazo de cinco dias contados
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA ' o”
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( “0 :
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+dessa celebração e, o mais tardar, no momento da entrega do bem ou antes do
+início da prestação do serviço.
+
+2-4 confirmação do contrato a que se refere o número anterior realiza-se com a
+entrega ao consumidor das informações pré-contratuais previstas no n.º 1 do
+artigo 4.º, salvo se o profissional já tiver prestado essa informação, em suporte
+duradouro, antes da celebração do contrato.
+
+No entanto o artigo 10, expõe o direito de livre resolução nos seguintes termos
+elencados:
+“Artigo 10.º
+Direito de livre resolução nos contratos celebrados à distância ou celebrados fora
+
+do estabelecimento
+
+1- O consumidor tem o direito de resolver o contrato sem incorrer em quaisquer
+custos, para além dos estabelecidos no n.º 3 do artigo 12.º e no artigo 13.9,
+quando for caso disso, e sem necessidade de indicar o motivo, no prazo de 14
+dias ou, nos contratos celebrados fora do estabelecimento comercial a que se
+referem as subalineas il) e v) da alinea 1) do artigo 3.º, no prazo de 30 dias, a
+contar:
+
+a) Do dia da celebração do contrato, no caso dos contratos de prestação de
+serviços;
+
+b) Do dia em que o consumidor ou um terceiro, com exceção do transportador,
+indicado pelo consumidor adquira a posse fisica dos bens, no caso dos contratos
+de compra e venda, ou:
+
+1) Do dia em que o consumidor ou um terceiro, com exceção do transportador,
+indicado pelo consumidor adquira a posse física do último bem, no caso de vários
+bens encomendados pelo consumidor numa única encomenda e entregues
+separadamente;
+
+ii) Do dia em que o consumidor ou um terceiro, com exceção do transportador,
+indicado pelo consumidor adquira a posse fisica do último lote ou elemento, no
+caso da entrega de um bem que consista em diversos lotes ou elementos;
+
+iii) Do dia em que o consumidor ou um terceiro por ele indicado, que não seja o
+transportador, adquira a posse física do primeiro bem, no caso dos contratos de
+entrega periódica de bens durante um determinado período;
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA ' o”
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( “0 :
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+ 
+
+c) Do dia da celebração do contrato, no caso dos contratos de fornecimento de
+água, gás ou eletricidade, que não estejam à venda em volume ou quantidade
+limitados, de aquecimento urbano ou de conteúdos digitais que não sejam
+fornecidos num suporte material.
+
+2-Seo fornecedor de bens ou prestador de serviços não cumprir o dever de
+informação pré-contratual determinado na alínea m) do n.º 1 do artigo 4.º o
+prazo para o exercício do direito de livre resolução é de 12 meses a contar da
+data do termo do prazo inicial a que se refere o número anterior.
+
+3 - Se, no decurso do prazo previsto no número anterior, o fornecedor de bens
+ou prestador de serviços cumprir o dever de informação pré-contratual a que se
+refere a alínea m) do n.º 1 do artigo 4.º o consumidor dispõe de 14 dias ou, nos
+contratos celebrados fora do estabelecimento comercial a que se referem as
+subalineas ii) e v) da alinea i) do artigo 3.º, de 30 dias para resolver o contrato a
+partir da data de receção dessa informação.
+
+4 - O disposto no n.º 1 não impede a fixação, entre as partes, de prazo mais
+alargado para o exercício do direito de livre resolução.
+
+5 - O disposto no presente artigo não dispensa o cumprimento das regras legais
+relativas ao dever de ligação à rede pública de abastecimento de água e à
+utilização de captações de água para consumo humano, nos termos do disposto
+no Decreto-Lei n.º 194/2009, de 20 de agosto, na sua redação atual, e no
+Decreto-Lei n.º 226-4/2007, de 31 de maio, na sua redação atual.
+
+E quanto à forma e obrigações, impõe o art.º 11 e 12 o seguinte:
+“Artigo 11.º
+
+Exercício e efeitos do direito de livre resolução
+1-0 consumidor pode exercer o seu direito de livre resolução através do envio do
+modelo de «Livre resolução» constante da parte B do anexo ao presente decreto-
+lei, ou através de qualquer outra declaração inequívoca de resolução do contrato.
+2 - Para efeitos do presente decreto-lei considera-se inequívoca a declaração em
+que o consumidor comunica, por palavras suas, a decisão de resolver o contrato
+designadamente por carta, por contacto telefónico, pela devolução do bem ou por
+outro meio suscetível de prova, nos termos gerais.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA ' o”
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( “0 :
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+(a RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+3 - Considera-se exercido o direito de livre resolução pelo consumidor dentro do
+prazo quando a declaração de resolução é enviada antes do termo dos prazos
+referidos no artigo anterior.
+
+4 - Quando no sítio na Internet do fornecedor de bens ou prestador de serviços
+seja possibilitada a livre resolução por via eletrónica e o consumidor utilizar essa
+via, o fornecedor de bens ou prestador de serviços, acusa, no prazo de 24 horas,
+ao consumidor a receção da declaração de resolução em suporte duradouro.
+
+5 - Incumbe ao consumidor a prova de que exerceu o direito de livre resolução,
+nos termos do presente decreto-lei.
+
+6 - O exercício do direito de livre resolução extingue as obrigações de execução do
+contrato e toda a eficácia da proposta contratual, quando o consumidor tenha
+feito tal proposta.
+
+7 - São nulas as cláusulas contratuais que imponham ao consumidor uma
+penalização pelo exercício do direito de livre resolução ou estabeleçam a renúncia
+
+ao mesmo.
+
+Artigo 12.º
+Obrigações do fornecedor de bens ou prestador de serviços decorrentes da livre
+resolução
+
+1 - No prazo de 14 dias a contar da data em que for informado da decisão de
+resolução do contrato, o fornecedor de bens ou prestador de serviços deve
+reembolsar o consumidor de todos os pagamentos recebidos, incluindo os custos
+de entrega do bem nos termos do n.º 2 do artigo 13.º
+2 - O reembolso dos pagamentos deve ser feito através do mesmo meio de
+pagamento que tiver sido utilizado pelo consumidor na transação inicial, salvo
+acordo expresso em contrário e desde que o consumidor não incorra em quaisquer
+custos como consequência do reembolso.
+3-0 fornecedor do bem não é obrigado a reembolsar os custos adicionais de
+entrega quando o consumidor solicitar, expressamente, uma modalidade de
+entrega diferente e mais onerosa do que a modalidade comummente aceite e
+menos onerosa proposta pelo fornecedor do bem.
+
+9)
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109 ( “0 :
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+(A RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+4 - Excetuados os casos em que o fornecedor se ofereça para recolher ele próprio
+os bens, só é permitida a retenção do reembolso enquanto os bens não forem
+recebidos ou enquanto o consumidor não apresentar prova da devolução do bem.
+5 - Quando o bem entregue no domicílio do consumidor no momento da
+celebração de um contrato celebrado fora do estabelecimento comercial, não
+puder, pela sua natureza ou dimensão, ser devolvido por correio, incumbe ao
+fornecedor recolher o bem e suportar o respetivo custo.
+
+6 - O incumprimento da obrigação de reembolso dentro do prazo previsto no n.º
+1, obriga o fornecedor de bens ou prestador de serviços a devolver em dobro, no
+prazo de 15 dias úteis, os montantes pagos pelo consumidor, sem prejuizo do
+
+“sr
+
+direito do consumidor a indemnização por danos patrimoniais e não patrimoniais.
+
+Antes do consumidor se vincular a um contrato celebrado fora do estabelecimento
+comercial, o fornecedor do bem está obrigado a fornecer-lhe, em tempo útil e de
+forma clara e compreensível, um conjunto de informação pré-contratuais. Por
+exemplo, a sua identidade, as caraterísticas essenciais do bem, o preço total do
+mesmo e quaisquer outros encargos que no caso caibam. Adicionalmente, a lei
+impõe o cumprimento de determinados requisitos, quer quanto à disponibilização
+da informação pré-contratual, quer quanto à celebração do contrato celebrado fora
+do estabelecimento comercial e a obrigação do fornecedor de bens indicar, no seu
+sítio na Internet de comércio eletrónico, os meios de pagamento aceites, assim
+
+como as restrições (geográficas ou outras) à entrega.
+
+Outra particularidade do regime de venda à distância diz respeito ao direito de
+resolução do contrato pelo consumidor. Efetivamente, ao consumidor é reconhecido
+o poder de, livremente, isto é, sem qualquer fundamento e, em regra, sem incorrer
+em quaisquer custos, resolver o contrato no prazo de 30 dias seguidos, a contar,
+em regra, do dia em que o consumidor ou um terceiro, com exceção do
+transportador, indicados pelo consumidor, adquira a posse física dos bens (no caso
+concreto) . Para facilitar o exercício deste direito, o fornecedor de bens deve
+fornecer ao consumidor um formulário de livre resolução, conforme modelo fixado
+por lei. Contudo, não é obrigatório, para o consumidor, a utilização desse modelo,
+podendo fazê-lo através de qualquer outra declaração inequívoca de resolução. Por
+
+hipótese, verbalmente, por contacto telefónico ou pela devolução do bem.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(Dcicap.pt www.cicap.pt
+
+ 
+
+9)
+
+(e
+(g,
+
+(A R AL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+   
+
+Ora, no caso concreto, e nos termos do art.º 10.º, n.º 1 al. b) e art.º 11.º do
+Decreto-Lei n.º 24/2014, de 14 de fevereiro, face à factualidade dada como
+provada, temos que o demandante efetivamente não comprovou que exerceu o seu
+livre direito de resolução contratual dentro do prazo previsto e dentro das
+
+especificidades e requisitos legais.
+
+Considerando o supra exposto e tendo em conta que os direitos consignados ao
+consumidor, nomeadamente o direito de livre resolução contratual, caducaram,
+importa reconhecer, sem necessidade de maiores argumentos, a improcedência do
+
+pedido.
+
+4. Dispositivo
+
+Nestes termos, julgo a ação totalmente improcedente, pelo que absolvo a
+demandada.
+
+Notifique-se
+Porto, 22 de novembro de 2023
+
+O Juiz-Árbitro,
+
+- / Ad | o p, AML UT =
+
+— S 87 À
+
+(Luís Filipe Ascenção)
+
+SUMÁRIO:
+
+- O regime jurídico que regula os interesses legítimos dos consumidores nos contratos celebrados à
+distância e nos contratos celebrados fora do estabelecimento comercial, tendo em vista promover a
+
+transparência das práticas comerciais e salvaguardar, consta no Decreto-Lei n.º 24/2014, de 14 de
+
+9)
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+e.mail: cicap(dcicap.pt www.cicap.pt
+
+(e
+(g,
+
+(o RAL | CENTROS DE ARBITRAGEM
+o Resolução Alternativa de Litígios de Consumo
+
+(e e) CICAP | CENTRO DE INFORMAÇÃO DE CONSUMO E
+
+ARBITRAGEM DO PORTO
+
+ 
+
+TRIBUNAL ARBITRAL DE CONSUMO
+
+fevereiro, O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva n.º 2011/83/UE,
+do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativa aos direitos dos
+consumidores, que altera a Diretiva n.º 93/13/CEE, do Conselho, e a Diretiva n.º 1999/44/CE, do
+Parlamento Europeu e do Conselho, e que revoga a Diretiva n.º 85/577/CEE, do Conselho, e a Diretiva
+n.º 97/7/CE, do Parlamento Europeu e do Conselho.
+
+- Desta forma, confrontando as aludidas definições legais com factualidade dada como provada é por
+demais evidente que o Decreto-Lei n.º 24/2014, de 14 de fevereiro, é aplicável à relação jurídica em
+apreço, porquanto estamos perante um contrato celebrado fora do estabelecimento comercial, de
+compra e venda de um bem, realizado por um consumidor a um vendedor profissional, no âmbito de
+uma atividade comercial que visa a obtenção de benefícios, e que foi no dia 09/02/2022.
+
+- Antes de o consumidor se vincular a um contrato celebrado fora do estabelecimento comercial, o
+fomecedor do bem está obrigado a fornecer-lhe, em tempo útil e de forma clara e compreensível, um
+conjunto de informação pré-contratuais.
+
+- Outra particularidade do regime de venda à distância diz respeito ao direito de resolução do contrato
+pelo consumidor. Efetivamente, ao consumidor é reconhecido o poder de, livremente, isto é, sem
+qualquer fundamento e, em regra, sem incorrer em quaisquer custos, resolver o contrato no prazo de
+30 dias seguidos, a contar, em regra, do dia em que o consumidor ou um terceiro, com exceção do
+transportador, indicados pelo consumidor, adquira a posse física dos bens.
+
+- Ora, no caso concreto, e nos termos do art.º 10.9, n.º 1 al. b) e art.º 11.º do Decreto-Lei n.º 24/2014,
+de 14 de fevereiro, face à factualidade dada como provada, temos que o demandante efetivamente
+não comprovou que exerceu o seu livre direito de resolução contratual dentro do prazo previsto e
+dentro das especificidades e requisitos legais.
+
+- Considerando o supra exposto e tendo em conta que os direitos consignados ao consumidor,
+nomeadamente o direito de livre resolução contratual, caducaram, importa reconhecer, sem
+
+necessidade de maiores argumentos, a improcedência do pedido.
+
+INSTITUIÇÃO DE UTILIDADE PÚBLICA
+
+Rua Damião de Góis, nº 31 loja 6 — 4050-225 Porto - Tel. 225029791 / 225508349 - Fax 225026109
+
+e.mail: cicap(dcicap.pt www.cicap.pt
+
+ 
+
+(a
+
+(e 9)
+

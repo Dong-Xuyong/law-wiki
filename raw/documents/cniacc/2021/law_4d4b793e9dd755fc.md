@@ -1,0 +1,252 @@
+---
+id: "law_4d4b793e9dd755fc"
+folder: "CNIACC/Jurisprudencia/Comunicacoes eletronicas"
+filename: "processo-2522-2021.pdf"
+year: "2021"
+website: "CNIACC"
+topic: "Comunicacoes eletronicas"
+tokens: 5285
+tokens_sm: 983
+is_empty: "False"
+content_hash: "edc9ad59c688b4b8142a6b86dcb18e7cc4c3d7eeebb49678de7fabe74fbebbbb"
+csv_row: 1776
+imported: "2026-09-11"
+---
+
+# processo-2522-2021
+
+## Full text
+
+Proc. n.º 2522/2021 CNIACC
+Requerente: A
+Requerida: B
+SUMÁRIO:
+O contrato de prestação de serviço de comunicações eletrónicas não abrange única
+e exclusivamente a sua prestação principal (pagamento de preço para o consumidor e
+fornecimento de serviço de comunicações eletrónicas para a operadora – al. ff) do n.º 3
+do artigo 3º da Lei n.º 5/2004 de 10/02), há todo um conjunto de deveres acessórios,
+deveres secundários, e deveres laterais de conduta que têm, obrigatoriamente, de se ver
+incluídos no processo contratual que se desenha entre prestador de serviço e consumidor,
+de entre os quais temos de ressalvar, mormente, o direito de portabilidade de numeração,
+tal qual previsto no art. 54º da Lei n.º 5/2004 de 10/02.
+1. Relatório
+1.1. O Requerente pretendendo a recuperação dos seus números de telemóvel 9……
+e 9…….. vem alegar em sede de reclamação inicial que mesmo tendo solicitado à
+Reclamada a guarda dos número de telefone referidos para posterior portabilidade, os
+mesmos foram anulados, o que lhe tem causado inúmeros prejuízos porquanto era seu
+titular há inúmeros anos estando indexados em várias situações da sua vida privada.
+1.2. Citada, a Requerida apresentou contestação, pugnando pela improcedência da
+presente demanda alega em suma que os serviços de comunicações eletrónicas com o
+Reclamante foram cessados em Maio de 2021, perante o não pagamento das mensalidades
+desde Janeiro de 2021, tendo cumprido o tempo de quarentena de 3 meses legalmente
+imposto, não sendo possível a restituição dos números de telemóvel 9……. e 9…….. por
+se encontrarem já adstritos a outro titular.
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pt*
+A audiência realizou-se na presença do Reclamante e ausência da Reclamada, que
+para tal consentiu expressamente, nos termos do disposto na primeira parte do n.º 3 do
+artigo 35º da L.A.V., com a redação que lhe veio a ser conferida pela Lei n.º 63/2011 de
+14/12.
+*
+2. Objeto de Litígio
+A presente querela cinge-se na questão de saber se incorreu ou não a Requerida em
+incumprimento contratual, e em caso afirmativo se deve ou não reativar os números de
+telemóvel 9……. e 9…….. associados à conta do Reclamante.
+*
+3. Fundamentação
+3.1. Dos Factos
+3.1.1. Dos Factos Provados
+Resultam provados os seguintes factos, com interesse para a demanda arbitral:
+a) A Requerida é uma prestadora de um serviço público essencial que tem
+por objeto a prestação de serviços de comunicações eletrónicas, bem como a
+comercialização de produtos e equipamentos de comunicações eletrónicas;
+b) Em data não apurada, reclamante e reclamada celebraram contrato de
+fornecimento de serviços de comunicações eletrónicas através dos números de telemóvel
+9……… e 9……….
+c) Em 10 de Maio de 2021, o referido contrato foi cessado perante o
+incumprimento contratual do Reclamante, não pagamento das mensalidades acordadas,
+desde Janeiro de 2021
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptd) Em Dezembro de 2021 o Reclamante solicitou a outra operadora a
+portabilidade dos números 9…….. e 9…….., não tendo logrado o seu acesso
+3.1.2. Dos Factos não Provados
+Resultam não provados os seguintes factos, com interesse para a demanda arbitral:
+a) O Requerente em momento prévio a Dezembro de 2021 solicitou à
+Requerida que esta guardasse os números de telemóvel 9…….. e 9……….
+*
+3.2. Motivação
+A fixação da matéria dada como provada resultou da audição do Requerente,
+sendo omisso qualquer outro elemento probatório carreado aos autos.
+A matéria versada nos pontos factuais dados por provados assim resulta por acordo
+das partes, na realidade tanto nas suas peças processuais como em sede de audiência de
+julgamento arbitral, já nas declarações de parte do Requerente, este e a Requerida são
+consonantes nos contextos fácticos desta questão, ou seja e como foi expressamente
+afirmado pelo consumidor: Solicitou a portabilidade noutra operadora logo apos o final
+do pagamento ou seja Dezembro 2021, deixou de ter serviço da B antes do meio do ano
+passado, eles cortaram-me o serviço, por falta de pagamento deixou de pagar desde
+Janeiro de 2021
+A divergência factual das partes ocorre somente quanto aos factos que se vieram a
+dar como não provados, ou seja a comunicação prévia do consumido para reserva dos
+números em questão. Ora relativamente à fixação da matéria dada como não provada,
+resultou da ausência de mobilização probatória credível, que permitisse ao Tribunal aferir
+da veracidade dos factos, após a análise dos documentos juntos, bem assim perante
+ausência de Testemunhas ou outra prova cabal dos mesmos. Apesar do Requerente
+afirmar ter solicitado a portabilidade dos dois números de comunicações móveis não
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptforam juntos aos autos quaisquer elementos probatórios que permitissem a este Tribunal
+conhecer desta comunicação alegada pelo Consumidor em momento prévio a Dezembro
+de 2021.
+*
+3.3. DO DIREITO
+O contrato de prestação de serviço de comunicações eletrónicas não abrange única
+e exclusivamente a sua prestação principal (pagamento de preço para o consumidor e
+fornecimento de serviço de comunicações eletrónicas para a operadora – al. ff) do n.º 3
+do artigo 3º da Lei n.º 5/2004 de 10/02), há todo um conjunto de deveres acessórios,
+deveres secundários, e deveres laterais de conduta que têm, obrigatoriamente, de se ver
+incluídos no processo contratual que se desenha entre prestador de serviço e consumidor,
+de entre os quais temos de ressalvar, mormente, o direito de portabilidade de numeração,
+tal qual previsto no art. 54º da Lei n.º 5/2004 de 10/02.
+Ora, resulta pois da relação material controvertida apresentada pelo Requerente que
+os factos em causa se cingem no âmbito do identificado quadro contratual da prestação
+de serviços celebrado entre Requerente e Requerida, mais concretamente, ao nível das
+suas obrigações secundárias geradas para a Requerida como que sejam o direito de
+portabilidade de numeração do Requerente, por alteração de fornecedor do serviço de
+comunicações eletrónicas.
+O consumidor tem direito à qualidade dos serviços que contracta. Princípio basilar
+na nossa lei civil, já transversal pelo brocado latino Pacta sunt servanda, e aflorado na lei
+de defesa do consumidor no seu art. 4º - Os bens e serviços destinados ao consumo devem
+ser aptos a satisfazer os fins a que se destinam e a produzir os efeitos que se lhes atribuem,
+segundo as normas legalmente estabelecidas, ou, na falta delas, de modo adequado às
+legítimas expectativas do consumidor, e no artigo 7º da Lei 23/96 de 26 de Junho - A
+prestação de qualquer serviço deverá obedecer a elevados padrões de qualidade, neles
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptdevendo incluir-se o grau de satisfação dos utentes, especialmente quando a fixação do
+preço varie em função desses padrões.
+Cabe ao prestador do serviço a prova de todos os factos relativos ao cumprimento
+das suas obrigações e ao desenvolvimento de diligências decorrentes da prestação dos
+serviços a que se refere a presente lei – n.º 1 do artigo 11º da referida Lei n.º 23/96.
+In casu, o quadro contratual tem, ainda, de ser conjugado com o legalmente
+estipulado no Regulamento 58/2005 de 18/08 (Regulamento da Portabilidade),
+afloramento do artigo 54º da Lei n.º 5/2004 de 10/02 (Lei das Comunicações Eletrónicas).
+Assim,
+Art. 54º Lei n.º 5/2004, de 10/02 – Portabilidade dos números
+1. Sem prejuízo de outras formas de portabilidade que venham
+a ser determinadas, é garantido a todos os assinantes com números
+incluídos no Plano Nacional de Numeração, que o solicitem, o
+direito de manter o seu número ou números, no âmbito do mesmo
+serviço, independentemente da empresa que o oferece, no caso de
+números geográficos, num determinado local, e no caso dos
+restantes números, em todo o território nacional.
+2 – As empresas responsáveis pela execução de portabilidade
+devem assegurar que a transferência de um assinante de uma
+empresa para outra, com implementação da portabilidade, se
+conclua no prazo mais curto possível e com respeito pela vontade
+expressa do assinante(…)
+Art. 2º Regulamento n.º 58/2005 – Regulamento da
+portabilidade
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pt1. Para efeitos do disposto no presente regulamento, entende-
+se por: (…)
+r) “Portabilidade” – funcionalidade que permite aos
+assinantes de serviços telefónicos acessíveis ao público que o
+solicitem manter o seu número ou números, no âmbito do mesmo
+serviço, independentemente da empresa que o oferece, no caso de
+número geográficos, num determinado local, e no caso dos restantes
+números, em todo o território nacional (portabilidade de operador)
+(…)
+y) Tempo de guarda: período de 6 meses durante o qual as
+empresas não poderão atribuir os números que estiveram em uso a
+novos assinantes. No tempo de guarda está incluído o tempo de
+quarentena;
+z) Tempo de quarentena: período de 3 meses durante o qual,
+após o termo do contrato com o PD, o utilizador pode solicitar o uso
+do número na mesma empresa ou requerer portabilidade. O tempo
+de quarentena expira no mesmo dia do mês, se útil, ou no dia útil
+seguinte, nos outros casos. (…)
+Art. 10º Regulamento n.º 58/2005 – Regulamento da
+portabilidade
+1. A portabilidade implica a cessação do contrato existente
+entre o assinante que pretende a portabilidade e uma determinada
+empresa e a celebração de um novo contrato com outra empresa
+para onde o número ou úmeros em causa são portados.
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pt2. A Denúncia contratual, devidamente identificada como
+sendo para efeitos de portabilidade, é entregue pelo assinante ao PR
+e dirigida ao PD, devendo o PR enviar mensalmente ao PD por
+qualquer meio que permita a correta identificação do assinante,
+todos os documentos de denúncia relativos às portabilidades
+efetivas nos 30 dias anteriores (…)
+Art. 12º Regulamento n.º 58/2005 – Regulamento da
+portabilidade
+(…) 2. Juntamente com a denúncia a que se refere o artigo 10º,
+o assinante que pretenda a portabilidade do número deve solicitá-la
+ao PR [prestador recetor] através do pedido próprio para o efeito,
+incluindo no mesmo o documento ou em documento autónomo,
+apresentando a sua identificação, ainda que se trate de assinante
+não identificado de serviços pré-pagos.
+3 – O assinante pode solicitar a portabilidade em benefício de
+um terceiro devidamente identificado e por aquele expressamente
+autorizado a celebrar o novo contrato com o PR [prestador
+recetor](…)
+E estando em causa não uma obrigação de meios, mas uma obrigação de resultados
+a que a Requerida se obriga, passando o pleonasmo, é, pois, inelutável afirmar que a tal
+cumprimento defeituoso é por si só, e grosso modo, capaz de originar para o prestador de
+serviço responsabilidade que, a existir, se enquadra no instituto da responsabilidade civil
+contratual.
+Ora, o artigo 7º da Lei 23/96 de 26 de Julho postula uma obrigação legal de
+resultados e não uma obrigação de meios, em que o prestador de serviço fica vinculado a
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptobter um determinado resultado com a sua atividade, não logrando tal resultado a que se
+obrigou, há incumprimento contratual, ou maximé cumprimento defeituoso da obrigação
+contratual.
+Assim, a responsabilidade civil contratual pressupõe a existência de um contrato e
+assenta no princípio fundamental da presunção de culpa do devedor, segundo o qual
+incumbe a este provar que a falta de cumprimento ou o cumprimento defeituoso da
+obrigação não procede de culpa sua, nos termos do disposto nos artigos 799º, n.º1 e 342º,
+n.º2 ambos do C.C., sob pena de recair sobre si a respetiva presunção de culpa.
+Como é sabido, e vem legalmente plasmado nos artigos 798º e ss., em conjugação
+com os artigos 562º e ss, todos do C.C., constituem pressupostos da responsabilidade civil
+contratual o facto ilícito/ incumprimento da obrigação contratual, o dano, o nexo de
+causalidade entre o facto e o dano, a par da culpa.
+À exceção do que sucede na mencionada presunção de culpa do devedor – artigo
+799º e n.º 1 do artigo 344º C.C. –, nos restantes pressupostos, tal prova, de acordo com
+os princípios da repartição do ónus da prova, cabem à Requerente/ Consumidor, nos
+termos do artigo 342º, n.º 1 do C.C.
+Trata-se da aplicação do princípio “actor incumbit probatio; reus in exipiendo fit
+actor”. Ou seja, o ónus da prova recai, assim, sobre todos os intervenientes processuais,
+devendo o Demandante provar os factos constitutivos do direito que alega ter, sendo que
+o Demandando terá de provar os factos impeditivos, modificativos ou extintivos do
+direito que aquele invoca.
+Não se trata de repartir o encargo da prova em atenção à qualidade do facto
+probando mas à posição na lide daquele que o invoca, sempre ressalvando (e no que ora
+releva) o citado disposto no n.º 1 do artigo 344.º da lei civil. (cf. Prof. Vaz Serra, “Provas”,
+BMJ 112-269/270).
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.ptPerante a matéria dada como provada na presente demanda arbitral, e no que ao
+caso importa, e por tudo quanto já exposto supra, só pode o Tribunal vir a dar como
+provado o pedido de portabilidade do número fixo do Requerente submetido em
+Dezembro de 2021, havendo há muito sido ultrapassado não só o prazo de 3 meses de
+quarentena a que a Requerida está legalmente obrigada mas também o prazo de 6 meses
+de não atribuição do número a outros titulares. Assim há que se concluir que não resulta
+provado qualquer incumprimento contratual por parte da Requerida, não lhe podendo ser
+imputada a perda dos números de telemóveis objeto do presente processo.
+Pelo que, improcede assim, a pretensão do Requerente neste propósito.
+*
+4. Do Dispositivo
+Nestes termos, com base nos fundamentos expostos, julgo a ação totalmente
+improcedente, absolvendo a Requerida no pedido.
+Notifique-se
+Braga, 15/04/2022
+A Juiz-Árbitro,
+(Sara Lopes Ferreira)
+CNIACC – Centro Nacional de Informação e Arbitragem de Conflitos de Consumo
+Rua D. Afonso Henriques, nº 1 4700 – 030 Braga
+Tl:253 619 107 Email: geral@cniacc.pt

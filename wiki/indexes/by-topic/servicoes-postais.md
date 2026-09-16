@@ -1,0 +1,51 @@
+---
+generated_kind: "dimension-page"
+generated_fingerprint: "0945b29e4b1c311e056913ada9794d359f6b6b39ad343f18977da66bab0a6703"
+---
+
+# Topic: Servicoes postais
+
+42 source pages. Generated on import.
+
+- [[sources/servicos-postais--law_e98c3b9e27ce32fb]] — servicos-postais (2016, CNIACC, Servicoes postais)
+- [[sources/processo-1711-2018--law_ce722251aef47a2d]] — processo-1711-2018 (2018, CNIACC, Servicoes postais)
+- [[sources/proceso-2155-2023--law_507794fa0294a3d5]] — proceso-2155-2023 (2019, CNIACC, Servicoes postais)
+- [[sources/processo-1735-2019--law_7fe11080b44ef5b7]] — processo-1735-2019 (2019, CNIACC, Servicoes postais)
+- [[sources/processo-1829-2019--law_da0fbe3e4a80661a]] — processo-1829-2019 (2019, CNIACC, Servicoes postais)
+- [[sources/processo-222-2019--law_d81d5569944af0ad]] — processo-222-2019 (2019, CNIACC, Servicoes postais)
+- [[sources/processo-937-2023--law_c0dc194559082894]] — processo-937-2023 (2019, CNIACC, Servicoes postais)
+- [[sources/2020-processo-1968-out--law_a26b4e3317abb671]] — 2020_Processo 1968.out (2020, Triave, Servicoes postais)
+- [[sources/2020-processo-875-out--law_0648b31ecb0592ad]] — 2020_Processo 875.out (2020, Triave, Servicoes postais)
+- [[sources/processo-1912-2020--law_e9a9322b9b53fafe]] — processo-1912-2020 (2020, CNIACC, Servicoes postais)
+- [[sources/processo-1931-2020--law_f99636351e089ecb]] — processo-1931-2020 (2020, CNIACC, Servicoes postais)
+- [[sources/processo-2637-2020--law_a34669f5cee11ab5]] — processo-2637-2020 (2020, CNIACC, Servicoes postais)
+- [[sources/processo-901-2020--law_09b270994c816645]] — processo-901-2020 (2020, CNIACC, Servicoes postais)
+- [[sources/processo-1276-2021--law_4c294d237d49f903]] — processo-1276-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-1576-2021--law_0912e2d2853c4e22]] — processo-1576-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-2444-2021--law_28cafa2e7d056402]] — processo-2444-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-2447-2021--law_24d0a93410244635]] — processo-2447-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-2925-2021--law_c25b73178ec88f48]] — processo-2925-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-409-2021--law_5145ab08c7ddbbca]] — processo-409-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-419-2021--law_46a8a26b95663f8c]] — processo-419-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/processo-431-2021--law_eca9cb953e9d0222]] — processo-431-2021 (2021, CNIACC, Servicoes postais)
+- [[sources/proceso-320-2022--law_3958676dec9f518a]] — proceso-320-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1096-2022--law_381aa3832b8b45ee]] — processo-1096-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1212-2022--law_063224fc23468206]] — processo-1212-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1213-2022--law_829fbe757693d102]] — processo-1213-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1215-2022--law_36313765bf8dabf7]] — processo-1215-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1216-2022--law_716983a154a76a79]] — processo-1216-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1249-2022--law_0f19beeceeeb2f6b]] — processo-1249-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1417-2022--law_dcaa96a7862ff31e]] — processo-1417-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-171-2022--law_23d3ca64f9375b3c]] — processo-171-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-1732-2022--law_4fcf5bd5a9a6f9ba]] — processo-1732-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-317-2022--law_0b2e8e278404d322]] — processo-317-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-318-2022--law_907418e57c423fc1]] — processo-318-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-319-2022--law_fe431132cd65408c]] — processo-319-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-321-2022--law_0692fb84671bd97c]] — processo-321-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-694-22--law_466925152c837239]] — processo-694-22 (2022, CNIACC, Servicoes postais)
+- [[sources/processo-866-2022--law_2744f520b70fe2e8]] — processo-866-2022 (2022, CNIACC, Servicoes postais)
+- [[sources/sent-266-1--law_452a7f37fdb8e129]] — Sent.266 (1) (2023, CACCL, Servicoes postais)
+- [[sources/processo-1618-2023--law_7df9727b08242a5f]] — processo-1618-2023 (2023, CNIACC, Servicoes postais)
+- [[sources/processo-2088-2023--law_e94e573bea249551]] — processo-2088-2023 (2023, CNIACC, Servicoes postais)
+- [[sources/processo-2184-2022--law_574da198a732c6db]] — processo-2184-2022 (2023, CNIACC, Servicoes postais)
+- [[sources/processo-295-202472--law_2ba915537eb688ea]] — processo-295-202472 (2024, CNIACC, Servicoes postais)

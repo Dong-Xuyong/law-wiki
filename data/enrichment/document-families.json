@@ -1,0 +1,868 @@
+[
+  {
+    "ids": [
+      "law_5e880240beb81480",
+      "law_8a70e4d9960235d6"
+    ],
+    "key": "07945cbed7f315d405079e52e2c5d7cf04742a91be3c7784c80e40ae8bb767d1",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_daa4b073dec3ca5d",
+      "law_ff000d6b4de86cc5"
+    ],
+    "key": "0e608bae1b7b6f2beb45ddcb42872caadca46eeeec229300b2e0f8c6c3d174f0",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_0caee2e4a1539dc6",
+      "law_24ad611ae2d70092"
+    ],
+    "key": "233856f567d94d50f57526fd7e2fc76d6bf31b7aa375f3009d4d09526f5fffb7",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_12b2cc7bd28059d8",
+      "law_c0772c9fe6542cbf"
+    ],
+    "key": "2be4f27b6a004ae526287895a4f2b7b74ecb28e78e559ef11d0620d34546f988",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_3357fa16acf042a7",
+      "law_98981acfae712b5b"
+    ],
+    "key": "38a124d36f576abe0058cff4950724cb9e9fac6db45a59ea79925b1504124a6d",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_111f9e0e06384d2f",
+      "law_359161b86e0cf2a3"
+    ],
+    "key": "3d24d770f85e482c027017ce3df492b13f888a8a1990e400a6121beb2114809b",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_a5c939578293269b",
+      "law_e6a2f11808d3422f"
+    ],
+    "key": "485b5e2bca697b5f494e984f515c2fc9354e465ed5f6663c8a69e2952d19d459",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_295774da8118521e",
+      "law_6e53cdc8acae726d"
+    ],
+    "key": "518c9ec95952b64ca3ac76a1212ca5e4180746ea6e7f92db631486a9b6b9bbd1",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_abf481ebfef12994",
+      "law_bef06ef99b5876c7"
+    ],
+    "key": "54a8b9df80fea9d5779920ad2b2a0d7a5c967d83a956742571ca5996b5962043",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_9207e743e24cecf4",
+      "law_e27dd3ec9266ba50"
+    ],
+    "key": "59360b6634966a5ebfb776bd609abf490cca27cba066d2afc6ede2dacd9cae33",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_7f723be3a9f93210",
+      "law_92450eca271269b5"
+    ],
+    "key": "8cc410e1355d74604dd3c0ca97c0633cd518931fcb96e7e5d4feaf04bf812498",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_5a79f7022a0570f0",
+      "law_d8add1af99ed3837"
+    ],
+    "key": "a17c26d6f70d4d407dcf391123950bc3acaa2179af8d4154f7ae47971186b2e4",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_7d6c15c30a38f222",
+      "law_c28341546fd775a5"
+    ],
+    "key": "ad3de50dcee00c6adbc9c3abb46a21e2e1c7f88942608ffbe2936e73c24fd9a7",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_3a627be9c8dd7dbf",
+      "law_8aa9b78bf3f192a1"
+    ],
+    "key": "b4ad43de0335d1730541fe714edfe57ba0f493b43a7ea976a6e471856ad42307",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_8ab0990f8b11941c",
+      "law_e0a1f9d884aa6178"
+    ],
+    "key": "b5c046b889d426bfd88da6a149082cb268464716062afba0729948e7cfeafd2d",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_6c168c598e976b93",
+      "law_9b1bdc3f8892279f"
+    ],
+    "key": "b72ce972b2168e5a490eb401d5ae26a1a4168b404472808470894c65ff5972b6",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_5a61732427c94edb",
+      "law_a4018ba1bd0edf10"
+    ],
+    "key": "d0ec03c3d66bf9c10da274145e603f248d69b32b6df61631fc7ff0a181009b10",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_17de4f2fef43e32d",
+      "law_c642dd41db95343e"
+    ],
+    "key": "e06fe20d8bd98dbc9f6c2504fb04240993ea2ffb5ae8342b9a558df0b2ea7382",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_79e167a4c08bfa87",
+      "law_8c239a8db895af12"
+    ],
+    "key": "e181214a880a3f11ef68078d3fe30a027a1a9f7ab481b285ab59dd693c4a3f83",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_a99bdcaad0752fe1",
+      "law_c75883517fe8ea83"
+    ],
+    "key": "e52ddeb98e91afbceab27c26e08b021a19c9b90af59164ce89ef55dbb5c55705",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_39278730af2f19ab",
+      "law_e77ca6dcbdef5bb4"
+    ],
+    "key": "e532342f16af4c4b971c34f3dbb6ad869718fe649a61d122d4b6d9a48d6c973c",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_0f65eaaaad6139eb",
+      "law_2369b1c7f4528efa"
+    ],
+    "key": "e898f5a840a1d90edc210ce0c3ef15428857df1e470f45755c4183c4391a494e",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_2311be2b35816b6c",
+      "law_cdd5cbaf6f03daa4"
+    ],
+    "key": "eea8faaab0f83cde4f1bed506799774ba7fff7dfcd355ef28efdabe179a1d329",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_7b87bfe91d010e58",
+      "law_86fa6cfac30858ba"
+    ],
+    "key": "f37413de4c6a78020116bdb5f9c90033195595cc5e007aeda19c94cb6e7c9fba",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_274b768efdc435a9",
+      "law_5808c24b45a9a225"
+    ],
+    "key": "f4d5fe672a5c82450f4a48ccb52b7705a16822f922170df16228ec5486a704f5",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_073da89014301502",
+      "law_ee3c27ae31cfa535"
+    ],
+    "key": "fe8697b8139c739f8526f11a454be6707494a884b33bc518d3e2204d2a5ac2f2",
+    "kind": "exact-content"
+  },
+  {
+    "ids": [
+      "law_6a0fb7c2324bd7b6",
+      "law_f0333f5076de5178"
+    ],
+    "key": "24052016telecomunicacoes",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_893fc828bcc22de7",
+      "law_bc1fde3d416013bb"
+    ],
+    "key": "3102016telecomunicacoes1",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_4faf216f97cc6af7",
+      "law_e52a0ba128e016ab"
+    ],
+    "key": "sent101",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_298a2494598d1cb3",
+      "law_8756e07654a3b264"
+    ],
+    "key": "sent11",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_851aea99245167bc",
+      "law_d280594dd81b8d7a"
+    ],
+    "key": "sent120",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_070b35a6cbde3c8a",
+      "law_d0ece8980530b17f"
+    ],
+    "key": "sent121",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_0ad0c6c5db8fdcca",
+      "law_544e6034a819b175"
+    ],
+    "key": "sent131",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_06f48e893860663b",
+      "law_b25d2a159bbfaf92"
+    ],
+    "key": "sent141",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_1786b5cfac07267b",
+      "law_2b76846788b2082b"
+    ],
+    "key": "sent151",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_4980e536c1c34be8",
+      "law_6d345d109568d8b2"
+    ],
+    "key": "sent181",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_37cd1169df51bd70",
+      "law_9e2757b59673a0a5"
+    ],
+    "key": "sent191",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_772ffecba0007a4b",
+      "law_948329ccc496606b"
+    ],
+    "key": "sent201",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_b95b72aacdde32f0",
+      "law_ebbe502008e77f2b"
+    ],
+    "key": "sent204e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_579d0646de08683e",
+      "law_de8457b676007a85"
+    ],
+    "key": "sent21",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_263c004b6f06797a",
+      "law_98c6d4c2a1c7365e"
+    ],
+    "key": "sent217e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_9650d64c9a05fcb5",
+      "law_e80d02a480db4e04"
+    ],
+    "key": "sent220",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_5ba0d53024758644",
+      "law_b149f27b9c8f0b68"
+    ],
+    "key": "sent221",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_53edd10234e1b32e",
+      "law_cf8f00b154338b60"
+    ],
+    "key": "sent221e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_85179e592406624c",
+      "law_d15e51fa5a357aaa"
+    ],
+    "key": "sent222e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_d0830548660f2a4a",
+      "law_f38e460fcf78bfda"
+    ],
+    "key": "sent223e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_999aa94001316fdc",
+      "law_f92383904db7cf34"
+    ],
+    "key": "sent231",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_a1cfcde24fa36c4f",
+      "law_e6dbf27aeea9d297"
+    ],
+    "key": "sent241",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_40fbac5e75bbcd78",
+      "law_6231fc86579f729a"
+    ],
+    "key": "sent251",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_95a9b02fee1d150c",
+      "law_d2653bd9c6d302d1"
+    ],
+    "key": "sent301",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_267a14dadbf744e2",
+      "law_4c5428965adf4ee1"
+    ],
+    "key": "sent31",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_b205a74856082fe1",
+      "law_f397d29da1ceb7ae"
+    ],
+    "key": "sent311",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_178fe1b0feeb93a6",
+      "law_18ff1b53d2cc3c5c"
+    ],
+    "key": "sent320",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_450c4e7e80e2e569",
+      "law_9f3f1dd7bbaf299b"
+    ],
+    "key": "sent321",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_2464dcd6a17ac074",
+      "law_74782d5b2737a1a5"
+    ],
+    "key": "sent331",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_a5f57f73045c3664",
+      "law_eafbc502f67783b7"
+    ],
+    "key": "sent341",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_007137f6699c3d69",
+      "law_f596e29173ecdbac"
+    ],
+    "key": "sent351",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_600b5d3fe7f8d6d2",
+      "law_979e8344879cce83"
+    ],
+    "key": "sent361",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_5d6a93d47e3419d7",
+      "law_6d46c51f5281a115"
+    ],
+    "key": "sent381",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_54f987a2be38e108",
+      "law_dc85b3cd983b44d6"
+    ],
+    "key": "sent391",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_3322e4c0dafb62ac",
+      "law_c6e3462ee55368ed"
+    ],
+    "key": "sent41",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_061649f8de1b15f1",
+      "law_ed34e03540f7b8b9"
+    ],
+    "key": "sent420",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_0dfe6c053a9046a1",
+      "law_ffa70d3218017ecf"
+    ],
+    "key": "sent431",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_3a729ed8fdc02aee",
+      "law_fcee7d82cb72bd21"
+    ],
+    "key": "sent451",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_572c3dc88222f976",
+      "law_cb01b456e9743885"
+    ],
+    "key": "sent481",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_9920ffc1c081d5d2",
+      "law_d93a6972d50f4adc"
+    ],
+    "key": "sent51",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_c5627e7b44d304ca",
+      "law_dd30a8a6ece9a312"
+    ],
+    "key": "sent551",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_34efaa8dfb2b16e3",
+      "law_8b50a312391b1b05"
+    ],
+    "key": "sent58e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_8899fcc521944c21",
+      "law_c9cbb939e1fe6cda"
+    ],
+    "key": "sent59e",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_140e8645c9661cd1",
+      "law_5904ecd175480382"
+    ],
+    "key": "sent61",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_86a673d9424fe92d",
+      "law_ec52249796c65bc2"
+    ],
+    "key": "sent71",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_12b2cc7bd28059d8",
+      "law_c0772c9fe6542cbf"
+    ],
+    "key": "sent82",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_2a7875d28a35f007",
+      "law_e0a72113fd0a8866"
+    ],
+    "key": "sent91",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_479878491f8829ea",
+      "law_4cb7f89032cf7d4f"
+    ],
+    "key": "sentenca111120211",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_586437e7038b9ae5",
+      "law_fa5f7f41b670ef8c"
+    ],
+    "key": "sentenca19052021",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_77a21d9d9ec93efa",
+      "law_dcbc1273f2f4523e"
+    ],
+    "key": "sentenca19082021",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_8d2e7951d299720e",
+      "law_a16eca4b0b508a6e"
+    ],
+    "key": "sentenca20032022",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_0f65eaaaad6139eb",
+      "law_2369b1c7f4528efa"
+    ],
+    "key": "sentenca20042021",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_1537b1c960ad36cf",
+      "law_9c963c7e417e8367"
+    ],
+    "key": "sentenca22062022",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_3ab400573255fb35",
+      "law_5611aa3c3e58f8db"
+    ],
+    "key": "sentenca22082021",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_3e87a75a11750025",
+      "law_6a82b44d8c287f94",
+      "law_edaf4d1c37ac57d5",
+      "law_fc0c988bfa28aee7"
+    ],
+    "key": "sentenca27042021",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_0adee3f7158e6d7c",
+      "law_457ed16ca7bdfac2"
+    ],
+    "key": "sentenca270420211",
+    "kind": "filename"
+  },
+  {
+    "ids": [
+      "law_17de4f2fef43e32d",
+      "law_c642dd41db95343e"
+    ],
+    "key": "02dad758c922b8f3a8f4aa2a4f6540f0feb96b9300fc099aab0216f065c3ba68",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_7d6c15c30a38f222",
+      "law_c28341546fd775a5"
+    ],
+    "key": "10ffb6b1ed42c4b14817590a747b1b4f03178513b340ddffed12ae1a08f87a32",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_3357fa16acf042a7",
+      "law_98981acfae712b5b"
+    ],
+    "key": "1ea17f8797e166cf7cd3114007d530f32805fe53834ae70f6f5bb8a06aea0914",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_abf481ebfef12994",
+      "law_bef06ef99b5876c7"
+    ],
+    "key": "24cb4fb1b80d49978324cd4997fc67d53f22b879f4499329b8a834a440790cac",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_9207e743e24cecf4",
+      "law_e27dd3ec9266ba50"
+    ],
+    "key": "2c3248770b6e5635925e35ae11538dd715a35b2e4f0f1e81aeec968eda80ae07",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_2311be2b35816b6c",
+      "law_cdd5cbaf6f03daa4"
+    ],
+    "key": "2d515e6b5448a30923c23c11ae43e40c7a201e0a46bf0805eb1ca2295387d8f5",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_111f9e0e06384d2f",
+      "law_359161b86e0cf2a3"
+    ],
+    "key": "54ae804b3eceb39f4ca41ee0519f33d7fd0cf125d5c50f9f37023a3814cbbf1c",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_5a61732427c94edb",
+      "law_a4018ba1bd0edf10"
+    ],
+    "key": "56abe90234dcbd496f035ea2e6b6b7962fa5fd1611ce38dd59e43f7a2f0c9ed1",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_6c168c598e976b93",
+      "law_9b1bdc3f8892279f"
+    ],
+    "key": "5d8c05c8772e8e5735503c246aa7cc918b7b828a01c3e3c7f0d7c1e0648d8193",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_3a627be9c8dd7dbf",
+      "law_8aa9b78bf3f192a1"
+    ],
+    "key": "66529c6addefbe441d1c9020047348efc16aeaf4f0a10fb1dce30248dd90de2f",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_79e167a4c08bfa87",
+      "law_8c239a8db895af12"
+    ],
+    "key": "6f5a73aab2d5aec40b896800e9752943d9e7ecbb721e081d111986db4fb0656a",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_a99bdcaad0752fe1",
+      "law_c75883517fe8ea83"
+    ],
+    "key": "755744be3afa5b926768a24f957a07dc00e9b5116bef962fb6695ec7949dda91",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_8ab0990f8b11941c",
+      "law_e0a1f9d884aa6178"
+    ],
+    "key": "847d72863fce2173615293e1a03bfe2c388a6906af3e231ee443eb1b7e8c7ef3",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_12b2cc7bd28059d8",
+      "law_c0772c9fe6542cbf"
+    ],
+    "key": "86e36ffcf8232f98d87ac72a38e2a1e5707722fe5ee50cb2aba3efec6592332f",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_5e880240beb81480",
+      "law_8a70e4d9960235d6"
+    ],
+    "key": "95550305976a7a8a4cdf1dee3447c4cd85b060026e089fa48aeee0128460657c",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_073da89014301502",
+      "law_ee3c27ae31cfa535"
+    ],
+    "key": "a08051e74eb3ea36cfa583ce440f490022eae9b03be6df8e4116e9ed521b184e",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_daa4b073dec3ca5d",
+      "law_ff000d6b4de86cc5"
+    ],
+    "key": "a15cefda09ae52f04b99a5c688720e77786a7bca52579f3c02cb8e8cbd891c65",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_295774da8118521e",
+      "law_6e53cdc8acae726d"
+    ],
+    "key": "b0215134a5f3b88dbc1ae07c11faa6ff3a5b523b0c42e81472d9db70685bea82",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_7f723be3a9f93210",
+      "law_92450eca271269b5"
+    ],
+    "key": "baf6851123005f088cc104facb70589f376e588dc0fbfecb3539be19e8a1fcac",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_0f65eaaaad6139eb",
+      "law_2369b1c7f4528efa"
+    ],
+    "key": "c04067cfbcaf87e6c396838a1c0e0fdb455d8b56286ec88dc3dcb40ec56f19db",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_39278730af2f19ab",
+      "law_e77ca6dcbdef5bb4"
+    ],
+    "key": "c25d7549062cb751a1affcd2bce8eb51f8764f3ef764508b5ccfcf79df0434db",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_7b87bfe91d010e58",
+      "law_86fa6cfac30858ba"
+    ],
+    "key": "c65444ab024fa0b7f69aae6ba0e8a24b76f693b11b506b1b88a53626c50626e6",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_274b768efdc435a9",
+      "law_5808c24b45a9a225"
+    ],
+    "key": "d1082dbe680ee779ddf9b7a393b88d0f0af9ffa26d5661e72092df18bb02fe7d",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_5a79f7022a0570f0",
+      "law_d8add1af99ed3837"
+    ],
+    "key": "d2fc1feab590104fe2c49d8534214d01bc083c48e4a152724177cf81ceec91ce",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_a5c939578293269b",
+      "law_e6a2f11808d3422f"
+    ],
+    "key": "da312ce0445b0f59f245c63d4681596638ac954acb8d207e488eebdda0ad4c9e",
+    "kind": "normalized-content"
+  },
+  {
+    "ids": [
+      "law_0caee2e4a1539dc6",
+      "law_24ad611ae2d70092"
+    ],
+    "key": "f53185e8235dfd1d559f7428cc590f9eca14ca609ef6123f1175c4f8998fa022",
+    "kind": "normalized-content"
+  }
+]

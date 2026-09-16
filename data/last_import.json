@@ -1,0 +1,28 @@
+{
+  "csv": {
+    "path": "C:\\Users\\Dong\\Downloads\\df_organized.csv",
+    "size": 102448958,
+    "sha256": "93708e7ea6e73db036bd4726bf632a5e27132900364bc0b8b3b7e7ae5cf8a71c"
+  },
+  "stats": {
+    "rows": 5156,
+    "raw_written": 0,
+    "raw_unchanged": 5156,
+    "raw_changed": 0,
+    "sources_written": 0,
+    "sources_unchanged": 5156,
+    "sources_skipped_enriched": 0,
+    "protected_conflicts": 0,
+    "generated_written": 5,
+    "generated_unchanged": 5468,
+    "legacy_v1_migrated": 0,
+    "stale_generated_deleted": 0,
+    "short_texts": 28,
+    "concepts": 22,
+    "entities": 6,
+    "duplicate_groups": 26,
+    "duplicate_rows": 52
+  },
+  "content_change_reports": [],
+  "protected_conflict_reports": []
+}
