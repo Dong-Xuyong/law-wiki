@@ -53,6 +53,36 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
       </div>
     </section>
 
+    <section class="home-section explainer-section" aria-labelledby="llm-titulo">
+      <div class="section-heading">
+        <p class="eyebrow">Do corpus à resposta</p>
+        <h2 id="llm-titulo">Como funciona uma LLM jurídica</h2>
+      </div>
+      <figure class="llm-infographic">
+        <a
+          href={`${base}/images/how-a-legal-llm-works.png`}
+          target="_blank"
+          rel="noreferrer"
+          aria-label="Abrir o infográfico em tamanho completo"
+        >
+          <img
+            src={`${base}/images/how-a-legal-llm-works.png`}
+            alt="Infográfico em oito etapas: fontes jurídicas, ingestão e estruturação, indexação, pergunta, recuperação de autoridades, raciocínio sobre o contexto, resposta fundamentada e verificação humana."
+            width="1024"
+            height="576"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+        <figcaption>
+          Uma resposta fiável combina fontes autorizadas, recuperação com citações e verificação humana.
+          <a href={`${base}/images/how-a-legal-llm-works.png`} target="_blank" rel="noreferrer">
+            Abrir em tamanho completo
+          </a>
+        </figcaption>
+      </figure>
+    </section>
+
     <section class="panel research-card">
       <p class="eyebrow">Como ler o portal</p>
       <h2>Fonte primeiro, análise depois</h2>
