@@ -64,12 +64,23 @@ def graph_payload(rows: list[dict[str, Any]], connections: list[dict[str, Any]])
     known = {str(row["id"]): row for row in rows}
     nodes: dict[str, dict[str, Any]] = {}
     edges: list[dict[str, str]] = []
+    keywords: dict[str, dict[str, Any]] = {}
+    keyword_documents: dict[str, set[str]] = defaultdict(set)
+    keyword_nodes: dict[str, set[str]] = defaultdict(set)
 
     def add_node(key: str, label: str, node_type: str, document_id: str = "") -> None:
         nodes.setdefault(
             key,
             {"id": key, "label": label or key, "type": node_type, "documentId": document_id},
         )
+
+    def add_keyword(
+        key: str, label: str, keyword_type: str, document_id: str, node_id: str = ""
+    ) -> None:
+        keywords.setdefault(key, {"key": key, "label": label, "type": keyword_type})
+        keyword_documents[key].add(document_id)
+        if node_id:
+            keyword_nodes[key].add(node_id)
 
     for row in rows:
         document_id = str(row["id"])
@@ -82,6 +93,12 @@ def graph_payload(rows: list[dict[str, Any]], connections: list[dict[str, Any]])
             key = f"{kind}:{label.casefold()}"
             add_node(key, label, kind)
             edges.append({"source": key, "target": f"document:{document_id}", "predicate": kind})
+            if kind == "topic":
+                add_keyword(key, label, "topic", document_id, key)
+        for category in row.get("categories") or []:
+            label = str(category).replace("-", " ").strip().title()
+            key = f"category:{str(category).casefold()}"
+            add_keyword(key, label, "category", document_id)
 
     for item in connections:
         if item.get("review_status") != "accepted":
@@ -97,22 +114,28 @@ def graph_payload(rows: list[dict[str, Any]], connections: list[dict[str, Any]])
             continue
         target = object_key if object_key.startswith("document:") else object_key
         target_document = target.removeprefix("document:") if target.startswith("document:") else ""
-        add_node(target, str(obj.get("label") or target), str(obj.get("type") or "concept"), target_document)
+        object_label = str(obj.get("label") or target)
+        object_type = str(obj.get("type") or "concept")
+        add_node(target, object_label, object_type, target_document)
         edges.append({"source": subject, "target": target, "predicate": str(item.get("predicate") or "related")})
+        if object_type in {"concept", "instrument"}:
+            add_keyword(target, object_label, object_type, document_id, target)
 
     # Give the initial non-document view a real mind-map hierarchy.
     add_node("root:law-wiki", "Law Wiki", "root")
     visible_types = {"website", "topic", "folder", "instrument", "case"}
+    group_labels = {
+        "website": "Fontes", "topic": "Temas", "folder": "Pastas",
+        "instrument": "Legislação", "case": "Processos",
+    }
+    for node_type, label in group_labels.items():
+        group_key = f"group:{node_type}"
+        add_node(group_key, label, "group")
+        edges.append({"source": "root:law-wiki", "target": group_key, "predicate": "contains"})
     for node in list(nodes.values()):
         if node["type"] not in visible_types:
             continue
         group_key = f"group:{node['type']}"
-        group_labels = {
-            "website": "Fontes", "topic": "Temas", "folder": "Pastas",
-            "instrument": "Legislação", "case": "Processos",
-        }
-        add_node(group_key, group_labels[node["type"]], "group")
-        edges.append({"source": "root:law-wiki", "target": group_key, "predicate": "contains"})
         edges.append({"source": group_key, "target": node["id"], "predicate": "contains"})
 
     # Metadata document nodes are created only when their hub is expanded in the UI.
@@ -123,7 +146,33 @@ def graph_payload(rows: list[dict[str, Any]], connections: list[dict[str, Any]])
         (edge["source"], edge["predicate"], edge["target"]): edge
         for edge in edges
     }
-    return {"nodes": compact_nodes, "edges": list(unique_edges.values())}
+    rendered_edges = list(unique_edges.values())
+    document_neighbors: dict[str, set[str]] = defaultdict(set)
+    child_neighbors: dict[str, set[str]] = defaultdict(set)
+    for edge in rendered_edges:
+        if edge["target"].startswith("document:"):
+            document_neighbors[edge["source"]].add(edge["target"])
+        if edge["source"].startswith("document:"):
+            document_neighbors[edge["target"]].add(edge["source"])
+        if edge["predicate"] == "contains":
+            child_neighbors[edge["source"]].add(edge["target"])
+    for node in compact_nodes:
+        if node["id"] == "root:law-wiki":
+            node["count"] = len(rows)
+        elif node["type"] == "group":
+            node["count"] = len(child_neighbors[node["id"]])
+        else:
+            node["count"] = len(document_neighbors[node["id"]])
+    rendered_keywords = []
+    for key, keyword in keywords.items():
+        rendered_keywords.append({
+            **keyword,
+            "count": len(keyword_documents[key]),
+            "documents": sorted(keyword_documents[key]),
+            "nodeIds": sorted(keyword_nodes[key]),
+        })
+    rendered_keywords.sort(key=lambda item: (-item["count"], item["label"].casefold(), item["key"]))
+    return {"nodes": compact_nodes, "edges": rendered_edges, "keywords": rendered_keywords}
 
 
 def build(root: Path, generated: Path, public_data: Path) -> dict[str, int]:

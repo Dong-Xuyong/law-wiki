@@ -65,6 +65,20 @@ class WebCatalogTests(unittest.TestCase):
         self.assertEqual(tree[0]["count"], 2)
         self.assertEqual([node["name"] for node in tree[0]["children"]], ["B", "C"])
 
+    def test_graph_keywords_are_controlled_counted_and_deterministic(self) -> None:
+        rows = [
+            {"id": "one", "title": "One", "website": "CICAP", "folder": "A",
+             "topic": "Voos", "topic_raw": "Voos", "categories": ["air-passenger-rights"]},
+            {"id": "two", "title": "Two", "website": "CICAP", "folder": "A",
+             "topic": "Voos", "topic_raw": "Voos", "categories": ["air-passenger-rights"]},
+        ]
+        payload = build_web_catalog.graph_payload(rows, [])
+        keywords = {item["key"]: item for item in payload["keywords"]}
+        self.assertEqual(keywords["topic:voos"]["count"], 2)
+        self.assertEqual(keywords["category:air-passenger-rights"]["documents"], ["one", "two"])
+        self.assertEqual(next(node for node in payload["nodes"] if node["id"] == "root:law-wiki")["count"], 2)
+        self.assertEqual(len([node for node in payload["nodes"] if node["type"] == "group"]), 5)
+
 
 class PdfImporterTests(unittest.TestCase):
     def setUp(self) -> None:
