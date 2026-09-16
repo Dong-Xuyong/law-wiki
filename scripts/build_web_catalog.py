@@ -95,10 +95,6 @@ def graph_payload(rows: list[dict[str, Any]], connections: list[dict[str, Any]])
             edges.append({"source": key, "target": f"document:{document_id}", "predicate": kind})
             if kind == "topic":
                 add_keyword(key, label, "topic", document_id, key)
-        for category in row.get("categories") or []:
-            label = str(category).replace("-", " ").strip().title()
-            key = f"category:{str(category).casefold()}"
-            add_keyword(key, label, "category", document_id)
 
     for item in connections:
         if item.get("review_status") != "accepted":

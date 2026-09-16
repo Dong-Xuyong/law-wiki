@@ -75,7 +75,9 @@ class WebCatalogTests(unittest.TestCase):
         payload = build_web_catalog.graph_payload(rows, [])
         keywords = {item["key"]: item for item in payload["keywords"]}
         self.assertEqual(keywords["topic:voos"]["count"], 2)
-        self.assertEqual(keywords["category:air-passenger-rights"]["documents"], ["one", "two"])
+        self.assertEqual(keywords["topic:voos"]["label"], "Voos")
+        self.assertNotIn("category:air-passenger-rights", keywords)
+        self.assertTrue(all(item["type"] != "category" for item in payload["keywords"]))
         self.assertEqual(next(node for node in payload["nodes"] if node["id"] == "root:law-wiki")["count"], 2)
         self.assertEqual(len([node for node in payload["nodes"] if node["type"] == "group"]), 5)
 
