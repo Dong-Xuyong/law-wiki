@@ -56,7 +56,7 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
     <section class="home-section explainer-section" aria-labelledby="llm-titulo">
       <div class="section-heading">
         <p class="eyebrow">Do corpus à resposta</p>
-        <h2 id="llm-titulo">Como funciona uma LLM jurídica</h2>
+        <h2 id="llm-titulo">Como funciona um LLM jurídico</h2>
       </div>
       <figure class="llm-infographic">
         <a
@@ -67,7 +67,7 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
         >
           <img
             src={`${base}/images/how-a-legal-llm-works.png`}
-            alt="Infográfico em oito etapas: fontes jurídicas, ingestão e estruturação, indexação, pergunta, recuperação de autoridades, raciocínio sobre o contexto, resposta fundamentada e verificação humana."
+            alt="Infográfico em português sobre oito etapas de um LLM jurídico: fontes, ingestão, indexação, pergunta, recuperação de autoridades, análise do contexto, resposta fundamentada e verificação humana."
             width="1024"
             height="576"
             loading="lazy"
@@ -77,6 +77,36 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
         <figcaption>
           Uma resposta fiável combina fontes autorizadas, recuperação com citações e verificação humana.
           <a href={`${base}/images/how-a-legal-llm-works.png`} target="_blank" rel="noreferrer">
+            Abrir em tamanho completo
+          </a>
+        </figcaption>
+      </figure>
+    </section>
+
+    <section class="home-section explainer-section" aria-labelledby="law-wiki-titulo">
+      <div class="section-heading">
+        <p class="eyebrow">Do registo à minuta</p>
+        <h2 id="law-wiki-titulo">Como funciona o /law-wiki</h2>
+      </div>
+      <figure class="llm-infographic">
+        <a
+          href={`${base}/images/como-funciona-law-wiki-skill.png`}
+          target="_blank"
+          rel="noreferrer"
+          aria-label="Abrir o infográfico do fluxo /law-wiki em tamanho completo"
+        >
+          <img
+            src={`${base}/images/como-funciona-law-wiki-skill.png`}
+            alt="Infográfico em oito etapas sobre o fluxo /law-wiki, desde o registo do caso e a pesquisa no corpus local até à minuta arbitral não assinada, validação e revisão humana."
+            width="1024"
+            height="576"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+        <figcaption>
+          O /law-wiki separa factos de direito, pesquisa apenas no corpus local e produz uma minuta não oficial para revisão humana.
+          <a href={`${base}/images/como-funciona-law-wiki-skill.png`} target="_blank" rel="noreferrer">
             Abrir em tamanho completo
           </a>
         </figcaption>
