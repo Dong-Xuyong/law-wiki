@@ -45,6 +45,80 @@ const PAGE_SIZE = 14;
 const ROOT_ID = "root:law-wiki";
 const LEGAL_TYPES = new Set(["instrument", "case", "concept", "entity", "forum", "authority"]);
 
+type MapPalette = {
+  node: string;
+  label: string;
+  labelBg: string;
+  root: string;
+  group: string;
+  keyword: string;
+  legal: string;
+  document: string;
+  edge: string;
+  keywordEdge: string;
+  selected: string;
+  font: string;
+};
+
+function cssHex(name: string, fallback: string) {
+  if (typeof document === "undefined") return fallback;
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim() || fallback;
+}
+
+function readMapPalette(): MapPalette {
+  return {
+    node: cssHex("--map-node", "#0b3b36"),
+    label: cssHex("--map-label", "#17201f"),
+    labelBg: cssHex("--map-label-bg", "#fffef9"),
+    root: cssHex("--map-root", "#8c3c32"),
+    group: cssHex("--map-group", "#b7802b"),
+    keyword: cssHex("--map-keyword", "#b7802b"),
+    legal: cssHex("--map-legal", "#6c5285"),
+    document: cssHex("--map-document", "#2c6e9b"),
+    edge: cssHex("--map-edge", "#94a7a2"),
+    keywordEdge: cssHex("--map-keyword-edge", "#b7802b"),
+    selected: cssHex("--map-selected", "#d5a44f"),
+    font: cssHex("--font-sans", "Encode Sans, sans-serif"),
+  };
+}
+
+function buildCyStylesheet(palette: MapPalette): cytoscape.StylesheetJson {
+  return [
+    {
+      selector: "node",
+      style: {
+        "background-color": palette.node,
+        color: palette.label,
+        label: "data(label)",
+        "font-family": palette.font,
+        "font-size": 14,
+        "font-weight": 600,
+        "text-wrap": "wrap",
+        "text-max-width": "165px",
+        "text-valign": "bottom",
+        "text-margin-y": 9,
+        "text-background-color": palette.labelBg,
+        "text-background-opacity": 0.93,
+        "text-background-padding": "4px",
+        width: 30,
+        height: 30,
+      },
+    },
+    { selector: 'node[type = "root"]', style: { "background-color": palette.root, width: 70, height: 70, "font-size": 18, "text-max-width": "210px" } },
+    { selector: 'node[type = "group"]', style: { "background-color": palette.group, width: 56, height: 56, "font-size": 17, "text-max-width": "200px" } },
+    { selector: 'node[type = "instrument"], node[type = "case"]', style: { "background-color": palette.legal, width: 40, height: 40 } },
+    { selector: 'node[type = "keyword"]', style: { "background-color": palette.keyword, width: 54, height: 54, "font-size": 16 } },
+    { selector: 'node[type = "document"]', style: { "background-color": palette.document, width: 26, height: 26, "font-size": 13, "text-max-width": "190px" } },
+    { selector: "edge", style: { width: 1.7, "line-color": palette.edge, "curve-style": "bezier", opacity: 0.72 } },
+    { selector: 'edge[predicate = "keyword"]', style: { "line-color": palette.keywordEdge, width: 2.2 } },
+    { selector: ":selected", style: { "border-width": 5, "border-color": palette.selected } },
+  ];
+}
+
+function applyCyTheme(cy: cytoscape.Core) {
+  cy.style().fromJson(buildCyStylesheet(readMapPalette())).update();
+}
+
 export default function KnowledgeMap({ base }: { base: string }) {
   const host = useRef<HTMLDivElement>(null);
   const shell = useRef<HTMLDivElement>(null);
@@ -302,48 +376,26 @@ export default function KnowledgeMap({ base }: { base: string }) {
 
   useEffect(() => {
     if (!host.current) return;
+    let cancelled = false;
+    let onTheme: EventListener | undefined;
     Promise.all([
       fetch(`${base}/data/graph.json`).then((response) => response.json()),
       fetch(`${base}/data/catalog.json`).then((response) => response.json()),
     ]).then(([graph, catalog]) => {
+      if (cancelled || !host.current) return;
       payload.current = { ...graph, keywords: graph.keywords || [], documents: catalog.documents };
       const cy = cytoscape({
         container: host.current,
         minZoom: 0.35,
         maxZoom: 3.5,
         wheelSensitivity: 0.18,
-        style: [
-          {
-            selector: "node",
-            style: {
-              "background-color": "#0b3b36",
-              color: "#17201f",
-              label: "data(label)",
-              "font-family": "DM Sans, sans-serif",
-              "font-size": 14,
-              "font-weight": 600,
-              "text-wrap": "wrap",
-              "text-max-width": "165px",
-              "text-valign": "bottom",
-              "text-margin-y": 9,
-              "text-background-color": "#fffef9",
-              "text-background-opacity": 0.93,
-              "text-background-padding": "4px",
-              width: 30,
-              height: 30,
-            },
-          },
-          { selector: 'node[type = "root"]', style: { "background-color": "#8c3c32", width: 70, height: 70, "font-size": 18, "text-max-width": "210px" } },
-          { selector: 'node[type = "group"]', style: { "background-color": "#b7802b", width: 56, height: 56, "font-size": 17, "text-max-width": "200px" } },
-          { selector: 'node[type = "instrument"], node[type = "case"]', style: { "background-color": "#6c5285", width: 40, height: 40 } },
-          { selector: 'node[type = "keyword"]', style: { "background-color": "#b7802b", width: 54, height: 54, "font-size": 16 } },
-          { selector: 'node[type = "document"]', style: { "background-color": "#2c6e9b", width: 26, height: 26, "font-size": 13, "text-max-width": "190px" } },
-          { selector: "edge", style: { width: 1.7, "line-color": "#94a7a2", "curve-style": "bezier", opacity: 0.72 } },
-          { selector: 'edge[predicate = "keyword"]', style: { "line-color": "#b7802b", width: 2.2 } },
-          { selector: ":selected", style: { "border-width": 5, "border-color": "#d5a44f" } },
-        ],
+        style: buildCyStylesheet(readMapPalette()),
       });
       instance.current = cy;
+      onTheme = () => {
+        if (instance.current) applyCyTheme(instance.current);
+      };
+      document.addEventListener("dong-ui-themechange", onTheme);
       cy.on("tap", "node", (event) => {
         const node = event.target;
         const nodeData = node.data() as GraphNode;
@@ -378,7 +430,12 @@ export default function KnowledgeMap({ base }: { base: string }) {
       console.error(error);
       setStatus("Não foi possível carregar os dados do mapa.");
     });
-    return () => instance.current?.destroy();
+    return () => {
+      cancelled = true;
+      if (onTheme) document.removeEventListener("dong-ui-themechange", onTheme);
+      instance.current?.destroy();
+      instance.current = null;
+    };
   }, [base]);
 
   const findNodes = () => {
@@ -439,7 +496,7 @@ export default function KnowledgeMap({ base }: { base: string }) {
 
   return (
     <>
-      <section className="keyword-panel" aria-label="Palavras-chave">
+      <section className="ui-card keyword-panel" aria-label="Palavras-chave">
         <div className="keyword-heading">
           <div>
             <strong>Palavras-chave</strong>
@@ -469,6 +526,7 @@ export default function KnowledgeMap({ base }: { base: string }) {
         )}
       </section>
 
+      <div className="ui-card map-toolbar">
       <div className="map-controls">
         <input
           value={query}
@@ -490,10 +548,11 @@ export default function KnowledgeMap({ base }: { base: string }) {
         <button className="secondary" onClick={() => instance.current?.fit(instance.current.elements(), 75)}>Ajustar ramo</button>
         <button className="secondary" onClick={fullscreen}>Ecrã inteiro</button>
       </div>
+      </div>
       <p className="map-note">{status} <strong>{visibleCount}</strong> nós visíveis.</p>
       <div className="map-workspace">
-        <div className="panel map-shell" ref={shell}><div id="cy" ref={host}></div></div>
-        <aside className="panel node-details" aria-live="polite">
+        <div className="ui-card map-shell" ref={shell}><div id="cy" ref={host}></div></div>
+        <aside className="ui-card panel node-details" aria-live="polite">
           {selected ? (
             <>
               <span className="eyebrow">{selected.type}</span>

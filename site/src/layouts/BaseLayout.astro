@@ -1,50 +1,111 @@
 ---
+import "../styles/dong-ui-theme.css";
 import "../styles/global.css";
 
 interface Props {
   title: string;
   description?: string;
+  current?: "home" | "search" | "folders" | "map" | "document";
+  wide?: boolean;
 }
 
 const {
   title,
   description = "Pesquisa pública no corpus jurídico Law Wiki.",
+  current,
+  wide = false,
 } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const href = (path: string) => `${base}${path}`;
+const currentAttr = (id: Props["current"]) => (current === id ? "page" : undefined);
 ---
 
 <!doctype html>
 <html lang="pt-PT">
   <head>
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem("dong-ui-theme");
+          var dark = stored === "dark" || (stored !== "light" && matchMedia("(prefers-color-scheme: dark)").matches);
+          document.documentElement.classList.toggle("dark", dark);
+          document.documentElement.style.colorScheme = dark ? "dark" : "light";
+        } catch (e) {}
+      })();
+    </script>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, viewport-fit=cover" />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#0b2f2c" />
+    <meta name="theme-color" content="#f6f4ef" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <title>{title} · Law Wiki</title>
+    <script is:inline defer src={`${base}/dong-ui/theme.js`}></script>
   </head>
-  <body>
-    <header class="site-header">
-      <a class="brand" href={href("/")}>
-        <span class="brand-mark" aria-hidden="true">§</span>
-        <span>Law Wiki</span>
-      </a>
-      <nav aria-label="Navegação principal">
-        <a href={href("/search/")}>Pesquisar</a>
-        <a href={href("/folders/")}>Pastas</a>
-        <a href={href("/map/")}>Mapa jurídico</a>
-        <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a>
-      </nav>
+  <body class:list={[{ "map-page": wide }]}>
+    <a class="skip-link" href="#conteudo">Saltar para o conteúdo</a>
+    <header class="site-header nav-glass">
+      <div class="header-inner">
+        <a class="brand" href={href("/")}>
+          <span class="brand-mark" aria-hidden="true">§</span>
+          <span>Law Wiki</span>
+        </a>
+        <nav class="site-nav" aria-label="Navegação principal">
+          <a href={href("/search/")} aria-current={currentAttr("search")}>Pesquisar</a>
+          <a href={href("/folders/")} aria-current={currentAttr("folders")}>Pastas</a>
+          <a href={href("/map/")} aria-current={currentAttr("map")}>Mapa jurídico</a>
+          <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a>
+        </nav>
+        <button
+          type="button"
+          class="dong-theme-toggle"
+          data-dong-theme-toggle
+          data-dong-ready="1"
+          role="switch"
+          aria-checked="false"
+          aria-label="Mudar para modo escuro"
+        >
+          <span class="dong-theme-toggle__track" aria-hidden="true">
+            <svg class="dong-theme-toggle__icon is-active" data-icon="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="4"></circle>
+              <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path>
+            </svg>
+            <svg class="dong-theme-toggle__icon" data-icon="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 14.5A8.5 8.5 0 0 1 9.5 3 7 7 0 1 0 21 14.5z"></path>
+            </svg>
+            <span class="dong-theme-toggle__knob"></span>
+          </span>
+        </button>
+      </div>
     </header>
     <div class="research-notice">
       Auxiliar de pesquisa — conteúdo importado pode estar não verificado e não constitui aconselhamento jurídico.
     </div>
-    <main>
+    <main id="conteudo">
       <slot />
     </main>
+    <nav class="tabbar" aria-label="Secções">
+      <a class="nav-tab" href={href("/")} aria-current={currentAttr("home")}>
+        <span class="nav-icon" aria-hidden="true">⌂</span>
+        Início
+      </a>
+      <a class="nav-tab" href={href("/search/")} aria-current={currentAttr("search")}>
+        <span class="nav-icon" aria-hidden="true">⌕</span>
+        Pesquisar
+      </a>
+      <a class="nav-tab" href={href("/folders/")} aria-current={currentAttr("folders")}>
+        <span class="nav-icon" aria-hidden="true">☰</span>
+        Pastas
+      </a>
+      <a class="nav-tab" href={href("/map/")} aria-current={currentAttr("map")}>
+        <span class="nav-icon" aria-hidden="true">◎</span>
+        Mapa
+      </a>
+    </nav>
     <footer>
       <span>Law Wiki</span>
-      <span>Fontes integrais, relações com proveniência e estado de verificação visível.</span>
+      <span>Fontes integrais, relações com proveniência e estado de verificação visível. · <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a></span>
     </footer>
   </body>
 </html>

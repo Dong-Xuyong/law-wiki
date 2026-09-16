@@ -47,7 +47,7 @@ const pdfUrl = pdfRelative ? `${base}/pdfs/${pdfRelative.split("/").map(encodeUR
 const verification = String(document.verification || "unverified");
 ---
 
-<BaseLayout title={String(document.title)} description={`Documento jurídico: ${document.title}`}>
+<BaseLayout title={String(document.title)} description={`Documento jurídico: ${document.title}`} current="document">
   <article class="container narrow">
     <p class="eyebrow">{document.website || "Fonte desconhecida"} · {document.year || "Ano desconhecido"}</p>
     <h1 data-pagefind-meta="title">{document.title}</h1>
@@ -66,7 +66,7 @@ const verification = String(document.verification || "unverified");
     <div hidden data-pagefind-filter={`topic:${document.topic_raw || document.topic || "unknown"}`}></div>
     <div hidden data-pagefind-meta={`verification:${verification}`}></div>
 
-    <section class="panel" style="margin-top:2rem">
+    <section class="panel document-panel">
       <h2 style="margin-top:0">Metadados</h2>
       <dl class="meta-grid">
         <div class="meta-item"><dt>Identificador</dt><dd>{document.id}</dd></div>
@@ -93,7 +93,7 @@ const verification = String(document.verification || "unverified");
           <iframe class="pdf-frame" src={pdfUrl} title={`PDF: ${document.title}`}></iframe>
         </section>
       )}
-      <details style="margin-top:2rem" open>
+      <details class="document-extract" open>
         <summary><strong>Texto integral extraído</strong></summary>
         <section class="document-body" set:html={fullTextHtml}></section>
       </details>

@@ -3,14 +3,14 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
-<BaseLayout title="Pastas">
+<BaseLayout title="Pastas" current="folders">
   <section class="container">
     <p class="eyebrow">Arquivo original</p>
     <h1>Explorar por pasta</h1>
     <p class="lede">A estrutura preserva a proveniência organizacional dos documentos importados.</p>
-    <div class="panel">
+    <div class="panel browse-tools">
       <label for="folder-filter">Filtrar pastas ou documentos</label>
-      <input id="folder-filter" type="search" placeholder="Nome da pasta ou documento…" style="width:100%;margin:.6rem 0 1rem" />
+      <input id="folder-filter" class="folder-filter" type="search" placeholder="Nome da pasta ou documento…" />
       <div id="folder-tree" class="folder-tree"><p class="status">A carregar…</p></div>
     </div>
   </section>

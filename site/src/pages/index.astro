@@ -8,40 +8,58 @@ const websites = new Set(docs.map((item) => item.website).filter(Boolean)).size;
 const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(Boolean)).size;
 ---
 
-<BaseLayout title="Pesquisa jurídica conectada">
-  <section class="container">
-    <p class="eyebrow">Corpus jurídico público</p>
-    <h1>Encontre o documento.<br />Veja as ligações.</h1>
-    <p class="lede">
-      Pesquise decisões, legislação e materiais jurídicos pelo texto integral.
-      Navegue pela estrutura original de pastas ou explore autoridades, temas e fontes num mapa interativo.
-    </p>
-    <form class="search-box" action={`${base}/search/`}>
-      <input name="q" type="search" placeholder="Ex.: compensação por cancelamento de voo" aria-label="Pesquisar no corpus" />
-      <button type="submit">Pesquisar</button>
-    </form>
-    <div class="actions">
-      <a class="button secondary" href={`${base}/folders/`}>Explorar pastas</a>
-      <a class="button secondary" href={`${base}/map/`}>Abrir mapa jurídico</a>
+<BaseLayout title="Pesquisa jurídica conectada" current="home">
+  <section class="container home-dashboard">
+    <div class="corpus-hero">
+      <p class="eyebrow">Corpus jurídico público</p>
+      <h1>Encontre o documento. Veja as ligações.</h1>
+      <p class="lede">
+        Pesquise decisões, legislação e materiais jurídicos pelo texto integral.
+        Navegue pela estrutura original de pastas ou explore autoridades, temas e fontes num mapa interativo.
+      </p>
+      <div class="status-stats">
+        <div class="stat"><strong>{catalog.count.toLocaleString("pt-PT")}</strong><span>documentos pesquisáveis</span></div>
+        <div class="stat"><strong>{websites}</strong><span>fontes institucionais</span></div>
+        <div class="stat"><strong>{topics}</strong><span>temas de arquivo</span></div>
+      </div>
+      <form class="search-box hero-search" action={`${base}/search/`}>
+        <input name="q" type="search" placeholder="Ex.: compensação por cancelamento de voo" aria-label="Pesquisar no corpus" />
+        <button type="submit">Pesquisar</button>
+      </form>
     </div>
-  </section>
 
-  <section class="container" style="padding-top:0">
-    <div class="grid">
-      <div class="panel stat"><strong>{catalog.count.toLocaleString("pt-PT")}</strong><span>documentos pesquisáveis</span></div>
-      <div class="panel stat"><strong>{websites}</strong><span>fontes institucionais</span></div>
-      <div class="panel stat"><strong>{topics}</strong><span>temas de arquivo</span></div>
-    </div>
-  </section>
+    <section class="home-section" aria-labelledby="explorar-titulo">
+      <div class="section-heading">
+        <p class="eyebrow">Explorar o arquivo</p>
+        <h2 id="explorar-titulo">Pastas e mapa</h2>
+      </div>
+      <div class="category-list">
+        <a class="category-row" href={`${base}/folders/`}>
+          <span class="category-icon" style="--row-color: var(--forest)"></span>
+          <span class="category-row-main">
+            <span class="category-row-title">Explorar pastas</span>
+            <span class="category-row-count">{websites} fontes institucionais no arquivo original</span>
+          </span>
+          <span class="category-chevron" aria-hidden="true">›</span>
+        </a>
+        <a class="category-row" href={`${base}/map/`}>
+          <span class="category-icon" style="--row-color: var(--gold)"></span>
+          <span class="category-row-main">
+            <span class="category-row-title">Mapa jurídico</span>
+            <span class="category-row-count">{topics} temas de arquivo e relações aceites</span>
+          </span>
+          <span class="category-chevron" aria-hidden="true">›</span>
+        </a>
+      </div>
+    </section>
 
-  <section class="container" style="padding-top:0">
-    <div class="panel">
+    <section class="panel research-card">
       <p class="eyebrow">Como ler o portal</p>
       <h2>Fonte primeiro, análise depois</h2>
       <p class="lede">
         Cada resultado conserva o caminho original, metadados e estado de verificação.
         Abra o texto integral antes de tratar um resumo importado como fundamento jurídico.
       </p>
-    </div>
+    </section>
   </section>
 </BaseLayout>
