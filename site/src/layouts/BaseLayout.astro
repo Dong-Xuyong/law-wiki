@@ -10,7 +10,6 @@ interface Props {
 }
 
 const {
-  title,
   description = "Pesquisa pública no corpus jurídico Law Wiki.",
   current,
   wide = false,
@@ -40,7 +39,7 @@ const currentAttr = (id: Props["current"]) => (current === id ? "page" : undefin
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    <title>{title} · Law Wiki</title>
+    <title>Legal Research Wiki</title>
     <script is:inline defer src={`${base}/dong-ui/theme.js`}></script>
   </head>
   <body class:list={[{ "map-page": wide }]}>
@@ -49,7 +48,7 @@ const currentAttr = (id: Props["current"]) => (current === id ? "page" : undefin
       <div class="header-inner">
         <a class="brand" href={href("/")}>
           <span class="brand-mark" aria-hidden="true">§</span>
-          <span>Law Wiki</span>
+          <span>Legal Research Wiki</span>
         </a>
         <nav class="site-nav" aria-label="Navegação principal">
           <a href={href("/search/")} aria-current={currentAttr("search")}>Pesquisar</a>
