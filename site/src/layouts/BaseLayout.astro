@@ -5,7 +5,7 @@ import "../styles/global.css";
 interface Props {
   title: string;
   description?: string;
-  current?: "home" | "search" | "folders" | "map" | "document";
+  current?: "home" | "search" | "folders" | "map" | "document" | "plan";
   wide?: boolean;
 }
 
@@ -54,6 +54,7 @@ const currentAttr = (id: Props["current"]) => (current === id ? "page" : undefin
           <a href={href("/search/")} aria-current={currentAttr("search")}>Pesquisar</a>
           <a href={href("/folders/")} aria-current={currentAttr("folders")}>Pastas</a>
           <a href={href("/map/")} aria-current={currentAttr("map")}>Mapa jurídico</a>
+          <a href={href("/plano/")} aria-current={currentAttr("plan")}>Plano</a>
           <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a>
         </nav>
         <button

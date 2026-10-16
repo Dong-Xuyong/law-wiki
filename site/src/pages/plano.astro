@@ -1,0 +1,738 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import catalog from "../generated/catalog.json";
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const documents = catalog.count.toLocaleString("pt-PT");
+---
+
+<BaseLayout
+  title="Plano de implementação em AWS"
+  description="Plano para transformar a Legal Research Wiki num assistente de minutas para juízes, alojado em AWS e conforme às recomendações do CSM e ao Regulamento da IA."
+  current="plan"
+>
+  <article class="container plan">
+    <header class="plan-hero">
+      <p class="eyebrow">Plano de implementação · versão de 16 de outubro de 2026</p>
+      <h1>Da Legal Research Wiki a um assistente de minutas para juízes</h1>
+      <p class="lede">
+        Este plano descreve como transformar o corpus público da Legal Research Wiki numa ferramenta que prepara
+        minutas de decisão para a juíza rever, corrigir e assinar. Explica o que a ferramenta faz, as regras
+        que a limitam, a arquitetura em AWS, as fases, os custos e os riscos. A parte de cima é para leitura
+        rápida; o detalhe técnico vem depois.
+      </p>
+      <div class="status-stats">
+        <div class="stat"><strong>{documents}</strong><span>decisões arbitrais no corpus atual</span></div>
+        <div class="stat"><strong>250</strong><span>documentos com relações jurídicas revistas</span></div>
+        <div class="stat"><strong>2 dez 2027</strong><span>início das obrigações de risco elevado do anexo III do Regulamento da IA</span></div>
+      </div>
+    </header>
+
+    <nav class="panel plan-toc" aria-label="Índice do plano">
+      <p class="eyebrow">Índice</p>
+      <ol>
+        <li><a href="#progresso">Progresso do projeto</a></li>
+        <li><a href="#resumo">Resumo num minuto</a></li>
+        <li><a href="#fluxo">O que a ferramenta faz</a></li>
+        <li><a href="#regras">Regras que condicionam o projeto</a></li>
+        <li><a href="#arquitetura">Arquitetura em AWS</a></li>
+        <li><a href="#dados">Dados e fontes jurídicas</a></li>
+        <li><a href="#fases">Fases e critérios de passagem</a></li>
+        <li><a href="#custos">Custos estimados</a></li>
+        <li><a href="#seguranca">Segurança e proteção de dados</a></li>
+        <li><a href="#riscos">Riscos e mitigação</a></li>
+        <li><a href="#perguntas">Decisões em aberto</a></li>
+        <li><a href="#fontes">Fontes</a></li>
+      </ol>
+    </nav>
+
+    <section id="progresso" aria-labelledby="progresso-titulo">
+      <p class="eyebrow">Só para a equipa</p>
+      <h2 id="progresso-titulo">Progresso do projeto</h2>
+      <p>
+        O progresso fica num ficheiro privado e só pode ser carregado com o acesso GitHub da equipa.
+      </p>
+      <p class="actions">
+        <button type="button" class="button secondary" id="progresso-carregar">Carregar progresso</button>
+      </p>
+      <p id="progresso-estado" class="status" aria-live="polite"></p>
+      <div id="progresso-conteudo"></div>
+    </section>
+
+    <section id="resumo" aria-labelledby="resumo-titulo">
+      <p class="eyebrow">Para a juíza</p>
+      <h2 id="resumo-titulo">Resumo num minuto</h2>
+      <div class="plan-cards">
+        <div class="panel">
+          <h3>O objetivo</h3>
+          <p>
+            A partir das peças de um processo, a ferramenta prepara uma minuta no formato habitual da decisão.
+            Cada facto aponta para a prova que o sustenta e cada argumento jurídico tem citação exata da lei ou
+            do acórdão. A juíza revê parágrafo a parágrafo e a decisão é sempre dela.
+          </p>
+        </div>
+        <div class="panel">
+          <h3>O que já existe</h3>
+          <p>
+            Um corpus de {documents} decisões com texto integral, pesquisa, mapa de relações e um processo de
+            revisão com dois revisores independentes. Num piloto de 250 documentos, as 100 relações auditadas
+            estavam corretas. Já foi produzida uma minuta experimental com matriz de prova e verificação
+            dos cálculos.
+          </p>
+        </div>
+        <div class="panel plan-card-alert">
+          <h3>A regra que muda o plano</h3>
+          <p>
+            As recomendações do Conselho Superior da Magistratura (CSM), aprovadas a 8 de abril de 2026,
+            dizem que os juízes só devem usar minutas geradas por IA fornecidas pelo sistema de tramitação
+            processual ou pelo próprio CSM, e que os dados processuais nunca entram em sistemas que o CSM
+            não tenha validado.
+          </p>
+        </div>
+        <div class="panel">
+          <h3>Consequência prática</h3>
+          <p>
+            Construímos em três níveis. Primeiro, pesquisa sobre fontes abertas, que pode ser usada desde já
+            para estudo. Depois, o motor de minutas testado só com casos fictícios e decisões públicas.
+            O uso em processos reais só acontece depois de validação pelo CSM, idealmente integrado no
+            Magistratus através do IGFEJ.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="fluxo" aria-labelledby="fluxo-titulo">
+      <p class="eyebrow">Fluxo da minuta</p>
+      <h2 id="fluxo-titulo">O que a ferramenta faz</h2>
+      <ol class="plan-flow">
+        <li>
+          <strong>Receber as peças</strong>
+          <span>Petição, contestação, documentos e atas. A minuta só é gerada quando a juíza o pede.</span>
+        </li>
+        <li>
+          <strong>Organizar o processo</strong>
+          <span>Extrai pedidos, factos alegados por cada parte, factos admitidos e meios de prova, com a página de origem.</span>
+        </li>
+        <li>
+          <strong>Pesquisar as fontes</strong>
+          <span>Legislação em vigor à data dos factos e jurisprudência dos tribunais superiores, incluindo decisões em sentido contrário.</span>
+        </li>
+        <li>
+          <strong>Redigir a minuta</strong>
+          <span>Relatório, factos provados e não provados, motivação, fundamentação de direito e dispositivo, com citações exatas.</span>
+        </li>
+        <li>
+          <strong>Verificar automaticamente</strong>
+          <span>Confirma que cada citação existe no corpus, recalcula juros e montantes e assinala passagens incertas.</span>
+        </li>
+        <li>
+          <strong>Rever e assinar</strong>
+          <span>A juíza aceita, corrige ou rejeita cada parágrafo. Nada é final sem revisão completa.</span>
+        </li>
+      </ol>
+      <p class="plan-note">
+        A exportação para Word inclui a menção que o CSM propõe:
+        <q>decisão produzida com o auxílio de sistema de IA, de acordo com as recomendações do CSM. Integralmente revisto pelo signatário</q>.
+      </p>
+    </section>
+
+    <section id="regras" aria-labelledby="regras-titulo">
+      <p class="eyebrow">Enquadramento</p>
+      <h2 id="regras-titulo">Regras que condicionam o projeto</h2>
+      <div class="plan-table-wrap">
+        <table class="plan-table">
+          <caption>O que cada regra diz e o que implica no desenho da ferramenta</caption>
+          <thead>
+            <tr><th scope="col">Regra</th><th scope="col">O que diz</th><th scope="col">Implicação no desenho</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Recomendações do CSM sobre IA (8 abr 2026), recomendações 4 e 6</th>
+              <td>Os juízes só devem usar sistemas de IA e minutas fornecidos pelo sistema de tramitação processual ou pelo CSM. Os sistemas disponibilizados pelo sistema de tramitação ficam sujeitos a controlo de qualidade e auditoria do CSM.</td>
+              <td>O destino da ferramenta é ser validada pelo CSM ou integrada no Magistratus. Uma conta AWS pessoal serve só para desenvolvimento.</td>
+            </tr>
+            <tr>
+              <th scope="row">CSM, recomendação 8</th>
+              <td>Ferramentas não fornecidas podem ser usadas para estudo apenas com fontes abertas. Dados judiciais nunca; elementos processuais só anonimizados.</td>
+              <td>As fases 1 e 2 usam apenas legislação, jurisprudência publicada e casos fictícios.</td>
+            </tr>
+            <tr>
+              <th scope="row">CSM, recomendações 6.5, 9.5 e 10</th>
+              <td>A minuta é gerada só por vontade do juiz e pode ser livre e integralmente modificada. Rastreabilidade das operações e impossibilidade de reutilizar os dados para fins diferentes. Declaração do uso na decisão.</td>
+              <td>Geração apenas a pedido, edição livre, registo de auditoria de cada geração e menção automática no documento final.</td>
+            </tr>
+            <tr>
+              <th scope="row">Regulamento da IA, anexo III, ponto 8, alínea a)</th>
+              <td>É de risco elevado a IA que assiste uma autoridade judiciária a investigar e interpretar factos e direito e a aplicá-lo a casos concretos. A Comissão dá como exemplo a geração de minutas de decisões.</td>
+              <td>Gestão de risco, governação de dados, documentação técnica, registos automáticos, transparência, supervisão humana, exatidão, robustez e cibersegurança (artigos 9.º a 15.º).</td>
+            </tr>
+            <tr>
+              <th scope="row">Regulamento (UE) 2026/1744 (Omnibus Digital)</th>
+              <td>Adia as obrigações de risco elevado do anexo III para 2 de dezembro de 2027.</td>
+              <td>A documentação de conformidade começa já: costuma levar 12 a 18 meses.</td>
+            </tr>
+            <tr>
+              <th scope="row">Regulamento da IA, artigos 26.º, 27.º e 49.º</th>
+              <td>Quem implanta (o tribunal) assegura supervisão humana e monitorização e informa as pessoas abrangidas. Os organismos públicos fazem a avaliação de impacto nos direitos fundamentais, notificam a autoridade de fiscalização do mercado e registam a utilização do sistema.</td>
+              <td>Preparar rascunhos da avaliação de impacto nos direitos fundamentais e da avaliação de impacto sobre a proteção de dados, para apoiar o tribunal e o CSM.</td>
+            </tr>
+            <tr>
+              <th scope="row">Diretrizes CEPEJ sobre IA generativa nos tribunais (2025)</th>
+              <td>Resultados nunca vinculativos e pseudonimização dos dados pessoais. Dados sob controlo da autoridade pública competente; infraestrutura comercial só mediante contrato dessa autoridade com o fornecedor.</td>
+              <td>Em produção, a infraestrutura deve ser contratada ou operada pelo IGFEJ ou pelo CSM, não por um particular.</td>
+            </tr>
+            <tr>
+              <th scope="row">RGPD e Lei n.º 34/2009, artigo 23.º</th>
+              <td>O artigo 23.º atribui a responsabilidade aos responsáveis pela gestão dos dados e aos magistrados com competência sobre o processo; nos tribunais judiciais, o CSM gere esses dados (artigo 24.º). As recomendações do CSM leem-no como responsabilidade do CSM e dos juízes do processo.</td>
+              <td>Minimização dos dados, anonimização antes de qualquer teste e política de eliminação definida.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="arquitetura" aria-labelledby="arquitetura-titulo">
+      <p class="eyebrow">Para o construtor</p>
+      <h2 id="arquitetura-titulo">Arquitetura em AWS</h2>
+      <p>
+        Há três ambientes, separados de propósito. O portal público continua no GitHub Pages, sem custo.
+        O ambiente de desenvolvimento corre na conta AWS do projeto, na região da Irlanda (eu-west-1),
+        apenas com fontes abertas e casos fictícios. O ambiente de produção só existe depois da validação
+        e fica sob controlo da entidade pública competente.
+      </p>
+
+      <div class="plan-arch" role="img" aria-label="Diagrama em camadas da arquitetura: acesso, aplicação, dados, inteligência artificial e auditoria">
+        <div class="plan-layer">
+          <span class="plan-layer-name">Acesso</span>
+          <div class="plan-boxes">
+            <span>CloudFront</span><span>AWS WAF</span><span>Cognito com MFA</span>
+          </div>
+        </div>
+        <div class="plan-layer">
+          <span class="plan-layer-name">Aplicação</span>
+          <div class="plan-boxes">
+            <span>S3 (interface web)</span><span>API Gateway</span><span>Lambda</span><span>Step Functions</span>
+          </div>
+        </div>
+        <div class="plan-layer">
+          <span class="plan-layer-name">Dados</span>
+          <div class="plan-boxes">
+            <span>S3 cifrado com KMS (peças, corpus)</span><span>DynamoDB (minutas, revisões, catálogo)</span><span>S3 Vectors (índice semântico)</span>
+          </div>
+        </div>
+        <div class="plan-layer">
+          <span class="plan-layer-name">IA</span>
+          <div class="plan-boxes">
+            <span>Bedrock com perfil de inferência EU</span><span>Bedrock Knowledge Bases</span><span>Textract (peças digitalizadas)</span>
+          </div>
+        </div>
+        <div class="plan-layer">
+          <span class="plan-layer-name">Auditoria</span>
+          <div class="plan-boxes">
+            <span>CloudTrail</span><span>CloudWatch</span><span>Registo de cada geração (quem, quando, fontes, versão do modelo)</span>
+          </div>
+        </div>
+      </div>
+
+      <h3>Escolhas e porquê</h3>
+      <div class="plan-table-wrap">
+        <table class="plan-table">
+          <caption>Serviços AWS propostos</caption>
+          <thead>
+            <tr><th scope="col">Necessidade</th><th scope="col">Serviço</th><th scope="col">Porquê</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Modelos de linguagem</th><td>Amazon Bedrock, perfis <code>eu.</code></td><td>Chamados a partir de uma região da UE, os perfis EU só encaminham para regiões da União Europeia, incluindo a Irlanda (eu-west-1) e a Espanha (eu-south-2, Aragão). Confirmar sempre os destinos com <code>GetInferenceProfile</code>.</td></tr>
+            <tr><th scope="row">Pesquisa semântica</th><td>Knowledge Bases com S3 Vectors</td><td>Sem custo fixo. O OpenSearch Serverless tem um mínimo de cerca de 350 USD por mês e só compensa com volumes muito maiores.</td></tr>
+            <tr><th scope="row">Pesquisa por texto exato</th><td>Pagefind (já existe) ou SQLite FTS em Lambda</td><td>Números de processo e artigos pedem pesquisa literal; a semântica sozinha falha nesses casos.</td></tr>
+            <tr><th scope="row">Processamento longo</th><td>Step Functions e Bedrock Batch</td><td>Extração do grafo e indexação correm em lote com 50% de desconto.</td></tr>
+            <tr><th scope="row">Peças digitalizadas</th><td>Amazon Textract</td><td>Só se o questionário confirmar que há peças em papel digitalizado.</td></tr>
+            <tr><th scope="row">Identidade</th><td>Cognito com MFA obrigatório</td><td>Acesso restrito por pessoa, com registo de sessões.</td></tr>
+            <tr><th scope="row">Soberania (produção)</th><td>Regiões UE ou AWS European Sovereign Cloud</td><td>A European Sovereign Cloud está disponível desde janeiro de 2026 (Brandemburgo), operada na UE, mas com menos modelos no Bedrock. A escolha cabe ao IGFEJ ou ao CSM.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="dados" aria-labelledby="dados-titulo">
+      <p class="eyebrow">Corpus</p>
+      <h2 id="dados-titulo">Dados e fontes jurídicas</h2>
+      <p>
+        O corpus atual tem {documents} decisões de arbitragem de consumo (CACCL, CICAP, Triave, CNIACC e CIAB),
+        de 2013 a 2024 (quase todas de 2016 em diante), com cerca de 85 milhões de caracteres. É uma boa base de método, mas uma juíza de um
+        tribunal judicial fundamenta sobretudo com legislação em vigor e jurisprudência dos tribunais superiores.
+      </p>
+      <div class="plan-table-wrap">
+        <table class="plan-table">
+          <caption>Fontes a acrescentar (contagens das bases do dgsi.pt a 16 de outubro de 2026)</caption>
+          <thead>
+            <tr><th scope="col">Fonte</th><th scope="col">Volume</th><th scope="col">Uso</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Supremo Tribunal de Justiça</th><td>73 730 acórdãos</td><td>Jurisprudência uniformizadora e orientações</td></tr>
+            <tr><th scope="row">Tribunal da Relação do Porto</th><td>64 254 acórdãos</td><td>Jurisprudência de recurso</td></tr>
+            <tr><th scope="row">Tribunal da Relação de Lisboa</th><td>61 812 acórdãos</td><td>Jurisprudência de recurso</td></tr>
+            <tr><th scope="row">Tribunal da Relação de Coimbra</th><td>16 834 acórdãos</td><td>Jurisprudência de recurso</td></tr>
+            <tr><th scope="row">Tribunal da Relação de Guimarães</th><td>15 946 acórdãos</td><td>Jurisprudência de recurso</td></tr>
+            <tr><th scope="row">Tribunal Constitucional</th><td>6 107 acórdãos</td><td>Questões de constitucionalidade</td></tr>
+            <tr><th scope="row">Diário da República</th><td>Legislação consolidada</td><td>Texto em vigor com data de vigência</td></tr>
+            <tr><th scope="row">EUR-Lex</th><td>Direito da UE</td><td>Regulamentos e jurisprudência do TJUE</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        O dgsi.pt não tem API oficial. A recolha deve ser lenta, identificada e limitada ao tipo de processo
+        escolhido. Cada documento recebe o mesmo tratamento que o corpus atual: identificador estável, texto
+        original imutável, impressão digital do conteúdo e citações por intervalo exato de caracteres.
+        As relações jurídicas passam pelo mesmo critério de qualidade do piloto: pelo menos 95% de precisão
+        revista antes de alargar.
+      </p>
+    </section>
+
+    <section id="fases" aria-labelledby="fases-titulo">
+      <p class="eyebrow">Roteiro</p>
+      <h2 id="fases-titulo">Fases e critérios de passagem</h2>
+      <ol class="plan-phases">
+        <li class="panel">
+          <span class="tag">Fase 0 · agora</span>
+          <h3>Definir o âmbito</h3>
+          <p>Respostas ao questionário, escolha do primeiro tipo de decisão e da estrutura da minuta. Primeiro contacto com o Grupo de Acompanhamento da Inteligência Artificial do CSM.</p>
+          <p class="plan-gate"><strong>Critério:</strong> tipo de decisão escolhido e estrutura da minuta aprovada pela juíza.</p>
+        </li>
+        <li class="panel">
+          <span class="tag">Fase 1 · 1 a 2 meses</span>
+          <h3>Pesquisa sobre fontes abertas</h3>
+          <p>Legislação e jurisprudência do tipo de decisão escolhido, pesquisa literal e semântica, e grafo de relações alargado ao corpus inteiro. Uso permitido desde já para estudo, ao abrigo da recomendação 8 do CSM.</p>
+          <p class="plan-gate"><strong>Critério:</strong> pelo menos 95% de precisão revista e zero citações inexistentes numa amostra auditada.</p>
+        </li>
+        <li class="panel">
+          <span class="tag">Fase 2 · 2 a 3 meses</span>
+          <h3>Motor de minutas com casos fictícios e públicos</h3>
+          <p>Extração das peças, matriz facto-prova, redação com citações, verificação automática, revisão parágrafo a parágrafo e exportação para Word. Avaliação comparando minutas com decisões publicadas.</p>
+          <p class="plan-gate"><strong>Critério:</strong> zero citações inventadas, factos corretamente ligados à prova e tempo de revisão inferior ao tempo de redação, medido pela juíza.</p>
+        </li>
+        <li class="panel">
+          <span class="tag">Fase 3 · prazo do CSM</span>
+          <h3>Validação institucional</h3>
+          <p>Dossiê técnico no formato do Regulamento da IA, rascunhos das avaliações de impacto, demonstração ao CSM e ao IGFEJ, e decisão sobre a infraestrutura de produção.</p>
+          <p class="plan-gate"><strong>Critério:</strong> validação escrita do CSM ou integração aprovada no sistema de tramitação.</p>
+        </li>
+        <li class="panel">
+          <span class="tag">Fase 4 · só depois da fase 3</span>
+          <h3>Piloto controlado em processos reais</h3>
+          <p>Um tipo de decisão, uma juíza, monitorização contínua, registo de cada geração e declaração do uso em cada decisão.</p>
+          <p class="plan-gate"><strong>Critério:</strong> métricas estáveis durante o piloto e relatório ao CSM.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section id="custos" aria-labelledby="custos-titulo">
+      <p class="eyebrow">Orçamento</p>
+      <h2 id="custos-titulo">Custos estimados</h2>
+      <p>
+        Valores em dólares americanos, com preços de tabela de outubro de 2026. São estimativas para
+        planeamento, não orçamentos fechados.
+      </p>
+      <div class="plan-table-wrap">
+        <table class="plan-table">
+          <caption>Estimativas de custo por componente</caption>
+          <thead>
+            <tr><th scope="col">Componente</th><th scope="col">Estimativa</th><th scope="col">Base do cálculo</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Portal público</th><td>0 USD</td><td>GitHub Pages, como hoje.</td></tr>
+            <tr><th scope="row">Infraestrutura de desenvolvimento</th><td>20 a 50 USD por mês</td><td>S3, Lambda, DynamoDB, CloudFront, WAF, KMS e CloudTrail com pouco tráfego.</td></tr>
+            <tr><th scope="row">Grafo para os 4 906 documentos restantes</th><td>100 a 170 USD, uma vez</td><td>Cerca de 22 milhões de tokens de entrada por passagem; extração e duas revisões em lote custam cerca de 100 USD só em entrada (Claude Sonnet a 1,50 USD por milhão de tokens de entrada e 7,50 de saída), mais a saída.</td></tr>
+            <tr><th scope="row">Indexação da jurisprudência</th><td>Dezenas a poucas centenas de USD, uma vez</td><td>Depende de quantos acórdãos o tipo de decisão exige; os embeddings custam cêntimos por milhão de tokens.</td></tr>
+            <tr><th scope="row">Uma minuta</th><td>1 a 1,50 USD</td><td>Cerca de 80 mil tokens de entrada e 8 mil de saída por passagem (3 e 15 USD por milhão), três passagens com verificação.</td></tr>
+            <tr><th scope="row">Uso mensal de uma juíza</th><td>30 a 45 USD por mês</td><td>Cerca de 30 minutas por mês.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="seguranca" aria-labelledby="seguranca-titulo">
+      <p class="eyebrow">Controlo</p>
+      <h2 id="seguranca-titulo">Segurança e proteção de dados</h2>
+      <ul class="plan-list">
+        <li><strong>Separação total:</strong> o portal público nunca recebe peças processuais; o ambiente privado nunca é indexado.</li>
+        <li><strong>Cifra:</strong> dados cifrados em repouso com chaves KMS próprias e em trânsito com TLS.</li>
+        <li><strong>Acesso:</strong> autenticação com MFA, permissões mínimas por função e sessões curtas.</li>
+        <li><strong>Modelos:</strong> a AWS indica que os pedidos ao Bedrock não são usados para treinar modelos; o tráfego fica em regiões da UE com perfis <code>eu.</code>.</li>
+        <li><strong>Rastreabilidade:</strong> cada minuta guarda quem a pediu, quando, que fontes usou, que versão do modelo e que alterações a juíza fez.</li>
+        <li><strong>Anonimização:</strong> qualquer teste com elementos processuais usa texto anonimizado antes de entrar no sistema.</li>
+        <li><strong>Eliminação:</strong> prazos de conservação definidos com o CSM e eliminação automática no fim do prazo.</li>
+      </ul>
+    </section>
+
+    <section id="riscos" aria-labelledby="riscos-titulo">
+      <p class="eyebrow">O que pode correr mal</p>
+      <h2 id="riscos-titulo">Riscos e mitigação</h2>
+      <div class="plan-table-wrap">
+        <table class="plan-table">
+          <caption>Principais riscos e respostas previstas</caption>
+          <thead>
+            <tr><th scope="col">Risco</th><th scope="col">Mitigação</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Citações inventadas</th><td>Cada citação é confirmada contra o corpus antes de aparecer; o que não se confirma é assinalado e bloqueado.</td></tr>
+            <tr><th scope="row">Revisão superficial (viés de automatização)</th><td>Revisão parágrafo a parágrafo, sem botão "aceitar tudo", com as passagens incertas mostradas primeiro.</td></tr>
+            <tr><th scope="row">Lei desatualizada</th><td>Legislação guardada com data de vigência e aplicada à data dos factos.</td></tr>
+            <tr><th scope="row">Uso fora das recomendações do CSM</th><td>Nenhum dado processual antes da validação; fases 1 e 2 só com fontes abertas e casos fictícios.</td></tr>
+            <tr><th scope="row">Viés nas decisões passadas</th><td>Mostrar jurisprudência em sentido contrário e a distribuição de resultados, não uma única resposta.</td></tr>
+            <tr><th scope="row">Dependência de um fornecedor</th><td>Chamadas ao modelo atrás de uma camada própria, para trocar de modelo ou de nuvem sem reescrever a ferramenta.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="perguntas" aria-labelledby="perguntas-titulo">
+      <p class="eyebrow">Para decidir com a juíza</p>
+      <h2 id="perguntas-titulo">Decisões em aberto</h2>
+      <p>O questionário enviado à juíza responde a estas perguntas. Cada uma muda uma parte concreta do plano.</p>
+      <ul class="plan-list">
+        <li><strong>Que tipo de decisão primeiro?</strong> Define que legislação e jurisprudência carregar e o modelo de minuta.</li>
+        <li><strong>Em que formato chegam as peças?</strong> Define se é preciso reconhecimento ótico de texto (Textract).</li>
+        <li><strong>Como é registada a prova testemunhal?</strong> Define se é preciso trabalhar com transcrições de gravações.</li>
+        <li><strong>Que formato de saída?</strong> Word editável ou texto para colar no sistema de tramitação.</li>
+        <li><strong>Computador do tribunal ou pessoal?</strong> Define se a ferramenta tem de funcionar só no navegador.</li>
+        <li><strong>Que caminho de validação?</strong> CSM diretamente ou integração no Magistratus através do IGFEJ.</li>
+      </ul>
+    </section>
+
+    <section id="fontes" aria-labelledby="fontes-titulo">
+      <p class="eyebrow">Referências</p>
+      <h2 id="fontes-titulo">Fontes</h2>
+      <ul class="plan-sources">
+        <li><a href="https://csm.org.pt/wp-content/uploads/2026/05/Recomendacoes_Uso_IA.pdf">CSM, Recomendações no uso de inteligência artificial (8 abr 2026)</a></li>
+        <li><a href="https://csm.org.pt/csm-aprova-recomendacoes-para-o-uso-de-inteligencia-artificial-na-atividade-judicial/">CSM, comunicado sobre as recomendações (14 abr 2026)</a></li>
+        <li><a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-3">Regulamento da IA, anexo III</a></li>
+        <li><a href="https://ai-act-service-desk.ec.europa.eu/en/administration-justice-and-democratic-processes">Comissão Europeia, exemplos para a administração da justiça</a></li>
+        <li><a href="https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng">Regulamento (UE) 2026/1744 (Omnibus Digital sobre IA)</a></li>
+        <li><a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-26">Regulamento da IA, artigo 26.º</a></li>
+        <li><a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-27">Regulamento da IA, artigo 27.º</a></li>
+        <li><a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-49">Regulamento da IA, artigo 49.º</a></li>
+        <li><a href="https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1115&tabela=leis">Lei n.º 34/2009, tratamento de dados no sistema judicial</a></li>
+        <li><a href="https://rm.coe.int/cepej-2025-18final-en-draft-guidelines-on-the-use-of-generative-ai-for/48802a4ad1">CEPEJ, diretrizes sobre IA generativa nos tribunais (2025)</a></li>
+        <li><a href="https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment">CEPEJ, Carta Ética Europeia sobre IA nos sistemas judiciais</a></li>
+        <li><a href="https://igfej.justica.gov.pt/Noticias-do-IGFEJ/Transformacao-digital-nos-tribunais-avanca-com-acesso-online-a-provas-e-interfaces-unicos-para-magistrados-e-mandatarios">IGFEJ, Magistratus e transformação digital dos tribunais</a></li>
+        <li><a href="https://portugal.gov.pt/api/media/edge/Project/Portal-do-Governo/Portal-do-Governo/gc25/documentos/Reforma-do-Estado/20260422-mj-bridge-talks-ia.pdf">Ministério da Justiça, intervenção sobre IA na justiça (22 abr 2026)</a></li>
+        <li><a href="https://www.dgsi.pt/juridicas.nsf/">dgsi.pt, bases jurídico-documentais</a></li>
+        <li><a href="https://diariodarepublica.pt/dr/detalhe/lei/68-2021-170221042">Lei n.º 68/2021, dados abertos e reutilização</a></li>
+        <li><a href="https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/">AWS, inferência entre regiões da UE no Bedrock</a></li>
+        <li><a href="https://docs.aws.amazon.com/bedrock/latest/userguide/data-protection.html">AWS, proteção de dados no Bedrock</a></li>
+        <li><a href="https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/">AWS, abertura da European Sovereign Cloud</a></li>
+        <li><a href="https://aws.amazon.com/bedrock/pricing/">AWS, preços do Bedrock</a></li>
+        <li><a href="https://builder.aws.com/content/3BWqyF1PhA4Mc1fxUOl9n2B9yZo/benchmarking-amazon-s3-vectors-vs-opensearch-serverless-at-scale">AWS Builder Center, S3 Vectors e OpenSearch Serverless</a></li>
+      </ul>
+      <p class="plan-note">
+        Este plano é um documento de trabalho. Não constitui aconselhamento jurídico nem autorização de uso;
+        a validação cabe ao Conselho Superior da Magistratura.
+      </p>
+    </section>
+
+    <p class="actions"><a class="button secondary" href={`${base}/`}>Voltar ao início</a></p>
+  </article>
+
+  <script is:inline src={`${base}/dong-ui/gh-sync.js`}></script>
+  <script is:inline define:vars={{ base }}>
+    const loadButton = document.querySelector("#progresso-carregar");
+    const statusLine = document.querySelector("#progresso-estado");
+    const output = document.querySelector("#progresso-conteudo");
+
+    const STATUS_LABELS = {
+      todo: "Por fazer",
+      in_progress: "Em curso",
+      blocked: "Bloqueada",
+      done: "Concluída",
+    };
+    const OWNER_LABELS = {
+      dong: "Dong",
+      juiza: "Juíza",
+      grokbot: "Grokbot",
+    };
+
+    const node = (tag, className, text) => {
+      const element = document.createElement(tag);
+      if (className) element.className = className;
+      if (text != null && text !== "") element.textContent = String(text);
+      return element;
+    };
+
+    const labelOf = (map, value) => {
+      if (value != null && Object.prototype.hasOwnProperty.call(map, value)) return map[value];
+      return value == null ? "" : String(value);
+    };
+
+    const statusClass = (status) => (status === "blocked" ? "tag warning" : "tag");
+
+    const formatWhen = (value) => {
+      if (!value) return "";
+      const text = String(value);
+      const day = /^(\d{4})-(\d{2})-(\d{2})$/.exec(text);
+      if (day) {
+        const date = new Date(Number(day[1]), Number(day[2]) - 1, Number(day[3]));
+        return new Intl.DateTimeFormat("pt-PT", { dateStyle: "long" }).format(date);
+      }
+      const date = new Date(text);
+      if (Number.isNaN(date.getTime())) return text;
+      return new Intl.DateTimeFormat("pt-PT", { dateStyle: "long", timeStyle: "short" }).format(date);
+    };
+
+    const safeHttpUrl = (url) => {
+      if (typeof url !== "string") return "";
+      if (!url.startsWith("http://") && !url.startsWith("https://")) return "";
+      try {
+        const parsed = new URL(url);
+        if (parsed.protocol !== "http:" && parsed.protocol !== "https:") return "";
+        return parsed.href;
+      } catch (error) {
+        return "";
+      }
+    };
+
+    const active = (items) => (Array.isArray(items) ? items.filter((item) => item && item.deleted !== true) : []);
+
+    function render(data) {
+      output.replaceChildren();
+      if (!data || typeof data !== "object") return;
+
+      if (data.updatedAt) {
+        output.appendChild(node("p", "status", `Atualizado em ${formatWhen(data.updatedAt)}`));
+      }
+
+      const tasks = active(data.tasks);
+      const phases = active(data.phases).map((phase, index) => ({ phase, index }));
+      phases.sort((a, b) => {
+        const left = /^fase-(\d+)$/.exec(a.phase.id || "");
+        const right = /^fase-(\d+)$/.exec(b.phase.id || "");
+        if (left && right && left[1] !== right[1]) return Number(left[1]) - Number(right[1]);
+        return a.index - b.index;
+      });
+
+      if (phases.length) {
+        const list = node("ol", "plan-progress-phases");
+        phases.forEach(({ phase }) => {
+          const item = node("li", "panel");
+          const head = node("div", "plan-progress-head");
+          head.append(
+            node("h3", null, phase.title || phase.id || "Fase"),
+            node("span", statusClass(phase.status), labelOf(STATUS_LABELS, phase.status)),
+          );
+          item.appendChild(head);
+
+          const phaseTasks = tasks.filter((task) => task.phaseId === phase.id);
+          const done = phaseTasks.filter((task) => task.status === "done").length;
+          item.appendChild(node("p", "plan-progress-count", `${done}/${phaseTasks.length} tarefas concluídas`));
+
+          const gate = node("p", "plan-progress-gate");
+          gate.appendChild(node("strong", null, "Critério: "));
+          if (phase.gate) gate.appendChild(document.createTextNode(`${String(phase.gate)} `));
+          gate.appendChild(node("span", phase.gateMet ? "tag" : "tag warning", phase.gateMet ? "Cumprido" : "Por cumprir"));
+          item.appendChild(gate);
+
+          if (phaseTasks.length) {
+            const taskList = node("ul", "plan-progress-tasks");
+            phaseTasks.forEach((task) => {
+              const row = node("li");
+              row.append(
+                node("span", statusClass(task.status), labelOf(STATUS_LABELS, task.status)),
+                node("span", "plan-progress-task-title", task.title || task.id || "Tarefa"),
+              );
+              const metaParts = [];
+              if (task.owner) metaParts.push(labelOf(OWNER_LABELS, task.owner));
+              if (task.due) metaParts.push(`prazo ${formatWhen(task.due)}`);
+              if (metaParts.length) row.appendChild(node("span", "plan-progress-meta", metaParts.join(" · ")));
+              const linkRow = node("span", "plan-progress-links");
+              (Array.isArray(task.links) ? task.links : []).forEach((link) => {
+                const href = safeHttpUrl(link && link.url);
+                if (!href) return;
+                const rawLabel = link && typeof link.label === "string" ? link.label.trim() : "";
+                const anchor = node("a", null, rawLabel || href);
+                anchor.href = href;
+                anchor.rel = "noopener noreferrer";
+                anchor.target = "_blank";
+                linkRow.appendChild(anchor);
+              });
+              if (linkRow.childNodes.length) row.appendChild(linkRow);
+              taskList.appendChild(row);
+            });
+            item.appendChild(taskList);
+          }
+          list.appendChild(item);
+        });
+        output.appendChild(list);
+      }
+
+      const decisions = active(data.decisions);
+      [
+        ["Decisões em aberto", decisions.filter((item) => item.status === "open"), false],
+        ["Decisões tomadas", decisions.filter((item) => item.status === "decided"), true],
+      ].forEach(([title, items, withAnswer]) => {
+        if (!items.length) return;
+        const block = node("div", "plan-progress-block");
+        block.appendChild(node("h3", null, title));
+        const list = node("ul", "plan-progress-decisions");
+        items.forEach((item) => {
+          const row = node("li");
+          row.appendChild(node("strong", null, item.question || ""));
+          if (withAnswer && item.answer) row.appendChild(node("p", "plan-progress-note", item.answer));
+          list.appendChild(row);
+        });
+        block.appendChild(list);
+        output.appendChild(block);
+      });
+
+      const questionnaire = data.questionnaire;
+      if (questionnaire && typeof questionnaire === "object") {
+        const block = node("div", "panel plan-progress-block");
+        block.appendChild(node("h3", null, "Questionário"));
+        const count = Number(questionnaire.responseCount);
+        const countText = Number.isFinite(count) ? count.toLocaleString("pt-PT") : "0";
+        const noun = count === 1 ? "resposta" : "respostas";
+        const checked = questionnaire.lastCheckedAt ? formatWhen(questionnaire.lastCheckedAt) : "sem data";
+        block.appendChild(node("p", null, `${countText} ${noun}. Última verificação: ${checked}.`));
+        output.appendChild(block);
+      }
+
+      const entries = active(data.log)
+        .slice()
+        .sort((a, b) => {
+          const right = new Date(b.at).getTime();
+          const left = new Date(a.at).getTime();
+          return (Number.isNaN(right) ? 0 : right) - (Number.isNaN(left) ? 0 : left);
+        })
+        .slice(0, 10);
+      if (entries.length) {
+        const block = node("div", "plan-progress-block");
+        block.appendChild(node("h3", null, "Registo"));
+        const list = node("ol", "plan-progress-log");
+        entries.forEach((entry) => {
+          const row = node("li");
+          const time = node("time", "plan-progress-meta", formatWhen(entry.at));
+          if (entry.at) time.dateTime = String(entry.at);
+          row.append(time, document.createTextNode(entry.text ? ` ${entry.text}` : ""));
+          list.appendChild(row);
+        });
+        block.appendChild(list);
+        output.appendChild(block);
+      }
+    }
+
+    const setStatus = (message) => {
+      statusLine.textContent = message || "";
+    };
+
+    const loadProgress = () => {
+      if (!window.GhSync || typeof window.GhSync.load !== "function") {
+        setStatus("O carregamento de progresso não está disponível.");
+        return;
+      }
+      setStatus("A carregar…");
+      loadButton.disabled = true;
+      window.GhSync
+        .load("law-wiki-plan", render)
+        .then((message) => setStatus(message || ""))
+        .catch((error) => setStatus(error && error.message ? error.message : "Não foi possível carregar o progresso."))
+        .finally(() => {
+          loadButton.disabled = false;
+        });
+    };
+
+    loadButton.addEventListener("click", loadProgress);
+
+    const hasStoredToken = () => {
+      try {
+        const raw = localStorage.getItem("dong-gh-sync");
+        if (!raw) return false;
+        const config = JSON.parse(raw);
+        return Boolean(config && typeof config.token === "string" && config.token.trim());
+      } catch (error) {
+        return false;
+      }
+    };
+
+    if (hasStoredToken()) loadProgress();
+  </script>
+</BaseLayout>
+
+<style>
+  .plan section { margin-top: 2.6rem; scroll-margin-top: 5rem; }
+  .plan h3 { font-size: 1rem; margin: 0 0 .45rem; }
+  .plan p { line-height: 1.65; }
+  .plan-hero .status-stats { margin-top: 1.2rem; }
+  .plan-toc { margin-top: 1.6rem; }
+  .plan-toc ol { columns: 2; gap: 2rem; margin: .5rem 0 0; padding-left: 1.2rem; }
+  .plan-toc li { margin: .2rem 0; }
+  .plan-cards { display: grid; gap: .8rem; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .plan-cards p { color: var(--muted-text); margin: 0; }
+  .plan-card-alert { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
+  .plan-flow { counter-reset: step; display: grid; gap: .6rem; list-style: none; margin: 1rem 0; padding: 0; }
+  .plan-flow li {
+    border-left: 3px solid var(--forest);
+    counter-increment: step;
+    display: grid;
+    gap: .2rem;
+    padding: .2rem 0 .2rem 1rem;
+  }
+  .plan-flow li strong::before { color: var(--gold); content: counter(step) ". "; }
+  .plan-flow span { color: var(--muted-text); }
+  .plan-note { border-left: 3px solid var(--gold); color: var(--muted-text); font-size: .92rem; padding-left: .9rem; }
+  .plan-table-wrap { margin: 1rem 0; overflow-x: auto; }
+  .plan-table { border-collapse: collapse; font-size: .9rem; min-width: 620px; width: 100%; }
+  .plan-table caption { color: var(--muted-text); font-size: .8rem; padding-bottom: .5rem; text-align: left; }
+  .plan-table th, .plan-table td { border-bottom: 1px solid var(--line); padding: .65rem .6rem; text-align: left; vertical-align: top; }
+  .plan-table thead th { color: var(--muted-text); font-size: .75rem; font-weight: 650; text-transform: uppercase; letter-spacing: .04em; }
+  .plan-table tbody th { font-weight: 650; width: 28%; }
+  .plan-arch { display: grid; gap: .5rem; margin: 1.2rem 0; }
+  .plan-layer {
+    align-items: center;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-card);
+    display: grid;
+    gap: .8rem;
+    grid-template-columns: 7rem 1fr;
+    padding: .7rem .9rem;
+  }
+  .plan-layer-name { color: var(--forest); font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; }
+  .plan-boxes { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .plan-boxes span {
+    background: var(--forest-soft);
+    border: 1px solid var(--chip-line);
+    border-radius: 8px;
+    font-size: .84rem;
+    padding: .3rem .6rem;
+  }
+  .plan-phases { display: grid; gap: .8rem; list-style: none; margin: 1rem 0; padding: 0; }
+  .plan-phases h3 { margin-top: .6rem; }
+  .plan-phases p { margin: .35rem 0; }
+  .plan-gate { color: var(--muted-text); font-size: .9rem; }
+  .plan-list { display: grid; gap: .5rem; padding-left: 1.2rem; }
+  .plan-list li { line-height: 1.6; }
+  .plan-sources { display: grid; gap: .35rem; font-size: .9rem; padding-left: 1.2rem; }
+  #progresso .actions { margin-top: .8rem; }
+  #progresso :global(.plan-progress-phases) { display: grid; gap: .8rem; list-style: none; margin: 1rem 0 0; padding: 0; }
+  #progresso :global(.plan-progress-head) { align-items: center; display: flex; flex-wrap: wrap; gap: .45rem .8rem; justify-content: space-between; }
+  #progresso :global(.plan-progress-head) h3,
+  #progresso :global(.plan-progress-block) h3 { font-size: 1rem; margin: 0 0 .45rem; }
+  #progresso :global(.plan-progress-head) h3 { margin: 0; }
+  #progresso :global(.plan-progress-count),
+  #progresso :global(.plan-progress-gate),
+  #progresso :global(.plan-progress-note) { color: var(--muted-text); font-size: .9rem; line-height: 1.55; margin: .45rem 0 0; }
+  #progresso :global(.plan-progress-tasks),
+  #progresso :global(.plan-progress-decisions) { display: grid; gap: .55rem; list-style: none; margin: .8rem 0 0; padding: 0; }
+  #progresso :global(.plan-progress-tasks) li,
+  #progresso :global(.plan-progress-decisions) li { border-top: 1px solid var(--line); padding-top: .5rem; }
+  #progresso :global(.plan-progress-task-title) { font-weight: 650; margin-left: .35rem; }
+  #progresso :global(.plan-progress-meta) { color: var(--muted-text); display: block; font-size: .84rem; margin-top: .2rem; }
+  #progresso :global(.plan-progress-links) { display: flex; flex-wrap: wrap; gap: .25rem .8rem; margin-top: .25rem; }
+  #progresso :global(.plan-progress-block) { margin-top: 1.3rem; }
+  #progresso :global(.plan-progress-log) { display: grid; gap: .45rem; margin: .4rem 0 0; padding-left: 1.2rem; }
+  #progresso :global(.plan-progress-log) li { line-height: 1.5; }
+  @media (max-width: 760px) {
+    .plan-toc ol { columns: 1; }
+    .plan-cards { grid-template-columns: 1fr; }
+    .plan-layer { grid-template-columns: 1fr; gap: .4rem; }
+  }
+</style>
