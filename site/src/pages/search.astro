@@ -9,7 +9,7 @@ const unique = (key: "website" | "year" | "topic_raw") =>
 ---
 
 <BaseLayout title="Pesquisa" current="search">
-  <section class="container">
+  <section class="container dx-card">
     <p class="eyebrow">Pesquisa integral</p>
     <h1>Pesquisar no corpus</h1>
     <form id="search-form" class="search-box">
@@ -73,7 +73,7 @@ const unique = (key: "website" | "year" | "topic_raw") =>
         const pages = await Promise.all(search.results.slice(0, 100).map((item) => item.data()));
         status.textContent = `${search.results.length.toLocaleString("pt-PT")} resultado(s)${search.results.length > 100 ? " — apresentados os primeiros 100" : ""}.`;
         results.innerHTML = pages.map((page) => `
-          <article class="result">
+          <article class="result dx-card">
             <h3><a href="${page.url}">${escapeHtml(page.meta.title)}</a></h3>
             <p>${page.excerpt || ""}</p>
             <span class="tag">${escapeHtml(page.meta.website || "Fonte desconhecida")}</span>

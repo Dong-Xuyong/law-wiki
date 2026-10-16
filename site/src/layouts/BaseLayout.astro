@@ -39,24 +39,19 @@ const currentAttr = (id: Props["current"]) => (current === id ? "page" : undefin
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/ui/shell.css?v=1" />
+    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
     <title>Legal Research Wiki</title>
     <script is:inline defer src={`${base}/dong-ui/theme.js`}></script>
   </head>
-  <body class:list={[{ "map-page": wide }]}>
+  <body class:list={["dx", { "map-page": wide }]}>
     <a class="skip-link" href="#conteudo">Saltar para o conteúdo</a>
-    <header class="site-header nav-glass">
-      <div class="header-inner">
-        <a class="brand" href={href("/")}>
-          <span class="brand-mark" aria-hidden="true">§</span>
-          <span>Legal Research Wiki</span>
-        </a>
-        <nav class="site-nav" aria-label="Navegação principal">
-          <a href={href("/search/")} aria-current={currentAttr("search")}>Pesquisar</a>
-          <a href={href("/folders/")} aria-current={currentAttr("folders")}>Pastas</a>
-          <a href={href("/map/")} aria-current={currentAttr("map")}>Mapa jurídico</a>
-          <a href={href("/plano/")} aria-current={currentAttr("plan")}>Plano</a>
-          <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a>
-        </nav>
+    <header class="dx-header">
+      <a class="dx-home" href="/" aria-label="Home">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>
+      </a>
+      <h1 class="dx-title">Legal Research Wiki</h1>
+      <div class="dx-actions">
         <button
           type="button"
           class="dong-theme-toggle"
@@ -79,31 +74,20 @@ const currentAttr = (id: Props["current"]) => (current === id ? "page" : undefin
         </button>
       </div>
     </header>
-    <div class="research-notice">
+    <nav class="dx-tabs" aria-label="Secções">
+      <a class="dx-tab" href={href("/")} aria-current={currentAttr("home")}>Início</a>
+      <a class="dx-tab" href={href("/search/")} aria-current={currentAttr("search")}>Pesquisar</a>
+      <a class="dx-tab" href={href("/folders/")} aria-current={currentAttr("folders")}>Pastas</a>
+      <a class="dx-tab" href={href("/map/")} aria-current={currentAttr("map")}>Mapa</a>
+      <a class="dx-tab" href={href("/plano/")} aria-current={currentAttr("plan")}>Plano</a>
+    </nav>
+    <div class="research-notice dx-card">
       Auxiliar de pesquisa — conteúdo importado pode estar não verificado e não constitui aconselhamento jurídico.
     </div>
     <main id="conteudo">
       <slot />
     </main>
-    <nav class="tabbar" aria-label="Secções">
-      <a class="nav-tab" href={href("/")} aria-current={currentAttr("home")}>
-        <span class="nav-icon" aria-hidden="true">⌂</span>
-        Início
-      </a>
-      <a class="nav-tab" href={href("/search/")} aria-current={currentAttr("search")}>
-        <span class="nav-icon" aria-hidden="true">⌕</span>
-        Pesquisar
-      </a>
-      <a class="nav-tab" href={href("/folders/")} aria-current={currentAttr("folders")}>
-        <span class="nav-icon" aria-hidden="true">☰</span>
-        Pastas
-      </a>
-      <a class="nav-tab" href={href("/map/")} aria-current={currentAttr("map")}>
-        <span class="nav-icon" aria-hidden="true">◎</span>
-        Mapa
-      </a>
-    </nav>
-    <footer>
+    <footer class="dx-on-bg">
       <span>Law Wiki</span>
       <span>Fontes integrais, relações com proveniência e estado de verificação visível. · <a href="https://github.com/Dong-Xuyong/law-wiki">GitHub</a></span>
     </footer>

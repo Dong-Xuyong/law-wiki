@@ -496,7 +496,7 @@ export default function KnowledgeMap({ base }: { base: string }) {
 
   return (
     <>
-      <section className="ui-card keyword-panel" aria-label="Palavras-chave">
+      <section className="ui-card keyword-panel dx-card" aria-label="Palavras-chave">
         <div className="keyword-heading">
           <div>
             <strong>Palavras-chave</strong>
@@ -526,7 +526,7 @@ export default function KnowledgeMap({ base }: { base: string }) {
         )}
       </section>
 
-      <div className="ui-card map-toolbar">
+      <div className="ui-card map-toolbar dx-card">
       <div className="map-controls">
         <input
           value={query}
@@ -551,8 +551,8 @@ export default function KnowledgeMap({ base }: { base: string }) {
       </div>
       <p className="map-note">{status} <strong>{visibleCount}</strong> nós visíveis.</p>
       <div className="map-workspace">
-        <div className="ui-card map-shell" ref={shell}><div id="cy" ref={host}></div></div>
-        <aside className="ui-card panel node-details" aria-live="polite">
+        <div className="ui-card map-shell dx-card" ref={shell}><div id="cy" ref={host}></div></div>
+        <aside className="ui-card panel node-details dx-card" aria-live="polite">
           {selected ? (
             <>
               <span className="eyebrow">{selected.type}</span>

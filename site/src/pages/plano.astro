@@ -11,7 +11,7 @@ const documents = catalog.count.toLocaleString("pt-PT");
   description="Plano para transformar a Legal Research Wiki num assistente de minutas para juízes, alojado em AWS e conforme às recomendações do CSM e ao Regulamento da IA."
   current="plan"
 >
-  <article class="container plan">
+  <article class="container plan dx-card">
     <header class="plan-hero">
       <p class="eyebrow">Plano de implementação · versão de 16 de outubro de 2026</p>
       <h1>Da Legal Research Wiki a um assistente de minutas para juízes</h1>
@@ -664,6 +664,7 @@ const documents = catalog.count.toLocaleString("pt-PT");
   .plan-toc { margin-top: 1.6rem; }
   .plan-toc ol { columns: 2; gap: 2rem; margin: .5rem 0 0; padding-left: 1.2rem; }
   .plan-toc li { margin: .2rem 0; }
+  .plan-toc a { align-items: center; display: flex; min-height: 44px; }
   .plan-cards { display: grid; gap: .8rem; grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .plan-cards p { color: var(--muted-text); margin: 0; }
   .plan-card-alert { border-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
@@ -678,7 +679,7 @@ const documents = catalog.count.toLocaleString("pt-PT");
   .plan-flow li strong::before { color: var(--gold); content: counter(step) ". "; }
   .plan-flow span { color: var(--muted-text); }
   .plan-note { border-left: 3px solid var(--gold); color: var(--muted-text); font-size: .92rem; padding-left: .9rem; }
-  .plan-table-wrap { margin: 1rem 0; overflow-x: auto; }
+  .plan-table-wrap { margin: 1rem 0; max-width: 100%; overflow-x: auto; }
   .plan-table { border-collapse: collapse; font-size: .9rem; min-width: 620px; width: 100%; }
   .plan-table caption { color: var(--muted-text); font-size: .8rem; padding-bottom: .5rem; text-align: left; }
   .plan-table th, .plan-table td { border-bottom: 1px solid var(--line); padding: .65rem .6rem; text-align: left; vertical-align: top; }
@@ -711,6 +712,7 @@ const documents = catalog.count.toLocaleString("pt-PT");
   .plan-list { display: grid; gap: .5rem; padding-left: 1.2rem; }
   .plan-list li { line-height: 1.6; }
   .plan-sources { display: grid; gap: .35rem; font-size: .9rem; padding-left: 1.2rem; }
+  .plan-sources a { align-items: center; display: inline-flex; min-height: 44px; }
   #progresso .actions { margin-top: .8rem; }
   #progresso :global(.plan-progress-phases) { display: grid; gap: .8rem; list-style: none; margin: 1rem 0 0; padding: 0; }
   #progresso :global(.plan-progress-head) { align-items: center; display: flex; flex-wrap: wrap; gap: .45rem .8rem; justify-content: space-between; }

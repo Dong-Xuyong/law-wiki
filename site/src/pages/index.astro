@@ -10,7 +10,7 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
 
 <BaseLayout title="Pesquisa jurídica conectada" current="home">
   <section class="container home-dashboard">
-    <div class="corpus-hero">
+    <div class="corpus-hero dx-card">
       <p class="eyebrow">Corpus jurídico público</p>
       <h1>Encontre o documento. Veja as ligações.</h1>
       <p class="lede">
@@ -29,12 +29,12 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
     </div>
 
     <section class="home-section" aria-labelledby="explorar-titulo">
-      <div class="section-heading">
+      <div class="section-heading dx-on-bg">
         <p class="eyebrow">Explorar o arquivo</p>
         <h2 id="explorar-titulo">Pastas e mapa</h2>
       </div>
       <div class="category-list">
-        <a class="category-row" href={`${base}/folders/`}>
+        <a class="category-row dx-card" href={`${base}/folders/`}>
           <span class="category-icon" style="--row-color: var(--forest)"></span>
           <span class="category-row-main">
             <span class="category-row-title">Explorar pastas</span>
@@ -42,7 +42,7 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
           </span>
           <span class="category-chevron" aria-hidden="true">›</span>
         </a>
-        <a class="category-row" href={`${base}/map/`}>
+        <a class="category-row dx-card" href={`${base}/map/`}>
           <span class="category-icon" style="--row-color: var(--gold)"></span>
           <span class="category-row-main">
             <span class="category-row-title">Mapa jurídico</span>
@@ -50,7 +50,7 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
           </span>
           <span class="category-chevron" aria-hidden="true">›</span>
         </a>
-        <a class="category-row" href={`${base}/plano/`}>
+        <a class="category-row dx-card" href={`${base}/plano/`}>
           <span class="category-icon" style="--row-color: var(--danger)"></span>
           <span class="category-row-main">
             <span class="category-row-title">Plano de implementação</span>
@@ -62,11 +62,11 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
     </section>
 
     <section class="home-section explainer-section" aria-labelledby="llm-titulo">
-      <div class="section-heading">
+      <div class="section-heading dx-on-bg">
         <p class="eyebrow">Do corpus à resposta</p>
         <h2 id="llm-titulo">Como funciona um LLM jurídico</h2>
       </div>
-      <figure class="llm-infographic">
+      <figure class="llm-infographic dx-card">
         <a
           href={`${base}/images/how-a-legal-llm-works.png`}
           target="_blank"
@@ -92,11 +92,11 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
     </section>
 
     <section class="home-section explainer-section" aria-labelledby="law-wiki-titulo">
-      <div class="section-heading">
+      <div class="section-heading dx-on-bg">
         <p class="eyebrow">Do registo à minuta</p>
         <h2 id="law-wiki-titulo">Como funciona o /law-wiki</h2>
       </div>
-      <figure class="llm-infographic">
+      <figure class="llm-infographic dx-card">
         <a
           href={`${base}/images/como-funciona-law-wiki-skill.png`}
           target="_blank"
@@ -121,7 +121,7 @@ const topics = new Set(docs.map((item) => item.topic_raw || item.topic).filter(B
       </figure>
     </section>
 
-    <section class="panel research-card">
+    <section class="panel research-card dx-card">
       <p class="eyebrow">Como ler o portal</p>
       <h2>Fonte primeiro, análise depois</h2>
       <p class="lede">
