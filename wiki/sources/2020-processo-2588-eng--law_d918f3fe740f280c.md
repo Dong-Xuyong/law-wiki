@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -145,3 +147,20 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/triave/2020/law_d918f3fe740f280c]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/onus-da-prova|ónus da prova]]
+- about sector: [[concepts/energy|energy]]
+- about topic: [[concepts/eletricidade-e-gas-natural|Eletricidade e gas natural]]
+- cites instrument: [[instruments/pt-codigo-civil|Código Civil]]
+- cites instrument: [[instruments/pt-lei-23-96|Lei n.º23/96]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º24/96]]
+- cites provision: [[concepts/pt-codigo-civil-art-509|art. 509 Código Civil]]
+- cites provision: [[concepts/pt-lei-23-96-art-7|art. 7 Lei n.º 23/96]]
+- cites provision: [[concepts/pt-lei-24-96-art-12|art. 12 Lei n.º 24/96]]
+- mentions entity: [[entities/triave|TRIAVE]]
+- published by: [[entities/triave|Triave]]
+<!-- LAW-WIKI:GRAPH:END -->

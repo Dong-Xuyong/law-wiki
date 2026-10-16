@@ -1,0 +1,33 @@
+{
+  "id": "05-extraordinarias-provadas",
+  "title": "Circunstâncias extraordinárias provadas: só reembolso e assistência",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A., pelo cancelamento do voo AX 310, Lisboa–Madrid, no dia 2 de janeiro de 2025: 250,00 EUR de indemnização padronizada, 95,00 EUR de reembolso do bilhete, 18,40 EUR de almoço e 70,00 EUR de hotel. Referência interna AX-FIC-05. A passageira não viajou. Audiência sem acordo e sem testemunhas.\n\nAs partes aceitam que a partida estava marcada para as 07:40, que a distância ortodrómica é de 503 km e que o bilhete, no valor de 95,00 EUR, foi pago e não foi reembolsado. Aceitam ainda o conteúdo do METAR e do aviso aeronáutico lidos na ata: o aeroporto de partida esteve encerrado a partidas entre as 05:00 e as 14:00 UTC por trovoada e visibilidade inferior aos mínimos, o encerramento atingiu a rotação da manhã e nenhuma medida da transportadora teria permitido descolar durante o encerramento. A Reclamante A declarou em audiência que não contesta esse teor. A AeroExemplo, S.A. cancelou o AX 310 nessa manhã e não operou alternativa no próprio dia, facto igualmente aceite.\n\nEstá transcrito na ata o talão de um almoço no aeroporto, de 18,40 EUR, com data de 2 de janeiro de 2025, emitido enquanto a passageira aguardava informação. A transportadora não impugnou o talão nem alegou ter fornecido refeição ou alojamento. O hotel de 70,00 EUR é apenas afirmado na reclamação: a Reclamante A diz que perdeu uma reserva em Madrid, mas não junta fatura, extrato ou comprovativo, e a transportadora não admite esse gasto nem a sua causa.\n\nNão há pagamento da indemnização padronizada. Não há documento que contradiga o encerramento do aeroporto. A assistência de refeição ficou por conta da passageira durante a espera, com talão junto. O preço do transporte não foi devolvido, apesar de a viagem não se ter realizado e de a passageira não ter aceite outro transporte.",
+  "expected": {
+    "decision_total": "113.40",
+    "outcome": "parcialmente procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "0.00"
+      },
+      {
+        "item": "Reembolso do bilhete",
+        "awarded": "95.00"
+      },
+      {
+        "item": "Refeição",
+        "awarded": "18.40"
+      },
+      {
+        "item": "Hotel",
+        "awarded": "0.00"
+      }
+    ],
+    "must_mention": [
+      "circunstâncias extraordinárias",
+      "artigo 8.º",
+      "artigo 9.º"
+    ],
+    "notes": "Encerramento do aeroporto por trovoada, com METAR e aviso lidos na ata e aceites pela passageira: circunstância extraordinária e inevitabilidade ficam provadas (facto comum). O artigo 5.º, n.º 3, afasta os 250,00 EUR do artigo 7.º, mas não os artigos 8.º e 9.º. Reembolso de 95,00 EUR admitido e não pago. Almoço de 18,40 EUR com talão na ata e sem assistência prestada pela transportadora. Hotel de 70,00 EUR é alegação sem documento e sem admissão: não provado. Total 95,00 + 18,40 = 113,40. Parcialmente procedente."
+  }
+}

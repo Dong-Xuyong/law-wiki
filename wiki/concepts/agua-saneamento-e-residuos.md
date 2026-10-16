@@ -28,3 +28,12 @@ Exact CSV `Topic` label represented in this corpus. No mandate, jurisdiction, do
 ## Sources
 
 Use the catalog and verify propositions against immutable raw documents.
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+# Agua Saneamento e residuos
+
+## Connected sources
+
+Graph-derived links; underlying source pages remain unverified.
+- [[sources/processo-3669-2023--law_129c7e30d0afc86b|Processo-3669.2023.pdf]] — about topic
+<!-- LAW-WIKI:GRAPH:END -->

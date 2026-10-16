@@ -52,18 +52,54 @@ def lint(root: Path, expected: int | None = None) -> dict[str, Any]:
         base_catalog_rows = graph.load_jsonl(catalog_path)
         pdf_catalog_path = root / "data/pdf-catalog.jsonl"
         pdf_catalog_rows = graph.load_jsonl(pdf_catalog_path) if pdf_catalog_path.exists() else []
-        catalog_rows = [*base_catalog_rows, *pdf_catalog_rows]
+        # CSV corpus stays data/catalog.jsonl. Open-source additions live in
+        # their own catalog and under raw/documents/opensrc/, so --expected
+        # still means the CSV row count (5156) rather than every markdown file.
+        opensrc_catalog_path = root / "data/open-sources-catalog.jsonl"
+        opensrc_rows = (
+            graph.load_jsonl(opensrc_catalog_path) if opensrc_catalog_path.is_file() else []
+        )
+        catalog_rows = [*base_catalog_rows, *pdf_catalog_rows, *opensrc_rows]
     except (graph.ContractError, OSError) as exc:
         return {"ok": False, "errors": [str(exc)], "warnings": [], "counts": {}}
     catalog = {str(row["id"]): row for row in catalog_rows}
+    opensrc_ids = {str(row["id"]) for row in opensrc_rows}
     raw_files = list((root / "raw/documents").rglob("*.md"))
     source_files = list((root / "wiki/sources").glob("*.md"))
+    opensrc_prefix = "raw/documents/opensrc/"
+    csv_raw = []
+    opensrc_raw = []
+    for path in raw_files:
+        rel = path.relative_to(root).as_posix()
+        if rel.startswith(opensrc_prefix):
+            opensrc_raw.append(rel)
+        else:
+            csv_raw.append(rel)
+    csv_catalog_count = len(base_catalog_rows) + len(pdf_catalog_rows)
+    tracked = (
+        f"(csv {len(base_catalog_rows)} + pdf {len(pdf_catalog_rows)} "
+        f"+ opensrc {len(opensrc_rows)})"
+    )
     if expected is not None and len(base_catalog_rows) != expected:
         errors.append(f"base catalog rows {len(base_catalog_rows)} != {expected}")
-    if len(raw_files) != len(catalog_rows):
-        errors.append(f"raw/catalog parity: {len(raw_files)} != {len(catalog_rows)}")
+    if len(csv_raw) != csv_catalog_count:
+        errors.append(
+            f"raw/catalog parity: {len(csv_raw)} != {csv_catalog_count} "
+            f"(csv {len(base_catalog_rows)} + pdf {len(pdf_catalog_rows)})"
+        )
+    listed_opensrc = {
+        str(row.get("rel_raw", "")).replace("\\", "/") for row in opensrc_rows
+    }
+    extra_opensrc = sorted(set(opensrc_raw) - listed_opensrc)
+    if extra_opensrc:
+        shown = ", ".join(extra_opensrc[:8])
+        warnings.append(
+            f"opensrc raw not in open-sources-catalog ({len(extra_opensrc)}): {shown}"
+        )
     if len(source_files) != len(catalog_rows):
-        errors.append(f"source/catalog parity: {len(source_files)} != {len(catalog_rows)}")
+        errors.append(
+            f"source/catalog parity: {len(source_files)} != {len(catalog_rows)} {tracked}"
+        )
     ids = [str(row.get("id")) for row in catalog_rows]
     if len(ids) != len(set(ids)):
         errors.append("duplicate catalog document ids")
@@ -74,7 +110,7 @@ def lint(root: Path, expected: int | None = None) -> dict[str, Any]:
                 errors.append(f"{row.get('id')}: missing {field} target {rel}")
         source_path = root / str(row.get("rel_source", ""))
         raw_path = root / str(row.get("rel_raw", ""))
-        if source_path.is_file():
+        if source_path.is_file() and str(row.get("id")) not in opensrc_ids:
             source_fm = _frontmatter(source_path.read_text(encoding="utf-8"))
             expected_source = {
                 "id": str(row["id"]),
@@ -173,7 +209,8 @@ def lint(root: Path, expected: int | None = None) -> dict[str, Any]:
                 if frozenset((anchor, peer)) not in duplicate_edges and not importer_linked:
                     errors.append(f"duplicate cluster missing edge: {anchor}, {peer}")
 
-    catalog_topics = {str(row.get("topic", "")).strip() for row in catalog_rows if row.get("topic")}
+    csv_rows = [*base_catalog_rows, *pdf_catalog_rows]
+    catalog_topics = {str(row.get("topic", "")).strip() for row in csv_rows if row.get("topic")}
     covered_topics = {
         str(edge.get("object", {}).get("label", "")).strip()
         for edge in connections if edge.get("predicate") == "about_topic"
@@ -223,7 +260,10 @@ def lint(root: Path, expected: int | None = None) -> dict[str, Any]:
         "errors": sorted(set(errors)),
         "warnings": sorted(set(warnings)),
         "counts": {
-            "catalog": len(catalog_rows), "raw": len(raw_files),
+            "catalog": len(catalog_rows),
+            "csv_catalog": len(base_catalog_rows),
+            "opensrc_catalog": len(opensrc_rows),
+            "raw": len(raw_files),
             "sources": len(source_files), "connections": len(connections),
             "review_queue": len(queue), "managed_hubs": len(managed_hubs),
         },

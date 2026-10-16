@@ -1,0 +1,24 @@
+{
+  "id": "04",
+  "document_id": "law_920e8b39bb555c7e",
+  "path": "raw/documents/caccl/2024/law_920e8b39bb555c7e.md",
+  "title": "CACCL, sentença 321/2024 (processo 1471/2024)",
+  "input_line_ranges": [
+    [
+      20,
+      67
+    ]
+  ],
+  "expected_line_range": [
+    126,
+    140
+  ],
+  "amount_literals": [
+    "250,00"
+  ],
+  "expected": {
+    "decision_total": "250.00",
+    "outcome": "procedente"
+  },
+  "notes": "Cancelamento Lisboa–Madrid. Dispositivo condena €250,00 e fixa o mesmo valor à reclamação. Procedente."
+}

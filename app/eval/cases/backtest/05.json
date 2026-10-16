@@ -1,0 +1,24 @@
+{
+  "id": "05",
+  "document_id": "law_6a378431ead32422",
+  "path": "raw/documents/ciab/2022/law_6a378431ead32422.md",
+  "title": "CIAB, processo 3093/2022",
+  "input_line_ranges": [
+    [
+      30,
+      95
+    ]
+  ],
+  "expected_line_range": [
+    170,
+    179
+  ],
+  "amount_literals": [
+    "400,00"
+  ],
+  "expected": {
+    "decision_total": "400.00",
+    "outcome": "procedente"
+  },
+  "notes": "Dispositivo: €400,00 por cancelamento, um passageiro, voo entre 1 500 e 3 500 km. Procedente. O sumário jurídico anterior à linha 30 fica de fora do input."
+}

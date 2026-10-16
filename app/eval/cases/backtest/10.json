@@ -1,0 +1,25 @@
+{
+  "id": "10",
+  "document_id": "law_e5b4aec6cb366af7",
+  "path": "raw/documents/triave/2023/law_e5b4aec6cb366af7.md",
+  "title": "TRIAVE, processo 3439/2023",
+  "input_line_ranges": [
+    [
+      67,
+      239
+    ]
+  ],
+  "expected_line_range": [
+    403,
+    418
+  ],
+  "amount_literals": [
+    "400,00",
+    "255,78"
+  ],
+  "expected": {
+    "decision_total": "655.78",
+    "outcome": "parcialmente procedente"
+  },
+  "notes": "O dispositivo não soma os dois montantes. Condena €400,00 pelo cancelamento e €255,78 por despesas, e absolve o demais. 400,00 + 255,78 = 655,78. Parcialmente procedente."
+}

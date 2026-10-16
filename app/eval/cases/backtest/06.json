@@ -1,0 +1,24 @@
+{
+  "id": "06",
+  "document_id": "law_c319a7e26a43267e",
+  "path": "raw/documents/cicap/2021/law_c319a7e26a43267e.md",
+  "title": "CICAP, processo 2219/2021",
+  "input_line_ranges": [
+    [
+      58,
+      173
+    ]
+  ],
+  "expected_line_range": [
+    453,
+    466
+  ],
+  "amount_literals": [
+    "628,15"
+  ],
+  "expected": {
+    "decision_total": "628.15",
+    "outcome": "procedente"
+  },
+  "notes": "Dispositivo condena a quantia única de €628,15 a título indemnizatório. Totalmente procedente."
+}

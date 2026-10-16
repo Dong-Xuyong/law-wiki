@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -104,3 +106,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/triave/2016/law_4b040753cccefa7a]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/servicos-publicos-essenciais|serviços públicos essenciais]]
+- about sector: [[concepts/energy|energy]]
+- about topic: [[concepts/eletricidade-e-gas-natural|Eletricidade e gas natural]]
+- has outcome: [[concepts/parcialmente-procedente|parcialmente procedente]]
+- published by: [[entities/triave|Triave]]
+<!-- LAW-WIKI:GRAPH:END -->

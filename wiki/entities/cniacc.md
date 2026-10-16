@@ -33,6 +33,8 @@ Use the catalog and verify propositions against immutable raw documents.
 Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-1582-2019--law_033aa8224ffc6bf5|processo-1582-2019.pdf]] — published by
 - [[sources/processo-1582-2019--law_033aa8224ffc6bf5|processo-1582-2019.pdf]] — mentions entity
+- [[sources/processo-1212-2022--law_063224fc23468206|processo-1212-2022.pdf]] — mentions entity
+- [[sources/processo-1212-2022--law_063224fc23468206|processo-1212-2022.pdf]] — published by
 - [[sources/energia-eletrica-5--law_097f5bbeabb01ea0|energia-eletrica-5.pdf]] — published by
 - [[sources/energia-eletrica-5--law_097f5bbeabb01ea0|energia-eletrica-5.pdf]] — mentions entity
 - [[sources/processo-278-2023--law_09d04838ec7d2eb5|processo-278-2023.pdf]] — published by
@@ -45,17 +47,26 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/energia-eletrica-15--law_1bb16467f7c8fbfc|energia-eletrica-15.pdf]] — published by
 - [[sources/processo-1208-2017--law_1d985b2c29e69f59|processo-1208-2017.pdf]] — published by
 - [[sources/processo-1208-2017--law_1d985b2c29e69f59|processo-1208-2017.pdf]] — mentions entity
+- [[sources/gua-268--law_209001dfc2b8293e|gua-268.pdf]] — published by
 - [[sources/processo-888-202091--law_2311be2b35816b6c|processo-888-202091.pdf]] — published by
 - [[sources/processo-888-202091--law_2311be2b35816b6c|processo-888-202091.pdf]] — mentions entity
 - [[sources/processo-3073-2020-1--law_24ad611ae2d70092|processo-3073-2020 (1).pdf]] — mentions entity
 - [[sources/processo-3073-2020-1--law_24ad611ae2d70092|processo-3073-2020 (1).pdf]] — published by
+- [[sources/processo-1595-2019--law_26134f85d5dd8040|processo-1595-2019.pdf]] — published by
 - [[sources/processo-2115-2019--law_2ab78f5089455d13|processo-2115-2019.pdf]] — mentions entity
 - [[sources/processo-2115-2019--law_2ab78f5089455d13|processo-2115-2019.pdf]] — published by
+- [[sources/processo-2303-2020--law_2e01dd00258d6e53|processo-2303-2020.pdf]] — mentions entity
+- [[sources/processo-2303-2020--law_2e01dd00258d6e53|processo-2303-2020.pdf]] — published by
 - [[sources/processo-1168-2022--law_357d88248acb71d0|processo-1168-2022.pdf]] — published by
+- [[sources/processo-1920-2022--law_35cb1b54f608b6ed|processo-1920-2022.pdf]] — mentions entity
+- [[sources/processo-1920-2022--law_35cb1b54f608b6ed|processo-1920-2022.pdf]] — published by
 - [[sources/processo-578-2020--law_3868b3fa5b571348|processo-578-2020.pdf]] — mentions entity
 - [[sources/processo-578-2020--law_3868b3fa5b571348|processo-578-2020.pdf]] — published by
 - [[sources/processo-673-2023--law_39278730af2f19ab|processo-673-2023.pdf]] — mentions entity
 - [[sources/processo-673-2023--law_39278730af2f19ab|processo-673-2023.pdf]] — published by
+- [[sources/energia-eletrica-e-gas-natural--law_403af49e8ab27388|energia-eletrica-e-gas-natural.pdf]] — published by
+- [[sources/processo-2388-2022--law_412b6af6355a2e1d|processo-2388-2022.pdf]] — published by
+- [[sources/processo-1990-2022--law_41e265addf75583b|processo-1990-2022.pdf]] — published by
 - [[sources/processo-2522-2021--law_4d4b793e9dd755fc|processo-2522-2021.pdf]] — mentions entity
 - [[sources/processo-2522-2021--law_4d4b793e9dd755fc|processo-2522-2021.pdf]] — published by
 - [[sources/processo-1724-2022--law_554f68b0c67b7f96|processo-1724-2022.pdf]] — published by
@@ -65,6 +76,7 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-1159-2020--law_56f0ff4bf247d2c5|processo-1159-2020.pdf]] — published by
 - [[sources/processo-2291-2019--law_573b3f1996b93ede|processo-2291-2019.pdf]] — published by
 - [[sources/processo-2291-2019--law_573b3f1996b93ede|processo-2291-2019.pdf]] — mentions entity
+- [[sources/sentenca-3033-2023--law_5767e4317b760332|sentenca-3033-2023.pdf]] — published by
 - [[sources/processo-86-2020--law_59d0214eb1877383|processo-86-2020.pdf]] — mentions entity
 - [[sources/processo-86-2020--law_59d0214eb1877383|processo-86-2020.pdf]] — published by
 - [[sources/processo-862-2021-1--law_5a61732427c94edb|processo-862-2021 (1).pdf]] — published by
@@ -74,6 +86,8 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-2356-2021--law_69dbb9f15c2e14c0|processo-2356-2021.pdf]] — published by
 - [[sources/processo-1216-2022--law_716983a154a76a79|processo-1216-2022.pdf]] — published by
 - [[sources/processo-1216-2022--law_716983a154a76a79|processo-1216-2022.pdf]] — mentions entity
+- [[sources/processo-782-2020--law_7236cc23df882796|processo-782-2020.pdf]] — published by
+- [[sources/processo-782-2020--law_7236cc23df882796|processo-782-2020.pdf]] — mentions entity
 - [[sources/energia-eletrica-16--law_73db219675f998e0|energia-eletrica-16.pdf]] — mentions entity
 - [[sources/energia-eletrica-16--law_73db219675f998e0|energia-eletrica-16.pdf]] — published by
 - [[sources/processo-1970-2023--law_7607c571764b8392|processo-1970-2023.pdf]] — published by
@@ -84,6 +98,8 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-821-2019--law_7b87bfe91d010e58|processo-821-2019.pdf]] — published by
 - [[sources/processo-1618-2023--law_7df9727b08242a5f|processo-1618-2023.pdf]] — published by
 - [[sources/processo-636-2023-cniacc--law_7e726144fe91b542|processo-636-2023-cniacc.pdf]] — published by
+- [[sources/processo-295-2019--law_81c31e613c7ae979|processo-295-2019.pdf]] — mentions entity
+- [[sources/processo-295-2019--law_81c31e613c7ae979|processo-295-2019.pdf]] — published by
 - [[sources/processo-2274-2023--law_857452719c605137|processo-2274-2023.pdf]] — published by
 - [[sources/processo-821-201976--law_86fa6cfac30858ba|processo-821-201976.pdf]] — published by
 - [[sources/processo-821-201976--law_86fa6cfac30858ba|processo-821-201976.pdf]] — mentions entity
@@ -104,6 +120,7 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-862-2021--law_a4018ba1bd0edf10|processo-862-2021.pdf]] — mentions entity
 - [[sources/processo-1665-2018-1--law_a99bdcaad0752fe1|processo-1665-2018 (1).pdf]] — mentions entity
 - [[sources/processo-1665-2018-1--law_a99bdcaad0752fe1|processo-1665-2018 (1).pdf]] — published by
+- [[sources/processo-1864-2023--law_aa2098466ba68fec|processo-1864-2023.pdf]] — published by
 - [[sources/processo-220-2023--law_abf481ebfef12994|processo-220-2023.pdf]] — published by
 - [[sources/processo-2923-2020--law_ae0e0dc1d32a7c15|processo-2923-2020.pdf]] — published by
 - [[sources/processo-2923-2020--law_ae0e0dc1d32a7c15|processo-2923-2020.pdf]] — mentions entity
@@ -113,9 +130,13 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-2033-2019--law_b3eb5b4722a4c339|processo-2033-2019.pdf]] — published by
 - [[sources/processo-1836-2020--law_b8ed84c0e5d4c401|processo-1836-2020.pdf]] — mentions entity
 - [[sources/processo-1836-2020--law_b8ed84c0e5d4c401|processo-1836-2020.pdf]] — published by
+- [[sources/proceso-744-2023--law_bae469ffcc5057ee|proceso-744-2023.pdf]] — mentions entity
+- [[sources/proceso-744-2023--law_bae469ffcc5057ee|proceso-744-2023.pdf]] — published by
 - [[sources/processo-687-2023--law_be4b2cc09d27b0f1|processo-687-2023.pdf]] — published by
 - [[sources/processo-220-2023-1--law_bef06ef99b5876c7|processo-220-2023 (1).pdf]] — published by
+- [[sources/gas-2--law_c05a0e871585db5c|gas-2.pdf]] — published by
 - [[sources/processo-2178-2023--law_c0e187f54a5952bb|processo-2178-2023.pdf]] — published by
+- [[sources/processo-1219-2018--law_c4a0283422e0536b|processo-1219-2018.pdf]] — published by
 - [[sources/processo-1173-2022--law_c74a1c1de1080ef0|processo-1173-2022.pdf]] — published by
 - [[sources/processo-1173-2022--law_c74a1c1de1080ef0|processo-1173-2022.pdf]] — mentions entity
 - [[sources/processo-1665-2018--law_c75883517fe8ea83|processo-1665-2018.pdf]] — published by
@@ -128,6 +149,7 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-1711-2018--law_ce722251aef47a2d|processo-1711-2018.pdf]] — mentions entity
 - [[sources/processo-132-202123--law_daa4b073dec3ca5d|processo-132-202123.pdf]] — published by
 - [[sources/processo-132-202123--law_daa4b073dec3ca5d|processo-132-202123.pdf]] — mentions entity
+- [[sources/processo-2320-2021--law_db0703666b5e7b8a|processo-2320-2021.pdf]] — published by
 - [[sources/processo-1417-2022--law_dcaa96a7862ff31e|processo-1417-2022.pdf]] — published by
 - [[sources/processo-1417-2022--law_dcaa96a7862ff31e|processo-1417-2022.pdf]] — mentions entity
 - [[sources/processo-1933-2019--law_de7f276add9ef476|processo-1933-2019.pdf]] — published by
@@ -143,6 +165,9 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-1697-2023--law_e5a6172895ca6647|processo-1697-2023.pdf]] — published by
 - [[sources/processo-673-2023-1--law_e77ca6dcbdef5bb4|processo-673-2023 (1).pdf]] — published by
 - [[sources/processo-673-2023-1--law_e77ca6dcbdef5bb4|processo-673-2023 (1).pdf]] — mentions entity
+- [[sources/processo-2566-2023--law_e79dfab786a5c568|processo-2566-2023.pdf]] — published by
+- [[sources/processo-2566-2023--law_e79dfab786a5c568|processo-2566-2023.pdf]] — mentions entity
+- [[sources/processo-1594-2022--law_ee873eac6f1cb181|processo-1594-2022.pdf]] — published by
 - [[sources/processo-758-2023--law_efa75268e2c7eb88|processo-758-2023.pdf]] — mentions entity
 - [[sources/processo-758-2023--law_efa75268e2c7eb88|processo-758-2023.pdf]] — published by
 - [[sources/processo-947-2020--law_f27e429def799fc2|processo-947-2020.pdf]] — published by

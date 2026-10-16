@@ -9,6 +9,8 @@ enrichment_state: graph-reviewed
 ## Connected sources
 
 Graph-derived links; underlying source pages remain unverified.
+- [[sources/processo-3669-2023--law_129c7e30d0afc86b|Processo-3669.2023.pdf]] — about sector
+- [[sources/gua-268--law_209001dfc2b8293e|gua-268.pdf]] — about sector
 - [[sources/24-03-2020-aguas--law_4057057640216473|24.03.2020-AGUAS.pdf]] — about sector
 - [[sources/2020-processo-2873-out--law_52daec23c0affacb|2020_Processo 2873.out.pdf]] — about sector
 - [[sources/processo-3070-2023--law_598ed2b3a3a54e4e|Processo-3070.2023.pdf]] — about sector

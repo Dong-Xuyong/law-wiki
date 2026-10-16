@@ -1,0 +1,21 @@
+{
+  "name": "minutas-infra",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CDK app for the Minutas dev stack (LwMinutasDev)",
+  "scripts": {
+    "build": "tsc",
+    "synth": "cdk synth",
+    "cdk": "cdk"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.273.0",
+    "constructs": "^10.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "aws-cdk": "2.1145.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

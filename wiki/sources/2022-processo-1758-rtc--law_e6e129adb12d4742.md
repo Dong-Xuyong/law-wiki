@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -148,3 +150,16 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/triave/2022/law_e6e129adb12d4742]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/onus-da-prova|ónus da prova]]
+- about topic: [[concepts/outros-transportes|Outros_Transportes]]
+- cites instrument: [[instruments/pt-decreto-lei-446-85|Decreto-Lei n.º446/85]]
+- cites provision: [[concepts/pt-decreto-lei-446-85-art-5|art. 5 Decreto-Lei n.º 446/85]]
+- decided by: [[entities/pt-triave|TRIAVE]]
+- mentions entity: [[entities/triave|TRIAVE]]
+- published by: [[entities/triave|Triave]]
+<!-- LAW-WIKI:GRAPH:END -->

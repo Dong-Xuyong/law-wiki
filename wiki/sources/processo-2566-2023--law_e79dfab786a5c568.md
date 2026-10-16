@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -116,3 +118,18 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cniacc/2023/law_e79dfab786a5c568]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/garantias-defeitos|garantias/defeitos]]
+- cites instrument: [[instruments/pt-codigo-civil|Código Civil]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º 24/96]]
+- cites provision: [[concepts/pt-codigo-civil-art-292|art. 292 Código Civil]]
+- cites provision: [[concepts/pt-lei-24-96-art-14|art. 14 Lei n.º 24/96]]
+- decided by: [[entities/pt-cniacc|CNIACC]]
+- document of: [[cases/pt-cniacc-2566-2023|Processo 2566/2023]]
+- mentions entity: [[entities/cniacc|CNIACC]]
+- published by: [[entities/cniacc|CNIACC]]
+<!-- LAW-WIKI:GRAPH:END -->

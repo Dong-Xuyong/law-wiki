@@ -1,0 +1,24 @@
+{
+  "id": "02",
+  "document_id": "law_bd2fc6a7737f1749",
+  "path": "raw/documents/caccl/2022/law_bd2fc6a7737f1749.md",
+  "title": "CACCL, sentença 351/2023 (processo 4779/2022)",
+  "input_line_ranges": [
+    [
+      20,
+      111
+    ]
+  ],
+  "expected_line_range": [
+    224,
+    234
+  ],
+  "amount_literals": [
+    "250,00"
+  ],
+  "expected": {
+    "decision_total": "250.00",
+    "outcome": "parcialmente procedente"
+  },
+  "notes": "Dispositivo condena €250,00. Pedido indicado nos tópicos: €809,43. Atraso longo em voo inferior a 1 500 km. Parcialmente procedente."
+}

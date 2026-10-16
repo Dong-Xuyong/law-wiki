@@ -1,0 +1,8 @@
+{
+  "apiBase": "mock",
+  "region": "eu-west-1",
+  "userPoolId": "eu-west-1_local",
+  "clientId": "localclientid",
+  "cognitoDomain": "https://auth.example.com",
+  "redirectUri": "http://localhost:5173/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "07",
+  "document_id": "law_36d2fb6efff0bd1d",
+  "path": "raw/documents/cicap/2024/law_36d2fb6efff0bd1d.md",
+  "title": "CICAP, processo 897/2024",
+  "input_line_ranges": [
+    [
+      29,
+      143
+    ],
+    [
+      155,
+      261
+    ]
+  ],
+  "expected_line_range": [
+    515,
+    525
+  ],
+  "amount_literals": [
+    "851,05",
+    "600,00"
+  ],
+  "expected": {
+    "decision_total": "851.05",
+    "outcome": "parcialmente procedente"
+  },
+  "notes": "Quantia global de 851,05 EUR = 600,00 (art. 7.º, n.º 1, al. c)) + 151,05 patrimoniais + 100,00 não patrimoniais. A fixação do valor da causa na linha 153 fica de fora do input."
+}

@@ -31,11 +31,18 @@ Use the catalog and verify propositions against immutable raw documents.
 ## Connected sources
 
 Graph-derived links; underlying source pages remain unverified.
+- [[sources/2020-processo-1553-out--law_0350ff7678655632|2020_Processo 1553.out.pdf]] — published by
 - [[sources/2020-processo-875-out--law_0648b31ecb0592ad|2020_Processo 875.out.pdf]] — published by
 - [[sources/2022-processo-3199-out--law_068fbf4badad8f36|2022_Processo 3199.out.pdf]] — published by
+- [[sources/2022-processo-1919-eng--law_0803956fa2dcb3e6|2022_Processo 1919.eng.pdf]] — mentions entity
+- [[sources/2022-processo-1919-eng--law_0803956fa2dcb3e6|2022_Processo 1919.eng.pdf]] — published by
+- [[sources/2021-processo-973-eng--law_0b28430dc0519ed6|2021_Processo 973.eng.pdf]] — mentions entity
+- [[sources/2021-processo-973-eng--law_0b28430dc0519ed6|2021_Processo 973.eng.pdf]] — published by
 - [[sources/2016-processo-1354-eng--law_0b5d6030abe4b7fc|2016 - Processo 1354 - eng.pdf]] — published by
 - [[sources/2023-processo-344-out--law_0bc1427a289a47d2|2023_Processo 344.out.pdf]] — published by
 - [[sources/2024-processo-174-out--law_0d1cc4adcea81c72|2024_Processo 174.out.pdf]] — published by
+- [[sources/2024-processo-277-out--law_15009fea1857d2af|2024_Processo 277.out.pdf]] — mentions entity
+- [[sources/2024-processo-277-out--law_15009fea1857d2af|2024_Processo 277.out.pdf]] — published by
 - [[sources/2016-processo-3749-out--law_159efeb0a227a34c|2016 - Processo 3749 - out.pdf]] — published by
 - [[sources/2023-processo-1199-out--law_1d9b3229e234610f|2023_Processo 1199.out.pdf]] — published by
 - [[sources/2016-processo-3463-eng--law_1e5ca1ccf299bfbf|2016 - Processo 3463 - eng.pdf]] — published by
@@ -51,10 +58,15 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/2023-processo-2908-out--law_37f232d5621fe77d|2023_Processo 2908.out.pdf]] — published by
 - [[sources/2016-processo-1772-eng--law_438cd5012759bfb7|2016 - Processo 1772 - eng.pdf]] — published by
 - [[sources/2022-processo-2543-eng--law_48e19e4ad54863b2|2022_Processo 2543.eng.pdf]] — published by
+- [[sources/2016-processo-2742-eng--law_4b040753cccefa7a|2016 - Processo 2742 - eng.pdf]] — published by
 - [[sources/2020-processo-554-out--law_5091b0889e8dbed3|2020_Processo 554.out.pdf]] — published by
 - [[sources/2020-processo-2873-out--law_52daec23c0affacb|2020_Processo 2873.out.pdf]] — published by
 - [[sources/2024-processo-1011-out--law_58721686668997d3|2024_Processo 1011.out.pdf]] — published by
+- [[sources/2023-processo-2834-out--law_591e7ad49624813f|2023_Processo 2834.out.pdf]] — published by
+- [[sources/2023-processo-2834-out--law_591e7ad49624813f|2023_Processo 2834.out.pdf]] — mentions entity
 - [[sources/2016-processo-3302-eng--law_5a8098ac5d4b762b|2016 - Processo 3302 - eng.pdf]] — published by
+- [[sources/2021-processo-1765-eng--law_66cb963c5b0784ff|2021_Processo 1765.eng.pdf]] — published by
+- [[sources/2021-processo-1765-eng--law_66cb963c5b0784ff|2021_Processo 1765.eng.pdf]] — mentions entity
 - [[sources/2017-processo-774-eng--law_6bc1002e67035a92|2017 - Processo 774 - eng.pdf]] — published by
 - [[sources/2016-processo-2246-eng--law_6c168c598e976b93|2016 - Processo 2246  - eng.pdf]] — published by
 - [[sources/2016-processo-426-out--law_6f3434dc966cd87b|2016 - Processo 426 - out.pdf]] — published by
@@ -66,7 +78,11 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/2016-processo-3357-out--law_87a73a9ccd0c8f48|2016 - Processo 3357 - out.pdf]] — published by
 - [[sources/2020-processo-3049-out--law_886618c775c7abc7|2020_Processo 3049.out.pdf]] — published by
 - [[sources/2023-processo-2219-eng--law_891e7ff4f80f23d1|2023_Processo 2219.eng.pdf]] — published by
+- [[sources/2022-processo-2495-eng--law_8a3d18ff7c986d2c|2022_Processo 2495.eng.pdf]] — published by
+- [[sources/2022-processo-2495-eng--law_8a3d18ff7c986d2c|2022_Processo 2495.eng.pdf]] — mentions entity
 - [[sources/2021-processo-298-out--law_8af3a0d1946fff89|2021_Processo 298.out.pdf]] — published by
+- [[sources/2021-processo-2862-out--law_971ce5bc02ac16f1|2021_Processo 2862.out.pdf]] — published by
+- [[sources/2021-processo-2862-out--law_971ce5bc02ac16f1|2021_Processo 2862.out.pdf]] — mentions entity
 - [[sources/2017-processo-608-eng--law_98981acfae712b5b|2017 - Processo 608 - eng.pdf]] — published by
 - [[sources/2022-processo-2960-eng--law_9965bce0a04a1694|2022_Processo 2960.eng.pdf]] — published by
 - [[sources/2020-processo-2636-eng--law_9a68b76571b5f0d7|2020_Processo 2636.eng.pdf]] — published by
@@ -79,7 +95,11 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/2020-processo-2714-eng--law_a838a9cd7ef5ecdd|2020_Processo 2714.eng.pdf]] — published by
 - [[sources/2023-processo-1838-ta--law_ab5221fce1f034ea|2023_Processo 1838.ta.pdf]] — published by
 - [[sources/2023-processo-2771-out--law_af5cb2e1cf6f6765|2023_Processo 2771.out.pdf]] — published by
+- [[sources/2022-processo-540-eng--law_b14bd9d2f2c419a5|2022_Processo 540.eng.pdf]] — mentions entity
+- [[sources/2022-processo-540-eng--law_b14bd9d2f2c419a5|2022_Processo 540.eng.pdf]] — published by
 - [[sources/2016-processo-2604-eng--law_b61da58a2786db39|2016 - Processo 2604 - eng.pdf]] — published by
+- [[sources/2023-processo-941-eng--law_b7547558e33e2d75|2023_Processo 941.eng.pdf]] — mentions entity
+- [[sources/2023-processo-941-eng--law_b7547558e33e2d75|2023_Processo 941.eng.pdf]] — published by
 - [[sources/2016-processo-2249-eng--law_bc1cf3dd3d52c8d6|2016 - Processo 2249  - eng.pdf]] — published by
 - [[sources/2023-processo-3343-out--law_bdaa40f4cf538f0f|2023_Processo 3343.out.pdf]] — published by
 - [[sources/2020-processo-1921-out--law_c268e145144fb560|2020_Processo 1921.out.pdf]] — published by
@@ -88,8 +108,16 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/2023-processo-1927-out--law_c45ff5b1e605742b|2023_Processo 1927.out.pdf]] — published by
 - [[sources/2021-processo-467-out--law_c613a81f7a121538|2021_Processo 467.out.pdf]] — published by
 - [[sources/2017-processo-482-eng--law_c8e9c023b049b0f1|2017 - Processo 482 - eng.pdf]] — published by
+- [[sources/2020-processo-2588-eng--law_d918f3fe740f280c|2020_Processo 2588.eng.pdf]] — mentions entity
+- [[sources/2020-processo-2588-eng--law_d918f3fe740f280c|2020_Processo 2588.eng.pdf]] — published by
+- [[sources/2020-processo-1482-eng--law_db1018e584e5de12|2020_Processo 1482.eng.pdf]] — published by
+- [[sources/2020-processo-1482-eng--law_db1018e584e5de12|2020_Processo 1482.eng.pdf]] — mentions entity
 - [[sources/2016-processo-944-eng--law_df8376cb4e3dee7a|2016 - Processo 944 - eng.pdf]] — published by
+- [[sources/2022-processo-3084-eng--law_e2847820b107c18f|2022_Processo 3084.eng.pdf]] — mentions entity
+- [[sources/2022-processo-3084-eng--law_e2847820b107c18f|2022_Processo 3084.eng.pdf]] — published by
 - [[sources/2023-processo-3337-eng--law_e3db1724f7c62b56|2023_Processo 3337.eng.pdf]] — published by
+- [[sources/2022-processo-1758-rtc--law_e6e129adb12d4742|2022_Processo 1758.rtc.pdf]] — mentions entity
+- [[sources/2022-processo-1758-rtc--law_e6e129adb12d4742|2022_Processo 1758.rtc.pdf]] — published by
 - [[sources/2021-processo-3310-eng--law_e8c7d30f94dd273d|2021_Processo 3310.eng.pdf]] — published by
 - [[sources/2022-processo-2620-eng--law_ead21c7b84d3feba|2022_Processo 2620.eng.pdf]] — published by
 - [[sources/2023-processo-1846-ta--law_eada8a99282ed3eb|2023_Processo 1846.ta.pdf]] — published by

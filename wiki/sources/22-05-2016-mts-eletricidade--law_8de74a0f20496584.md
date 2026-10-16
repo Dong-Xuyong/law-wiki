@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -123,3 +125,13 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cicap/2016/law_8de74a0f20496584]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/caducidade|caducidade]]
+- about doctrine: [[concepts/servicos-publicos-essenciais|serviços públicos essenciais]]
+- about topic: [[concepts/decisoes-arbitrais|Decisoes Arbitrais]]
+- published by: [[entities/cicap|CICAP]]
+<!-- LAW-WIKI:GRAPH:END -->

@@ -1,0 +1,28 @@
+{
+  "id": "09",
+  "document_id": "law_dc4aa38a0d8d9767",
+  "path": "raw/documents/cicap/2022/law_dc4aa38a0d8d9767.md",
+  "title": "CICAP, processo 860/2022",
+  "input_line_ranges": [
+    [
+      74,
+      141
+    ],
+    [
+      144,
+      162
+    ]
+  ],
+  "expected_line_range": [
+    314,
+    351
+  ],
+  "amount_literals": [
+    "1.250,00"
+  ],
+  "expected": {
+    "decision_total": "1250.00",
+    "outcome": "parcialmente procedente"
+  },
+  "notes": "Cinco passageiros × €250,00 por recusa de embarque Lisboa–Porto, distância inferior a 1 500 km. Quantia global €1.250,00. Parcialmente procedente."
+}

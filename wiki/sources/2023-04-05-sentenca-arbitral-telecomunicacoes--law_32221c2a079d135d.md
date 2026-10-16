@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -144,3 +146,15 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cicap/2022/law_32221c2a079d135d]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about sector: [[concepts/communications|communications]]
+- about topic: [[concepts/decisoes-arbitrais|Decisoes Arbitrais]]
+- cites instrument: [[instruments/pt-lei-23-96|Lei n.º23/96]]
+- cites provision: [[concepts/pt-lei-23-96-art-15|art. 15 Lei n.º 23/96]]
+- mentions entity: [[entities/cicap|CICAP]]
+- published by: [[entities/cicap|CICAP]]
+<!-- LAW-WIKI:GRAPH:END -->

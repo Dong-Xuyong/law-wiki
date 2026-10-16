@@ -28,3 +28,12 @@ Exact CSV `Topic` label represented in this corpus. No mandate, jurisdiction, do
 ## Sources
 
 Use the catalog and verify propositions against immutable raw documents.
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+# Comunicacoes Eletronicas e Servicos Postais
+
+## Connected sources
+
+Graph-derived links; underlying source pages remain unverified.
+- [[sources/1916-2021-07-04-2022-1--law_9824412fcd9349ab|1916-2021-07.04.2022-1.pdf]] — about topic
+<!-- LAW-WIKI:GRAPH:END -->

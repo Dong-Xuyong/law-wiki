@@ -15,9 +15,13 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/proc-1429-2023-14-05-2024-page-0001--law_1b10f9b74bcf995b|PROC.-1429.2023-14-05-2024_page-0001.pdf]] — cites instrument
 - [[sources/2023-processo-1199-out--law_1d9b3229e234610f|2023_Processo 1199.out.pdf]] — cites instrument
 - [[sources/sentenca-1186-2023--law_2d72bc7c1830a48a|Sentenca-1186.2023.pdf]] — cites instrument
+- [[sources/sent-26--law_331d861bb14efb64|Sent.26.pdf]] — cites instrument
 - [[sources/2022-processo-2268-out--law_36597a6a74ff7b9d|2022_Processo 2268.out.pdf]] — cites instrument
 - [[sources/processo-673-2023--law_39278730af2f19ab|processo-673-2023.pdf]] — cites instrument
+- [[sources/processo-1990-2022--law_41e265addf75583b|processo-1990-2022.pdf]] — cites instrument
 - [[sources/sent-119--law_68a6e36f7fe00f75|Sent.119.pdf]] — cites instrument
+- [[sources/proc-no-1735-2023-18-03-2024--law_6dd60b06e4b41e8d|Proc.-no-1735.2023-18-03-2024.pdf]] — cites instrument
+- [[sources/sent-192--law_7e61ba596327706e|Sent.192.pdf]] — cites instrument
 - [[sources/sent-427--law_90bd27bd821ec11a|Sent.427.pdf]] — cites instrument
 - [[sources/sentenca-1521-2022--law_9c8624449e133d17|Sentenca-1521_2022.pdf]] — cites instrument
 - [[sources/2023-processo-2003-out--law_a17ebdb68c7506b7|2023_Processo 2003.out.pdf]] — cites instrument
@@ -26,11 +30,16 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/sent-323--law_b20f3c387a9c4077|Sent.323.pdf]] — cites instrument
 - [[sources/sent-473--law_b6118a3e1110f4e8|Sent.473.pdf]] — cites instrument
 - [[sources/2023-processo-3343-out--law_bdaa40f4cf538f0f|2023_Processo 3343.out.pdf]] — cites instrument
+- [[sources/sent-323-1--law_c2c9cc9e5a4aad9a|Sent.323 (1).pdf]] — cites instrument
 - [[sources/sent-329--law_c42f91337fc2236a|Sent.329.pdf]] — cites instrument
 - [[sources/1521-2022--law_c6fcfbfe4e146ebf|1521.2022.pdf]] — cites instrument
 - [[sources/sent-299--law_ce7ec1d8c2cd4a76|Sent.299.pdf]] — cites instrument
 - [[sources/processo-1697-2023--law_e5a6172895ca6647|processo-1697-2023.pdf]] — cites instrument
+- [[sources/sent-341-1--law_e724b45f2b4e4b07|Sent.341 (1).pdf]] — cites instrument
 - [[sources/processo-673-2023-1--law_e77ca6dcbdef5bb4|processo-673-2023 (1).pdf]] — cites instrument
 - [[sources/proc-1036-2024-24-08-2024-page-0001--law_ede4469ef8806e55|PROC.-1036.2024-24-08-2024_page-0001.pdf]] — cites instrument
+- [[sources/processo-1594-2022--law_ee873eac6f1cb181|processo-1594-2022.pdf]] — cites instrument
+- [[sources/sent-254-1--law_f624f47581709919|Sent.254 (1).pdf]] — cites instrument
+- [[sources/sentenca-905-2023-page-0001--law_fc81b693762fa095|Sentenca_905_2023_page-0001.pdf]] — cites instrument
 - [[sources/sentenca-163-2023--law_fd4e3d9da0edfb9a|Sentenca-163.2023.pdf]] — cites instrument
 <!-- LAW-WIKI:GRAPH:END -->

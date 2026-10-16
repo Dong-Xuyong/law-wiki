@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -131,3 +133,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/triave/2021/law_971ce5bc02ac16f1]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/atraso-e-ou-cancelamento-de-voo|Atraso e/ou Cancelamento de Voo]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º 24/96]]
+- cites instrument: [[instruments/pt-lei-63-2019|Lei 63/2019]]
+- mentions entity: [[entities/triave|TRIAVE]]
+- published by: [[entities/triave|Triave]]
+<!-- LAW-WIKI:GRAPH:END -->

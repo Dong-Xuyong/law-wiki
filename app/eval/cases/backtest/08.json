@@ -1,0 +1,28 @@
+{
+  "id": "08",
+  "document_id": "law_b8e2717b8fd0c60b",
+  "path": "raw/documents/cniacc/2019/law_b8e2717b8fd0c60b.md",
+  "title": "CNIACC, processo 2200/2019",
+  "input_line_ranges": [
+    [
+      20,
+      52
+    ],
+    [
+      57,
+      77
+    ]
+  ],
+  "expected_line_range": [
+    121,
+    128
+  ],
+  "amount_literals": [
+    "1.200,00"
+  ],
+  "expected": {
+    "decision_total": "1200.00",
+    "outcome": "procedente"
+  },
+  "notes": "Três passageiros × €400,00. O dispositivo fixa o total em €1.200,00. Totalmente procedente. A fundamentação jurídica que antecipa o cálculo (linhas 89–120) não entra no input."
+}

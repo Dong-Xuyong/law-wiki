@@ -1,0 +1,24 @@
+{
+  "id": "01",
+  "document_id": "law_53de4e0ed5ba7d12",
+  "path": "raw/documents/caccl/2020/law_53de4e0ed5ba7d12.md",
+  "title": "CACCL, sentença 104/2020 (processo 106/2020)",
+  "input_line_ranges": [
+    [
+      20,
+      77
+    ]
+  ],
+  "expected_line_range": [
+    96,
+    107
+  ],
+  "amount_literals": [
+    "400,00"
+  ],
+  "expected": {
+    "decision_total": "400.00",
+    "outcome": "parcialmente procedente"
+  },
+  "notes": "Dispositivo: paga €400,00. O bilhete de €402,88 não é condenado. Roma–Lisboa, intracomunitário acima de 1 500 km."
+}

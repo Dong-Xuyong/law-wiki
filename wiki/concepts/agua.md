@@ -35,8 +35,11 @@ Use the catalog and verify propositions against immutable raw documents.
 ## Connected sources
 
 Graph-derived links; underlying source pages remain unverified.
+- [[sources/gua-268--law_209001dfc2b8293e|gua-268.pdf]] — about topic
 - [[sources/sent-117-a--law_86edbdea275541b0|Sent.117.A.pdf]] — about topic
 - [[sources/processo-110-2019--law_890e9a439fca23ed|processo-110-2019.pdf]] — about topic
+- [[sources/sent-354-a--law_8ac95693ea9cd2cc|Sent.354.A.pdf]] — about topic
+- [[sources/sent-342-a--law_95ffb8626b066660|Sent.342.A.pdf]] — about topic
 - [[sources/processo-2033-2019--law_b3eb5b4722a4c339|processo-2033-2019.pdf]] — about topic
 - [[sources/sent-534-a--law_bc2f59996e0a3a2b|Sent.534.A.pdf]] — about topic
 <!-- LAW-WIKI:GRAPH:END -->

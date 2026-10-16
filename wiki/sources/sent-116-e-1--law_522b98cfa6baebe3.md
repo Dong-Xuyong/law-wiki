@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -117,3 +119,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2023/law_522b98cfa6baebe3]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/energia|Energia]]
+- cites instrument: [[instruments/pt-lei-144-2015|Lei n.o 144/2015]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º 24/96]]
+- cites provision: [[concepts/pt-lei-144-2015-art-5|art. 5 Lei n.º 144/2015]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->

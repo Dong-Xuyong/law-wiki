@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -126,3 +128,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2021/law_a950ab66d1e0347c]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about sector: [[concepts/travel-and-transport|travel and transport]]
+- about topic: [[concepts/atraso-e-ou-cancelamento-de-voo|Atraso e/ou Cancelamento de Voo]]
+- cites instrument: [[instruments/eu-regulamento-261-2004|Regulamento (CE) nº 261/2004]]
+- cites instrument: [[instruments/pt-decreto-lei-39-2002|Decreto-Lei nº 39/2002]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->
