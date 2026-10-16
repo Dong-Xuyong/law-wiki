@@ -332,6 +332,14 @@ export class MinutasStack extends Stack {
     cfnClient.supportedIdentityProviders = ["COGNITO"];
     cfnClient.addResourceDependency(userPoolDomain.node.defaultChild as cognito.CfnUserPoolDomain);
 
+    // Newer managed login shows "Login pages unavailable" until a branding style exists for the client.
+    const branding = new cognito.CfnManagedLoginBranding(this, "ManagedLoginBranding", {
+      userPoolId: userPool.userPoolId,
+      clientId: userPoolClient.userPoolClientId,
+      useCognitoProvidedValues: true,
+    });
+    branding.addDependency(cfnClient);
+
     const webDist = path.join(__dirname, "../../web/dist");
     const webSources: s3deploy.ISource[] = [];
     if (fs.existsSync(webDist) && fs.readdirSync(webDist).length > 0) {
