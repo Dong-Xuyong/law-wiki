@@ -1,0 +1,20 @@
+{
+  "id": "07-reencaminhamento-reducao",
+  "title": "Reencaminhamento com chegada dentro do limiar do artigo 7.º, n.º 2",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A. 400,00 EUR pelo cancelamento do voo AX 418, Lisboa–Roma. Não pede o preço do bilhete, porque viajou na alternativa, nem despesas. Referência interna AX-FIC-07. Audiência sem acordo e sem testemunhas.\n\nFacto comum: reserva para 4 de maio de 2025, partida de Lisboa às 14:00 e chegada a Roma às 17:30. Distância ortodrómica admitida de 1 862 km. Voo intracomunitário e superior a 1 500 km. A passageira tinha a reserva confirmada.\n\nA AeroExemplo, S.A. admite o correio de 30 de abril de 2025, às 11:00, quatro dias antes da partida, a anunciar o cancelamento e um único reencaminhamento. Esse voo partiu de Lisboa às 18:00 do dia 4 de maio, quatro horas depois das 14:00, e aterrou em Roma às 19:45, o que a passageira e a transportadora confirmam. Das 17:30 às 19:45 vão 2 horas e 15 minutos. Não foi oferecida partida antecipada. A Reclamante A aceitou o lugar e concluiu a viagem às 19:45.\n\nA contestação pede a exclusão total da indemnização por ter havido alternativa no próprio dia. Não invoca meteorologia, tráfego aéreo ou outro facto externo, e não junta documento dessa natureza. Não alega pagamento. Os documentos são a reserva e o correio de 30 de abril, lidos sem impugnação das horas.\n\nA alternativa não partiu na hora programada nem antes dela: partiu quatro horas depois. A chegada não ficou abaixo de duas horas de atraso, mas ficou abaixo de três horas. O pedido é só a quantia de 400,00 EUR. Não há rubrica de assistência porque a passageira não alega gastos e a espera, entre as 14:00 e as 18:00 no aeroporto de Lisboa, não incluiu pernoita nem refeição pedida em juízo. A Reclamante A explicou em audiência que reclama os 400,00 EUR por inteiro por o aviso ter sido de apenas quatro dias. A transportadora não ofereceu segundo reencaminhamento, nem reembolso, nem quantia intermédia. O processo não contém prova de que a chegada às 19:45 tenha sido diferente da hora admitida.",
+  "expected": {
+    "decision_total": "200.00",
+    "outcome": "parcialmente procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "200.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 7.º",
+      "reencaminhamento"
+    ],
+    "notes": "Lisboa–Roma, 1 862 km, intracomunitário acima de 1 500 km: base de 400 EUR. Aviso quatro dias antes. O artigo 5.º, n.º 1, alínea c), iii), não isenta: o reencaminhamento partiu quatro horas depois, não até uma hora antes, e chegou 2 h 15 depois, não menos de duas horas depois. O artigo 7.º, n.º 2, alínea b), reduz 50 % porque a chegada não excedeu a hora programada em três horas (2 h 15 < 3 h). 400 × 50 % = 200,00. Pedido de 400,00 parcialmente procedente. Sem circunstâncias extraordinárias."
+  }
+}

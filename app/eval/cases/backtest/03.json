@@ -1,0 +1,22 @@
+{
+  "id": "03",
+  "document_id": "law_4f4cd0a8c77dd2d8",
+  "path": "raw/documents/caccl/2023/law_4f4cd0a8c77dd2d8.md",
+  "title": "CACCL, sentença 50/2024 (processo 3381/2023)",
+  "input_line_ranges": [
+    [
+      20,
+      82
+    ]
+  ],
+  "expected_line_range": [
+    194,
+    208
+  ],
+  "amount_literals": [],
+  "expected": {
+    "decision_total": "0.00",
+    "outcome": "improcedente"
+  },
+  "notes": "O dispositivo absolve a reclamada (improcedente). Os €748,15 são o valor da ação, não uma condenação. decision_total da minuta: 0.00."
+}

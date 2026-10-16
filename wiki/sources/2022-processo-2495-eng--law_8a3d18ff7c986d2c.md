@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -143,3 +145,20 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/triave/2022/law_8a3d18ff7c986d2c]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/eletricidade-e-gas-natural|Eletricidade e gas natural]]
+- cites instrument: [[instruments/pt-codigo-civil|Código Civil]]
+- cites instrument: [[instruments/pt-lei-144-2015|Lei n.º 144/2015]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º 24/96]]
+- cites instrument: [[instruments/pt-regulamento-1129-2020|Regulamento n.º 1129/2020]]
+- cites provision: [[concepts/pt-lei-24-96-art-2|art. 2 Lei n.º 24/96]]
+- decided by: [[entities/pt-triave|TRIAVE]]
+- document of: [[cases/pt-triave-2495-2022|Processo 2495/2022]]
+- has outcome: [[concepts/parcialmente-procedente|parcialmente procedente]]
+- mentions entity: [[entities/triave|TRIAVE]]
+- published by: [[entities/triave|Triave]]
+<!-- LAW-WIKI:GRAPH:END -->

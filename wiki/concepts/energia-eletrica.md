@@ -41,16 +41,21 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-1208-2017--law_1d985b2c29e69f59|processo-1208-2017.pdf]] — about topic
 - [[sources/processo-2115-2019--law_2ab78f5089455d13|processo-2115-2019.pdf]] — about topic
 - [[sources/processo-1168-2022--law_357d88248acb71d0|processo-1168-2022.pdf]] — about topic
+- [[sources/sentenca-3033-2023--law_5767e4317b760332|sentenca-3033-2023.pdf]] — about topic
 - [[sources/processo-2356-2021--law_69dbb9f15c2e14c0|processo-2356-2021.pdf]] — about topic
+- [[sources/processo-782-2020--law_7236cc23df882796|processo-782-2020.pdf]] — about topic
 - [[sources/energia-eletrica-16--law_73db219675f998e0|energia-eletrica-16.pdf]] — about topic
 - [[sources/processo-2101-201826--law_7b3448d2b6a5377a|processo-2101-201826.pdf]] — about topic
 - [[sources/processo-821-2019--law_7b87bfe91d010e58|processo-821-2019.pdf]] — about topic
+- [[sources/processo-295-2019--law_81c31e613c7ae979|processo-295-2019.pdf]] — about topic
 - [[sources/processo-821-201976--law_86fa6cfac30858ba|processo-821-201976.pdf]] — about topic
 - [[sources/processo-1665-2018-1--law_a99bdcaad0752fe1|processo-1665-2018 (1).pdf]] — about topic
 - [[sources/processo-220-2023--law_abf481ebfef12994|processo-220-2023.pdf]] — about topic
 - [[sources/energia-eletrica-11--law_b04cd1a5eaf33b2d|energia-eletrica-11.pdf]] — about topic
 - [[sources/processo-220-2023-1--law_bef06ef99b5876c7|processo-220-2023 (1).pdf]] — about topic
+- [[sources/processo-1219-2018--law_c4a0283422e0536b|processo-1219-2018.pdf]] — about topic
 - [[sources/processo-1665-2018--law_c75883517fe8ea83|processo-1665-2018.pdf]] — about topic
 - [[sources/sentenca-2101-2018--law_c9fa56de2635a097|sentenca-2101-2018.pdf]] — about topic
+- [[sources/processo-2320-2021--law_db0703666b5e7b8a|processo-2320-2021.pdf]] — about topic
 - [[sources/processo-1933-2019--law_de7f276add9ef476|processo-1933-2019.pdf]] — about topic
 <!-- LAW-WIKI:GRAPH:END -->

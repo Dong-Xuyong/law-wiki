@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -137,3 +139,15 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cniacc/2019/law_bae469ffcc5057ee]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about sector: [[concepts/travel-and-transport|travel and transport]]
+- about topic: [[concepts/outros-transportes|Outros_Transportes]]
+- cites instrument: [[instruments/pt-lei-23-96|Lei n.º23/96]]
+- cites instrument: [[instruments/pt-lei-51-2019|Lei n.º51/2019]]
+- mentions entity: [[entities/cniacc|CNIACC]]
+- published by: [[entities/cniacc|CNIACC]]
+<!-- LAW-WIKI:GRAPH:END -->

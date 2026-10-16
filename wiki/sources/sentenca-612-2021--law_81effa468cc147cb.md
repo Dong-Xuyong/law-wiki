@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -158,3 +160,16 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cicap/2021/law_81effa468cc147cb]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/incompetencia-material|incompetência material]]
+- about topic: [[concepts/decisoes-arbitrais|Decisoes Arbitrais]]
+- cites instrument: [[instruments/pt-lei-144-2015|Lei nº. 144/2015]]
+- decided by: [[entities/pt-cicap|CICAP]]
+- document of: [[cases/pt-cicap-613-2021|Processo 613/2021]]
+- mentions entity: [[entities/cicap|CICAP]]
+- published by: [[entities/cicap|CICAP]]
+<!-- LAW-WIKI:GRAPH:END -->

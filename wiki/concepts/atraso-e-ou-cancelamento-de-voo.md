@@ -35,8 +35,14 @@ Use the catalog and verify propositions against immutable raw documents.
 ## Connected sources
 
 Graph-derived links; underlying source pages remain unverified.
+- [[sources/sent-26--law_331d861bb14efb64|Sent.26.pdf]] — about topic
+- [[sources/sent126-2020-ta--law_6e54e7803b69f960|Sent126_2020.TA.pdf]] — about topic
 - [[sources/sent261-20-ta--law_7ba163fa80b99489|Sent261_20.TA.pdf]] — about topic
 - [[sources/sent-284-2--law_7f723be3a9f93210|Sent.284 (2).pdf]] — about topic
 - [[sources/sent-495-ta--law_8cfe0df5792981b3|Sent.495.TA.pdf]] — about topic
 - [[sources/sent-283-2--law_92450eca271269b5|Sent.283 (2).pdf]] — about topic
+- [[sources/2021-processo-2862-out--law_971ce5bc02ac16f1|2021_Processo 2862.out.pdf]] — about topic
+- [[sources/sent-398-ta--law_a950ab66d1e0347c|Sent.398.TA.pdf]] — about topic
+- [[sources/sent-337-ta--law_b89448b92817baa1|Sent.337.TA.pdf]] — about topic
+- [[sources/sent-145-ta--law_c540c24b09daa498|Sent.145.TA.pdf]] — about topic
 <!-- LAW-WIKI:GRAPH:END -->

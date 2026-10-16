@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -124,3 +126,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2022/law_21ec107d602dae0e]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/garantias-defeitos|garantias/defeitos]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º 24/96]]
+- cites instrument: [[instruments/pt-lei-63-2011|Lei n.º 63/2011]]
+- cites provision: [[concepts/pt-lei-63-2011-art-44|art. 44 Lei n.º 63/2011]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->

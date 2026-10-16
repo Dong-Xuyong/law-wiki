@@ -1,0 +1,36 @@
+{
+  "id": "10-reembolso-despesas",
+  "title": "Reembolso do bilhete e despesas de assistência, com recibos e alegações não provadas",
+  "record_text": "Reclamação ficcional. A Reclamante A declara que não pede a indemnização padronizada. Pede apenas, à AeroExemplo, S.A., pelo cancelamento do voo AX 015, Lisboa–Faro, anunciado no aeroporto depois do registo de embarque: reembolso do bilhete de 142,00 EUR, hotel de 78,00 EUR, jantar de 19,50 EUR, pequeno-almoço de 8,00 EUR e táxi de 12,00 EUR. Escolhe expressamente o reembolso em vez de outro transporte. Referência interna AX-FIC-10. Sem testemunhas e sem acordo.\n\nFacto comum: o AX 015 devia partir às 21:40 do dia 3 de julho de 2025. Às 23:10, já com a passageira registada, a AeroExemplo, S.A. anunciou o cancelamento e disse que a informação seguinte seria de manhã. A passageira declarou no balcão, e a transportadora admite a declaração, que optava pelo reembolso do bilhete e não por reencaminhamento. As ligações urbanas noturnas já não circulavam. A passageira pernoitou e só saiu do aeroporto de manhã. Estes horários são aceites pelas duas partes.\n\nO preço de 142,00 EUR consta da fatura junta e transcrita. A AeroExemplo, S.A. admite que recebeu esse preço e que não o devolveu. A fatura do Hotel Exemplo, 78,00 EUR, uma noite de 3 para 4 de julho, está transcrita na ata; a transportadora não a impugnou e admite que não ofereceu alojamento. O talão do jantar, 19,50 EUR, emitido no aeroporto nessa noite, também está na ata e não foi impugnado. A transportadora não forneceu refeição.\n\nO pequeno-almoço de 8,00 EUR é uma frase da reclamação, sem talão, sem extrato e sem admissão. O táxi de 12,00 EUR é igualmente só afirmado; a transportadora contesta o gasto e não há recibo no processo. Não há documento de meteorologia nem discussão sobre a causa do cancelamento, porque a indemnização do artigo 7.º não foi pedida. Os documentos com conteúdo económico reconhecido ou transcrito são a fatura do bilhete, a fatura do hotel e o talão do jantar.",
+  "expected": {
+    "decision_total": "239.50",
+    "outcome": "parcialmente procedente",
+    "awarded_items": [
+      {
+        "item": "Reembolso do bilhete",
+        "awarded": "142.00"
+      },
+      {
+        "item": "Hotel",
+        "awarded": "78.00"
+      },
+      {
+        "item": "Jantar",
+        "awarded": "19.50"
+      },
+      {
+        "item": "Pequeno-almoço",
+        "awarded": "0.00"
+      },
+      {
+        "item": "Táxi",
+        "awarded": "0.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 8.º",
+      "artigo 9.º"
+    ],
+    "notes": "O pedido exclui o artigo 7.º e escolhe o reembolso. Artigo 8.º: bilhete de 142,00 EUR faturado, admitido e não devolvido. Artigo 9.º: pernoita e espera provadas por facto comum; hotel de 78,00 EUR e jantar de 19,50 EUR com documentos na ata, não impugnados, e sem assistência da transportadora. Pequeno-almoço de 8,00 EUR e táxi de 12,00 EUR são alegações sem recibo e sem admissão: não provados. Total 142,00 + 78,00 + 19,50 = 239,50. Parcialmente procedente. A causa do cancelamento não é precisa porque a compensação padronizada não foi pedida."
+  }
+}

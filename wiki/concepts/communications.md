@@ -15,7 +15,10 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-2522-2020--law_164b4b1e1800438a|processo-2522-2020.pdf]] — about sector
 - [[sources/sentenca-20-04-2021--law_2369b1c7f4528efa|Sentenca-20.04.-2021.pdf]] — about sector
 - [[sources/processo-3073-2020-1--law_24ad611ae2d70092|processo-3073-2020 (1).pdf]] — about sector
+- [[sources/processo-1595-2019--law_26134f85d5dd8040|processo-1595-2019.pdf]] — about sector
 - [[sources/sent-329-c--law_29bf867ac094e1ee|Sent.329.C.pdf]] — about sector
+- [[sources/sentenca-995-2022-publicar--law_2b5bfe0f9b76d531|Sentenca-995.2022_publicar.pdf]] — about sector
+- [[sources/2023-04-05-sentenca-arbitral-telecomunicacoes--law_32221c2a079d135d|2023-04-05-Sentenca-Arbitral-telecomunicacoes.pdf]] — about sector
 - [[sources/processo-673-2023--law_39278730af2f19ab|processo-673-2023.pdf]] — about sector
 - [[sources/processo-2522-2021--law_4d4b793e9dd755fc|processo-2522-2021.pdf]] — about sector
 - [[sources/processo-1724-2022--law_554f68b0c67b7f96|processo-1724-2022.pdf]] — about sector
@@ -27,6 +30,7 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/2021-processo-422-out--law_a0f27b1404dce542|2021_Processo 422.out.pdf]] — about sector
 - [[sources/3254-2019-30-07-2020-1--law_b1266ffb02d8d87f|3254-2019-30.07.2020-1.pdf]] — about sector
 - [[sources/2020-processo-1921-out--law_c268e145144fb560|2020_Processo 1921.out.pdf]] — about sector
+- [[sources/sent133-2019--law_cc2416b550ab4998|Sent133-2019.pdf]] — about sector
 - [[sources/processo-888-2020--law_cdd5cbaf6f03daa4|processo-888-2020.pdf]] — about sector
 - [[sources/processo-1711-2018--law_ce722251aef47a2d|processo-1711-2018.pdf]] — about sector
 - [[sources/processo-1417-2022--law_dcaa96a7862ff31e|processo-1417-2022.pdf]] — about sector

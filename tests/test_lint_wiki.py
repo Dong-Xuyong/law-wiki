@@ -110,6 +110,50 @@ class LintWikiTests(unittest.TestCase):
         self.assertTrue(any("pagination exceeds 200" in error for error in report["errors"]))
         self.assertTrue(any("broken wikilink" in error for error in report["errors"]))
 
+    def test_opensrc_catalog_is_outside_expected_csv_count(self) -> None:
+        doc = "law_bbbbbbbbbbbbbbbb"
+        body = "Open source statute text"
+        content_hash = hashlib.sha256(body.encode()).hexdigest()
+        rel_raw = f"raw/documents/opensrc/2024/{doc}.md"
+        rel_source = f"wiki/sources/open--{doc}.md"
+        raw = self.root / rel_raw
+        raw.parent.mkdir(parents=True)
+        raw.write_text(
+            f"---\nid: {doc}\ncontent_hash: {content_hash}\n---\n\n## Full text\n\n{body}\n",
+            encoding="utf-8",
+        )
+        source = self.root / rel_source
+        source.write_text(
+            f"---\nid: {doc}\ncontent_hash: {content_hash}\nverification: unverified\n---\n\n# Open\n",
+            encoding="utf-8",
+        )
+        row = dict(self.record)
+        row.update({
+            "id": doc,
+            "rel_raw": rel_raw,
+            "rel_source": rel_source,
+            "content_hash": content_hash,
+            "filename": "Open.md",
+            "topic": "Open",
+        })
+        self.write_jsonl(self.root / "data/open-sources-catalog.jsonl", [row])
+        report = lint_wiki.lint(self.root, expected=1)
+        self.assertTrue(report["ok"], report["errors"])
+        self.assertEqual(report["counts"]["csv_catalog"], 1)
+        self.assertEqual(report["counts"]["opensrc_catalog"], 1)
+        self.assertEqual(report["counts"]["raw"], 2)
+        wrong = lint_wiki.lint(self.root, expected=2)
+        self.assertFalse(wrong["ok"])
+        self.assertTrue(any("base catalog rows 1 != 2" in error for error in wrong["errors"]))
+
+    def test_unlisted_opensrc_raw_breaks_parity(self) -> None:
+        extra = self.root / "raw/documents/opensrc/2024/law_cccccccccccccccc.md"
+        extra.parent.mkdir(parents=True)
+        extra.write_text("---\n---\n\n## Full text\n\nExtra\n", encoding="utf-8")
+        report = lint_wiki.lint(self.root, expected=1)
+        self.assertTrue(report["ok"], report["errors"])
+        self.assertTrue(any("opensrc raw not in open-sources-catalog" in warning for warning in report["warnings"]))
+
     def test_orphan_hub_and_verification_state(self) -> None:
         hub = self.root / "wiki/concepts/orphan.md"
         hub.parent.mkdir(parents=True)

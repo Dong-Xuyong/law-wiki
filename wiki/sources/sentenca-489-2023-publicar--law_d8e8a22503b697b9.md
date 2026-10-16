@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -120,3 +122,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cicap/2023/law_d8e8a22503b697b9]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/decisoes-arbitrais|Decisoes Arbitrais]]
+- decided by: [[entities/pt-cicap|CICAP]]
+- document of: [[cases/pt-cicap-489-2023|Processo 489/2023]]
+- mentions entity: [[entities/cicap|CICAP]]
+- published by: [[entities/cicap|CICAP]]
+<!-- LAW-WIKI:GRAPH:END -->

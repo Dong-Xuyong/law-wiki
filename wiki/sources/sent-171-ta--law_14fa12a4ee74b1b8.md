@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -106,3 +108,16 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2023/law_14fa12a4ee74b1b8]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about sector: [[concepts/travel-and-transport|travel and transport]]
+- about topic: [[concepts/viagens-organizadas|Viagens Organizadas]]
+- cites instrument: [[instruments/eu-regulamento-261-2004|Regulamento (CE) nº 261/2004]]
+- cites instrument: [[instruments/pt-decreto-lei-39-2002|Decreto-Lei n.º 39/2002]]
+- cites instrument: [[instruments/pt-lei-23-2007|Lei 23/2007]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º 24/96]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->

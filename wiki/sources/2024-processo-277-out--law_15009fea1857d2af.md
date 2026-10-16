@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -123,3 +125,16 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/triave/2024/law_15009fea1857d2af]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/onus-da-prova|ónus da prova]]
+- about topic: [[concepts/garantias-defeitos|garantias/defeitos]]
+- cites instrument: [[instruments/pt-lei-24-96|Lei n.º24/96]]
+- cites provision: [[concepts/pt-lei-24-96-art-3|art. 3 Lei n.º 24/96]]
+- decided by: [[entities/pt-triave|TRIAVE]]
+- mentions entity: [[entities/triave|TRIAVE]]
+- published by: [[entities/triave|Triave]]
+<!-- LAW-WIKI:GRAPH:END -->

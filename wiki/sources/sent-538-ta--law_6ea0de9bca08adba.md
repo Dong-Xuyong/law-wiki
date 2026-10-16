@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -121,3 +123,12 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2023/law_6ea0de9bca08adba]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about sector: [[concepts/travel-and-transport|travel and transport]]
+- about topic: [[concepts/garantias-defeitos|garantias/defeitos]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->

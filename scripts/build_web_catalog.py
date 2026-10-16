@@ -174,7 +174,8 @@ def graph_payload(rows: list[dict[str, Any]], connections: list[dict[str, Any]])
 def build(root: Path, generated: Path, public_data: Path) -> dict[str, int]:
     base = load_jsonl(root / "data" / "catalog.jsonl")
     pdf = load_jsonl(root / "data" / "pdf-catalog.jsonl")
-    rows_by_id = {str(row["id"]): row for row in [*base, *pdf]}
+    opensrc = load_jsonl(root / "data" / "open-sources-catalog.jsonl")
+    rows_by_id = {str(row["id"]): row for row in [*base, *pdf, *opensrc]}
     rows = []
     for row in rows_by_id.values():
         public = {

@@ -15,3 +15,11 @@ site/.astro/
 site/src/generated/
 site/public/data/
 site/public/pdfs/
+output/legal-drafts/
+
+# Minutas app build outputs
+build/
+app/web/node_modules/
+app/web/dist/
+app/infra/node_modules/
+app/infra/cdk.out/

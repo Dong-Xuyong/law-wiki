@@ -28,3 +28,12 @@ Exact CSV `Topic` label represented in this corpus. No mandate, jurisdiction, do
 ## Sources
 
 Use the catalog and verify propositions against immutable raw documents.
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+# Energia eletrica e gas natural
+
+## Connected sources
+
+Graph-derived links; underlying source pages remain unverified.
+- [[sources/energia-eletrica-e-gas-natural--law_403af49e8ab27388|energia-eletrica-e-gas-natural.pdf]] — about topic
+<!-- LAW-WIKI:GRAPH:END -->

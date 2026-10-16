@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -147,3 +149,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cniacc/2022/law_35cb1b54f608b6ed]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/outros-transportes|Outros_Transportes]]
+- cites instrument: [[instruments/pt-lei-23-96|Lei n.º23/96]]
+- cites provision: [[concepts/pt-lei-23-96-art-15|art. 15 Lei n.º 23/96]]
+- mentions entity: [[entities/cniacc|CNIACC]]
+- published by: [[entities/cniacc|CNIACC]]
+<!-- LAW-WIKI:GRAPH:END -->

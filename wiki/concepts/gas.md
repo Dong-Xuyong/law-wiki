@@ -30,11 +30,12 @@ Exact CSV `Topic` label represented in this corpus. No mandate, jurisdiction, do
 Use the catalog and verify propositions against immutable raw documents.
 
 <!-- LAW-WIKI:GRAPH:BEGIN -->
-# Gás
+# Gas
 
 ## Connected sources
 
 Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-2291-2019--law_573b3f1996b93ede|processo-2291-2019.pdf]] — about topic
 - [[sources/processo-687-2023--law_be4b2cc09d27b0f1|processo-687-2023.pdf]] — about topic
+- [[sources/gas-2--law_c05a0e871585db5c|gas-2.pdf]] — about topic
 <!-- LAW-WIKI:GRAPH:END -->

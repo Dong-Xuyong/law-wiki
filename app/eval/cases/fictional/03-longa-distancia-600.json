@@ -1,0 +1,20 @@
+{
+  "id": "03-longa-distancia-600",
+  "title": "Atraso de chegada de pelo menos quatro horas em voo acima de 3 500 km",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A. 600,00 EUR pelo atraso do voo AX 881, Lisboa–São Paulo. Não pede reembolso, porque embarcou e chegou ao destino, nem refeições, hotel ou dano suplementar. Referência interna AX-FIC-03. A audiência decorreu sem acordo e sem testemunhas.\n\nAs partes aceitam que o contrato previa partida de Lisboa no dia 4 de agosto de 2025 às 10:40 e chegada a São Paulo às 15:10, hora local de chegada tal como constante da reserva que ambas reconhecem. Aceitam que a distância ortodrómica é de 7 718 km. O destino não é um aeroporto da União Europeia. O percurso não cabe nas faixas até 1 500 km nem na faixa entre 1 500 e 3 500 km.\n\nA Reclamante A apresentou-se a horas, com reserva e documento válidos, facto admitido. O voo AX 881 foi o que operou: não houve substituição por outra transportadora. A AeroExemplo, S.A. admite que a descolagem ocorreu às 16:20 e que a aterragem em São Paulo ocorreu às 21:25, hora local de chegada usada na reserva. Das 15:10 programadas às 21:25 efetivas vão 6 horas e 15 minutos. O registo de chegada está transcrito na ata e não foi impugnado.\n\nA contestação fala em «rotações da frota» sem indicar a aeronave anterior, sem juntar diário de manutenção e sem invocar meteorologia ou restrição de tráfego. Não descreve qualquer encerramento de aeroporto, qualquer limitação de gestão do fluxo imposta por terceiro, nem qualquer avaria comunicada à passageira no momento do embarque. Não há pagamento alegado, nem vale, nem transferência. A passageira não comprou outro bilhete e não pernoitou por causa deste atraso: permaneceu a bordo do AX 881 até São Paulo. Não há documentos para além da reserva e do registo de chegada, ambos suficientes para as horas e para a distância, e ambos aceites.\n\nA questão é a banda aplicável a um voo não intracomunitário de 7 718 km cuja chegada excedeu em mais de quatro horas a hora programada, sem circunstância extraordinária provada e sem quantia já paga. O pedido é exatamente de 600,00 EUR.",
+  "expected": {
+    "decision_total": "600.00",
+    "outcome": "procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "600.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 7.º",
+      "3 500"
+    ],
+    "notes": "Lisboa–São Paulo, 7 718 km, fora da União e acima de 3 500 km: artigo 7.º, n.º 1, alínea c), 600 EUR. Atraso de chegada de 6 h 15 (15:10 para 21:25), portanto igual ou superior a quatro horas: não se aplica a redução de 50 % do n.º 2, alínea c). Direito à compensação porque o atraso atinge e ultrapassa três horas. «Rotações da frota» sem prova não é circunstância extraordinária. Pedido único de 600,00 procedente."
+  }
+}

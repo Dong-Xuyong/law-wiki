@@ -1,0 +1,20 @@
+{
+  "id": "02-cancelamento-intra-400",
+  "title": "Cancelamento com aviso inferior a 14 dias em voo intracomunitário acima de 1 500 km",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A. a indemnização de 400,00 EUR pelo cancelamento do voo AX 2070, Lisboa–Atenas. Não pede reembolso do preço, porque viajou no voo alternativo, nem despesas de assistência. Não há dano moral no pedido. Referência interna AX-FIC-02. Sem testemunhas.\n\nÉ facto comum que o contrato tinha partida de Lisboa no dia 18 de junho de 2025 às 10:00 e chegada a Atenas às 15:40, e que a distância ortodrómica admitida pelas duas partes é de 2 853 km. O trajeto é intracomunitário e superior a 1 500 km. A reserva está na ata.\n\nA Reclamante A recebeu, e a transportadora admite tê-lo enviado, um correio eletrónico em 13 de junho de 2025, às 09:00, a comunicar o cancelamento. O aviso foi dado cinco dias antes da partida, portanto a menos de sete dias e também a menos de catorze. No mesmo correio a AeroExemplo, S.A. ofereceu um único reencaminhamento: partida de Lisboa às 16:30 do mesmo dia 18 de junho e chegada a Atenas às 22:10. A passageira aceitou esse voo e chegou às 22:10, o que ambas confirmam. A chegada efetiva ocorreu 6 horas e 30 minutos depois das 15:40 programadas. A partida alternativa foi 6 horas e 30 minutos depois das 10:00, e não uma partida antecipada.\n\nA contestação limita-se a dizer que o aviso e a alternativa afastam a indemnização. Não junta documento de meteorologia, de gestão de fluxo ou de greve de terceiros. Não alega pagamento. A audiência não produziu acordo. Os únicos documentos são a reserva e o correio de 13 de junho, lidos sem impugnação do teor.\n\nO reencaminhamento não partiu até uma hora antes da hora programada, nem chegou menos de duas horas depois dela. Também não chegou dentro de três horas. A passageira concluiu a viagem, pelo que o preço do bilhete não está em dívida neste pedido. A única quantia pedida é a indemnização padronizada de 400,00 EUR, correspondente à banda que as partes aceitam para este percurso.",
+  "expected": {
+    "decision_total": "400.00",
+    "outcome": "procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "400.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 5.º",
+      "artigo 7.º"
+    ],
+    "notes": "Lisboa–Atenas, 2 853 km, intracomunitário e acima de 1 500 km: artigo 7.º, n.º 1, alínea b), 400 EUR. Aviso cinco dias antes, logo o artigo 5.º, n.º 1, alínea c), subalínea iii): a isenção exigiria reencaminhamento com partida não mais de uma hora antes e chegada menos de duas horas depois. O alternativo partiu 6 h 30 mais tarde e chegou 6 h 30 depois das 15:40. A redução de 50 % do artigo 7.º, n.º 2, alínea b), só vale se a chegada não exceder três horas; 6 h 30 ultrapassa esse limiar. Sem circunstâncias extraordinárias provadas. Pedido de 400,00 concedido por inteiro."
+  }
+}

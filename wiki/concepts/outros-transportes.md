@@ -36,10 +36,15 @@ Use the catalog and verify propositions against immutable raw documents.
 
 Graph-derived links; underlying source pages remain unverified.
 - [[sources/sent-82--law_12b2cc7bd28059d8|Sent.82.pdf]] — about topic
+- [[sources/processo-1920-2022--law_35cb1b54f608b6ed|processo-1920-2022.pdf]] — about topic
 - [[sources/1011-2023-23-10-2023--law_38203acd4dfc4f08|1011-2023-23.10.2023.pdf]] — about topic
+- [[sources/sent-414-ta--law_6a4719f1a2ed12ef|Sent.414.TA.pdf]] — about topic
 - [[sources/2021-processo-2468-ta--law_7b94c3e3347f17c8|2021_Processo 2468.ta.pdf]] — about topic
 - [[sources/processo-2923-2020--law_ae0e0dc1d32a7c15|processo-2923-2020.pdf]] — about topic
+- [[sources/proceso-744-2023--law_bae469ffcc5057ee|proceso-744-2023.pdf]] — about topic
+- [[sources/2022-processo-1758-rtc--law_e6e129adb12d4742|2022_Processo 1758.rtc.pdf]] — about topic
 - [[sources/2023-processo-1491-ta--law_ed99c98ba2a91266|2023_Processo 1491.ta.pdf]] — about topic
 - [[sources/sent-236-1--law_ef07833a572846bb|Sent.236 (1).pdf]] — about topic
+- [[sources/sent-270--law_f5f4158398e11d5d|Sent.270.pdf]] — about topic
 - [[sources/2663-2020-06-09-2021--law_fb63267e10ea3fbd|2663-2020-06.09.2021.pdf]] — about topic
 <!-- LAW-WIKI:GRAPH:END -->

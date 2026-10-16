@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -140,3 +142,14 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cniacc/2023/law_aa2098466ba68fec]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/garantias-defeitos|garantias/defeitos]]
+- cites instrument: [[instruments/pt-codigo-civil|Código Civil]]
+- cites provision: [[concepts/pt-codigo-civil-art-342|art. 342 Código Civil]]
+- cites provision: [[concepts/pt-codigo-civil-art-798|art. 798 Código Civil]]
+- published by: [[entities/cniacc|CNIACC]]
+<!-- LAW-WIKI:GRAPH:END -->

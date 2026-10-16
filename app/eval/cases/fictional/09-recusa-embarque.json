@@ -1,0 +1,28 @@
+{
+  "id": "09-recusa-embarque",
+  "title": "Recusa de embarque por sobrelotação, com assistência paga pela passageira",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A., por recusa de embarque no voo AX 220, Lisboa–Munique, no dia 9 de setembro de 2025: 400,00 EUR de indemnização, 80,00 EUR de hotel e 20,00 EUR de refeições. Não pede o preço do bilhete, porque viajou no dia seguinte no lugar que a transportadora acabou por lhe dar. Referência interna AX-FIC-09. Sem testemunhas e sem acordo.\n\nFacto comum: a distância ortodrómica é de 1 888 km e o voo é intracomunitário, superior a 1 500 km. A partida estava marcada para as 18:40 e a chegada para as 22:30. A Reclamante A apresentou-se na porta cinquenta minutos antes do fecho, com cartão de embarque emitido e documento válido. A AeroExemplo, S.A. admite que o voo estava sobrelotado, que não pediu voluntários com contrapartida aceite pela passageira, e que lhe recusou o embarque apesar do cartão. Admite que a recusa não se fundou em saúde, segurança ou documentos de viagem inadequados.\n\nO reencaminhamento imposto partiu na manhã de 10 de setembro às 09:15 e chegou a Munique às 12:40, cerca de catorze horas depois das 22:30 programadas. A passageira aceitou esse lugar porque não havia outro. A pernoita em Lisboa foi necessária. A transportadora admite que não forneceu voucher de hotel nem de refeição.\n\nEstão transcritos na ata a fatura do Hotel Exemplo, uma noite, 80,00 EUR, datada de 9 de setembro de 2025, e dois talões de refeição no aeroporto, de 12,00 EUR e 8,00 EUR, soma 20,00 EUR, da mesma noite. A AeroExemplo, S.A. não impugnou os documentos nem os montantes. Não há outro gasto no pedido. Não há pagamento da indemnização padronizada. Não há alegação de circunstância extraordinária: a contestação reconhece a sobrelotação e discute apenas o hotel, dizendo que a passageira «podia ter ficado no aeroporto», sem negar a fatura.",
+  "expected": {
+    "decision_total": "500.00",
+    "outcome": "procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "400.00"
+      },
+      {
+        "item": "Hotel",
+        "awarded": "80.00"
+      },
+      {
+        "item": "Refeições",
+        "awarded": "20.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 4.º",
+      "artigo 9.º"
+    ],
+    "notes": "Recusa de embarque contra a vontade, com cartão emitido e sobrelotação admitida, sem motivo razoável de saúde, segurança ou documentos: artigo 4.º, com remissão para o artigo 7.º. Lisboa–Munique, 1 888 km, intracomunitário acima de 1 500 km: 400 EUR. A chegada do reencaminhamento cerca de catorze horas depois exclui a redução de 50 %. Hotel de 80,00 EUR e refeições de 20,00 EUR (12,00 + 8,00) estão na ata e não foram impugnados; a transportadora não prestou assistência. Artigo 9.º. Total 400 + 80 + 20 = 500,00. Tudo o que foi pedido fica provado: procedente."
+  }
+}

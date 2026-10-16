@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -113,3 +115,12 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2023/law_8ac95693ea9cd2cc]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/agua|Agua]]
+- cites instrument: [[instruments/pt-lei-63-2011|Lei n.o 63/2011]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->

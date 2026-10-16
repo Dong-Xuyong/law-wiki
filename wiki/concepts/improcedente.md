@@ -35,6 +35,7 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/2016-processo-3357-out--law_87a73a9ccd0c8f48|2016 - Processo 3357 - out.pdf]] — has outcome
 - [[sources/processo-1155-2020--law_896af6245257cb0d|processo-1155-2020.pdf]] — has outcome
 - [[sources/proc-no-1744-2023-14-03-2024--law_9755d19a41d82eb4|Proc.-no-1744.2023-14-03-2024.pdf]] — has outcome
+- [[sources/2833-2021-16-03-2022--law_98fe4d5bf14d9b31|2833-2021-16.03.2022.pdf]] — has outcome
 - [[sources/2023-processo-1863-out--law_9c3c5352d82c3479|2023_Processo 1863.out.pdf]] — has outcome
 - [[sources/2023-processo-2003-out--law_a17ebdb68c7506b7|2023_Processo 2003.out.pdf]] — has outcome
 - [[sources/sentenca-30-12-2021-1--law_a501107c649ddd39|sentenca-30.12.2021 (1).pdf]] — has outcome
@@ -49,6 +50,8 @@ Graph-derived links; underlying source pages remain unverified.
 - [[sources/processo-220-2023-1--law_bef06ef99b5876c7|processo-220-2023 (1).pdf]] — has outcome
 - [[sources/2023-processo-1927-out--law_c45ff5b1e605742b|2023_Processo 1927.out.pdf]] — has outcome
 - [[sources/2621-2021-11-11-2022--law_c621b91077e606f3|2621-2021-11.11.2022.pdf]] — has outcome
+- [[sources/sent-184-1--law_d08620d6a78a8e79|Sent.184 (1).pdf]] — has outcome
+- [[sources/processo-2320-2021--law_db0703666b5e7b8a|processo-2320-2021.pdf]] — has outcome
 - [[sources/2016-processo-944-eng--law_df8376cb4e3dee7a|2016 - Processo 944 - eng.pdf]] — has outcome
 - [[sources/4091-2022-14-08-2023--law_ee3c27ae31cfa535|4091-2022-14.08.2023.pdf]] — has outcome
 - [[sources/3112-2019-19-11-2020--law_f244a77e26abeeb0|3112-2019-19.11.2020.pdf]] — has outcome

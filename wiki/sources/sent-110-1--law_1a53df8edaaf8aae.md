@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -114,3 +116,12 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/caccl/2022/law_1a53df8edaaf8aae]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about topic: [[concepts/garantias-defeitos|garantias/defeitos]]
+- cites provision: [[concepts/pt-codigo-civil-art-400|art. 400 Código Civil]]
+- published by: [[entities/caccl|CACCL]]
+<!-- LAW-WIKI:GRAPH:END -->

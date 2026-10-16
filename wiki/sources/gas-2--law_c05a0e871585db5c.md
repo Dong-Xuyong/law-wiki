@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -136,3 +138,17 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cniacc/2016/law_c05a0e871585db5c]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/servicos-publicos-essenciais|serviços públicos essenciais]]
+- about sector: [[concepts/energy|energy]]
+- about topic: [[concepts/gas|Gas]]
+- cites instrument: [[instruments/pt-lei-23-96|Lei n.º 23/96]]
+- cites instrument: [[instruments/pt-lei-6-2011|Lei n.º 6/2011]]
+- cites provision: [[concepts/pt-lei-23-96-art-1|art. 1 Lei n.º 23/96]]
+- cites provision: [[concepts/pt-lei-23-96-art-15|art. 15 Lei n.º 23/96]]
+- published by: [[entities/cniacc|CNIACC]]
+<!-- LAW-WIKI:GRAPH:END -->

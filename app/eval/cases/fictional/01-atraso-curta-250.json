@@ -1,0 +1,20 @@
+{
+  "id": "01-atraso-curta-250",
+  "title": "Atraso de chegada superior a três horas em voo até 1 500 km",
+  "record_text": "Reclamação ficcional. A Reclamante A intentou reclamação contra a transportadora AeroExemplo, S.A., com sede declarada em Lisboa, pedindo apenas a indemnização padronizada de 250,00 EUR. Não há pedido de reembolso do bilhete, nem de refeições, hotel, táxi ou dano moral. O pedido não foi aditado. O registo não indica número de processo para além da referência interna AX-FIC-01, nem identifica testemunhas.\n\nAs partes aceitam, como facto comum, que a Reclamante A celebrou com a AeroExemplo, S.A. um contrato de transporte para o voo AX 1042, Porto–Lisboa, no dia 12 de março de 2025, com partida programada às 08:10 e chegada programada às 09:15, no Aeroporto Humberto Delgado. Aceitam também que a distância ortodrómica entre os dois aeroportos é de 274 km, portanto inferior a 1 500 km, e que o voo é intracomunitário. A reserva e o cartão de embarque estão transcritos na ata.\n\nA Reclamante A alega, e a AeroExemplo, S.A. admite na contestação, que a passageira se apresentou no balcão às 06:40 com reserva confirmada e documento de viagem válido, que o voo partiu às 11:05 e que aterrou em Lisboa às 12:55. O atraso à chegada é, por isso, de 3 horas e 40 minutos. O registo operacional lido em audiência, não impugnado, confirma estes horários. Não houve reencaminhamento para outra aeronave: foi o próprio voo AX 1042 que chegou atrasado. A passageira embarcou e concluiu a viagem.\n\nA transportadora escreve, em duas linhas da contestação, que o atraso se ficou a dever a «problemas operacionais internos», sem os descrever e sem juntar qualquer documento. Não invoca condições meteorológicas, restrições de gestão do fluxo de tráfego aéreo, nem ato de autoridade. Não alega ter oferecido reencaminhamento com chegada dentro de duas horas, nem ter pago qualquer quantia. Não há extrato bancário, vale ou mensagem de transferência no processo.\n\nEm audiência, realizada sem acordo, a Reclamante A confirmou os horários e a AeroExemplo, S.A. manteve a admissão. Não foram indicadas testemunhas. O número de documentos juntos reduz-se à reserva, ao cartão de embarque e ao registo operacional, todos lidos e aceites quanto ao conteúdo horário e à distância. Nada no processo prova uma circunstância extraordinária, nem uma medida razoável que tivesse sido impossível de adotar, porque essa defesa nem sequer foi concretizada.\n\nA questão a decidir é se, num voo de 274 km, com atraso de chegada de 3 horas e 40 minutos, sem circunstâncias extraordinárias provadas e sem pagamento prévio, a indemnização do artigo 7.º é de 250,00 EUR. O atraso excede duas horas, pelo que não há redução de metade. O pedido coincide com essa banda e não contém parcelas acessórias.",
+  "expected": {
+    "decision_total": "250.00",
+    "outcome": "procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "250.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 7.º",
+      "1 500"
+    ],
+    "notes": "Voo Porto–Lisboa de 274 km, admitido, abaixo de 1 500 km: artigo 7.º, n.º 1, alínea a), 250 EUR. Chegada 09:15 programada e 12:55 efetiva, atraso de 3 h 40, logo direito à compensação (limiar de três horas) e sem redução do n.º 2, alínea a), que só cobre atrasos até duas horas. A defesa de problemas operacionais é genérica e sem documento: não prova circunstâncias extraordinárias. Não há pagamento prévio nem outras rubricas. Pedido de 250,00 integralmente concedido."
+  }
+}

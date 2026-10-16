@@ -1,0 +1,20 @@
+{
+  "id": "04-longa-reducao-50",
+  "title": "Atraso entre três e quatro horas em voo acima de 3 500 km, com redução de 50 %",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A. 600,00 EUR pelo atraso do voo AX 880, Lisboa–Nova Iorque. Não pede outras rubricas. Referência interna AX-FIC-04. Sem acordo e sem testemunhas.\n\nÉ facto comum a reserva do dia 19 de setembro de 2025, com partida de Lisboa às 10:05 e chegada programada a Nova Iorque às 15:10, hora local constante do título de transporte que ambas as partes aceitam como referência. A distância ortodrómica admitida é de 5 423 km. O aeroporto de chegada não está na União Europeia e a distância é superior a 3 500 km. A Reclamante A tinha reserva confirmada e apresentou-se dentro do prazo de aceitação, o que a transportadora admite.\n\nO próprio voo AX 880 operou, sem reencaminhamento para terceiro. A AeroExemplo, S.A. admite a aterragem às 18:30, hora local de Nova Iorque. Entre as 15:10 e as 18:30 mediam 3 horas e 20 minutos. O registo de chegada foi lido em audiência e o conteúdo horário não foi impugnado. A passageira embarcou em Lisboa e desembarcou em Nova Iorque nesse voo.\n\nA contestação não invoca meteorologia, gestão de fluxo, segurança ou ato de autoridade. Diz apenas que o atraso «não foi longo». Não junta prova de pagamento de qualquer parcela dos 600,00 EUR. Não há despesas no pedido. Os documentos do processo são a reserva e o registo de chegada.\n\nA Reclamante A sustenta que, passando de três horas, a indemnização longa é sempre de 600,00 EUR. A transportadora, sem o articular com um número de artigo, limita-se a pedir a improcedência. O tribunal tem de qualificar um atraso de chegada situado entre três e quatro horas num voo da alínea c) do n.º 1 do artigo 7.º. Não está provado qualquer facto que exclua o direito, e também não está provado um atraso de quatro horas ou mais.",
+  "expected": {
+    "decision_total": "300.00",
+    "outcome": "parcialmente procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "300.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 7.º",
+      "n.º 2"
+    ],
+    "notes": "Lisboa–Nova Iorque, 5 423 km, não intracomunitário e acima de 3 500 km: base de 600 EUR, artigo 7.º, n.º 1, alínea c). Atraso de chegada de 3 h 20 (15:10–18:30): há direito à compensação por se atingirem três horas, mas o n.º 2, alínea c), permite reduzir 50 % quando a chegada não excede a hora programada em quatro horas. 600 × 50 % = 300,00. O pedido de 600,00 só procede até 300,00. Sem circunstâncias extraordinárias e sem pagamento prévio."
+  }
+}

@@ -35,6 +35,7 @@ Use the catalog and verify propositions against immutable raw documents.
 ## Connected sources
 
 Graph-derived links; underlying source pages remain unverified.
+- [[sources/processo-1212-2022--law_063224fc23468206|processo-1212-2022.pdf]] — about topic
 - [[sources/2020-processo-875-out--law_0648b31ecb0592ad|2020_Processo 875.out.pdf]] — about topic
 - [[sources/processo-1216-2022--law_716983a154a76a79|processo-1216-2022.pdf]] — about topic
 - [[sources/processo-1711-2018--law_ce722251aef47a2d|processo-1711-2018.pdf]] — about topic

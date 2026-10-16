@@ -1,0 +1,642 @@
+{
+  "metadata": {
+    "process_number": "não indicado",
+    "claimant": "Reclamante não identificada",
+    "respondent": "Wizz Air",
+    "case_value": "1186.52",
+    "place_and_date": "São Jorge de Selho, Braga, Portugal, 16 de setembro de 2026",
+    "draft_date": "2026-09-16",
+    "document_title": "Minuta — Wizz Air W4 5520"
+  },
+  "policy": {
+    "strict_evidence": true,
+    "required_metadata": {
+      "process_number": "não indicado",
+      "claimant": "Reclamante não identificada"
+    }
+  },
+  "input_record": {
+    "kind": "pdf",
+    "filename": "wizz-w4-5520-input.pdf",
+    "sha256": "cee36872908ce8396e3367c95bde4dfe20d355d9508875c83a5277e8573fdadf",
+    "pages": 3,
+    "extracted_text": "input-record.txt",
+    "manifest": "input-manifest.json",
+    "classification": "User-supplied factual/procedural record; not a Law Wiki legal authority"
+  },
+  "sources": [
+    {
+      "id": "triave-1675",
+      "title": "Triave, processo 1675/2022",
+      "path": "raw/documents/triave/2022/law_0287fd0c2d1c09b7.md",
+      "document_id": "law_0287fd0c2d1c09b7",
+      "pinpoints": [
+        "linhas 86–101",
+        "linhas 145–183",
+        "linhas 431–563"
+      ]
+    },
+    {
+      "id": "cicap-748",
+      "title": "CICAP, processo 748/2023",
+      "path": "raw/documents/cicap/2023/law_e2823c61be458951.md",
+      "document_id": "law_e2823c61be458951",
+      "pinpoints": [
+        "linhas 228–264",
+        "linhas 313–315",
+        "linhas 376–410"
+      ]
+    },
+    {
+      "id": "cicap-1455",
+      "title": "CICAP, processo 1455/2023",
+      "path": "raw/documents/cicap/2023/law_6cda24115e128652.md",
+      "document_id": "law_6cda24115e128652",
+      "pinpoints": [
+        "linhas 38–51",
+        "linha 213"
+      ]
+    },
+    {
+      "id": "cicap-1282",
+      "title": "CICAP, processo 1282/2021",
+      "path": "raw/documents/cicap/2021/law_d8add1af99ed3837.md",
+      "document_id": "law_d8add1af99ed3837",
+      "pinpoints": [
+        "linhas 37–45",
+        "linhas 228–245",
+        "linhas 296–300"
+      ]
+    },
+    {
+      "id": "cicap-2219",
+      "title": "CICAP, processo 2219/2021",
+      "path": "raw/documents/cicap/2021/law_c319a7e26a43267e.md",
+      "document_id": "law_c319a7e26a43267e",
+      "pinpoints": [
+        "linhas 31–49",
+        "linhas 211–227",
+        "linhas 333–450"
+      ]
+    },
+    {
+      "id": "caccl-080",
+      "title": "CACCL, Sentença 080.TA",
+      "path": "raw/documents/caccl/2023/law_035510d521db7122.md",
+      "document_id": "law_035510d521db7122",
+      "pinpoints": [
+        "linhas 150–195"
+      ]
+    },
+    {
+      "id": "caccl-351",
+      "title": "CACCL, Sentença 351.TA",
+      "path": "raw/documents/caccl/2022/law_bd2fc6a7737f1749.md",
+      "document_id": "law_bd2fc6a7737f1749",
+      "pinpoints": [
+        "linhas 95–123",
+        "linhas 189–227"
+      ]
+    },
+    {
+      "id": "triave-613",
+      "title": "Triave, processo 613/2023",
+      "path": "raw/documents/triave/2023/law_21281b8b60c371e8.md",
+      "document_id": "law_21281b8b60c371e8",
+      "pinpoints": [
+        "linhas 152–241",
+        "linhas 271–335"
+      ]
+    },
+    {
+      "id": "cniacc-636",
+      "title": "CNIACC, processo 636/2023",
+      "path": "raw/documents/cniacc/2023/law_7e726144fe91b542.md",
+      "document_id": "law_7e726144fe91b542",
+      "pinpoints": [
+        "linhas 21–35",
+        "linhas 202–212"
+      ]
+    },
+    {
+      "id": "triave-2752",
+      "title": "Triave, processo 2752/2023",
+      "path": "raw/documents/triave/2023/law_c290cfc33b5eba3d.md",
+      "document_id": "law_c290cfc33b5eba3d",
+      "pinpoints": [
+        "linhas 1135–1161"
+      ]
+    }
+  ],
+  "evidence_matrix": [
+    {
+      "id": "p01",
+      "proposition": "O litígio reporta-se ao contrato de transporte para o voo W4 5520 Porto–Milão Malpensa, programado para 10 de janeiro de 2024, 09:30–12:55.",
+      "status": "proved",
+      "basis": "common"
+    },
+    {
+      "id": "p02",
+      "proposition": "A Reclamante pediu inicialmente €600 ao abrigo do Regulamento n.º 261/2004 e depois aditou €449 pelo bilhete substituto, €50 pelo hotel, €50 pelo lounge e €37,52 por quatro horas de trabalho.",
+      "status": "procedural",
+      "basis": "procedural_record"
+    },
+    {
+      "id": "p03",
+      "proposition": "A Reclamante compareceu; a Reclamada faltou à audiência e não contestou previamente; frustrada a conciliação, a Reclamante foi ouvida, requereu a alteração do pedido e foi ordenada a notificação da Reclamada por dez dias, após o que esta respondeu.",
+      "status": "procedural",
+      "basis": "procedural_record"
+    },
+    {
+      "id": "p04",
+      "proposition": "Na resposta, a Reclamada afirmou que a rota mede 1 488 km, que a compensação-base é €250 e que esta teria sido paga através da Help.",
+      "status": "procedural",
+      "basis": "procedural_record"
+    },
+    {
+      "id": "p05",
+      "proposition": "A Reclamada admitiu, para o seu cálculo, tarifa original de €134,48, tarifa substituta de €449,82 e diferencial de €315,34.",
+      "status": "proved",
+      "basis": "admission"
+    },
+    {
+      "id": "p06",
+      "proposition": "As partes aceitam que a tarifa original foi reembolsada, embora divirjam entre €131 e €134,48.",
+      "status": "proved",
+      "basis": "common"
+    },
+    {
+      "id": "p07",
+      "proposition": "A resposta propôs €365,34, correspondentes a €315,34 de diferencial e €50 de lounge, sem hotel nem trabalho.",
+      "status": "procedural",
+      "basis": "procedural_record"
+    },
+    {
+      "id": "p08",
+      "proposition": "A Reclamada não invocou circunstâncias extraordinárias na resposta fornecida.",
+      "status": "procedural",
+      "basis": "procedural_record"
+    },
+    {
+      "id": "p09",
+      "proposition": "Nenhuma testemunha foi indicada e o número de documentos não é determinável pelo registo fornecido.",
+      "status": "procedural",
+      "basis": "procedural_record"
+    },
+    {
+      "id": "p10",
+      "proposition": "Na resposta, a Reclamada qualificou o voo como cancelado e reconheceu que a tarifa original foi reembolsada.",
+      "status": "proved",
+      "basis": "admission"
+    },
+    {
+      "id": "np01",
+      "proposition": "A medida ortodrómica independente da rota Porto–Milão Malpensa é 1 488 km.",
+      "status": "not_proved",
+      "basis": "unilateral_assertion"
+    },
+    {
+      "id": "np02",
+      "proposition": "A Reclamante recebeu aviso de atraso, viu o ecrã mudar para 13:40, recebeu voucher de €4 e ouviu no gate que o voo provavelmente não operaria.",
+      "status": "not_proved",
+      "basis": "unilateral_assertion"
+    },
+    {
+      "id": "np03",
+      "proposition": "A alternativa TAP partiu às 16:05 via Lisboa e chegou cerca das 23:30/00:00.",
+      "status": "not_proved",
+      "basis": "unilateral_assertion"
+    },
+    {
+      "id": "np04",
+      "proposition": "A Reclamante pagou €49/€50 por hotel em Milão e perdeu a reserva por impossibilidade de check-in.",
+      "status": "not_proved",
+      "basis": "unseen_attachment"
+    },
+    {
+      "id": "np05",
+      "proposition": "A Reclamante pagou e utilizou lounge de €50 para tomar banho depois de dormir no aeroporto.",
+      "status": "not_proved",
+      "basis": "unseen_attachment"
+    },
+    {
+      "id": "np06",
+      "proposition": "A Reclamante perdeu quatro horas de trabalho no valor de €37,52.",
+      "status": "not_proved",
+      "basis": "unseen_attachment"
+    },
+    {
+      "id": "np07",
+      "proposition": "A indemnização de €250 foi efetivamente paga através da empresa Help.",
+      "status": "not_proved",
+      "basis": "unseen_attachment"
+    },
+    {
+      "id": "np08",
+      "proposition": "Os anexos meramente mencionados têm o conteúdo e força probatória alegados pelas partes.",
+      "status": "not_proved",
+      "basis": "unseen_attachment"
+    },
+    {
+      "id": "np09",
+      "proposition": "A Reclamada ofereceu reencaminhamento em condições equivalentes no próprio dia ou em data posterior.",
+      "status": "not_proved",
+      "basis": "unilateral_assertion"
+    },
+    {
+      "id": "np10",
+      "proposition": "Ocorreram circunstâncias extraordinárias inevitáveis apesar de todas as medidas razoáveis.",
+      "status": "not_proved",
+      "basis": "unseen_attachment"
+    },
+    {
+      "id": "np11",
+      "proposition": "A tarifa original certa foi €131,00.",
+      "status": "not_proved",
+      "basis": "unilateral_assertion"
+    }
+  ],
+  "sections": {
+    "sumario": [
+      {
+        "text": "1. O contrato de transporte aéreo de passageiros rege-se, no que ao caso importa, pelo Regulamento (CE) n.º 261/2004 e pelas regras gerais do cumprimento contratual; a indemnização do artigo 7.º compensa a perda de tempo sem exigir prova de dano individualizado.",
+        "source_ids": [
+          "triave-1675"
+        ]
+      },
+      {
+        "text": "2. Para voos intracomunitários, o artigo 7.º fixa €250 até 1 500 km e €400 acima desse limiar, não sendo aplicável a banda de €600; não tendo a transportadora invocado circunstâncias extraordinárias nem provado o pagamento alegado, subsiste a obrigação de €250 admitida na resposta.",
+        "source_ids": [
+          "cicap-748",
+          "cicap-1282",
+          "cniacc-636"
+        ]
+      },
+      {
+        "text": "3. O artigo 12.º permite indemnização suplementar, mas não o duplo ressarcimento do mesmo dano; reembolsada a tarifa original, o prejuízo do transporte substituto corresponde ao diferencial admitido e não ao preço integral do novo bilhete.",
+        "source_ids": [
+          "triave-1675",
+          "caccl-080",
+          "triave-613"
+        ]
+      },
+      {
+        "text": "4. O ónus dos factos constitutivos recai sobre a Reclamante e o dos factos extintivos ou impeditivos sobre a Reclamada. Hotel, utilização de lounge, perda laboral, pagamento Help e anexos não fornecidos não podem ser tratados como provados.",
+        "source_ids": [
+          "cicap-748",
+          "caccl-351"
+        ]
+      },
+      {
+        "text": "5. A ausência inicial da transportadora não determina a procedência automática: o processo pode prosseguir, mas os danos individualizados continuam sujeitos a prova. A resposta posterior deve ser valorada nos limites das admissões e posições nela assumidas.",
+        "source_ids": [
+          "triave-1675"
+        ]
+      }
+    ],
+    "relatorio": [
+      {
+        "text": "A Reclamante não identificada apresentou reclamação contra a Wizz Air, pretendendo inicialmente a condenação da Reclamada no pagamento de €600,00 ao abrigo do Regulamento (CE) n.º 261/2004, com fundamento no voo W4 5520, Porto–Milão Malpensa, programado para as 09:30–12:55 de 10 de janeiro de 2024."
+      },
+      {
+        "text": "Na audiência, a Reclamante alterou o pedido, aditando €50,00 pelo hotel pré-pago em Milão, €37,52 por quatro horas de trabalho, €50,00 pelo lounge e €449,00 pelo novo voo Porto–Milão."
+      },
+      {
+        "text": "Segundo o registo processual fornecido, a Reclamante compareceu e a Reclamada, embora notificada, faltou à audiência e não apresentara contestação escrita. Frustrada a conciliação e aberta a audiência, a Reclamante foi ouvida e requereu a alteração. Foi então ordenada a notificação da Reclamada para se pronunciar em dez dias."
+      },
+      {
+        "text": "A Reclamada apresentou depois resposta na qual qualificou o voo como cancelado, reconheceu o reembolso da tarifa original, indicou 1 488 km para a rota, qualificou em €250,00 a compensação do artigo 7.º e alegou que esta fora paga através da empresa Help, sem fornecer a confirmação mencionada. Indicou ainda €134,48 para a tarifa original e €449,82 para a substituta, calculou €315,34 de diferencial e propôs €365,34, compostos por esse diferencial e €50,00 de lounge."
+      },
+      {
+        "text": "O número do processo, a identidade completa da Reclamante, a data da audiência e o centro de arbitragem competente não constam do registo. Nenhuma testemunha foi indicada e o número de documentos não é determinável."
+      }
+    ],
+    "objeto_litigio": [
+      {
+        "text": "Cumpre decidir se a Reclamada está obrigada a pagar: a) indemnização do artigo 7.º, no confronto entre os €600,00 peticionados e os €250,00 indicados na resposta; b) o preço ou o diferencial do bilhete substituto; c) hotel, lounge e perda laboral; e d) se o alegado pagamento através da Help extinguiu total ou parcialmente a obrigação."
+      }
+    ],
+    "saneador": [
+      {
+        "text": "O registo fornecido não estabelece o número do processo, a identificação completa da Reclamante, a data da audiência, o centro de arbitragem concretamente competente, nem o título da competência territorial ou material. Esses elementos não são dados como estabelecidos nesta minuta."
+      },
+      {
+        "text": "Não resulta do mesmo registo questão prévia que impeça a análise de mérito deste projeto. Esta conclusão não equivale a declarar regularmente constituído um tribunal arbitral, matéria para a qual faltam dados."
+      },
+      {
+        "text": "Nenhuma testemunha foi indicada. O número de documentos juntos não é determinável. A apreciação fica limitada ao conteúdo efetivamente fornecido."
+      }
+    ],
+    "factos_provados": [
+      {
+        "text": "a) O litígio reporta-se ao contrato de transporte para o voo W4 5520 Porto–Milão Malpensa, programado para 10 de janeiro de 2024, 09:30–12:55.",
+        "evidence_ids": [
+          "p01"
+        ]
+      },
+      {
+        "text": "b) A Reclamante pediu inicialmente €600,00 ao abrigo do Regulamento n.º 261/2004 e alterou depois o pedido para aditar €449,00 pelo bilhete substituto, €50,00 pelo hotel, €50,00 pelo lounge e €37,52 por quatro horas de trabalho.",
+        "evidence_ids": [
+          "p02"
+        ]
+      },
+      {
+        "text": "c) A Reclamante compareceu; a Reclamada faltou à audiência e não contestou previamente; frustrada a conciliação, a Reclamante foi ouvida, requereu a alteração do pedido e foi ordenada a notificação da Reclamada por dez dias, após o que esta respondeu.",
+        "evidence_ids": [
+          "p03"
+        ]
+      },
+      {
+        "text": "d) Na resposta, a Reclamada qualificou o voo como cancelado e reconheceu que a tarifa original foi reembolsada.",
+        "evidence_ids": [
+          "p10"
+        ]
+      },
+      {
+        "text": "e) Na resposta, a Reclamada afirmou que a rota mede 1 488 km, que a compensação-base é €250,00 e que esta teria sido paga através da Help.",
+        "evidence_ids": [
+          "p04"
+        ]
+      },
+      {
+        "text": "f) A Reclamada admitiu, para o seu cálculo, tarifa original de €134,48, tarifa substituta de €449,82 e diferencial de €315,34.",
+        "evidence_ids": [
+          "p05"
+        ]
+      },
+      {
+        "text": "g) As partes aceitam que a tarifa original foi reembolsada, embora divirjam quanto ao respetivo valor entre €131,00 e €134,48.",
+        "evidence_ids": [
+          "p06"
+        ]
+      },
+      {
+        "text": "h) A resposta propôs €365,34, correspondentes a €315,34 de diferencial e €50,00 de lounge, sem incluir hotel nem trabalho.",
+        "evidence_ids": [
+          "p07"
+        ]
+      },
+      {
+        "text": "i) A Reclamada não invocou circunstâncias extraordinárias na resposta fornecida.",
+        "evidence_ids": [
+          "p08"
+        ]
+      },
+      {
+        "text": "j) Nenhuma testemunha foi indicada e o número de documentos não é determinável pelo registo fornecido.",
+        "evidence_ids": [
+          "p09"
+        ]
+      }
+    ],
+    "factos_nao_provados": [
+      {
+        "text": "aa) Que a medida ortodrómica independente da rota Porto–Milão Malpensa seja 1 488 km.",
+        "evidence_ids": [
+          "np01"
+        ]
+      },
+      {
+        "text": "bb) Que a Reclamante tenha recebido aviso de atraso, visto o ecrã mudar para 13:40, recebido voucher de €4,00 e ouvido no gate que o voo provavelmente não operaria.",
+        "evidence_ids": [
+          "np02"
+        ]
+      },
+      {
+        "text": "cc) Que a alternativa TAP tenha partido às 16:05 via Lisboa e chegado cerca das 23:30/00:00.",
+        "evidence_ids": [
+          "np03"
+        ]
+      },
+      {
+        "text": "dd) Que a Reclamante tenha pago €49,00/€50,00 por hotel em Milão e perdido a reserva por impossibilidade de check-in.",
+        "evidence_ids": [
+          "np04"
+        ]
+      },
+      {
+        "text": "ee) Que a Reclamante tenha pago e utilizado lounge de €50,00 para tomar banho depois de dormir no aeroporto.",
+        "evidence_ids": [
+          "np05"
+        ]
+      },
+      {
+        "text": "ff) Que a Reclamante tenha perdido quatro horas de trabalho no valor de €37,52.",
+        "evidence_ids": [
+          "np06"
+        ]
+      },
+      {
+        "text": "gg) Que a indemnização de €250,00 tenha sido efetivamente paga através da empresa Help.",
+        "evidence_ids": [
+          "np07"
+        ]
+      },
+      {
+        "text": "hh) Que anexos meramente mencionados tenham o conteúdo e a força probatória alegados.",
+        "evidence_ids": [
+          "np08"
+        ]
+      },
+      {
+        "text": "ii) Que a Reclamada tenha oferecido reencaminhamento em condições equivalentes no próprio dia ou em data posterior.",
+        "evidence_ids": [
+          "np09"
+        ]
+      },
+      {
+        "text": "jj) Que tenham ocorrido circunstâncias extraordinárias inevitáveis apesar de todas as medidas razoáveis.",
+        "evidence_ids": [
+          "np10"
+        ]
+      },
+      {
+        "text": "kk) Que a tarifa original certa tenha sido €131,00.",
+        "evidence_ids": [
+          "np11"
+        ]
+      }
+    ],
+    "motivacao": [
+      {
+        "text": "O julgador deve selecionar a matéria relevante para o pedido e apreciá-la segundo as regras da prova. No precedente Triave 1675/2022, mesmo com falta de contestação e ausência em audiência, a convicção sobre bilhetes, voo substituto e perda salarial foi fundada em documentos e declarações concretamente identificados; a ausência não dispensou prova dos danos.",
+        "source_ids": [
+          "triave-1675"
+        ]
+      },
+      {
+        "text": "Nesta minuta não foram fornecidos depoimentos, anexos, faturas, comprovativos bancários ou contagem documental. Por isso, os factos provados assentam apenas em matéria comum, admissões e no conteúdo processual da resposta, distinguindo-se a prova de que uma alegação foi formulada da prova da realidade alegada."
+      },
+      {
+        "text": "O artigo 342.º do Código Civil, tal como aplicado na jurisprudência local, atribui à parte que invoca um direito o ónus dos factos constitutivos e à contraparte o ónus dos factos impeditivos ou extintivos. A falta de prova documental ou testemunhal impede promover hotel, trabalho, utilização de lounge e pagamento Help a factos materiais provados.",
+        "source_ids": [
+          "cicap-748",
+          "caccl-351"
+        ]
+      },
+      {
+        "text": "A indicação de €449,82 para o bilhete substituto, €134,48 para a tarifa original e €315,34 para o diferencial é valorada nos limites da admissão feita pela Reclamada. A divergência sobre €131,00 impede fixar esse valor alternativo como quantia certa."
+      },
+      {
+        "text": "A alegação de pagamento por intermédio da Help é facto extintivo e a confirmação mencionada não foi fornecida. Ao contrário do precedente CICAP 748/2023, em que um reembolso parcial concretamente provado foi abatido, não existe aqui base probatória para dedução.",
+        "source_ids": [
+          "cicap-748"
+        ]
+      }
+    ],
+    "fundamentacao_direito": [
+      {
+        "text": "Entre as partes foi celebrado um contrato de transporte aéreo de passageiros. O cumprimento deve ser pontual e integral; o incumprimento culposo gera responsabilidade pelos prejuízos causados, cabendo ao devedor ilidir a presunção de culpa nos termos gerais.",
+        "source_ids": [
+          "triave-1675"
+        ]
+      },
+      {
+        "text": "O Regulamento (CE) n.º 261/2004 estabelece compensação e assistência em caso de cancelamento ou atraso considerável. A Reclamada qualificou expressamente o voo como cancelado. A jurisprudência local, seguindo a linha Sturgeon referida nos documentos do corpus, equipara ainda atrasos de chegada superiores a três horas ao cancelamento para efeitos do artigo 7.º e caracteriza a compensação como reparação forfetária da perda de tempo.",
+        "source_ids": [
+          "cicap-748",
+          "triave-1675"
+        ]
+      },
+      {
+        "text": "O artigo 7.º fixa €250,00 para voos até 1 500 km, €400,00 para voos intracomunitários acima de 1 500 km e para os demais entre 1 500 e 3 500 km, e €600,00 para os não abrangidos. As distâncias são medidas pela rota ortodrómica.",
+        "source_ids": [
+          "caccl-351"
+        ]
+      },
+      {
+        "text": "Os precedentes do corpus aplicam €250,00 a Porto–Genebra, com 1 311 km, e Porto–Paris, abaixo de 1 500 km; aplicam €400,00 a Porto–Cagliari, com 1 516 km e 886 m. Assim, num voo intracomunitário, a banda de €600,00 não é aplicável.",
+        "source_ids": [
+          "cicap-748",
+          "cicap-1455",
+          "cicap-1282"
+        ]
+      },
+      {
+        "text": "A medida de 1 488 km é apenas alegação da Reclamada e não fica autonomamente demonstrada. Porém, a própria Reclamada reconhece €250,00 como compensação aplicável, a Reclamante não provou distância superior a 1 500 km e ninguém formulou pedido de €400,00. A condenação fica limitada a €250,00, improcedendo o excesso até €600,00."
+      },
+      {
+        "text": "A exclusão do artigo 5.º, n.º 3, exige que a transportadora prove cumulativamente a circunstância extraordinária, o nexo com o cancelamento ou atraso e a impossibilidade de o evitar apesar de todas as medidas razoáveis. Nada disso foi alegado ou provado neste registo.",
+        "source_ids": [
+          "cniacc-636"
+        ]
+      },
+      {
+        "text": "O pagamento alegadamente realizado através da Help é facto extintivo sujeito a prova pela Reclamada. A mera menção de confirmação não fornecida não extingue a obrigação. Não há, por isso, qualquer montante a deduzir aos €250,00."
+      },
+      {
+        "text": "O artigo 8.º oferece a escolha entre reembolso e reencaminhamento em condições equivalentes na primeira oportunidade ou em data posterior. O corpus contém soluções distintas quanto ao bilhete adquirido pelo passageiro: Triave 1675/2022 concedeu o novo bilhete quando não houve alternativa comprovada; CACCL 351.TA recusou-o quando o passageiro rejeitou reencaminhamento; e Triave 613/2023 censurou a duplicação entre reembolso integral e preço integral do substituto, admitindo em tese apenas o diferencial.",
+        "source_ids": [
+          "triave-1675",
+          "caccl-351",
+          "triave-613"
+        ]
+      },
+      {
+        "text": "Não se provou oferta de reencaminhamento equivalente. Também não pode haver cumulação da tarifa original já reembolsada com o preço integral do bilhete substituto. A solução probatoriamente segura é o diferencial de €315,34 expressamente calculado pela Reclamada: €449,82 menos €134,48.",
+        "source_ids": [
+          "triave-613"
+        ]
+      },
+      {
+        "text": "O artigo 12.º preserva a indemnização suplementar, permitindo deduzir a compensação regulamentar para evitar duplo ressarcimento. A Sentença CACCL 080.TA recusou despesas e salário já cobertos pela compensação forfetária; em sentido mais favorável à cumulação, Triave 1675/2022 atribuiu artigo 7.º, bilhete substituto e salário provados. A solução depende de saber se o suplemento repete a perda de tempo ou repara um empobrecimento autónomo.",
+        "source_ids": [
+          "caccl-080",
+          "triave-1675"
+        ]
+      },
+      {
+        "text": "O diferencial do transporte substituto é desembolso autónomo da perda de tempo e traduz o custo líquido de chegar ao destino após o reembolso original. Não deve ser absorvido pelos €250,00 do artigo 7.º."
+      },
+      {
+        "text": "A perda de uma reserva de hotel pode constituir dano suplementar quando provada. CICAP 2219/2021 assentou em reservas e faturas; Triave 2752/2023 fixou equitativamente uma noite apenas depois de provado o pacote global. Aqui faltam pagamento, não fruição e nexo causal, pelo que o pedido de €50,00 improcede.",
+        "source_ids": [
+          "cicap-2219",
+          "triave-2752"
+        ]
+      },
+      {
+        "text": "O corpus consultado não contém autoridade que qualifique um lounge como rubrica autónoma do Regulamento. A utilização e a finalidade alegadas não estão provadas. Todavia, a Reclamada incluiu expressamente €50,00 dessa rubrica na proposta concreta de €365,34 constante da resposta, sem a condicionar à prova da despesa; essa posição processual limita a controvérsia nessa parcela, que é concedida nos exatos termos assumidos."
+      },
+      {
+        "text": "A perda de rendimento laboral exige prova do tempo e remuneração. Triave 1675/2022 concedeu €40,00 com depoimento e documento identificados; a solução anti-duplicação da CACCL 080.TA constitui ainda contra-argumento adicional. Aqui, porém, basta a ausência de prova das quatro horas e dos €37,52 para o pedido improceder.",
+        "source_ids": [
+          "triave-1675",
+          "caccl-080"
+        ]
+      },
+      {
+        "text": "O total devido é, portanto, €615,34: €250,00 de compensação regulamentar, €315,34 de diferencial do bilhete e €50,00 da parcela de lounge assumida na resposta. O valor da causa corresponde à soma dos pedidos formulados: €600,00 + €449,00 + €50,00 + €50,00 + €37,52 = €1 186,52."
+      }
+    ],
+    "decisao": [
+      {
+        "text": "Pelo exposto, julga-se a ação parcialmente procedente.",
+        "bold": true,
+        "align": "left"
+      },
+      {
+        "text": "A) Condena-se a Reclamada, Wizz Air, a pagar à Reclamante não identificada a quantia global de €615,34 (seiscentos e quinze euros e trinta e quatro cêntimos).",
+        "bold": true,
+        "align": "left"
+      },
+      {
+        "text": "1. €250,00, a título de indemnização do artigo 7.º, n.º 1, alínea a), do Regulamento (CE) n.º 261/2004.",
+        "indent_cm": 0.5
+      },
+      {
+        "text": "2. €315,34, a título de diferencial entre a tarifa do bilhete de substituição (€449,82) e a tarifa original (€134,48), já reembolsada.",
+        "indent_cm": 0.5
+      },
+      {
+        "text": "3. €50,00, correspondente à parcela de lounge incluída pela Reclamada na proposta constante da resposta.",
+        "indent_cm": 0.5
+      },
+      {
+        "text": "B) Absolve-se a Reclamada do demais peticionado: da diferença entre €600,00 e €250,00 ao abrigo do artigo 7.º; do preço integral do bilhete além do diferencial; do hotel; e da perda de quatro horas de trabalho.",
+        "align": "left"
+      },
+      {
+        "text": "C) Não se deduz qualquer quantia a título de pagamento através da Help, por o mesmo não ter resultado provado.",
+        "align": "left"
+      },
+      {
+        "text": "Fixa-se o valor da causa em €1 186,52 (mil cento e oitenta e seis euros e cinquenta e dois cêntimos). O registo não permite fixar o regime concreto de custas do centro. Notifique-se, se e quando o processo estiver regularmente identificado.",
+        "align": "left"
+      }
+    ]
+  },
+  "amounts": [
+    {
+      "item": "Indemnização do artigo 7.º",
+      "claimed": "600.00",
+      "awarded": "250.00",
+      "reason": "A banda de €600 não se aplica ao voo intracomunitário; €250 foi reconhecido e o alegado pagamento não foi provado."
+    },
+    {
+      "item": "Bilhete de substituição",
+      "claimed": "449.00",
+      "awarded": "315.34",
+      "reason": "Concede-se apenas o diferencial admitido depois do reembolso da tarifa original."
+    },
+    {
+      "item": "Hotel",
+      "claimed": "50.00",
+      "awarded": "0.00",
+      "reason": "Pagamento, não fruição e nexo causal não provados."
+    },
+    {
+      "item": "Lounge",
+      "claimed": "50.00",
+      "awarded": "50.00",
+      "reason": "Parcela incluída na proposta concreta constante da resposta."
+    },
+    {
+      "item": "Perda de trabalho",
+      "claimed": "37.52",
+      "awarded": "0.00",
+      "reason": "Horas e perda remuneratória não provadas."
+    }
+  ],
+  "decision_total": "615.34"
+}

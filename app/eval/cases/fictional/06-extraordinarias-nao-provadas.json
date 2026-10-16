@@ -1,0 +1,20 @@
+{
+  "id": "06-extraordinarias-nao-provadas",
+  "title": "Circunstâncias extraordinárias alegadas e não provadas",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A. 400,00 EUR pelo cancelamento do voo AX 540, Lisboa–Berlim. Não pede reembolso nem despesas, porque aceitou o reencaminhamento e chegou ao destino. Referência interna AX-FIC-06. Sem testemunhas e sem acordo.\n\nAs partes aceitam a reserva de 11 de abril de 2025, partida às 13:20 e chegada programada às 18:05, e a distância ortodrómica de 2 312 km. O voo é intracomunitário e superior a 1 500 km. Aceitam que a transportadora enviou o cancelamento em 5 de abril de 2025, às 16:40, seis dias antes da partida. Aceitam o reencaminhamento oferecido e usado: partida no próprio dia 11 de abril às 20:10 e chegada a Berlim às 03:05 do dia 12 de abril. Das 18:05 programadas às 03:05 efetivas vão nove horas. A passageira viajou nesse voo.\n\nA contestação afirma que o cancelamento resultou de «restrições ATC» e remete para um anexo A. O registo processual diz, e nenhuma das partes o contesta como facto sobre o processo, que o anexo A não foi junto. Não foi lido qualquer NOTAM, qualquer mensagem de gestão de fluxo ou qualquer relatório meteorológico. A Reclamante A não admitiu a existência de restrição de tráfego. A frase da contestação é a única menção a essa causa. Não há admissão do nexo com o cancelamento nem de terem sido esgotadas as medidas razoáveis.\n\nNão há pagamento. Não há outras faturas. Os documentos efetivamente juntos são a reserva e o correio de cancelamento com a alternativa horária, ambos reconhecidos. A audiência limitou-se a confirmar esses dois documentos e a ausência do anexo.\n\nA questão é se uma alegação de restrições de tráfego, sem documento no processo e sem admissão, exclui a indemnização de um cancelamento avisado seis dias antes, com chegada do alternativo nove horas depois da hora programada, num voo intracomunitário de 2 312 km.",
+  "expected": {
+    "decision_total": "400.00",
+    "outcome": "procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "400.00"
+      }
+    ],
+    "must_mention": [
+      "circunstâncias extraordinárias",
+      "artigo 7.º"
+    ],
+    "notes": "Lisboa–Berlim, 2 312 km, intracomunitário acima de 1 500 km: 400 EUR, artigo 7.º, n.º 1, alínea b). Aviso seis dias antes e chegada do reencaminhamento nove horas depois: não há isenção do artigo 5.º, n.º 1, alínea c), iii), nem redução do artigo 7.º, n.º 2, alínea b) (o limiar dessa redução é três horas). A defesa de restrições ATC apoia-se num anexo não junto e não admitido: alegação unilateral, não provada, logo o artigo 5.º, n.º 3, não afasta a compensação. Pedido de 400,00 procedente."
+  }
+}

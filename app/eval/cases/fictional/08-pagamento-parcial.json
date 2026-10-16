@@ -1,0 +1,20 @@
+{
+  "id": "08-pagamento-parcial",
+  "title": "Pagamento parcial já efetuado pela transportadora",
+  "record_text": "Reclamação ficcional. A Reclamante A pede à AeroExemplo, S.A. 600,00 EUR pelo atraso do voo AX 882, Lisboa–Nova Iorque, pedindo a condenação no montante integral, sem descontar o que diz ter recebido a menos. Referência interna AX-FIC-08. Sem testemunhas. A audiência não produziu acordo.\n\nAs partes aceitam a reserva de 16 de novembro de 2025, partida às 11:00 e chegada programada às 16:40, hora local de Nova Iorque escrita no bilhete. A distância ortodrómica admitida é de 5 423 km, percurso não intracomunitário e superior a 3 500 km. A passageira apresentou-se a horas e embarcou no próprio AX 882. A transportadora admite a aterragem às 21:50. Das 16:40 às 21:50 vão 5 horas e 10 minutos. O registo de chegada está na ata.\n\nÉ igualmente facto admitido pela AeroExemplo, S.A., e aceite pela Reclamante A, que em 2 de fevereiro de 2026 a transportadora transferiu 200,00 EUR para a conta da passageira, com a referência «COMP 261». O extrato, com esse montante, essa data e essa referência, está transcrito na ata e nenhuma parte impugnou a transferência. A Reclamante A reconhece o crédito de 200,00 EUR e explica que reclama os 600,00 EUR porque entende que o pagamento não conta. Não há segundo pagamento. Não há despesas no pedido.\n\nA contestação não invoca circunstância extraordinária. Reconhece o atraso e sustenta que nada mais é devido para além dos 200,00 EUR já pagos. Não junta documento de meteorologia ou de tráfego. Os documentos do processo são a reserva, o registo de chegada e o extrato da transferência de 200,00 EUR.\n\nA questão é o saldo da indemnização longa depois de descontado um pagamento parcial provado, num atraso de chegada superior a quatro horas, sem causa de exclusão provada. A Reclamante A não devolveu os 200,00 EUR e não alega que a transferência tenha tido outra causa. A referência «COMP 261» e o montante coincidem com uma parcela da indemnização pedida. Não há juros autonomamente peticionados, nem segunda passageira no título de transporte.",
+  "expected": {
+    "decision_total": "400.00",
+    "outcome": "parcialmente procedente",
+    "awarded_items": [
+      {
+        "item": "Indemnização do artigo 7.º",
+        "awarded": "400.00"
+      }
+    ],
+    "must_mention": [
+      "artigo 7.º",
+      "pagamento"
+    ],
+    "notes": "Mesma banda do caso longo: 5 423 km, não intracomunitário, acima de 3 500 km, atraso de 5 h 10, logo 600 EUR sem redução do artigo 7.º, n.º 2, alínea c). O extrato de 200,00 EUR com a referência COMP 261 está na ata e é admitido pelas duas partes, portanto o pagamento está provado e desconta-se. O saldo a condenar é 600,00 − 200,00 = 400,00. O desconto não é uma linha negativa: entra na razão da rubrica. Pedido de 600,00 parcialmente procedente. Sem circunstâncias extraordinárias."
+  }
+}

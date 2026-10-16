@@ -30,7 +30,9 @@ cited_instruments: []
 outcome_status: "unknown"
 duplicate_of: []
 family: ""
-enrichment_state: "imported-unverified"
+# LAW-WIKI:GRAPH-FRONTMATTER:BEGIN
+enrichment_state: graph-reviewed
+# LAW-WIKI:GRAPH-FRONTMATTER:END
 extractor_version: "lawwiki-importer:2"
 jurisdiction: "Portugal"
 jurisdiction_source: "corpus-default"
@@ -131,3 +133,12 @@ Unknown until verified against the raw text.
 ## Raw source
 
 - [[raw/documents/cicap/2022/law_42ee08a7eb01b06e]] — immutable full text
+
+<!-- LAW-WIKI:GRAPH:BEGIN -->
+## Graph connections
+
+Model-reviewed graph assertions; legal verification remains unverified.
+- about doctrine: [[concepts/falta-de-conformidade|falta de conformidade]]
+- about topic: [[concepts/decisoes-arbitrais|Decisoes Arbitrais]]
+- published by: [[entities/cicap|CICAP]]
+<!-- LAW-WIKI:GRAPH:END -->
